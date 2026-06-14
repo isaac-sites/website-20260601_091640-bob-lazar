@@ -1,5 +1,5 @@
 {
-  "selection_strategy": "legacy-resolvers",
+  "selection_strategy": "shared-scorer",
   "ui_priority": "home-first",
   "site_shape": {
     "report_count": 396,
@@ -37,27 +37,93 @@
     "single_root_tree": false,
     "topic_labels": [
       "Did Bob Lazar's Story Hold Up?",
+      "How Credible Is Colm Kelleher?",
       "How Credible Is David Grusch?",
-      "How Credible Is Luis Elizondo?",
-      "Was Richard Doty an Insider or Disinformer?",
+      "How Credible Is Eric Davis?",
+      "How Credible Is Hal Puthoff?",
       "How Credible Is James Lacatski?",
-      "Did Sean Kirkpatrick Debunk UFO Disclosure?",
       "How Credible Is John Ramirez?",
       "How Credible Is Kit Green's UAP Story?",
-      "How Credible Is Hal Puthoff?",
-      "How Credible Is Eric Davis?",
-      "How Credible Is Colm Kelleher?",
+      "How Credible Is Luis Elizondo?",
+      "Was Richard Doty an Insider or Disinformer?",
+      "Did Sean Kirkpatrick Debunk UFO Disclosure?",
       "How Credible Is Travis Taylor on UAPs?"
     ]
   },
   "selected": {
-    "visual_profile": "atlas",
-    "layout_archetype": "atlas",
+    "visual_profile": "compact",
+    "layout_archetype": "compact-grid",
     "home_layout_mode": "vertical",
     "auto_home_layout_mode": "catalog",
     "hierarchy_viz_mode": "hybrid",
     "palette": "north-atlantic",
-    "motif": "orbital"
+    "motif": "horizon"
   },
-  "candidates": []
+  "candidates": [
+    {
+      "profile": "compact",
+      "layout": "compact-grid",
+      "home_score": 58,
+      "article_score": 18,
+      "interaction_score": 13,
+      "score": 3700,
+      "reasons": [
+        "compact profile suits large hierarchies",
+        "compact-grid handles dense trees",
+        "compact-grid suits hybrid graph/list layout"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "dossier",
+      "home_score": 28,
+      "article_score": 36,
+      "interaction_score": 16,
+      "score": 2800,
+      "reasons": [
+        "dossier improves dense article branches",
+        "atlas+dossier suits hybrid hierarchy"
+      ]
+    },
+    {
+      "profile": "compact",
+      "layout": "atlas",
+      "home_score": 34,
+      "article_score": 12,
+      "interaction_score": 13,
+      "score": 2320,
+      "reasons": [
+        "compact profile suits large hierarchies"
+      ]
+    },
+    {
+      "profile": "editorial",
+      "layout": "dossier",
+      "home_score": 12,
+      "article_score": 34,
+      "interaction_score": 14,
+      "score": 1900,
+      "reasons": [
+        "dossier improves dense article branches"
+      ]
+    },
+    {
+      "profile": "atlas",
+      "layout": "atlas",
+      "home_score": 12,
+      "article_score": 18,
+      "interaction_score": 16,
+      "score": 1460,
+      "reasons": []
+    },
+    {
+      "profile": "editorial",
+      "layout": "magazine",
+      "home_score": 12,
+      "article_score": 16,
+      "interaction_score": 14,
+      "score": 1360,
+      "reasons": []
+    }
+  ]
 }

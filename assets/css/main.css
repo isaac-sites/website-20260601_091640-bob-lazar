@@ -7187,8 +7187,8 @@ body.right-sidebar-collapsed .layout-grid-article {
 
 /* Visual DNA overrides (deterministic per site) */
 :root {
-  --font-heading-stack: "Plus Jakarta Sans", "Avenir Next", "Segoe UI", sans-serif;
-  --font-body-stack: "Lora", Georgia, serif;
+  --font-heading-stack: "Space Grotesk", "Avenir Next", "Segoe UI", sans-serif;
+  --font-body-stack: "Source Serif 4", Georgia, serif;
   --brand: #2e7d32;
   --brand-dark: #1f5a24;
   --accent: #6b4638;
@@ -15870,17 +15870,23 @@ a.fr-book-fit:focus-visible {
   min-height: clamp(19rem, 54vh, 35rem);
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
   align-self: start;
   aspect-ratio: 16 / 9;
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview) {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-preview, .uap-world-map-preview),
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-preview, .uap-world-map-preview) {
   min-height: 0;
 }
 
-:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg,
+:where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) svg {
   display: block;
   width: 100%;
   height: 100%;
@@ -16193,7 +16199,9 @@ a.fr-book-fit:focus-visible {
     grid-template-columns: minmax(0, 1fr);
   }
 
-  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="world"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="state"] :where(.interactive-map-canvas, .uap-world-map-canvas),
+  :where(.interactive-map-shell, .uap-world-map-shell)[data-map-kind="us-states"] :where(.interactive-map-canvas, .uap-world-map-canvas) {
     aspect-ratio: 4 / 3;
   }
 
@@ -16243,4 +16251,57 @@ a.fr-book-fit:focus-visible {
 
 .page-contents-home .home-vertical-children.home-vertical-children-leaf-grid > .home-vertical-node > .home-vertical-node-row > .home-vertical-card {
   width: min(100%, 42rem);
+}
+
+/* Keep hierarchy cards informative and legible on narrow phone screens. */
+@media (max-width: 720px) {
+  body.page-home .home-vertical-bubble.ct-node {
+    height: auto;
+    min-height: 0;
+    overflow: visible;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 2;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l1"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-title-full {
+    display: -webkit-box;
+    overflow: hidden;
+    line-height: 1.3;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-semantic-level="l3"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-label {
+    display: block;
+    overflow: visible;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: unset;
+  }
+
+  body.page-home .home-vertical-node[data-semantic-level="l2"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="4"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="5"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="6"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary,
+  body.page-home .home-vertical-node[data-depth="7"] > .home-vertical-node-row > .home-vertical-bubble.ct-node .ct-node-summary {
+    display: -webkit-box;
+    overflow: hidden;
+    line-height: 1.42;
+    -webkit-box-orient: vertical;
+    -webkit-line-clamp: 3;
+  }
 }
