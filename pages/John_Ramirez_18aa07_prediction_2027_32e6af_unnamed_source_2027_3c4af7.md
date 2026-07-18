@@ -256,7 +256,7 @@ image: /assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_unnamed_source_
 
 ## Introduction
 
-John Ramirez’s 2027 prediction has an unusually specific date but an unusually weak source trail. The central problem is not simply whether the prediction is true or false. It is that the public cannot independently inspect the evidence behind it. Ramirez has repeatedly suggested that he heard discussion of 2027 in a partly official context, yet the people involved, the setting, the documents, and the chain by which the information supposedly travelled remain undisclosed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
+John Ramirez’s 2027 prediction has an unusually specific date but an unusually weak source trail. The central problem is not simply whether the prediction is true or false. It is that the public cannot independently inspect the evidence behind it. Ramirez has repeatedly suggested that he heard discussion of 2027 in a partly official context, yet the people involved, the setting, the documents, and the chain by which the information supposedly travelled remain undisclosed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_unnamed_source_2027_3c4af7-Illustration-1-dark.svg" | relative_url }}" alt="Source Gap illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_unnamed_source_2027_3c4af7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_unnamed_source_2027_3c4af7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That creates a credibility problem that sits at the heart of the wider 2027 debate. Extraordinary claims about non-human intelligence, disclosure, or government foreknowledge normally become more persuasive when readers can examine sources for themselves. In this case, the key supporting source is anonymous and inaccessible. As a result, [supporters]({{ 'supporters-124489/' | relative_url }}) and [sceptics]({{ 'sceptics-70c753/' | relative_url }}) are often arguing about trust in Ramirez rather than verifiable evidence.
@@ -265,7 +265,7 @@ That creates a credibility problem that sits at the heart of the wider 2027 deba
 
 An unnamed source can sometimes support an important claim. Journalism, intelligence work and whistleblower reporting all occasionally depend on protecting identities. The issue is not anonymity by itself. The issue is whether enough information exists for outsiders to judge credibility.
 
-In Ramirez's case, the public version of the claim is extremely limited. The widely circulated quotation is that he had heard 2027 "in kind of an official capacity" that he could not reveal, and that people within government were aware that something might happen and that there was limited time to prepare the public. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
+In Ramirez's case, the public version of the claim is extremely limited. The widely circulated quotation is that he had heard 2027 "in kind of an official capacity" that he could not reveal, and that people within government were aware that something might happen and that there was limited time to prepare the public.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
 
 That statement leaves several critical questions unanswered:
 
@@ -286,7 +286,7 @@ Without answers to those questions, readers cannot evaluate the reliability of t
 
 ## What Ramirez Says He Heard In An Official Capacity
 
-The phrase "official capacity" is one reason the prediction gained attention. It implies something more substantial than internet speculation or UFO folklore. For many listeners, Ramirez's previous intelligence career gives the statement additional weight. Public biographies describe him as having served in several intelligence-related roles before retiring from government service. <span class="citation-chip-wrap"><a class="citation-chip" href="https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.snipd.com">[Snipd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.snipd.com</span><span class="citation-popover-snippet">UFO Disclosure by Early 2025, Alien Invasion in 2027Oct 4, 2023 — Australian investigative reporter Ross Coulthart and former CIA of...</span></span></span>
+The phrase "official capacity" is one reason the prediction gained attention. It implies something more substantial than internet speculation or UFO folklore. For many listeners, Ramirez's previous intelligence career gives the statement additional weight. Public biographies describe him as having served in several intelligence-related roles before retiring from government service.<span class="citation-chip-wrap"><a class="citation-chip" href="https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.snipd.com">[Snipd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.snipd.com</span><span class="citation-popover-snippet">UFO Disclosure by Early 2025, Alien Invasion in 2027Oct 4, 2023 — Australian investigative reporter Ross Coulthart and former CIA of...</span></span></span>
 
 However, an intelligence background does not automatically convert an anonymous claim into verified information.
 
@@ -300,7 +300,7 @@ There is an important distinction between:
 
 </div>
 
-The public evidence only clearly supports the first category. Ramirez has described hearing things and discussing them. No public document, official briefing, declassified record or corroborated witness has emerged showing that a government body formally concluded that a major non-human event will occur in 2027. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
+The public evidence only clearly supports the first category. Ramirez has described hearing things and discussing them. No public document, official briefing, declassified record or corroborated witness has emerged showing that a government body formally concluded that a major non-human event will occur in 2027.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
 
 This distinction matters because intelligence professionals routinely encounter rumours, working hypotheses, analytical discussions and unverified reporting. The mere existence of discussion inside government does not establish that the discussion was accurate.
 
@@ -324,7 +324,7 @@ That is particularly important in UFO and UAP discourse because many stories alr
 
 Another difficulty is that anonymous official claims often become stronger as they circulate.
 
-Ramirez's original comments were already ambiguous. Yet online retellings frequently transformed them into more definite statements about alien arrival, disclosure deadlines, government countdowns or confirmed knowledge of future events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
+Ramirez's original comments were already ambiguous. Yet online retellings frequently transformed them into more definite statements about alien arrival, disclosure deadlines, government countdowns or confirmed knowledge of future events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span>
 
 This process is sometimes called source inflation. A claim gradually acquires authority through repetition rather than new evidence.
 
@@ -350,7 +350,7 @@ Repeated citation is not the same as independent confirmation.
 
 The source problem became even more complicated when later discussions appeared to soften the original implication.
 
-A detailed Metabunk discussion examining the origin of the 2027 narrative points to later comments in which Ramirez reportedly described much of the date's wider circulation as coming from the channelling community and characterised some of his remarks more as opinion or expectation than privileged knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">What do you hope for in 2027?&quot; You know? That kind of phrasing. So, well, my personal hope is that maybe they&#x27;ll...Read more...</span></span></span>
+A detailed Metabunk discussion examining the origin of the 2027 narrative points to later comments in which Ramirez reportedly described much of the date's wider circulation as coming from the channelling community and characterised some of his remarks more as opinion or expectation than privileged knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">What do you hope for in 2027?&quot; You know? That kind of phrasing. So, well, my personal hope is that maybe they&#x27;ll...Read more...</span></span></span>
 
 Even allowing for the need to verify original recordings directly, the broader point remains important: the public record contains multiple versions of what 2027 is supposed to mean.
 
@@ -377,7 +377,7 @@ Supporters sometimes argue that Ramirez's intelligence background makes the pred
 
 Both positions contain part of the truth.
 
-His career history gives a reason to take his statements seriously enough to examine them. It suggests he had experience within intelligence institutions and familiarity with classified environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.snipd.com">[Snipd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.snipd.com</span><span class="citation-popover-snippet">UFO Disclosure by Early 2025, Alien Invasion in 2027Oct 4, 2023 — Australian investigative reporter Ross Coulthart and former CIA of...</span></span></span>
+His career history gives a reason to take his statements seriously enough to examine them. It suggests he had experience within intelligence institutions and familiarity with classified environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: share.snipd.com">[Snipd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">share.snipd.com</span><span class="citation-popover-snippet">UFO Disclosure by Early 2025, Alien Invasion in 2027Oct 4, 2023 — Australian investigative reporter Ross Coulthart and former CIA of...</span></span></span>
 
 But intelligence credentials cannot substitute for evidence that others can inspect.
 
@@ -425,157 +425,157 @@ The strongest sceptical argument against the 2027 prediction is not that it soun
 
 The stronger objection is methodological.
 
-A claim about a future event can only be evaluated if people know who made the claim, what exactly was claimed, and why the source should be trusted. In the case of Ramirez's 2027 remarks, those foundations remain largely hidden. The public is effectively asked to accept that a meaningful warning exists while being denied the information needed to evaluate the warning itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-express.com/news/us-news/108317/aliens-reveal-themselves-ex-CIA-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-express.com">[Daily Express US]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-express.com</span><span class="citation-popover-snippet">Daily Express USAliens will reveal themselves in 2027 with public being...10 Aug 2023 — He continued: &quot;I&#x27;ve heard 2027 in kind of an off...</span></span></span>
+A claim about a future event can only be evaluated if people know who made the claim, what exactly was claimed, and why the source should be trusted. In the case of Ramirez's 2027 remarks, those foundations remain largely hidden. The public is effectively asked to accept that a meaningful warning exists while being denied the information needed to evaluate the warning itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">I would say people in the government are aware of something happening and that...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-express.com/news/us-news/108317/aliens-reveal-themselves-ex-CIA-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-express.com">[Daily Express US]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-express.com</span><span class="citation-popover-snippet">Daily Express USAliens will reveal themselves in 2027 with public being...10 Aug 2023 — He continued: &quot;I&#x27;ve heard 2027 in kind of an off...</span></span></span>
 
 That does not prove the claim is false. It means the claim remains trapped in a zone between insider suggestion and verifiable evidence. For readers trying to assess Ramirez's credibility, that source gap is the central obstacle. The question is not whether unnamed officials can ever reveal important truths. It is whether a prediction tied to anonymous, uncheckable sources can be independently tested before the deadline arrives. On the evidence currently available, the answer remains no.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Can An Unnamed Source Support 2027?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Can An Unnamed Source Support 2027?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT THE UFO DISCLOSURE ACT T-SHIRT extraterrestrial government"><img src="https://i.ebayimg.com/images/g/ulcAAOSwOYRn~dOV/s-l225.jpg" alt="Listing image for ASK ME ANYTHING ABOUT THE UFO DISCLOSURE ACT T-SHIRT extraterrestrial government" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT THE UFO DISCLOSURE ACT T-SHIRT extraterrestrial government</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ASK ME ANYTHING ABOUT THE UFO DISCLOSURE ACT T-SHIRT extraterrestrial government"><img src="https://i.ebayimg.com/images/g/ulcAAOSwOYRn~dOV/s-l225.jpg" alt="Listing image for ASK ME ANYTHING ABOUT THE UFO DISCLOSURE ACT T-SHIRT extraterrestrial government" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">ASK ME ANYTHING ABOUT THE UFO DISCLOSURE ACT T-SHIRT extraterrestrial government</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I LOVE THE UFO DISCLOSURE ACT T-SHIRT heart extraterrestrial government secrets"><img src="https://i.ebayimg.com/images/g/3wkAAOSwKBhoAw6C/s-l225.jpg" alt="Listing image for I LOVE THE UFO DISCLOSURE ACT T-SHIRT heart extraterrestrial government secrets" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">I LOVE THE UFO DISCLOSURE ACT T-SHIRT heart extraterrestrial government secrets</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I LOVE THE UFO DISCLOSURE ACT T-SHIRT heart extraterrestrial government secrets"><img src="https://i.ebayimg.com/images/g/3wkAAOSwKBhoAw6C/s-l225.jpg" alt="Listing image for I LOVE THE UFO DISCLOSURE ACT T-SHIRT heart extraterrestrial government secrets" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">I LOVE THE UFO DISCLOSURE ACT T-SHIRT heart extraterrestrial government secrets</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I LOVE UFO DISCLOSURE &amp; GOVERNMENT COVER-UPS T-SHIRT heart ufos extraterrestrial"><img src="https://i.ebayimg.com/images/g/XykAAOSw2CdoAxDW/s-l225.jpg" alt="Listing image for I LOVE UFO DISCLOSURE &amp; GOVERNMENT COVER-UPS T-SHIRT heart ufos extraterrestrial" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">I LOVE UFO DISCLOSURE &amp; GOVERNMENT COVER-UPS T-SHIRT heart ufos extraterrestrial</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I LOVE UFO DISCLOSURE &amp; GOVERNMENT COVER-UPS T-SHIRT heart ufos extraterrestrial"><img src="https://i.ebayimg.com/images/g/XykAAOSw2CdoAxDW/s-l225.jpg" alt="Listing image for I LOVE UFO DISCLOSURE &amp; GOVERNMENT COVER-UPS T-SHIRT heart ufos extraterrestrial" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">I LOVE UFO DISCLOSURE &amp; GOVERNMENT COVER-UPS T-SHIRT heart ufos extraterrestrial</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TShirt Alien Abduction tshirt Flying Saucer Alien Disclosure Shirt Funny Are"><img src="https://i.ebayimg.com/images/g/b5IAAeSwDDBoXmYk/s-l225.jpg" alt="Listing image for UFO TShirt Alien Abduction tshirt Flying Saucer Alien Disclosure Shirt Funny Are" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO TShirt Alien Abduction tshirt Flying Saucer Alien Disclosure Shirt Funny Are</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO TShirt Alien Abduction tshirt Flying Saucer Alien Disclosure Shirt Funny Are"><img src="https://i.ebayimg.com/images/g/b5IAAeSwDDBoXmYk/s-l225.jpg" alt="Listing image for UFO TShirt Alien Abduction tshirt Flying Saucer Alien Disclosure Shirt Funny Are" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO TShirt Alien Abduction tshirt Flying Saucer Alien Disclosure Shirt Funny Are</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-an-unnamed-source-support-2027-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="can-an-unnamed-source-support-2027-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -591,7 +591,7 @@ That does not prove the claim is false. It means the claim remains trapped in a 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -611,7 +611,7 @@ That does not prove the claim is false. It means the claim remains trapped in a 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -643,7 +643,7 @@ That does not prove the claim is false. It means the claim remains trapped in a 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -695,7 +695,7 @@ That does not prove the claim is false. It means the claim remains trapped in a 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -740,7 +740,7 @@ That does not prove the claim is false. It means the claim remains trapped in a 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -781,81 +781,81 @@ That does not prove the claim is false. It means the claim remains trapped in a 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I would say people in the government are aware of something happening and that...Read more...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I would say people in the government are aware of something happening and that...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: the-express.com  
-   Link: <a href="https://www.the-express.com/news/us-news/108317/aliens-reveal-themselves-ex-CIA-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.the-express.com/news/us-news/108317/aliens-reveal-themselves-ex-CIA-agent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Express USAliens will reveal themselves in 2027 with public being...10 Aug 2023 — He continued: &quot;I&#x27;ve heard 2027 in kind of an off...</p></details>
+   Link:<a href="https://www.the-express.com/news/us-news/108317/aliens-reveal-themselves-ex-CIA-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.the-express.com/news/us-news/108317/aliens-reveal-themselves-ex-CIA-agent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Daily Express USAliens will reveal themselves in 2027 with public being...10 Aug 2023 — He continued: &quot;I&#x27;ve heard 2027 in kind of an off...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: share.snipd.com  
-   Link: <a href="https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe" target="_blank" rel="noopener noreferrer nofollow">https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure by Early 2025, Alien Invasion in 2027Oct 4, 2023 — Australian investigative reporter Ross Coulthart and former CIA of...</p></details>
+   Link:<a href="https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe" target="_blank" rel="noopener noreferrer nofollow">https://share.snipd.com/episode/f6d14ef1-3f3c-43e7-a97d-05683d1a6abe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure by Early 2025, Alien Invasion in 2027Oct 4, 2023 — Australian investigative reporter Ross Coulthart and former CIA of...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What do you hope for in 2027?&quot; You know? That kind of phrasing. So, well, my personal hope is that maybe they&#x27;ll...Read more...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What do you hope for in 2027?&quot; You know? That kind of phrasing. So, well, my personal hope is that maybe they&#x27;ll...Read more...</p></details>
 
 ### Additional References
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensComments Section · Ex-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Comin...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensComments Section · Ex-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big Is Comin...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: ibtimes.co.uk  
    Title: 2027 predicted reveal shocking alien contact ai cracks mystery 1771191  
-   Link: <a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Growing claims from UFO insiders suggest 2027 could be the year ar...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Growing claims from UFO insiders suggest 2027 could be the year ar...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA S&amp;T analyst John Ramirez states he came across a lot of people inside the Agency who were interested in UAP but he claims he never ca...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA S&amp;T analyst John Ramirez states he came across a lot of people inside the Agency who were interested in UAP but he claims he never ca...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...Ramirez: something big is happening with aliens in 2027. Person: Aliens are going t...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...Ramirez: something big is happening with aliens in 2027. Person: Aliens are going t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: grunge.com  
    Title: cia agent who made startling claims about aliens  
-   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — As retired CIA officer John Ramirez says: Aliens are real, aliens are h...</p></details>
+   Link:<a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — As retired CIA officer John Ramirez says: Aliens are real, aliens are h...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ading up to 2027 — tied to possible UFO or UAP disclosure.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ading up to 2027 — tied to possible UFO or UAP disclosure.Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: former cia officer john ramirez claims that  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>️Former CIA Officer John Ramirez claims that government...John Ramirez has been going on podcasts and consistently saying &quot;2027&quot; as far...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>️Former CIA Officer John Ramirez claims that government...John Ramirez has been going on podcasts and consistently saying &quot;2027&quot; as far...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: spreaker.com  
    Title: 2027 alien invasion or apocalypse 70380903  
-   Link: <a href="https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027: Alien Invasion or ApocalypseMar 2, 2026 — 2027: Alien Invasion or Apocalypse Predicted &quot;Catastrophic Disclosure&quot; or Arrival Former...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027: Alien Invasion or ApocalypseMar 2, 2026 — 2027: Alien Invasion or Apocalypse Predicted &quot;Catastrophic Disclosure&quot; or Arrival Former...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: creators.spotify.com  
-   Link: <a href="https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We get into alleged human-alien hybrid programs, alien bloodlines...</p></details>
+   Link:<a href="https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We get into alleged human-alien hybrid programs, alien bloodlines...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: Back Engineered Alien Propulsion?  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>

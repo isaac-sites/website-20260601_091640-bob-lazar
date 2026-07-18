@@ -262,7 +262,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_mi
 
 ## Introduction
 
-The public clips known as Gimbal and FLIR became central to Luis Elizondo’s reputation because they appeared to move the UFO debate away from rumour and towards military evidence. Yet they remain far more contested than many casual viewers realise. The Pentagon confirmed that the videos were genuine Navy recordings and that the objects shown were unidentified at the time of release. What remains disputed is whether the footage itself demonstrates extraordinary technology, or whether the strongest claims depend on pilot testimony, radar reports, sensor data that has never been released, and interpretations that go beyond what the public can directly inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</span></span></span>
+The public clips known as Gimbal and FLIR became central to Luis Elizondo’s reputation because they appeared to move the UFO debate away from rumour and towards military evidence. Yet they remain far more contested than many casual viewers realise. The Pentagon confirmed that the videos were genuine Navy recordings and that the objects shown were unidentified at the time of release. What remains disputed is whether the footage itself demonstrates extraordinary technology, or whether the strongest claims depend on pilot testimony, radar reports, sensor data that has never been released, and interpretations that go beyond what the public can directly inspect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-dark.svg" | relative_url }}" alt="Gimbal FLIR illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction matters when assessing Elizondo’s credibility. Supporters argue that the clips are only the visible tip of a larger body of military evidence. Critics argue that the public discussion often treats witness recollections and missing data as if they were already confirmed facts. The debate therefore centres less on whether the videos are authentic and more on how much weight should be placed on information that remains unavailable to independent analysis.
@@ -271,9 +271,9 @@ This distinction matters when assessing Elizondo’s credibility. Supporters arg
 
 Viewed in isolation, neither Gimbal nor FLIR provides enough information to establish exactly what the objects were.
 
-The FLIR video associated with the 2004 Nimitz encounter shows an infrared target being tracked by a Navy targeting pod. The object appears unusual, but the clip is short and contains limited contextual information. Viewers do not see the full radar picture, complete sensor logs, range verification, command reports, or the broader operational environment. The famous apparent acceleration at the end of the clip is one of the most disputed moments because analysts disagree over whether it reflects object movement, sensor behaviour, or changes in tracking geometry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine&#x27;Tic Tac&#x27; UFO Video: Q&amp;A With Navy Pilot Chad Underwood</span><span class="citation-popover-snippet">December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</span><span class="citation-popover-meta">Published: December 19, 2019</span></span></span>
+The FLIR video associated with the 2004 Nimitz encounter shows an infrared target being tracked by a Navy targeting pod. The object appears unusual, but the clip is short and contains limited contextual information. Viewers do not see the full radar picture, complete sensor logs, range verification, command reports, or the broader operational environment. The famous apparent acceleration at the end of the clip is one of the most disputed moments because analysts disagree over whether it reflects object movement, sensor behaviour, or changes in tracking geometry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine&#x27;Tic Tac&#x27; UFO Video: Q&amp;A With Navy Pilot Chad Underwood</span><span class="citation-popover-snippet">December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</span><span class="citation-popover-meta">Published: December 19, 2019</span></span></span>
 
-The Gimbal video is even more controversial because much of the public fascination comes from the apparent rotation of the object. On first viewing, it can appear as though a disc-shaped craft physically turns while moving through the sky. However, critics have argued for years that the visible rotation may instead be related to the infrared camera system itself rather than the object. Detailed analyses have suggested that glare and gimbal mechanics could create the appearance of rotation without requiring an aircraft to perform extraordinary manoeuvres. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petapixel.com">[PetaPixel For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petapixel.com</span><span class="citation-popover-title">famous navy ufo video was actually camera glare evidence suggests</span><span class="citation-popover-snippet">Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</span></span></span>, both supporters and sceptics generally agree on one narrow point: the clips are genuine military recordings, but the videos alone do not contain enough information to conclusively identify what is being observed.
+The Gimbal video is even more controversial because much of the public fascination comes from the apparent rotation of the object. On first viewing, it can appear as though a disc-shaped craft physically turns while moving through the sky. However, critics have argued for years that the visible rotation may instead be related to the infrared camera system itself rather than the object. Detailed analyses have suggested that glare and gimbal mechanics could create the appearance of rotation without requiring an aircraft to perform extraordinary manoeuvres. Metabunk<span class="citation-chip-wrap"><a class="citation-chip" href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petapixel.com">[PetaPixel For that reason]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petapixel.com</span><span class="citation-popover-title">famous navy ufo video was actually camera glare evidence suggests</span><span class="citation-popover-snippet">Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</span></span></span>, both supporters and sceptics generally agree on one narrow point: the clips are genuine military recordings, but the videos alone do not contain enough information to conclusively identify what is being observed.
 
 ## How witness testimony changes the stakes
 
@@ -281,7 +281,7 @@ The strongest arguments for treating Gimbal and FLIR as genuinely anomalous do n
 
 ### The FLIR case depends heavily on the wider Nimitz encounter
 
-The public FLIR clip became important because it is tied to a larger chain of witness accounts. Commander David Fravor and other aviators reported encountering a white, Tic Tac-shaped object during training operations in 2004. Chad Underwood, who recorded the FLIR footage during a later intercept attempt, has stated that the object behaved in ways that did not fit his expectations for conventional aircraft. He has also said he wanted to capture as much sensor information as possible because the encounter could not be fully understood in real time. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine&#x27;Tic Tac&#x27; UFO Video: Q&amp;A With Navy Pilot Chad Underwood</span><span class="citation-popover-snippet">December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</span><span class="citation-popover-meta">Published: December 19, 2019</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsUS Navy pilot speaks out about UFO sighting 15 years on20 Dec 2019 — Chad Underwood recorded an oblong-shaped object from an infr...</span></span></span>
+The public FLIR clip became important because it is tied to a larger chain of witness accounts. Commander David Fravor and other aviators reported encountering a white, Tic Tac-shaped object during training operations in 2004. Chad Underwood, who recorded the FLIR footage during a later intercept attempt, has stated that the object behaved in ways that did not fit his expectations for conventional aircraft. He has also said he wanted to capture as much sensor information as possible because the encounter could not be fully understood in real time.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nymag.com">[New York Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nymag.com</span><span class="citation-popover-title">New York Magazine&#x27;Tic Tac&#x27; UFO Video: Q&amp;A With Navy Pilot Chad Underwood</span><span class="citation-popover-snippet">December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</span><span class="citation-popover-meta">Published: December 19, 2019</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: news.sky.com">[Sky]</a><span class="citation-popover" role="note"><span class="citation-popover-source">news.sky.com</span><span class="citation-popover-snippet">Sky NewsUS Navy pilot speaks out about UFO sighting 15 years on20 Dec 2019 — Chad Underwood recorded an oblong-shaped object from an infr...</span></span></span>
 
 Supporters of Elizondo often point to this combination of witnesses, radar operators and sensor recordings as the real evidential package. Their argument is that the video should never be analysed as a standalone clip because it represents only a fragment of a larger event witnessed across multiple platforms.
 
@@ -293,7 +293,7 @@ Sceptics respond that witness testimony, even from trained military personnel, i
 
 The Gimbal video has a similar structure. Public discussion frequently centres on the visual rotation, but supporters usually place greater emphasis on pilot accounts.
 
-Former Navy pilot Ryan Graves has described repeated encounters with unidentified objects during training operations involving the USS Theodore Roosevelt air wing. Accounts connected to the Gimbal incident include claims that multiple objects were present and that unusual movements appeared on radar systems. Some aviators have described what appeared to be a group or "fleet" of unknown contacts rather than a single isolated target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Unite...</span></span></span>
+Former Navy pilot Ryan Graves has described repeated encounters with unidentified objects during training operations involving the USS Theodore Roosevelt air wing. Accounts connected to the Gimbal incident include claims that multiple objects were present and that unusual movements appeared on radar systems. Some aviators have described what appeared to be a group or "fleet" of unknown contacts rather than a single isolated target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Unite...</span></span></span>
 
 If those accounts are accurate, then the most significant evidence may never have been visible in the released video. In that interpretation, the public clip merely captures one piece of a broader sensor event involving radar tracks, tactical displays and pilot observations.
 
@@ -307,7 +307,7 @@ The argument over Gimbal's apparent rotation illustrates the wider credibility d
 
 For believers, the rotation is one of the most striking features ever captured in military footage. Combined with pilot testimony about unusual flight characteristics, it appears consistent with an object behaving in ways that conventional aircraft cannot easily explain.
 
-For sceptics, the rotation is exactly the kind of effect that requires careful technical analysis before extraordinary conclusions are drawn. Investigators including Mick West have argued that the visible shape is likely infrared glare surrounding a more ordinary distant object. According to this interpretation, the apparent turning motion correlates with the movement of the targeting pod's gimbal system rather than the physical rotation of the object itself. Analyses published through Metabunk and other technical discussions have attempted to reproduce the effect using known properties of infrared imaging systems. Metabunk <span class="citation-chip-wrap"><a class="citation-chip" href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petapixel.com">[PetaPixel Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petapixel.com</span><span class="citation-popover-title">famous navy ufo video was actually camera glare evidence suggests</span><span class="citation-popover-snippet">Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</span></span></span>, even many sceptical analyses do not claim that the video is fabricated. The debate is over interpretation. A glare explanation could potentially account for the shape and rotation while leaving the identity of the underlying object unresolved.
+For sceptics, the rotation is exactly the kind of effect that requires careful technical analysis before extraordinary conclusions are drawn. Investigators including Mick West have argued that the visible shape is likely infrared glare surrounding a more ordinary distant object. According to this interpretation, the apparent turning motion correlates with the movement of the targeting pod's gimbal system rather than the physical rotation of the object itself. Analyses published through Metabunk and other technical discussions have attempted to reproduce the effect using known properties of infrared imaging systems. Metabunk<span class="citation-chip-wrap"><a class="citation-chip" href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: petapixel.com">[PetaPixel Importantly]</a><span class="citation-popover" role="note"><span class="citation-popover-source">petapixel.com</span><span class="citation-popover-title">famous navy ufo video was actually camera glare evidence suggests</span><span class="citation-popover-snippet">Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</span></span></span>, even many sceptical analyses do not claim that the video is fabricated. The debate is over interpretation. A glare explanation could potentially account for the shape and rotation while leaving the identity of the underlying object unresolved.
 
 That nuance is often lost in public arguments. The real disagreement is not necessarily "alien craft versus hoax". It is whether the most dramatic visual features are properties of the object or properties of the sensor.
 
@@ -332,7 +332,7 @@ Independent analysts lack access to:
 
 Because of those gaps, both sceptical and pro-UAP interpretations rely partly on inference.
 
-Supporters argue that the government has access to additional data that explains why officials treated the incidents seriously. The Office of the Director of National Intelligence's 2021 preliminary UAP assessment acknowledged that some military reports appeared unusual enough to warrant further investigation and stated that a small number of incidents showed behaviour requiring additional analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</span></span></span>
+Supporters argue that the government has access to additional data that explains why officials treated the incidents seriously. The Office of the Director of National Intelligence's 2021 preliminary UAP assessment acknowledged that some military reports appeared unusual enough to warrant further investigation and stated that a small number of incidents showed behaviour requiring additional analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</span></span></span>
 
 Critics counter that references to unseen evidence create a credibility challenge. Evidence that cannot be independently reviewed may justify further investigation, but it cannot settle public disputes. Claims about extraordinary manoeuvres become difficult to evaluate when the supporting data remains classified, lost, incomplete or unavailable.
 
@@ -344,7 +344,7 @@ This is one reason why Gimbal and FLIR continue to divide audiences years after 
 
 The Gimbal and FLIR cases strengthen Luis Elizondo's credibility in one specific way and weaken overconfident interpretations in another.
 
-They strengthen it because they demonstrate that the subject he helped push into mainstream discussion was not entirely speculative. The videos are real Navy recordings, the encounters were treated seriously enough to generate official attention, and multiple military witnesses have publicly defended the significance of the incidents. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
+They strengthen it because they demonstrate that the subject he helped push into mainstream discussion was not entirely speculative. The videos are real Navy recordings, the encounters were treated seriously enough to generate official attention, and multiple military witnesses have publicly defended the significance of the incidents.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Unidentified flying object</span><span class="citation-popover-snippet">Unidentified flying object</span></span></span>
 
 At the same time, the cases do not independently verify some of the larger conclusions often associated with UAP disclosure narratives. The public evidence does not establish extraterrestrial origin, non-human intelligence, or physics-defying performance. Those stronger claims depend on additional testimony, classified information, or interpretations that remain outside public verification.
 
@@ -355,194 +355,194 @@ The enduring divide exists because both sides can point to genuine weaknesses in
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-3-dark.svg" | relative_url }}" alt="Gimbal FLIR illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gimbal_flir_missing_bfcfd8-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why Gimbal and FLIR Still Divide Viewers. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why Gimbal and FLIR Still Divide Viewers. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
-        </h4>
-        <p class="fr-book-author">By John Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
+</h4>
+<p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-        </h4>
-        <p class="fr-book-author">By Michèle Ruffat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
+</h4>
+<p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
-        </h4>
-        <p class="fr-book-author">By Märta Honko</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
+</h4>
+<p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model"><img src="https://i.ebayimg.com/images/g/a8UAAeSwapVo3T7O/s-l225.jpg" alt="Listing image for 1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model"><img src="https://i.ebayimg.com/images/g/a8UAAeSwapVo3T7O/s-l225.jpg" alt="Listing image for 1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">1:72 Douglas SBD Dauntless Dive Bomber WW2 Midway US Navy Aircraft Diecast Model</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !"><img src="https://i.ebayimg.com/images/g/pbwAAeSwZXlqGVn3/s-l225.jpg" alt="Listing image for Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !"><img src="https://i.ebayimg.com/images/g/pbwAAeSwZXlqGVn3/s-l225.jpg" alt="Listing image for Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Tamiya 1/48 - Grumman F-14D Tomcat US Navy Aircraft Model Kit - FREE POSTAGE !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit"><img src="https://i.ebayimg.com/images/g/fn8AAeSw5ShqJyCN/s-l225.jpg" alt="Listing image for A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit"><img src="https://i.ebayimg.com/images/g/fn8AAeSw5ShqJyCN/s-l225.jpg" alt="Listing image for A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">A-Model 72332 BAe Jetstream T.2 Royal Navy 1:72 Aircraft Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT"><img src="https://i.ebayimg.com/images/g/cggAAeSwmw9qHTve/s-l225.jpg" alt="Listing image for Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT"><img src="https://i.ebayimg.com/images/g/cggAAeSwmw9qHTve/s-l225.jpg" alt="Listing image for Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">Fabbri Diecast Model Aircraft 1:100 Grumman F14 Tomcat US Navy Top Gun MINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Navy aircraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: Navy aircraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Navy+aircraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Navy aircraft model" data-ebay-reference="why-gimbal-and-flir-still-divide-viewers-navy-aircraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -558,7 +558,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -578,7 +578,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -610,7 +610,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -662,7 +662,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -707,7 +707,7 @@ The enduring divide exists because both sides can point to genuine weaknesses in
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -748,104 +748,104 @@ The enduring divide exists because both sides can point to genuine weaknesses in
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Unite...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Pentagon_UFO_videos" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Pentagon_UFO_videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO videosThe Pentagon UFO videos are selected visual recordings of Forward-looking infrared (FLIR) targeting cameras from Unite...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Claim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — Note the ATFLIR in the video is in slave mode, he was sla...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/claim-that-the-nimitz-flir1-object-could-not-be-a-plane-because-it-would-have-been-identified.11726/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Claim that the Nimitz FLIR1 object could not be a plane...5 May 2021 — Note the ATFLIR in the video is in slave mode, he was sla...</p></details>
    Published: May 2021  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: a gimbal glare explainer.12230  
-   Link: <a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — Mick West said: 7. The video is called &quot;Gimbal&quot; by the US Navy, suggesting they might think...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/a-gimbal-glare-explainer.12230/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Gimbal Glare Explainer17 Jan 2022 — Mick West said: 7. The video is called &quot;Gimbal&quot; by the US Navy, suggesting they might think...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: petapixel.com  
    Title: famous navy ufo video was actually camera glare evidence suggests  
-   Link: <a href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</p></details>
+   Link:<a href="https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/" target="_blank" rel="noopener noreferrer nofollow">https://petapixel.com/2022/03/14/famous-navy-ufo-video-was-actually-camera-glare-evidence-suggests/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Famous Navy UFO Video Was Actually Camera Glare...14 Mar 2022 — One of West&#x27;s main points is that glare orientation is relative to the c...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.sky.com  
-   Link: <a href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUS Navy pilot speaks out about UFO sighting 15 years on20 Dec 2019 — Chad Underwood recorded an oblong-shaped object from an infr...</p></details>
+   Link:<a href="https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191" target="_blank" rel="noopener noreferrer nofollow">https://news.sky.com/story/it-was-behaving-erratically-us-navy-pilot-speaks-out-about-ufo-sighting-15-years-on-11891191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky NewsUS Navy pilot speaks out about UFO sighting 15 years on20 Dec 2019 — Chad Underwood recorded an oblong-shaped object from an infr...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Unidentified flying object  
-   Link: <a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Unidentified_flying_object" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Unidentified_flying_object</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UAPTF holds a small amount of data that appear to show UAP demonstrating acceleration or a degree of signature management...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nymag.com  
    Title: New York Magazine'Tic Tac' UFO Video: Q&A With Navy Pilot Chad Underwood  
-   Link: <a href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</p></details>
+   Link:<a href="https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html" target="_blank" rel="noopener noreferrer nofollow">https://nymag.com/intelligencer/2019/12/tic-tac-ufo-video-q-and-a-with-navy-pilot-chad-underwood.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2019 — 19 Dec 2019 — The footage appears to depict what Fravor had identified as a 40-foot-long, white, oblong shape (hence...</p></details>
    Published: December 19, 2019  
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FILE #1 DECLASSIFIED: What did US Navy pilots actually...Thoughts? The #USNavy has confirmed that three online videos purportedly showin...</p></details>
+   Link:<a href="https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/thevoiceofsikkim/posts/-file-1-declassified-what-did-us-navy-pilots-actually-seeimagine-youre-a-highly-/1413950667441659/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILE #1 DECLASSIFIED: What did US Navy pilots actually...Thoughts? The #USNavy has confirmed that three online videos purportedly showin...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript of Underwood interview: Navy aviator who...CHAD UNDERWOOD My name is Chad Underwood. My callsign is &#x27;Nutz&#x27;. I was a lieutenan...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/otpq6w/transcript_of_underwood_interview_navy_aviator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Transcript of Underwood interview: Navy aviator who...CHAD UNDERWOOD My name is Chad Underwood. My callsign is &#x27;Nutz&#x27;. I was a lieutenan...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: boingboing.net  
    Title: navy ufo moves with camera mechanisms in glaring problem for alien fans  
-   Link: <a href="https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Navy UFO&quot; moves with camera mechanisms in glaring...14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and...</p></details>
+   Link:<a href="https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html" target="_blank" rel="noopener noreferrer nofollow">https://boingboing.net/2022/03/14/navy-ufo-moves-with-camera-mechanisms-in-glaring-problem-for-alien-fans.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Navy UFO&quot; moves with camera mechanisms in glaring...14 Mar 2022 — It&#x27;s probably an infrared glare, hiding the hot object behind it, and...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skepticalinquirer.org  
    Title: quick guide to modern video analysis techniques for uap and ufos  
-   Link: <a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Guide to Modern Video Analysis Techniques for UAP...Short for “Situation Recreation,” this tool was originally designed to analyze...</p></details>
+   Link:<a href="https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/2024/12/quick-guide-to-modern-video-analysis-techniques-for-uap-and-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Quick Guide to Modern Video Analysis Techniques for UAP...Short for “Situation Recreation,” this tool was originally designed to analyze...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian I study UFOs – and I don't believe the alien hype  
-   Link: <a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — One video, codenamed “Gimbal”, seems particularly impressive: it shows what looks like an actual flying saucer sk...</p></details>
+   Link:<a href="https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/commentisfree/2021/jun/11/i-study-ufos-and-i-dont-believe-the-alien-hype-heres-why</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here&#x27;s why11 Jun 2021 — One video, codenamed “Gimbal”, seems particularly impressive: it shows what looks like an actual flying saucer sk...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: interestingengineering.com  
    Title: Second UAP file release adds videos and testimony  
-   Link: <a href="https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases second batch of UAP files and videos...22 May 2026 — Pentagon&#x27;s second UFO files reveal aerial sightings over conflict...</p></details>
+   Link:<a href="https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo" target="_blank" rel="noopener noreferrer nofollow">https://interestingengineering.com/culture/pentagon-uap-second-file-release-war-gov-ufo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases second batch of UAP files and videos...22 May 2026 — Pentagon&#x27;s second UFO files reveal aerial sightings over conflict...</p></details>
    Published: May 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The IR Glare Hypothesis. Mick West · 3:55 · Gimbal UFO: New Footage Proves Glare Rotation.Read more...</p></details>
+   Link:<a href="https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/playlist?list=PL-4ZqTjKmhn4FcIJPKnJVGskuXDjHnTOS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The IR Glare Hypothesis. Mick West · 3:55 · Gimbal UFO: New Footage Proves Glare Rotation.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ravor&#x27;s plane, Underwood&#x27;s plane was equipped with a state-of...</p></details>
+   Link:<a href="https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TaskandPurpose/posts/footage-from-the-infamous-uss-nimitz-ufo-incidentwe-talked-to-the-pilot-about-wh/4010459435668667/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ravor&#x27;s plane, Underwood&#x27;s plane was equipped with a state-of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nveiling a second tranche of records that includes a 2025...</p></details>
+   Link:<a href="https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CBSEveningNews/posts/the-pentagon-released-a-new-batch-of-files-related-to-ufos-or-uaps-on-friday-unv/1486964690137240/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nveiling a second tranche of records that includes a 2025...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iles on Friday, revealing additional videos and documents...</p></details>
+   Link:<a href="https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WYFF4/posts/for-informational-purposes-only-the-pentagon-released-its-second-set-of-ufo-file/1530646532017091/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iles on Friday, revealing additional videos and documents...</p></details>

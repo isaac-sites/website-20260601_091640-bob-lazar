@@ -256,18 +256,18 @@ image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_
 
 ## Introduction
 
-The most important official judgement on [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s remote-viewing work did not ask whether some laboratory experiments looked unusual. It asked a more practical question: could [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) produce intelligence that governments could actually use? The answer given by the 1995 American Institutes for Research (AIR) review was largely no. While the reviewers accepted that some experimental results appeared statistically unusual and could not be dismissed as simple chance, they concluded that the programme had failed where intelligence agencies ultimately needed it to succeed: generating reliable, specific and actionable information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAM&quot; Thus, we conclude that continued use of remote viewing in intelligence gathering operatio...</span></span></span>
+The most important official judgement on [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s remote-viewing work did not ask whether some laboratory experiments looked unusual. It asked a more practical question: could [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) produce intelligence that governments could actually use? The answer given by the 1995 American Institutes for Research (AIR) review was largely no. While the reviewers accepted that some experimental results appeared statistically unusual and could not be dismissed as simple chance, they concluded that the programme had failed where intelligence agencies ultimately needed it to succeed: generating reliable, specific and actionable information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAM&quot; Thus, we conclude that continued use of remote viewing in intelligence gathering operatio...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-1-dark.svg" | relative_url }}" alt="AIR review illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters for assessing Puthoff’s credibility. Supporters often point to the fact that remote viewing attracted years of government funding and produced some apparently positive experimental findings. Critics point to the AIR review because it addressed the operational question directly. The review did not merely ask whether something strange might have happened in a laboratory. It examined whether the phenomenon, even if partially real, translated into dependable intelligence work. The conclusion was that it did not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+That distinction matters for assessing Puthoff’s credibility. Supporters often point to the fact that remote viewing attracted years of government funding and produced some apparently positive experimental findings. Critics point to the AIR review because it addressed the operational question directly. The review did not merely ask whether something strange might have happened in a laboratory. It examined whether the phenomenon, even if partially real, translated into dependable intelligence work. The conclusion was that it did not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
 ## What the AIR review conceded
 
-The AIR assessment was commissioned after the US government’s long-running psychic-intelligence programme, often grouped under the later name Stargate, came under CIA review. The evaluation included two prominent analysts with sharply different perspectives: statistician Jessica Utts, who believed the data suggested a genuine anomalous effect, and psychologist Ray Hyman, a leading sceptic of paranormal claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+The AIR assessment was commissioned after the US government’s long-running psychic-intelligence programme, often grouped under the later name Stargate, came under CIA review. The evaluation included two prominent analysts with sharply different perspectives: statistician Jessica Utts, who believed the data suggested a genuine anomalous effect, and psychologist Ray Hyman, a leading sceptic of paranormal claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
-One reason the report remains important is that it was not a simple debunking exercise. Both reviewers acknowledged that some laboratory studies appeared to produce results above chance levels. Utts argued that the accumulated evidence justified taking the phenomenon seriously and that standard statistical explanations did not fully account for the findings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+One reason the report remains important is that it was not a simple debunking exercise. Both reviewers acknowledged that some laboratory studies appeared to produce results above chance levels. Utts argued that the accumulated evidence justified taking the phenomenon seriously and that standard statistical explanations did not fully account for the findings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
-This concession is often highlighted by remote-viewing advocates because it prevents an easy dismissal of the entire research record. The official review did not conclude that every positive result was fraudulent, imaginary or mathematically meaningless. Instead, it recognised that some experiments produced patterns that researchers considered difficult to explain through ordinary guessing alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+This concession is often highlighted by remote-viewing advocates because it prevents an easy dismissal of the entire research record. The official review did not conclude that every positive result was fraudulent, imaginary or mathematically meaningless. Instead, it recognised that some experiments produced patterns that researchers considered difficult to explain through ordinary guessing alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
 However, the review immediately separated that issue from the practical intelligence question. Even if a statistical anomaly existed, the central policy problem remained unresolved: could intelligence agencies depend on it?
 
@@ -275,9 +275,9 @@ However, the review immediately separated that issue from the practical intellig
 
 ## Why lab results did not become useful intelligence
 
-The AIR review drew a line between experimental suggestiveness and operational usefulness. Intelligence services do not merely need occasional correct impressions. They need information that is timely, specific, independently verifiable and reliable enough to support decisions that may involve military operations, diplomatic actions or national-security assessments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF REMOTE VIEWINGThis evaluation was intended to determine: (a) whether this research has any long-term practical value for...</span></span></span>
+The AIR review drew a line between experimental suggestiveness and operational usefulness. Intelligence services do not merely need occasional correct impressions. They need information that is timely, specific, independently verifiable and reliable enough to support decisions that may involve military operations, diplomatic actions or national-security assessments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF REMOTE VIEWINGThis evaluation was intended to determine: (a) whether this research has any long-term practical value for...</span></span></span>
 
-According to the review, remote-viewing outputs consistently struggled at this stage. Reports were often broad, symbolic, ambiguous or mixed with incorrect details. Analysts frequently had to interpret the material after the fact, making it difficult to determine whether a reported success reflected genuine predictive value or retrospective matching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+According to the review, remote-viewing outputs consistently struggled at this stage. Reports were often broad, symbolic, ambiguous or mixed with incorrect details. Analysts frequently had to interpret the material after the fact, making it difficult to determine whether a reported success reflected genuine predictive value or retrospective matching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
 The review noted several recurring operational problems:
 
@@ -287,34 +287,34 @@ The review noted several recurring operational problems:
 * Accurate elements were often accompanied by substantial errors.
 * Reports required subjective interpretation by handlers or analysts.
 * Results were inconsistent across different sessions and viewers.
-* The information rarely arrived in a form that could directly guide intelligence action. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/92017954/Air-Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Evaluation of Remote Viewing Program &#124; PDF... Remote viewing failed to provide concrete, specific actionable intelligence. The prog...</span></span></span>
+* The information rarely arrived in a form that could directly guide intelligence action.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/doc/92017954/Air-Report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Evaluation of Remote Viewing Program &#124; PDF... Remote viewing failed to provide concrete, specific actionable intelligence. The prog...</span></span></span>
 
 </div>
 
 This distinction is crucial. A laboratory experiment can be considered statistically interesting even if it has little practical value. Intelligence work, by contrast, is judged by outcomes. A method that occasionally produces a correct impression but cannot reliably separate signal from error creates major decision-making risks.
 
-The AIR reviewers concluded that the programme had not demonstrated the level of consistency required for operational use. One of the most frequently cited findings was that no documented case showed remote-viewing information being used as the basis for an intelligence operation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/763102027/CIA-RDP96-00791R000200180005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Cia RDP96 00791R000200180005 5 &#124; PDF... evaluation and, if warranted, action. ional value of remote viewing in intelligence gathering, a...</span></span></span>
+The AIR reviewers concluded that the programme had not demonstrated the level of consistency required for operational use. One of the most frequently cited findings was that no documented case showed remote-viewing information being used as the basis for an intelligence operation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.scribd.com/document/763102027/CIA-RDP96-00791R000200180005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">Cia RDP96 00791R000200180005 5 &#124; PDF... evaluation and, if warranted, action. ional value of remote viewing in intelligence gathering, a...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-2-dark.svg" | relative_url }}" alt="AIR review illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The problem of retrospective successes
 
-Supporters of remote viewing often emphasised dramatic individual cases in which viewers appeared to describe distant facilities, military activities or hidden objects with surprising accuracy. These stories helped sustain interest in the programme for years. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingIn 1995, the CIA hired the American Institutes for Research (AIR) to perform... Reviewers included Ray Hyman and Jessic...</span></span></span>
+Supporters of remote viewing often emphasised dramatic individual cases in which viewers appeared to describe distant facilities, military activities or hidden objects with surprising accuracy. These stories helped sustain interest in the programme for years.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingIn 1995, the CIA hired the American Institutes for Research (AIR) to perform... Reviewers included Ray Hyman and Jessic...</span></span></span>
 
-The AIR review examined this issue from a different angle. Intelligence assessment is not based on memorable anecdotes alone. A method must perform consistently across many cases, including failures. Reviewers expressed concern that famous successes could be over-emphasised while unsuccessful sessions received less attention. They also raised questions about whether some celebrated examples involved more background knowledge than was immediately obvious. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p27.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-title">Remote Viewing</span><span class="citation-popover-snippet">Has Not Been Shown to Have Value in...Remote viewing, as exemplified by the efforts in the current pro- gram, has not been shown to have...</span></span></span>
+The AIR review examined this issue from a different angle. Intelligence assessment is not based on memorable anecdotes alone. A method must perform consistently across many cases, including failures. Reviewers expressed concern that famous successes could be over-emphasised while unsuccessful sessions received less attention. They also raised questions about whether some celebrated examples involved more background knowledge than was immediately obvious.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p27.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[cdn.centerforinquiry.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-title">Remote Viewing</span><span class="citation-popover-snippet">Has Not Been Shown to Have Value in...Remote viewing, as exemplified by the efforts in the current pro- gram, has not been shown to have...</span></span></span>
 
 This is a classic problem in intelligence evaluation. If hundreds of predictions are generated and only a handful appear impressive afterwards, the impressive examples may create a misleading impression of overall performance. Intelligence agencies generally require documented prospective success, not selective retrospective matching.
 
-For the AIR reviewers, the evidence did not show that remote viewing could consistently produce the kind of information needed for operational planning. That conclusion mattered more than isolated success stories because the programme existed to support intelligence collection, not to demonstrate occasional anomalies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAM&quot; Thus, we conclude that continued use of remote viewing in intelligence gathering operatio...</span></span></span>
+For the AIR reviewers, the evidence did not show that remote viewing could consistently produce the kind of information needed for operational planning. That conclusion mattered more than isolated success stories because the programme existed to support intelligence collection, not to demonstrate occasional anomalies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAM&quot; Thus, we conclude that continued use of remote viewing in intelligence gathering operatio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tZ1dy7dG0M4" title="Project STARGATE: Did the CIA&#x27;s Declassified Psychic Experiments Actually Work?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tZ1dy7dG0M4" target="_blank" rel="noopener noreferrer">Project STARGATE: Did the CIA&#x27;s Declassified Psychic Experiments Actually Work?</a></p><p class="youtube-embed-meta">Channel: Decoding the Unknown &middot; Views: 280.4K &middot; Uploaded: September 2023 &middot; Length: 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tZ1dy7dG0M4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tZ1dy7dG0M4">Open on YouTube</a></p></div></div></div>
 
 ## Why the programme ended
 
-The practical outcome of the AIR review was straightforward. The review concluded that continued use of remote viewing for intelligence-gathering operations was not warranted. The programme was subsequently terminated and declassified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF REMOTE VIEWINGThis evaluation was intended to determine: (a) whether this research has any long-term practical value for...</span></span></span>
+The practical outcome of the AIR review was straightforward. The review concluded that continued use of remote viewing for intelligence-gathering operations was not warranted. The programme was subsequently terminated and declassified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF REMOTE VIEWINGThis evaluation was intended to determine: (a) whether this research has any long-term practical value for...</span></span></span>
 
-This decision was significant because it came after more than two decades of experimentation, operational trials and government funding. By the time of the review, officials were not evaluating a short pilot project. They were assessing a body of work that had accumulated across multiple agencies, contractors and programme names. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Stargate Project (U.S. Army unit</span><span class="citation-popover-snippet">Stargate Project (U.S. Army unit</span></span></span>
+This decision was significant because it came after more than two decades of experimentation, operational trials and government funding. By the time of the review, officials were not evaluating a short pilot project. They were assessing a body of work that had accumulated across multiple agencies, contractors and programme names.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Stargate Project (U.S. Army unit</span><span class="citation-popover-snippet">Stargate Project (U.S. Army unit</span></span></span>
 
-The implication was not that every researcher involved had acted in bad faith. Rather, the intelligence community ultimately judged that whatever laboratory effects might exist, they had not translated into a dependable operational capability. In policy terms, that distinction was decisive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+The implication was not that every researcher involved had acted in bad faith. Rather, the intelligence community ultimately judged that whatever laboratory effects might exist, they had not translated into a dependable operational capability. In policy terms, that distinction was decisive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XRTon6qgVws" title="Joe McMoneagle - CIA&#x27;s Project Stargate | SRS #95" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XRTon6qgVws" target="_blank" rel="noopener noreferrer">Joe McMoneagle - CIA&#x27;s Project Stargate | SRS #95</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Show &middot; Views: 5.2M &middot; Uploaded: February 2024 &middot; Length: 6 hours 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XRTon6qgVws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XRTon6qgVws">Open on YouTube</a></p></div></div></div>
 
@@ -322,205 +322,205 @@ The implication was not that every researcher involved had acted in bad faith. R
 
 For readers assessing Hal Puthoff's broader credibility in UFO and UAP debates, the AIR review creates a complicated picture rather than a simple verdict.
 
-On one hand, the review indirectly supports one aspect of Puthoff’s reputation. He was involved in a real government-funded research effort that attracted sustained official interest and serious institutional attention. The programme was not an invented story, and government agencies devoted significant resources to examining the claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_%28disambiguation%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air (disambiguation</span><span class="citation-popover-snippet">Air (disambiguation)Air is the name given to the atmosphere of Earth. Air or AIR may also refer to: Contents. 1 Arts, entertainment, a...</span></span></span>
+On one hand, the review indirectly supports one aspect of Puthoff’s reputation. He was involved in a real government-funded research effort that attracted sustained official interest and serious institutional attention. The programme was not an invented story, and government agencies devoted significant resources to examining the claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Air_%28disambiguation%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Air (disambiguation</span><span class="citation-popover-snippet">Air (disambiguation)Air is the name given to the atmosphere of Earth. Air or AIR may also refer to: Contents. 1 Arts, entertainment, a...</span></span></span>
 
-On the other hand, the review highlights a recurring criticism that follows Puthoff into later UAP controversies. Critics argue that he has repeatedly shown a willingness to treat anomalous or weakly understood phenomena as potentially significant before strong operational or scientific validation exists. The remote-viewing record provides a concrete historical example: years of research generated enough suggestive findings to keep interest alive, yet failed to convince intelligence reviewers that the capability worked well enough for real-world use. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+On the other hand, the review highlights a recurring criticism that follows Puthoff into later UAP controversies. Critics argue that he has repeatedly shown a willingness to treat anomalous or weakly understood phenomena as potentially significant before strong operational or scientific validation exists. The remote-viewing record provides a concrete historical example: years of research generated enough suggestive findings to keep interest alive, yet failed to convince intelligence reviewers that the capability worked well enough for real-world use.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
-That does not automatically invalidate Puthoff’s later claims about UAP-related subjects. Each claim still has to be evaluated on its own evidence. However, the AIR review affects how many observers interpret his judgement. Supporters see it as proof that he was willing to investigate unconventional topics that mainstream science often ignores. Sceptics see it as evidence of a pattern in which intriguing anomalies are treated as more persuasive than the available evidence ultimately justifies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucdavis.edu">[UC Davis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucdavis.edu</span><span class="citation-popover-title">psychic spying research produces credible evidence</span><span class="citation-popover-snippet">UC Davis&#x27;Psychic Spying&#x27; Research Produces Credible Evidence28 Nov 1995 — Secret government experiments on &quot;psychic spying&quot; have produced...</span></span></span>
+That does not automatically invalidate Puthoff’s later claims about UAP-related subjects. Each claim still has to be evaluated on its own evidence. However, the AIR review affects how many observers interpret his judgement. Supporters see it as proof that he was willing to investigate unconventional topics that mainstream science often ignores. Sceptics see it as evidence of a pattern in which intriguing anomalies are treated as more persuasive than the available evidence ultimately justifies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ucdavis.edu">[UC Davis]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ucdavis.edu</span><span class="citation-popover-title">psychic spying research produces credible evidence</span><span class="citation-popover-snippet">UC Davis&#x27;Psychic Spying&#x27; Research Produces Credible Evidence28 Nov 1995 — Secret government experiments on &quot;psychic spying&quot; have produced...</span></span></span>
 
-The key credibility lesson is therefore narrower than many public arguments suggest. The AIR review did not prove that every remote-viewing result was meaningless, nor did it validate psychic intelligence collection. Instead, it concluded that the programme failed its most important practical test. For a figure such as Hal Puthoff, whose public reputation partly rests on claims of hidden capabilities and overlooked phenomena, that finding remains one of the strongest reasons critics question whether unusual observations are being separated rigorously enough from reliable evidence. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
+The key credibility lesson is therefore narrower than many public arguments suggest. The AIR review did not prove that every remote-viewing result was meaningless, nor did it validate psychic intelligence collection. Instead, it concluded that the programme failed its most important practical test. For a figure such as Hal Puthoff, whose public reputation partly rests on claims of hidden capabilities and overlooked phenomena, that finding remains one of the strongest reasons critics question whether unusual observations are being separated rigorously enough from reliable evidence. CIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alice.id.tue.nl">[Alice]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alice.id.tue.nl</span><span class="citation-popover-title">mumford rose goslin 1995</span><span class="citation-popover-snippet">An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-3-dark.svg" | relative_url }}" alt="AIR review illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_air_review_actionabl_beb91a-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why intelligence reviewers were not convinced. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why intelligence reviewers were not convinced. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Solutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8969088-M.jpg" alt="Cover for Lean Solutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Solutions">Lean Solutions</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Solutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8969088-M.jpg" alt="Cover for Lean Solutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Solutions">Lean Solutions</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Focuses on operational military applications and their limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on operational military applications and their limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains why government agencies struggled to turn anomalous findings into useful intelligence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains why government agencies struggled to turn anomalous findings into useful intelligence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Focuses on operational military applications and their limitations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Focuses on operational military applications and their limitations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
+</h4>
+<p class="fr-book-author">By James Randi</p>
         
-        <p class="fr-book-desc">Illustrates the critical mindset applied to extraordinary intelligence claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates the critical mindset applied to extraordinary intelligence claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Solutions</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Solutions</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster"><img src="https://i.ebayimg.com/images/g/2foAAOSwkhdnSejQ/s-l225.jpg" alt="Listing image for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster"><img src="https://i.ebayimg.com/images/g/2foAAOSwkhdnSejQ/s-l225.jpg" alt="Listing image for Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Retro REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath UFO Occult Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834"><img src="https://i.ebayimg.com/images/g/i00AAOSw1Nhh~V0N/s-l225.jpg" alt="Listing image for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834"><img src="https://i.ebayimg.com/images/g/i00AAOSw1Nhh~V0N/s-l225.jpg" alt="Listing image for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~DwAAeSwkwBo-QUE/s-l225.jpg" alt="Listing image for Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/~DwAAeSwkwBo-QUE/s-l225.jpg" alt="Listing image for Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Canyon View Through Arch Outside Mo Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/2qMAAOSwBP5nqTHQ/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/2qMAAOSwBP5nqTHQ/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-intelligence-reviewers-were-not-convinced-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="why-intelligence-reviewers-were-not-convinced-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -536,7 +536,7 @@ The key credibility lesson is therefore narrower than many public arguments sugg
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -556,7 +556,7 @@ The key credibility lesson is therefore narrower than many public arguments sugg
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -588,7 +588,7 @@ The key credibility lesson is therefore narrower than many public arguments sugg
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -640,7 +640,7 @@ The key credibility lesson is therefore narrower than many public arguments sugg
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -685,7 +685,7 @@ The key credibility lesson is therefore narrower than many public arguments sugg
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -726,149 +726,149 @@ The key credibility lesson is therefore narrower than many public arguments sugg
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAM&quot; Thus, we conclude that continued use of remote viewing in intelligence gathering operatio...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAM&quot; Thus, we conclude that continued use of remote viewing in intelligence gathering operatio...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingIn 1995, the CIA hired the American Institutes for Research (AIR) to perform... Reviewers included Ray Hyman and Jessic...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingIn 1995, the CIA hired the American Institutes for Research (AIR) to perform... Reviewers included Ray Hyman and Jessic...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/92017954/Air-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/92017954/Air-Report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Remote Viewing Program | PDF... Remote viewing failed to provide concrete, specific actionable intelligence. The prog...</p></details>
+   Link:<a href="https://www.scribd.com/doc/92017954/Air-Report" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/92017954/Air-Report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evaluation of Remote Viewing Program | PDF... Remote viewing failed to provide concrete, specific actionable intelligence. The prog...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Stargate Project (U.S. Army unit)  
-   Link: <a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdn.centerforinquiry.org  
    Title: 'Remote Viewing  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p27.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Not Been Shown to Have Value in...Remote viewing, as exemplified by the efforts in the current pro- gram, has not been shown to have...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p27.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p27.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Not Been Shown to Have Value in...Remote viewing, as exemplified by the efforts in the current pro- gram, has not been shown to have...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF REMOTE VIEWINGThis evaluation was intended to determine: (a) whether this research has any long-term practical value for...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF REMOTE VIEWINGThis evaluation was intended to determine: (a) whether this research has any long-term practical value for...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Air (disambiguation)  
-   Link: <a href="https://en.wikipedia.org/wiki/Air_%28disambiguation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_%28disambiguation%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air (disambiguation)Air is the name given to the atmosphere of Earth. Air or AIR may also refer to: Contents. 1 Arts, entertainment, a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Air_%28disambiguation%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_%28disambiguation%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air (disambiguation)Air is the name given to the atmosphere of Earth. Air or AIR may also refer to: Contents. 1 Arts, entertainment, a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/763102027/CIA-RDP96-00791R000200180005-5" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/763102027/CIA-RDP96-00791R000200180005-5</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Cia RDP96 00791R000200180005 5 | PDF... evaluation and, if warranted, action. ional value of remote viewing in intelligence gathering, a...</p></details>
+   Link:<a href="https://www.scribd.com/document/763102027/CIA-RDP96-00791R000200180005-5" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/763102027/CIA-RDP96-00791R000200180005-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cia RDP96 00791R000200180005 5 | PDF... evaluation and, if warranted, action. ional value of remote viewing in intelligence gathering, a...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/doc/49008701/2284773-stargate" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/49008701/2284773-stargate</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ation. 183 pages. Parapsychology...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/doc/49008701/2284773-stargate" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/doc/49008701/2284773-stargate</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ation. 183 pages. Parapsychology...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: scribd.com  
    Title: CIA RDP96 00791R000200180006 4 1 pdf  
-   Link: <a href="https://www.scribd.com/document/395167398/CIA-RDP96-00791R000200180006-4-1-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/395167398/CIA-RDP96-00791R000200180006-4-1-pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Cia RDP96 00791R000200180006 4 PDFThe first and primary objective was to provide scientifically compelling evidence for the existence of...</p></details>
+   Link:<a href="https://www.scribd.com/document/395167398/CIA-RDP96-00791R000200180006-4-1-pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/395167398/CIA-RDP96-00791R000200180006-4-1-pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Cia RDP96 00791R000200180006 4 PDFThe first and primary objective was to provide scientifically compelling evidence for the existence of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: How the CIA Fooled Us to Believe in Remote Viewing: SCAM Exposed! | Jeremy Rys  
-   Link: <a href="https://www.youtube.com/watch?v=QbY6rT4sFk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QbY6rT4sFk0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing | Skeptical Sunday - Jordan Harbinger...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=QbY6rT4sFk0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=QbY6rT4sFk0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing | Skeptical Sunday - Jordan Harbinger...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: Remote Viewing | Skeptical Sunday  
-   Link: <a href="https://www.youtube.com/watch?v=Gbeo7g8x-C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbeo7g8x-C8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Stargate: Everything They&#x27;ve Hid From Us Has Been Revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Gbeo7g8x-C8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbeo7g8x-C8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Stargate: Everything They&#x27;ve Hid From Us Has Been Revealed...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alice.id.tue.nl  
    Title: mumford rose goslin 1995  
-   Link: <a href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</p></details>
+   Link:<a href="https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.alice.id.tue.nl/references/mumford-rose-goslin-1995.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Remote Viewing: Research and...by MD Mumford · 1995 · Cited by 75 — This evaluation was intended to determine: (a)...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: ucdavis.edu  
    Title: psychic spying research produces credible evidence  
-   Link: <a href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UC Davis&#x27;Psychic Spying&#x27; Research Produces Credible Evidence28 Nov 1995 — Secret government experiments on &quot;psychic spying&quot; have produced...</p></details>
+   Link:<a href="https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.ucdavis.edu/news/psychic-spying-research-produces-credible-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UC Davis&#x27;Psychic Spying&#x27; Research Produces Credible Evidence28 Nov 1995 — Secret government experiments on &quot;psychic spying&quot; have produced...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/air" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/air</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryAIR definition: 1. the mixture of gases that surrounds the earth and that we breathe: 2. the spac...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/air" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/air</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>English meaning - Cambridge DictionaryAIR definition: 1. the mixture of gases that surrounds the earth and that we breathe: 2. the spac...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: ics.uci.edu  
-   Link: <a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>review of the departmentby C EDwIN · 1996 — They, in turn, formed a “blue-ribbon&quot; panel that included psychologist Ray Hyman from the Uni...</p></details>
+   Link:<a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>review of the departmentby C EDwIN · 1996 — They, in turn, formed a “blue-ribbon&quot; panel that included psychologist Ray Hyman from the Uni...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: chance.dartmouth.edu  
-   Link: <a href="https://chance.dartmouth.edu/chance_news/recent_news/chance_news_4.16.html" target="_blank" rel="noopener noreferrer nofollow">https://chance.dartmouth.edu/chance_news/recent_news/chance_news_4.16.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DartmouthThe CIA inherited this program and asked statistician Jessica Utts and Psychologist Raymond Hyman to evaluate the resul...</p></details>
+   Link:<a href="https://chance.dartmouth.edu/chance_news/recent_news/chance_news_4.16.html" target="_blank" rel="noopener noreferrer nofollow">https://chance.dartmouth.edu/chance_news/recent_news/chance_news_4.16.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DartmouthThe CIA inherited this program and asked statistician Jessica Utts and Psychologist Raymond Hyman to evaluate the resul...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: airbnb.co.uk  
-   Link: <a href="https://www.airbnb.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.co.uk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Holiday rentals, cabins, beach houses &amp; moreGet an Airbnb for every kind of trip → 7 million holiday rentals → 2 million Guest F...</p></details>
+   Link:<a href="https://www.airbnb.co.uk/" target="_blank" rel="noopener noreferrer nofollow">https://www.airbnb.co.uk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Holiday rentals, cabins, beach houses &amp; moreGet an Airbnb for every kind of trip → 7 million holiday rentals → 2 million Guest F...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIAs remote viewing documents are confusing as hellThe Stargate project produced zero evidence of remote viewing and that it&#x27;s not re...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/14x6pu0/the_cias_remote_viewing_documents_are_confusing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIAs remote viewing documents are confusing as hellThe Stargate project produced zero evidence of remote viewing and that it&#x27;s not re...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Peculiar Truth about the CIA&#x27;s Project StargateFifty years ago, Project Stargate employed people who supposedly possessed extra senso...</p></details>
+   Link:<a href="https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/the-peculiar-truth/the-peculiar-truth-about-the-cias-project-stargate-61ac0534d2f4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Peculiar Truth about the CIA&#x27;s Project StargateFifty years ago, Project Stargate employed people who supposedly possessed extra senso...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Remote Viewing, Research and...The review concluded that while statistically significant effects were observed in labor...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Evaluation of Remote Viewing, Research and...The review concluded that while statistically significant effects were observed in labor...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But our ability to rely on remote viewing as an intelligence tool isn&#x27;t ready for prime-time TV and that&#x27;s a very real problem.Read more...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But our ability to rely on remote viewing as an intelligence tool isn&#x27;t ready for prime-time TV and that&#x27;s a very real problem.Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: while its widely been dismissed as pseudoscience proponents of remote viewing be  
-   Link: <a href="https://www.facebook.com/AllThatsInteresting/posts/while-its-widely-been-dismissed-as-pseudoscience-proponents-of-remote-viewing-be/1391910926305414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AllThatsInteresting/posts/while-its-widely-been-dismissed-as-pseudoscience-proponents-of-remote-viewing-be/1391910926305414/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All That&#x27;s InterestingIn 1995, an external review concluded that remote viewing had not produced consistently actionable intelligence for...</p></details>
+   Link:<a href="https://www.facebook.com/AllThatsInteresting/posts/while-its-widely-been-dismissed-as-pseudoscience-proponents-of-remote-viewing-be/1391910926305414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AllThatsInteresting/posts/while-its-widely-been-dismissed-as-pseudoscience-proponents-of-remote-viewing-be/1391910926305414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All That&#x27;s InterestingIn 1995, an external review concluded that remote viewing had not produced consistently actionable intelligence for...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: greydynamics.com  
-   Link: <a href="https://greydynamics.com/intelligence-past-the-tangible-world-cias-stargate-project/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/intelligence-past-the-tangible-world-cias-stargate-project/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>data to guide intelligence operations–that the CIA concluded the Stargate Project&#x27;s...Read more...</p></details>
+   Link:<a href="https://greydynamics.com/intelligence-past-the-tangible-world-cias-stargate-project/" target="_blank" rel="noopener noreferrer nofollow">https://greydynamics.com/intelligence-past-the-tangible-world-cias-stargate-project/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>data to guide intelligence operations–that the CIA concluded the Stargate Project&#x27;s...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: philpapers.org  
-   Link: <a href="https://philpapers.org/rec/HYMEOP" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/HYMEOP</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ting the program on &quot;Anomalous Mental Phenomena&quot; carried out at SRI International (formerly the...</p></details>
+   Link:<a href="https://philpapers.org/rec/HYMEOP" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/HYMEOP</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ting the program on &quot;Anomalous Mental Phenomena&quot; carried out at SRI International (formerly the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/consciousness/comments/181s71r/the_cias_experiments_with_remote_viewing_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/consciousness/comments/181s71r/the_cias_experiments_with_remote_viewing_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>perimentation with Ingo Swann can provide some evidence toward “non-local...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/consciousness/comments/181s71r/the_cias_experiments_with_remote_viewing_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/consciousness/comments/181s71r/the_cias_experiments_with_remote_viewing_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>perimentation with Ingo Swann can provide some evidence toward “non-local...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: researchgate.net  
    Title: 345430975 Remote Viewing Applications An Historical Overview and a New Survey  
-   Link: <a href="https://www.researchgate.net/publication/345430975_Remote_Viewing_Applications_An_Historical_Overview_and_a_New_Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345430975_Remote_Viewing_Applications_An_Historical_Overview_and_a_New_Survey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing Applications: An Historical Overview and...8 Nov 2020 — The main findings are that remote viewing applications are wide...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/345430975_Remote_Viewing_Applications_An_Historical_Overview_and_a_New_Survey" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/345430975_Remote_Viewing_Applications_An_Historical_Overview_and_a_New_Survey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing Applications: An Historical Overview and...8 Nov 2020 — The main findings are that remote viewing applications are wide...</p></details>

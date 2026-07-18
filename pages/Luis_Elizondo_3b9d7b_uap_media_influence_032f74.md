@@ -298,16 +298,16 @@ image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74-overview-s
 
 ## Introduction
 
-Since emerging from relative obscurity in 2017, **Luis Elizondo** has been one of the most visible figures in the modern **UAP (Unidentified Aerial Phenomena)** or UFO disclosure conversation. While his exact role in Pentagon programs remains debated, there’s no question that his interactions with large media outlets, television documentaries, congressional hearings and social platforms have helped shift UAP talk from fringe speculation into mainstream defence and political discourse. Elizondo’s media influence reshaped how the public and policymakers discuss unexplained aerial sightings, whether one views his impact as opening overdue transparency or amplifying contested claims beyond available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Year of UFOs</span><span class="citation-popover-snippet">Smithsonian Magazine The Year of UFOs</span></span></span>
+Since emerging from relative obscurity in 2017, **Luis Elizondo** has been one of the most visible figures in the modern **UAP (Unidentified Aerial Phenomena)** or UFO disclosure conversation. While his exact role in Pentagon programs remains debated, there’s no question that his interactions with large media outlets, television documentaries, congressional hearings and social platforms have helped shift UAP talk from fringe speculation into mainstream defence and political discourse. Elizondo’s media influence reshaped how the public and policymakers discuss unexplained aerial sightings, whether one views his impact as opening overdue transparency or amplifying contested claims beyond available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Year of UFOs</span><span class="citation-popover-snippet">Smithsonian Magazine The Year of UFOs</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74-overview.webp" | relative_url }}" alt="Overview image for Influence" loading="eager" decoding="sync" fetchpriority="high">
 ## The Post‑2017 Media Breakthrough
 
-Elizondo’s rise in public consciousness began in late 2017, when he revealed to journalists the existence of the Pentagon’s secretive Advanced Aerospace Threat Identification Program (AATIP) and handed over military videos showing Navy pilots encountering unexplained aerial objects. A **front‑page story in *The New York Times*** not only brought the videos into the open but also put Elizondo himself at the centre of UAP reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Year of UFOs</span><span class="citation-popover-snippet">Smithsonian Magazine The Year of UFOs</span></span></span>
+Elizondo’s rise in public consciousness began in late 2017, when he revealed to journalists the existence of the Pentagon’s secretive Advanced Aerospace Threat Identification Program (AATIP) and handed over military videos showing Navy pilots encountering unexplained aerial objects. A **front‑page story in *The New York Times*** not only brought the videos into the open but also put Elizondo himself at the centre of UAP reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Year of UFOs</span><span class="citation-popover-snippet">Smithsonian Magazine The Year of UFOs</span></span></span>
 
-For decades before that, UFOs were largely the preserve of fringe magazines and late‑night talk shows; credible government discussion on the topic was rare. Elizondo’s willingness to speak on *CBS’s 60 Minutes* and other mainstream news outlets, and to characterise the encounters as real phenomena worth serious study, **helped normalise the topic** in national security reporting. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/ufo-compelling-evidence-former-pentagon-expert-1591995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">UFO Capabilities, ‘Compelling’ Evidence Revealed by Former Official on Pentagon Program - NewsweekMay 17, 2021...</span><span class="citation-popover-meta">Published: May 17, 2021</span></span></span>
+For decades before that, UFOs were largely the preserve of fringe magazines and late‑night talk shows; credible government discussion on the topic was rare. Elizondo’s willingness to speak on *CBS’s 60 Minutes* and other mainstream news outlets, and to characterise the encounters as real phenomena worth serious study, **helped normalise the topic** in national security reporting.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.newsweek.com/ufo-compelling-evidence-former-pentagon-expert-1591995" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newsweek.com">[Newsweek]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newsweek.com</span><span class="citation-popover-snippet">UFO Capabilities, ‘Compelling’ Evidence Revealed by Former Official on Pentagon Program - NewsweekMay 17, 2021...</span><span class="citation-popover-meta">Published: May 17, 2021</span></span></span>
 
-In subsequent years, his public presence spanned a mix of interviews, speeches, and his own writing. Elizondo’s 2024 memoir and roles in documentaries – including *The Age of Disclosure* alongside other [whistleblowers]({{ 'whistleblowers/' | relative_url }}) – helped maintain sustained media attention, drawing interest from both entertainment and political journalists and prompting repeated coverage in major outlets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocosmos.com/news/age-of-disclosure-documentary-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocosmos.com">[ufocosmos.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocosmos.com</span><span class="citation-popover-snippet">April 10, 2025...</span><span class="citation-popover-meta">Published: April 10, 2025</span></span></span>
+In subsequent years, his public presence spanned a mix of interviews, speeches, and his own writing. Elizondo’s 2024 memoir and roles in documentaries – including *The Age of Disclosure* alongside other [whistleblowers]({{ 'whistleblowers/' | relative_url }}) – helped maintain sustained media attention, drawing interest from both entertainment and political journalists and prompting repeated coverage in major outlets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufocosmos.com/news/age-of-disclosure-documentary-2025" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufocosmos.com">[ufocosmos.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufocosmos.com</span><span class="citation-popover-snippet">April 10, 2025...</span><span class="citation-popover-meta">Published: April 10, 2025</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2OMGOvuJV5M" title="Luis Elizondo - “Imminent: Inside the Pentagon&#x27;s Hunt for UFOs” | The Daily Show" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2OMGOvuJV5M" target="_blank" rel="noopener noreferrer">Luis Elizondo - “Imminent: Inside the Pentagon&#x27;s Hunt for UFOs” | The Daily Show</a></p><p class="youtube-embed-meta">Channel: The Daily Show &middot; Views: 610.7K &middot; Uploaded: September 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2OMGOvuJV5M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2OMGOvuJV5M">Open on YouTube</a></p></div></div></div>
 
@@ -316,10 +316,10 @@ In subsequent years, his public presence spanned a mix of interviews, speeches, 
 
 Elizondo’s media influence has sparked a starkly divided reception:
 
-* **Supporters** credit him with overcoming long‑standing stigma attached to UFO/UAP reporting. Many argue that exposing previously classified military footage and testimony from trained observers – such as Navy pilots – was overdue and that public discussion enhances aviation safety and national security transparency. Some letters in mainstream publications explicitly defend his role in legitimising the debate and note congressional engagement as a sign of progress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A response to Daniel Lavelle’s Guardian article, which portrayed UFO research dismissively, the piece criticizes his narrow focus and ske...</span></span></span>
-* **Sceptics and critics** argue his media prominence outstrips the strength of the open evidence. Commentators like the *Washington Post’s* Michael Shermer, for example, observe that the surge in public interest was propelled by high‑profile testimonies – including Elizondo’s – but maintains most UAP cases can be explained by mundane causes or misinterpretation, and that extraordinary claims require extraordinary proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/opinions/interactive/2026/ufo-upa-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post I&#x27;ve reported on UFO sightings for decades</span><span class="citation-popover-snippet">Shermer notes how public and government interest in UFOs surged after a 2017 *New York Times* story on a secret Pentagon program. Since t...</span></span></span>
+* **Supporters** credit him with overcoming long‑standing stigma attached to UFO/UAP reporting. Many argue that exposing previously classified military footage and testimony from trained observers – such as Navy pilots – was overdue and that public discussion enhances aviation safety and national security transparency. Some letters in mainstream publications explicitly defend his role in legitimising the debate and note congressional engagement as a sign of progress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">A response to Daniel Lavelle’s Guardian article, which portrayed UFO research dismissively, the piece criticizes his narrow focus and ske...</span></span></span>
+* **Sceptics and critics** argue his media prominence outstrips the strength of the open evidence. Commentators like the *Washington Post’s* Michael Shermer, for example, observe that the surge in public interest was propelled by high‑profile testimonies – including Elizondo’s – but maintains most UAP cases can be explained by mundane causes or misinterpretation, and that extraordinary claims require extraordinary proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/opinions/interactive/2026/ufo-upa-sightings/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-title">The Washington Post I&#x27;ve reported on UFO sightings for decades</span><span class="citation-popover-snippet">Shermer notes how public and government interest in UFOs surged after a 2017 *New York Times* story on a secret Pentagon program. Since t...</span></span></span>
 
-Within sceptical circles, there’s also distrust that some of Elizondo’s public statements – including fringe or speculative interpretations of encounters or recovered materials – are amplified without robust verification. Some analysts have gone so far as to describe his media role as shaping the narrative more than establishing definitive evidence, pointing to internal government emails and discussions about his exact Pentagon responsibilities as fuel for doubt. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1kxfo7p" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Defense Department Emails Confirm 2017 UAP Briefings, Further Clarify Luis Elizondo’s Role in AATIPMay 28, 2025...</span><span class="citation-popover-meta">Published: May 28, 2025</span></span></span>
+Within sceptical circles, there’s also distrust that some of Elizondo’s public statements – including fringe or speculative interpretations of encounters or recovered materials – are amplified without robust verification. Some analysts have gone so far as to describe his media role as shaping the narrative more than establishing definitive evidence, pointing to internal government emails and discussions about his exact Pentagon responsibilities as fuel for doubt.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1kxfo7p" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Defense Department Emails Confirm 2017 UAP Briefings, Further Clarify Luis Elizondo’s Role in AATIPMay 28, 2025...</span><span class="citation-popover-meta">Published: May 28, 2025</span></span></span>
 
 This tension extends to how the public evaluates disclosure culture itself: enthusiasts see transparent discussion as overdue accountability; critics see media focus on enigmatic imagery and sensational testimony as distorting public understanding. The reputational balance of Elizondo’s influence thus remains contested, with public trust varying depending on how closely one distinguishes advocacy from empirically verified claims.
 
@@ -331,203 +331,203 @@ This tension extends to how the public evaluates disclosure culture itself: enth
 
 ## Why Influence Can Outgrow Available Evidence
 
-One of the defining features of the UAP disclosure culture that Elizondo helped catalyse is the **gap between media impact and evidential resolution**. His statements have been widely reported – including claims about non‑human materials or biologics recovered from crashes – but these remain unverified in the public domain, often circulating in talk shows or online discussions without a clear chain of custody. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/30/world-news/ex-pentagon-official-says-new-file-batch-proves-ufos-have-been-real-since-the-1940s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">national security since the 1940s. Speaking on &quot;Jesse Watters Primetime,&quot; Elizondo referenced top-secret intelligence suggesting the exis...</span></span></span>
+One of the defining features of the UAP disclosure culture that Elizondo helped catalyse is the **gap between media impact and evidential resolution**. His statements have been widely reported – including claims about non‑human materials or biologics recovered from crashes – but these remain unverified in the public domain, often circulating in talk shows or online discussions without a clear chain of custody.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2026/05/30/world-news/ex-pentagon-official-says-new-file-batch-proves-ufos-have-been-real-since-the-1940s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">national security since the 1940s. Speaking on &quot;Jesse Watters Primetime,&quot; Elizondo referenced top-secret intelligence suggesting the exis...</span></span></span>
 
 This dynamic illustrates a broader pattern in UAP discourse: the **media’s appetite for striking narratives can amplify claims before the underlying evidence is independently assessed or corroborated**. Elizondo’s high media visibility ensures UAPs are no longer dismissed outright, but it also means audiences may conflate prominence with proof. The result is a cultural environment where extraordinary suggestions – unexplained aircraft manoeuvres, exotic materials, possible biological remains – can take on a weight in public discourse that they haven’t yet earned in transparent scientific or government validation.
 
-In short, while Elizondo’s influence is undeniable in moving UAP topics into serious media and political arenas, the **culture of disclosure he helped shape is still negotiating the boundary between credible national‑security reporting and the allure of unresolved mystery**, leaving legacy and credibility deeply intertwined with ongoing debate and scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Year of UFOs</span><span class="citation-popover-snippet">Smithsonian Magazine The Year of UFOs</span></span></span>
+In short, while Elizondo’s influence is undeniable in moving UAP topics into serious media and political arenas, the **culture of disclosure he helped shape is still negotiating the boundary between credible national‑security reporting and the allure of unresolved mystery**, leaving legacy and credibility deeply intertwined with ongoing debate and scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: smithsonianmag.com">[Smithsonian Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">smithsonianmag.com</span><span class="citation-popover-title">Smithsonian Magazine The Year of UFOs</span><span class="citation-popover-snippet">Smithsonian Magazine The Year of UFOs</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74-Illustration-2-dark.svg" | relative_url }}" alt="Influence illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Elizondo Changed the UAP Debate. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Elizondo Changed the UAP Debate. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
-        </h4>
-        <p class="fr-book-author">By John Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
+</h4>
+<p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-        </h4>
-        <p class="fr-book-author">By Michèle Ruffat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
+</h4>
+<p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
-        </h4>
-        <p class="fr-book-author">By Fernando de Sousa</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
+</h4>
+<p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-elizondo-changed-the-uap-debate-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="how-elizondo-changed-the-uap-debate-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -543,7 +543,7 @@ In short, while Elizondo’s influence is undeniable in moving UAP topics into s
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -563,7 +563,7 @@ In short, while Elizondo’s influence is undeniable in moving UAP topics into s
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -595,7 +595,7 @@ In short, while Elizondo’s influence is undeniable in moving UAP topics into s
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -647,7 +647,7 @@ In short, while Elizondo’s influence is undeniable in moving UAP topics into s
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -692,7 +692,7 @@ In short, while Elizondo’s influence is undeniable in moving UAP topics into s
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -733,154 +733,154 @@ In short, while Elizondo’s influence is undeniable in moving UAP topics into s
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/ufo-compelling-evidence-former-pentagon-expert-1591995" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-compelling-evidence-former-pentagon-expert-1591995</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Capabilities, ‘Compelling’ Evidence Revealed by Former Official on Pentagon Program - NewsweekMay 17, 2021...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-compelling-evidence-former-pentagon-expert-1591995" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-compelling-evidence-former-pentagon-expert-1591995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Capabilities, ‘Compelling’ Evidence Revealed by Former Official on Pentagon Program - NewsweekMay 17, 2021...</p></details>
    Published: May 17, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ufocosmos.com  
-   Link: <a href="https://www.ufocosmos.com/news/age-of-disclosure-documentary-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocosmos.com/news/age-of-disclosure-documentary-2025</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 10, 2025...</p></details>
+   Link:<a href="https://www.ufocosmos.com/news/age-of-disclosure-documentary-2025" target="_blank" rel="noopener noreferrer nofollow">https://www.ufocosmos.com/news/age-of-disclosure-documentary-2025</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 10, 2025...</p></details>
    Published: April 10, 2025  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1kxfo7p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kxfo7p</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Department Emails Confirm 2017 UAP Briefings, Further Clarify Luis Elizondo’s Role in AATIPMay 28, 2025...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1kxfo7p" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1kxfo7p</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Department Emails Confirm 2017 UAP Briefings, Further Clarify Luis Elizondo’s Role in AATIPMay 28, 2025...</p></details>
    Published: May 28, 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Luis Elizondo on Fox News: US has “non-human” material & biologics from crashes  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1tot2tr/luis_elizondo_on_fox_news_us_has_nonhuman/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1tot2tr/luis_elizondo_on_fox_news_us_has_nonhuman/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo on Fox News: US has “non-human” material &amp; biologics from crashes...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1tot2tr/luis_elizondo_on_fox_news_us_has_nonhuman/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1tot2tr/luis_elizondo_on_fox_news_us_has_nonhuman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo on Fox News: US has “non-human” material &amp; biologics from crashes...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: military.com  
    Title: (Courtesy of George Knapp) Military  
-   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How Believers in the Paranormal Birthed the Pentagon’s New Hunt for UFOs | Military.comMarch 7, 2022 — HOW BELIEVERS IN THE PARANORMAL BI...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Believers in the Paranormal Birthed the Pentagon’s New Hunt for UFOs | Military.comMarch 7, 2022 — HOW BELIEVERS IN THE PARANORMAL BI...</p></details>
    Published: March 7, 2022  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: newsweek.com  
-   Link: <a href="https://www.newsweek.com/pentagon-lot-more-classified-ufo-videos-ex-head-secret-government-program-1517003" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pentagon-lot-more-classified-ufo-videos-ex-head-secret-government-program-1517003</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>July 10, 2020 — PENTAGON HAS A ‘LOT MORE’ CLASSIFIED UFO VIDEOS, SAYS EX HEAD OF SECRET GOVERNMENT PROGRAM * * * Published Jul 10...</p></details>
+   Link:<a href="https://www.newsweek.com/pentagon-lot-more-classified-ufo-videos-ex-head-secret-government-program-1517003" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/pentagon-lot-more-classified-ufo-videos-ex-head-secret-government-program-1517003</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 10, 2020 — PENTAGON HAS A ‘LOT MORE’ CLASSIFIED UFO VIDEOS, SAYS EX HEAD OF SECRET GOVERNMENT PROGRAM * * * Published Jul 10...</p></details>
    Published: July 10, 2020  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: smithsonianmag.com  
    Title: Smithsonian Magazine The Year of UFOs  
-   Link: <a href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/</a>  
+   Link:<a href="https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/" target="_blank" rel="noopener noreferrer nofollow">https://www.smithsonianmag.com/air-space-magazine/year-ufos-180973965/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A response to Daniel Lavelle’s Guardian article, which portrayed UFO research dismissively, the piece criticizes his narrow focus and ske...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A response to Daniel Lavelle’s Guardian article, which portrayed UFO research dismissively, the piece criticizes his narrow focus and ske...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: washingtonpost.com  
    Title: The Washington Post I've reported on UFO sightings for decades  
-   Link: <a href="https://www.washingtonpost.com/opinions/interactive/2026/ufo-upa-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/interactive/2026/ufo-upa-sightings/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Shermer notes how public and government interest in UFOs surged after a 2017 *New York Times* story on a secret Pentagon program. Since t...</p></details>
+   Link:<a href="https://www.washingtonpost.com/opinions/interactive/2026/ufo-upa-sightings/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/opinions/interactive/2026/ufo-upa-sightings/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shermer notes how public and government interest in UFOs surged after a 2017 *New York Times* story on a secret Pentagon program. Since t...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2026/05/30/world-news/ex-pentagon-official-says-new-file-batch-proves-ufos-have-been-real-since-the-1940s/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/30/world-news/ex-pentagon-official-says-new-file-batch-proves-ufos-have-been-real-since-the-1940s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>national security since the 1940s. Speaking on &quot;Jesse Watters Primetime,&quot; Elizondo referenced top-secret intelligence suggesting the exis...</p></details>
+   Link:<a href="https://nypost.com/2026/05/30/world-news/ex-pentagon-official-says-new-file-batch-proves-ufos-have-been-real-since-the-1940s/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2026/05/30/world-news/ex-pentagon-official-says-new-file-batch-proves-ufos-have-been-real-since-the-1940s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>national security since the 1940s. Speaking on &quot;Jesse Watters Primetime,&quot; Elizondo referenced top-secret intelligence suggesting the exis...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
    Title: The Pentagon released its UFO videos – so I went to the US to chase aliens  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I found | Alien life | The GuardianApril 22, 2026 — Elizondo disputes the Pentagon’s statement that he never led AATIP. In 2...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I found | Alien life | The GuardianApril 22, 2026 — Elizondo disputes the Pentagon’s statement that he never led AATIP. In 2...</p></details>
    Published: April 22, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2025 — ‘I think it is only a matter of time before a sitting US president steps to the podium, and tells the world that we a...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 22, 2025 — ‘I think it is only a matter of time before a sitting US president steps to the podium, and tells the world that we a...</p></details>
    Published: November 22, 2025  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: washingtonpost.com  
    Title: Head of Pentagon’s secret ‘UFO’ office sought to make evidence public  
-   Link: <a href="https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostDecember 16, 2017 — HEAD OF PENTAGON’S SECRET ‘UFO’ OFFICE SOUGHT TO MAKE EVIDENCE PUBLIC December 16, 2017 More than...</p></details>
+   Link:<a href="https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostDecember 16, 2017 — HEAD OF PENTAGON’S SECRET ‘UFO’ OFFICE SOUGHT TO MAKE EVIDENCE PUBLIC December 16, 2017 More than...</p></details>
    Published: December 16, 2017  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: washingtonpost.com  
    Title: Head of Pentagon’s secret ‘UFO’ office sought to make evidence public  
-   Link: <a href="https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html?itid=lk_inline_manual_9" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html?itid=lk_inline_manual_9</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostDecember 16, 2017 — HEAD OF PENTAGON’S SECRET ‘UFO’ OFFICE SOUGHT TO MAKE EVIDENCE PUBLIC December 16, 2017 More than...</p></details>
+   Link:<a href="https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html?itid=lk_inline_manual_9" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/world/national-security/head-of-pentagons-secret-ufo-office-sought-to-make-evidence-public/2017/12/16/90bcb7cc-e2b2-11e7-8679-a9728984779c_story.html?itid=lk_inline_manual_9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostDecember 16, 2017 — HEAD OF PENTAGON’S SECRET ‘UFO’ OFFICE SOUGHT TO MAKE EVIDENCE PUBLIC December 16, 2017 More than...</p></details>
    Published: December 16, 2017  
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: wosu.org  
-   Link: <a href="https://www.wosu.org/news-partners/2017-12-19/i-dont-know-where-its-from-former-ufo-program-head-on-navy-jet-footage?_amp=true" target="_blank" rel="noopener noreferrer nofollow">https://www.wosu.org/news-partners/2017-12-19/i-dont-know-where-its-from-former-ufo-program-head-on-navy-jet-footage?_amp=true</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2017 — &#x27;I DON&#x27;T KNOW WHERE IT&#x27;S FROM&#x27;: FORMER UFO PROGRAM HEAD ON NAVY JET FOOTAGE NPR | By Victoria Whitley-Berry Published...</p></details>
+   Link:<a href="https://www.wosu.org/news-partners/2017-12-19/i-dont-know-where-its-from-former-ufo-program-head-on-navy-jet-footage?_amp=true" target="_blank" rel="noopener noreferrer nofollow">https://www.wosu.org/news-partners/2017-12-19/i-dont-know-where-its-from-former-ufo-program-head-on-navy-jet-footage?_amp=true</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 19, 2017 — &#x27;I DON&#x27;T KNOW WHERE IT&#x27;S FROM&#x27;: FORMER UFO PROGRAM HEAD ON NAVY JET FOOTAGE NPR | By Victoria Whitley-Berry Published...</p></details>
    Published: December 19, 2017  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: gq-magazine.co.uk  
-   Link: <a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>We had some questions | British GQNovember 9, 2021 — Politics THIS MAN RAN THE PENTAGON&#x27;S SECRETIVE UFO PROGRAMME FOR A DECADE. WE HAD SO...</p></details>
+   Link:<a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>We had some questions | British GQNovember 9, 2021 — Politics THIS MAN RAN THE PENTAGON&#x27;S SECRETIVE UFO PROGRAMME FOR A DECADE. WE HAD SO...</p></details>
    Published: November 9, 2021  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: erraticattempts.com  
-   Link: <a href="https://erraticattempts.com/2026/02/17/at-the-borders-of-the-human-uap-disclosure-the-paranormal-counterpublic-and-the-mediatization-of-american-political-culture-ea338/" target="_blank" rel="noopener noreferrer nofollow">https://erraticattempts.com/2026/02/17/at-the-borders-of-the-human-uap-disclosure-the-paranormal-counterpublic-and-the-mediatization-of-american-political-culture-ea338/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ratic AttemptsFebruary 17, 2026 — #338: AT THE BORDERS OF THE HUMAN: UAP DISCLOSURE, THE PARANORMAL COUNTERPUBLIC, AND THE MEDIATIZATION...</p></details>
+   Link:<a href="https://erraticattempts.com/2026/02/17/at-the-borders-of-the-human-uap-disclosure-the-paranormal-counterpublic-and-the-mediatization-of-american-political-culture-ea338/" target="_blank" rel="noopener noreferrer nofollow">https://erraticattempts.com/2026/02/17/at-the-borders-of-the-human-uap-disclosure-the-paranormal-counterpublic-and-the-mediatization-of-american-political-culture-ea338/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ratic AttemptsFebruary 17, 2026 — #338: AT THE BORDERS OF THE HUMAN: UAP DISCLOSURE, THE PARANORMAL COUNTERPUBLIC, AND THE MEDIATIZATION...</p></details>
    Published: February 17, 2026  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: elpais.com  
-   Link: <a href="https://elpais.com/ciencia/2026-05-24/secretos-conspiranoias-y-cortinas-de-humo-por-que-washington-se-toma-en-serio-los-ovnis.html?outputType=amp" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/ciencia/2026-05-24/secretos-conspiranoias-y-cortinas-de-humo-por-que-washington-se-toma-en-serio-los-ovnis.html?outputType=amp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Secretos, ovnis y cortinas de humo: por qué Washington está obsesionado con los extraterrestres | Ciencia | EL PAÍSMay 24, 2026 — Seguram...</p></details>
+   Link:<a href="https://elpais.com/ciencia/2026-05-24/secretos-conspiranoias-y-cortinas-de-humo-por-que-washington-se-toma-en-serio-los-ovnis.html?outputType=amp" target="_blank" rel="noopener noreferrer nofollow">https://elpais.com/ciencia/2026-05-24/secretos-conspiranoias-y-cortinas-de-humo-por-que-washington-se-toma-en-serio-los-ovnis.html?outputType=amp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secretos, ovnis y cortinas de humo: por qué Washington está obsesionado con los extraterrestres | Ciencia | EL PAÍSMay 24, 2026 — Seguram...</p></details>
    Published: May 24, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: english.elpais.com  
    Title: secrets ufos and smokescreens why washington is obsessed with extraterrestrials  
-   Link: <a href="https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishToday — Foto: Departamento de Guerra de EEUU (EFE) Disclosure Day is scheduled to open on June 12, 2026, five weeks afte...</p></details>
+   Link:<a href="https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EL PAÍS EnglishToday — Foto: Departamento de Guerra de EEUU (EFE) Disclosure Day is scheduled to open on June 12, 2026, five weeks afte...</p></details>
    Published: June 12, 2026  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: nightcloakindustries.com  
    Title: Image Subject File: James Fox Classification: Civilian — Documentary Fil  
-   Link: <a href="https://nightcloakindustries.com/influence-registry/" target="_blank" rel="noopener noreferrer nofollow">https://nightcloakindustries.com/influence-registry/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Influence Registry - NightCloak™ IndustriesTHE MODERN UAP / UFO WHISTLEBLOWERS &amp; PODCASTERS (2017–PRESENT) UAPs enter mainstream policy...</p></details>
+   Link:<a href="https://nightcloakindustries.com/influence-registry/" target="_blank" rel="noopener noreferrer nofollow">https://nightcloakindustries.com/influence-registry/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Influence Registry - NightCloak™ IndustriesTHE MODERN UAP / UFO WHISTLEBLOWERS &amp; PODCASTERS (2017–PRESENT) UAPs enter mainstream policy...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: space.com  
    Title: We May Not Be Alone, Former Pentagon UFO Investigator Says | Space  
-   Link: <a href="https://www.space.com/39169-aliens-may-exist-pentagon-ufo-program-chief.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39169-aliens-may-exist-pentagon-ufo-program-chief.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2017 — WE MAY NOT BE ALONE, FORMER PENTAGON UFO INVESTIGATOR SAYS News By Elizabeth Howell (space.com-astronomy) published...</p></details>
+   Link:<a href="https://www.space.com/39169-aliens-may-exist-pentagon-ufo-program-chief.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/39169-aliens-may-exist-pentagon-ufo-program-chief.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 20, 2017 — WE MAY NOT BE ALONE, FORMER PENTAGON UFO INVESTIGATOR SAYS News By Elizabeth Howell (space.com-astronomy) published...</p></details>
    Published: December 20, 2017  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uapwatchers.com  
    Title: ufo disclosure government transparency  
-   Link: <a href="https://uapwatchers.com/ufo-disclosure-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://uapwatchers.com/ufo-disclosure-government-transparency/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure: The Evolution Of Government Transparency On Unidentified Anomalous Phenomena 2025 / UAP WatchersJanuary 1, 2026 — THE ROL...</p></details>
+   Link:<a href="https://uapwatchers.com/ufo-disclosure-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://uapwatchers.com/ufo-disclosure-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Disclosure: The Evolution Of Government Transparency On Unidentified Anomalous Phenomena 2025 / UAP WatchersJanuary 1, 2026 — THE ROL...</p></details>
    Published: January 1, 2026  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: space.com  
    Title: Here’s how it works. Share Share t  
-   Link: <a href="https://www.space.com/ufo-pentagon-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-pentagon-history-channel.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Head of Pentagon&#x27;s Secret UFO Program Has Some (Strange) Stories to Tell | SpaceMay 31, 2019 — FORMER HEAD OF PENTAGON&#x27;S SECRET UF...</p></details>
+   Link:<a href="https://www.space.com/ufo-pentagon-history-channel.html" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/ufo-pentagon-history-channel.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Head of Pentagon&#x27;s Secret UFO Program Has Some (Strange) Stories to Tell | SpaceMay 31, 2019 — FORMER HEAD OF PENTAGON&#x27;S SECRET UF...</p></details>
    Published: May 31, 2019  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wosu.org  
    Title: UFOs -- is the truth out there? N  
-   Link: <a href="https://www.wosu.org/2017-12-20/a-secret-pentagon-ufo-program-searches-for-the-unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.wosu.org/2017-12-20/a-secret-pentagon-ufo-program-searches-for-the-unexplained</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Secret Pentagon UFO Program Searches For The Unexplained | WOSU Public MediaDecember 20, 2017 — A SECRET PENTAGON UFO PROGRAM SEARCHES...</p></details>
+   Link:<a href="https://www.wosu.org/2017-12-20/a-secret-pentagon-ufo-program-searches-for-the-unexplained" target="_blank" rel="noopener noreferrer nofollow">https://www.wosu.org/2017-12-20/a-secret-pentagon-ufo-program-searches-for-the-unexplained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Secret Pentagon UFO Program Searches For The Unexplained | WOSU Public MediaDecember 20, 2017 — A SECRET PENTAGON UFO PROGRAM SEARCHES...</p></details>
    Published: December 20, 2017

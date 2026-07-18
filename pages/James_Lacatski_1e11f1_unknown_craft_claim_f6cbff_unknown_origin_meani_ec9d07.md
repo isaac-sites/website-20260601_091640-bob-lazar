@@ -259,11 +259,11 @@ image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_o
 When James Lacatski and his co-authors wrote that the United States possessed a “craft of unknown origin”, the phrase did not automatically mean “alien spacecraft”. That is the key point often lost in public discussion. The wording is striking because it suggests uncertainty about where the alleged object came from, but uncertainty and extraterrestrial origin are not the same thing.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-1-dark.svg" | relative_url }}" alt="Unknown Origin illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For assessing Lacatski’s credibility, the phrase matters because it sits at the centre of the claim while also being one of its least precise elements. The published account does not define exactly what “unknown origin” means, who determined that origin was unknown, what investigative process was used, or what alternative explanations had been ruled out. As a result, readers can interpret the phrase much more broadly than the available evidence supports. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span>
+For assessing Lacatski’s credibility, the phrase matters because it sits at the centre of the claim while also being one of its least precise elements. The published account does not define exactly what “unknown origin” means, who determined that origin was unknown, what investigative process was used, or what alternative explanations had been ruled out. As a result, readers can interpret the phrase much more broadly than the available evidence supports.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span>
 
 ## How the phrase is used in the published account
 
-The wording entered public discussion through *Inside the U.S. Government Covert UFO Program: Initial Revelations*, where Lacatski is described as stating that the United States possessed a craft of unknown origin and had gained access to its interior. The accompanying description focuses on the object's apparent engineering characteristics rather than its provenance. It reportedly lacked obvious wings, control surfaces, exhausts, fuel tanks or a visible propulsion system. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-snippet">Amazon UKInside the US Government Covert UFO Program: Initial...He stated that the United States was in possession of a craft of unknown...</span></span></span>
+The wording entered public discussion through *Inside the U.S. Government Covert UFO Program: Initial Revelations*, where Lacatski is described as stating that the United States possessed a craft of unknown origin and had gained access to its interior. The accompanying description focuses on the object's apparent engineering characteristics rather than its provenance. It reportedly lacked obvious wings, control surfaces, exhausts, fuel tanks or a visible propulsion system.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.co.uk">[Amazon UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.co.uk</span><span class="citation-popover-snippet">Amazon UKInside the US Government Covert UFO Program: Initial...He stated that the United States was in possession of a craft of unknown...</span></span></span>
 
 Notably, the quoted passage does not say:
 
@@ -276,7 +276,7 @@ Notably, the quoted passage does not say:
 
 </div>
 
-Instead, it says its origin was unknown. That is a narrower statement. Unknown origin is a description of a knowledge gap, not a declaration of what fills that gap. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span>
+Instead, it says its origin was unknown. That is a narrower statement. Unknown origin is a description of a knowledge gap, not a declaration of what fills that gap.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span>
 
 This distinction may sound technical, but it is central to understanding the claim. In intelligence, military and engineering contexts, “unknown” often means that attribution has not been established to the satisfaction of investigators. It does not automatically imply a particular alternative explanation.
 
@@ -300,16 +300,16 @@ Many advanced military projects are compartmentalised. Personnel can encounter s
 
 The phrase could also refer to a situation in which chain-of-custody records, manufacturing records or acquisition records were absent or disputed.
 
-None of these explanations proves that Lacatski's claim is correct. Rather, they illustrate why “unknown origin” is a broader category than “alien technology”. The language leaves multiple possibilities open. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails to Answer</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
+None of these explanations proves that Lacatski's claim is correct. Rather, they illustrate why “unknown origin” is a broader category than “alien technology”. The language leaves multiple possibilities open.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">The 4 Big Questions the Pentagon&#x27;s New UFO Report Fails to Answer</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-2-dark.svg" | relative_url }}" alt="Unknown Origin illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters focus on the wording
 
 Supporters of Lacatski's credibility often argue that the phrase was chosen deliberately and conservatively.
 
-From this perspective, an experienced Defence Intelligence Agency official would be unlikely to use the term “unknown origin” casually. Advocates contend that if the object were easily attributable to a foreign government, a contractor or a classified US programme, officials would eventually have reached that conclusion. The continued use of the phrase is therefore treated as evidence that ordinary explanations had already been examined and found wanting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yogaesoteric.net">[YogaEsoteric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yogaesoteric.net</span><span class="citation-popover-snippet">Former head of US gov&#x27;t UFO program confirms...October 31, 2023 — 31 Oct 2023 — The inclusion of the term &#x27;unknown origin&#x27; i...</span><span class="citation-popover-meta">Published: October 31, 2023</span></span></span>
+From this perspective, an experienced Defence Intelligence Agency official would be unlikely to use the term “unknown origin” casually. Advocates contend that if the object were easily attributable to a foreign government, a contractor or a classified US programme, officials would eventually have reached that conclusion. The continued use of the phrase is therefore treated as evidence that ordinary explanations had already been examined and found wanting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: yogaesoteric.net">[YogaEsoteric]</a><span class="citation-popover" role="note"><span class="citation-popover-source">yogaesoteric.net</span><span class="citation-popover-snippet">Former head of US gov&#x27;t UFO program confirms...October 31, 2023 — 31 Oct 2023 — The inclusion of the term &#x27;unknown origin&#x27; i...</span><span class="citation-popover-meta">Published: October 31, 2023</span></span></span>
 
-Supporters also note that Lacatski did not present himself publicly as a UFO activist before becoming associated with AAWSAP and related UAP investigations. They argue that his government background gives the wording greater weight than a similar statement from a private UFO researcher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+Supporters also note that Lacatski did not present himself publicly as a UFO activist before becoming associated with AAWSAP and related UAP investigations. They argue that his government background gives the wording greater weight than a similar statement from a private UFO researcher.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 However, this remains an inference rather than publicly demonstrated evidence. The public has not seen the underlying documentation that would show how investigators reached the conclusion that the origin was unknown.
 
@@ -324,12 +324,12 @@ This is why sceptics often distinguish between:
 <div class="content-enhancement content-enhancement--checklist" markdown="1">
 
 * **unknown origin** and **non-human origin**;
-* **unidentified** and **extraterrestrial**; <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</span></span></span>
+* **unidentified** and **extraterrestrial**;<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[nypost.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</span></span></span>
 * **absence of explanation** and **evidence for a specific explanation**.
 
 </div>
 
-The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly stated that its historical review found no verified evidence that the US government possesses extraterrestrial technology or recovered non-human craft. While that does not directly disprove Lacatski's claim, it means there is currently no publicly released government evidence confirming that “unknown origin” should be interpreted as alien origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</span></span></span>
+The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly stated that its historical review found no verified evidence that the US government possesses extraterrestrial technology or recovered non-human craft. While that does not directly disprove Lacatski's claim, it means there is currently no publicly released government evidence confirming that “unknown origin” should be interpreted as alien origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U9ncpiLOTe8" title="Pentagon UFO Files Finally Revealed? The AARO Report Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U9ncpiLOTe8" target="_blank" rel="noopener noreferrer">Pentagon UFO Files Finally Revealed? The AARO Report Explained</a></p><p class="youtube-embed-meta">Channel: Thiện Thông TV &middot; Views: 34 &middot; Uploaded: May 2026 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U9ncpiLOTe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U9ncpiLOTe8">Open on YouTube</a></p></div></div></div>
 
@@ -337,7 +337,7 @@ The Pentagon's All-domain Anomaly Resolution Office (AARO) has repeatedly stated
 
 For evaluating James Lacatski, the phrase “unknown origin” is neither a trivial detail nor a smoking gun. It is the mechanism through which the claim gains much of its impact.
 
-If the wording had been “alien craft”, readers could directly assess that proposition. Instead, the published language occupies an intermediate position. It suggests something unusual while stopping short of making a fully explicit extraterrestrial claim. <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span>
+If the wording had been “alien craft”, readers could directly assess that proposition. Instead, the published language occupies an intermediate position. It suggests something unusual while stopping short of making a fully explicit extraterrestrial claim.<span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell</span></span></span>
 
 That has two consequences:
 
@@ -345,157 +345,157 @@ First, it makes the claim harder to falsify. A reader cannot easily test what �
 
 Second, it means credibility depends heavily on trust in the source. The public is being asked to weigh Lacatski's institutional position and claimed access against the absence of independently verifiable supporting material.
 
-As a result, the strongest evidence-based conclusion is relatively narrow: Lacatski publicly associated himself with a claim that the United States possessed a craft whose origin he characterised as unknown. What remains unproven is whether that unknown origin reflected a genuinely anomalous technology, a classified human technology, an attribution problem, or something else entirely. The wording itself does not resolve that question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.com/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-snippet">enigmatic craft of unknown origin and propulsion.Read more...</span></span></span>
+As a result, the strongest evidence-based conclusion is relatively narrow: Lacatski publicly associated himself with a claim that the United States possessed a craft whose origin he characterised as unknown. What remains unproven is whether that unknown origin reflected a genuinely anomalous technology, a classified human technology, an attribution problem, or something else entirely. The wording itself does not resolve that question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nypost.com">[New York Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nypost.com</span><span class="citation-popover-snippet">This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="#endnote-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: PLATINUM...Read more">[Google Books]</a><span class="citation-popover" role="note"><span class="citation-popover-source">PLATINUM...Read more</span><span class="citation-popover-snippet">Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.com/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.com">[Amazon]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.com</span><span class="citation-popover-snippet">enigmatic craft of unknown origin and propulsion.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-3-dark.svg" | relative_url }}" alt="Unknown Origin illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Does &#x27;unknown origin&#x27; mean alien technology?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Does &#x27;unknown origin&#x27; mean alien technology?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door"><img src="https://i.ebayimg.com/images/g/4b8AAeSwxX9qGC5c/s-l225.jpg" alt="Listing image for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door"><img src="https://i.ebayimg.com/images/g/4b8AAeSwxX9qGC5c/s-l225.jpg" alt="Listing image for Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Aliens UD-4L Cheyenne Dropship Resin Model Kit 34cm Movable Wings Trap Door</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Scratchbuilt UFO Flying Saucer Shape Desktop Model !"><img src="https://i.ebayimg.com/images/g/CIMAAeSwPI1pgk0U/s-l225.jpg" alt="Listing image for Scratchbuilt UFO Flying Saucer Shape Desktop Model !" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Scratchbuilt UFO Flying Saucer Shape Desktop Model !</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Aliens APC HAL01, 1:35 Scale Model Kit PLUS Colonial Marines"><img src="https://i.ebayimg.com/images/g/0woAAeSw8XNqIn3~/s-l225.jpg" alt="Listing image for Halcyon Aliens APC HAL01, 1:35 Scale Model Kit PLUS Colonial Marines" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Aliens APC HAL01, 1:35 Scale Model Kit PLUS Colonial Marines</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Aliens APC HAL01, 1:35 Scale Model Kit PLUS Colonial Marines"><img src="https://i.ebayimg.com/images/g/0woAAeSw8XNqIn3~/s-l225.jpg" alt="Listing image for Halcyon Aliens APC HAL01, 1:35 Scale Model Kit PLUS Colonial Marines" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Aliens APC HAL01, 1:35 Scale Model Kit PLUS Colonial Marines</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit"><img src="https://i.ebayimg.com/images/g/ixwAAeSwOwJqInoP/s-l225.jpg" alt="Listing image for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit"><img src="https://i.ebayimg.com/images/g/ixwAAeSwOwJqInoP/s-l225.jpg" alt="Listing image for Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">Halcyon Alien 3, Aliens, USS Sulaco, HAL12 Movie Classics 1:2400 Scale Model Kit</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien spacecraft model">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien spacecraft model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+spacecraft+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=does-unknown-origin-mean-alien-technology-alien-spacecraft-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien spacecraft model" data-ebay-reference="does-unknown-origin-mean-alien-technology-alien-spacecraft-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -511,7 +511,7 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -531,7 +531,7 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -563,7 +563,7 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -615,7 +615,7 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -660,7 +660,7 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -701,99 +701,99 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: books.google.com  
    Title: Books Inside the U.S  
-   Link: <a href="https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell...</p></details>
+   Link:<a href="https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ" target="_blank" rel="noopener noreferrer nofollow">https://books.google.com/books/about/Inside_the_U_S_Government_Covert_UFO_Pro.html?id=Yt5a0AEACAAJ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO ProgramInside the U.S. Government Covert UFO Program: Initial Revelations. Authors, James T. Lacatski, Colm A. Kell...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKInside the US Government Covert UFO Program: Initial...He stated that the United States was in possession of a craft of unknown...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon UKInside the US Government Covert UFO Program: Initial...He stated that the United States was in possession of a craft of unknown...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
    Title: The 4 Big Questions the Pentagon's New UFO Report Fails to Answer  
-   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
+   Link:<a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: yogaesoteric.net  
-   Link: <a href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow">https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former head of US gov&#x27;t UFO program confirms...October 31, 2023 — 31 Oct 2023 — The inclusion of the term &#x27;unknown origin&#x27; i...</p></details>
+   Link:<a href="https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/" target="_blank" rel="noopener noreferrer nofollow">https://yogaesoteric.net/en/former-head-of-us-govt-ufo-program-confirms-govt-possesses-advanced-craft-of-unknown-origin/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former head of US gov&#x27;t UFO program confirms...October 31, 2023 — 31 Oct 2023 — The inclusion of the term &#x27;unknown origin&#x27; i...</p></details>
    Published: October 31, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: amazon.com  
-   Link: <a href="https://www.amazon.com/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>enigmatic craft of unknown origin and propulsion.Read more...</p></details>
+   Link:<a href="https://www.amazon.com/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.com/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enigmatic craft of unknown origin and propulsion.Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
    Published: March 22, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</p></details>
+   Link:<a href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramSkinwalkers at the Pentagon: An Insiders&#x27; Account of the Government&#x27;s Secret UFO...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramSkinwalkers at the Pentagon: An Insiders&#x27; Account of the Government&#x27;s Secret UFO...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bap0yy/anyone_here_believes_the_aaro_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bap0yy/anyone_here_believes_the_aaro_report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone here believes the AARO report?: r/UFOsPentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report.... p...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bap0yy/anyone_here_believes_the_aaro_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bap0yy/anyone_here_believes_the_aaro_report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anyone here believes the AARO report?: r/UFOsPentagon UFO office finds &#x27;no empirical evidence&#x27; for alien technology in new report.... p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsTalk1015/posts/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-tr/1636140895181196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsTalk1015/posts/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-tr/1636140895181196/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF WAR RELEASES UNIDENTIFIED...&quot;AARO has found no verifiable evidence that the U.S. government or private industry has ever h...</p></details>
+   Link:<a href="https://www.facebook.com/NewsTalk1015/posts/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-tr/1636140895181196/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsTalk1015/posts/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-tr/1636140895181196/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DEPARTMENT OF WAR RELEASES UNIDENTIFIED...&quot;AARO has found no verifiable evidence that the U.S. government or private industry has ever h...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: ebay.com  
-   Link: <a href="https://www.ebay.com/itm/256837204704" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/256837204704</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government Covert UFO ProgramHe stated that the United States was in possession of a craft of unknown origin and had succes...</p></details>
+   Link:<a href="https://www.ebay.com/itm/256837204704" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.com/itm/256837204704</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government Covert UFO ProgramHe stated that the United States was in possession of a craft of unknown origin and had succes...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: people.com  
-   Link: <a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
+   Link:<a href="https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655" target="_blank" rel="noopener noreferrer nofollow">https://people.com/aliens-have-not-visited-earth-pentagon-announces-new-report-8606655</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UU. ha ocultado tecnología extraterrestre. Según la Oficina de Resolución de Anomalías en Todos los Dominios (AARO), no existe evidencia...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: dr james lacatski says that the us government cleared him to disclose ufo revers  
-   Link: <a href="https://www.facebook.com/disclosureparty/posts/dr-james-lacatski-says-that-the-us-government-cleared-him-to-disclose-ufo-revers/122248603826145264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/posts/dr-james-lacatski-says-that-the-us-government-cleared-him-to-disclose-ufo-revers/122248603826145264/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski says that the U.S. government cleared...James Lacatski says that the U.S. government cleared him to disclose UFO reverse...</p></details>
+   Link:<a href="https://www.facebook.com/disclosureparty/posts/dr-james-lacatski-says-that-the-us-government-cleared-him-to-disclose-ufo-revers/122248603826145264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/disclosureparty/posts/dr-james-lacatski-says-that-the-us-government-cleared-him-to-disclose-ufo-revers/122248603826145264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski says that the U.S. government cleared...James Lacatski says that the U.S. government cleared him to disclose UFO reverse...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO Program: Initial Revelations · December 2024 · Journal of Scientific Exploration 38(4):707-710.Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387477127_First_Review_Inside_the_US_Government_Covert_UFO_Program_Initial_Revelations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Covert UFO Program: Initial Revelations · December 2024 · Journal of Scientific Exploration 38(4):707-710.Read more...</p></details>
    Published: December 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/pt/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/pt/book/show/199608691-inside-the-us-government-covert-ufo-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James... He stated that the United States was in possession of a craft of unknown origin and...Read more...</p></details>
+   Link:<a href="https://www.goodreads.com/pt/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/pt/book/show/199608691-inside-the-us-government-covert-ufo-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James... He stated that the United States was in possession of a craft of unknown origin and...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[Publisher not listed]. ISBN-13: 979-8989114610 [https://doi.org/10.31275/20243...&quot;](https://doi.org/10.31275/20243...&quot;)...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;[Publisher not listed]. ISBN-13: 979-8989114610 [https://doi.org/10.31275/20243...&quot;](https://doi.org/10.31275/20243...&quot;)...</p></details>
 
 5
 
@@ -801,7 +801,7 @@ As a result, the strongest evidence-based conclusion is relatively narrow: Lacat
 
 1. PLATINUM...Read more
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: ebay.co.uk  
-   Link: <a href="https://www.ebay.co.uk/itm/305955814415" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/305955814415</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>est and most far-reaching United States Government covert UFO program in...Read more...</p></details>
+   Link:<a href="https://www.ebay.co.uk/itm/305955814415" target="_blank" rel="noopener noreferrer nofollow">https://www.ebay.co.uk/itm/305955814415</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>est and most far-reaching United States Government covert UFO program in...Read more...</p></details>

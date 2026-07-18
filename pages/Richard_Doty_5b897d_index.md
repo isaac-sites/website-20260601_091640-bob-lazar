@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-index/
 description: Focused pages that expand on Was Richard Doty an Insider or Disinformer?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Richard_Doty_5b897d
 parent_title: Was Richard Doty an Insider or Disinformer?
@@ -16,7 +16,7 @@ parent_permalink: /was-richard-doty-an-insider-or/
 
 # Explore Topics in Was Richard Doty an Insider or Disinformer?
 
-The following pages expand on the main **[Was Richard Doty an Insider or Disinformer?]({{ '/was-richard-doty-an-insider-or/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Was Richard Doty an Insider or Disinformer?]({{ '/was-richard-doty-an-insider-or/' | relative_url }})** page and cover its key branches in.
 
 - [AFOSI Record]({{ '/afosi-record/' | relative_url }})
 - [Bennewitz]({{ '/bennewitz/' | relative_url }})

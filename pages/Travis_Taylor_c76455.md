@@ -315,39 +315,39 @@ image: /assets/images/Travis_Taylor_c76455-overview-social.jpg
 
 ## What Travis Taylor is actually known for in UAP circles
 
-Taylor’s public UAP profile rests on three pillars. First, he became one of the best-known scientific faces of *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, a History Channel series about alleged UFO, radiation, animal-mutilation, electronic-interference and paranormal-style anomalies at a ranch in Utah. Second, he later disclosed that he had worked with the Pentagon’s Unidentified Aerial Phenomena [Task Force]({{ 'task-force/' | relative_url }}), the body whose work fed into the 2021 ODNI preliminary assessment on UAP. Third, he has become a media personality who bridges engineering, military technology, speculative science fiction and anomalous-phenomena entertainment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Open source on dni.gov.</span></span></span>
+Taylor’s public UAP profile rests on three pillars. First, he became one of the best-known scientific faces of *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, a History Channel series about alleged UFO, radiation, animal-mutilation, electronic-interference and paranormal-style anomalies at a ranch in Utah. Second, he later disclosed that he had worked with the Pentagon’s Unidentified Aerial Phenomena [Task Force]({{ 'task-force/' | relative_url }}), the body whose work fed into the 2021 ODNI preliminary assessment on UAP. Third, he has become a media personality who bridges engineering, military technology, speculative science fiction and anomalous-phenomena entertainment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Open source on dni.gov.</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455-overview.webp" | relative_url }}" alt="Overview image for How Credible Is Travis Taylor on UAPs?" loading="eager" decoding="sync" fetchpriority="high">
 The central credibility question is therefore not whether Taylor has a technical background. He plainly does. The question is whether his public UAP conclusions are supported by evidence that an outside reader can inspect. On that test, the record is much more cautious. His strongest verified claim is institutional: he contributed scientific and engineering advice to the UAP Task Force. His weaker [claims]({{ 'claims/' | relative_url }}) are evidential: many Skinwalker Ranch anomalies, personal experiences and interpretations remain presented through television episodes, interviews or secondary reporting rather than through independent, reproducible, peer-reviewed evidence.
 
 ## The verified background: real technical credentials, real defence links
 
-Taylor’s biography is unusually strong by the standards of UFO media personalities. The Encyclopedia of Alabama describes him as a scientist, engineer, author and television personality who has served in roles at NASA and the Department of Defense, and records multiple advanced degrees, including University of Alabama in Huntsville graduate work in physics, mechanical and aerospace engineering, optical science engineering and aerospace systems engineering. It also describes his earlier work with the US Army and his long association with defence and aerospace projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span>
+Taylor’s biography is unusually strong by the standards of UFO media personalities. The Encyclopedia of Alabama describes him as a scientist, engineer, author and television personality who has served in roles at NASA and the Department of Defense, and records multiple advanced degrees, including University of Alabama in Huntsville graduate work in physics, mechanical and aerospace engineering, optical science engineering and aerospace systems engineering. It also describes his earlier work with the US Army and his long association with defence and aerospace projects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span>
 
-A Space Symposium speaker biography says Taylor has worked for more than three decades on advanced technology programmes for the Department of Defense, NASA and the intelligence community, including propulsion concepts, space telescopes, beamed-energy systems, quantum information systems and future combat technologies. The same profile states that from 2019 to 2022 he served as chief scientist for the UAP Task Force supporting the Office of the Director of National Intelligence and the Secretary of Defense. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[spacesymposium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">Dr. Travis Taylor</span><span class="citation-popover-snippet">Dr. Travis Taylor</span></span></span>
+A Space Symposium speaker biography says Taylor has worked for more than three decades on advanced technology programmes for the Department of Defense, NASA and the intelligence community, including propulsion concepts, space telescopes, beamed-energy systems, quantum information systems and future combat technologies. The same profile states that from 2019 to 2022 he served as chief scientist for the UAP Task Force supporting the Office of the Director of National Intelligence and the Secretary of Defense.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[spacesymposium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">Dr. Travis Taylor</span><span class="citation-popover-snippet">Dr. Travis Taylor</span></span></span>
 
 Those credentials matter because Taylor is not merely an enthusiast using scientific language. He has demonstrable experience in technical domains relevant to sensors, aerospace systems and defence technology. But credentials do not settle the UAP question by themselves. A person can be technically qualified and still overinterpret weak data, appear in speculative entertainment, or make claims that cannot be checked publicly.
 
 ## His UAP Task Force role: important, but often overstated
 
-Taylor’s UAP [Task Force role]({{ 'task-force-role/' | relative_url }}) is the most consequential part of his public credibility. The ODNI’s 2021 preliminary assessment says the UAP Task Force had made progress in understanding UAP and was involved in producing the report submitted to Congress. That report was cautious: it treated UAP as a potential flight-safety and national-security issue, not as proof of alien technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Prelimary Assessment UAP 20210625</span></span></span>
+Taylor’s UAP [Task Force role]({{ 'task-force-role/' | relative_url }}) is the most consequential part of his public credibility. The ODNI’s 2021 preliminary assessment says the UAP Task Force had made progress in understanding UAP and was involved in producing the report submitted to Congress. That report was cautious: it treated UAP as a potential flight-safety and national-security issue, not as proof of alien technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Prelimary Assessment UAP 20210625</span><span class="citation-popover-snippet">Prelimary Assessment UAP 20210625</span></span></span>
 
-The clearest public description of Taylor’s role comes from Pentagon statements published by The Black Vault. According to those statements, Taylor remained an employee of the US Army Space and Missile Defense Command, was provided to the UAP Task Force on a time-limited basis, and was one contributor among a larger number of organisations across the Department of Defense, intelligence community and federal government. Former Office of Naval Intelligence official John Stratton, who was leading the effort, “informally referred” to Taylor as his chief scientist while the task force was being assembled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
+The clearest public description of Taylor’s role comes from Pentagon statements published by The Black Vault. According to those statements, Taylor remained an employee of the US Army Space and Missile Defense Command, was provided to the UAP Task Force on a time-limited basis, and was one contributor among a larger number of organisations across the Department of Defense, intelligence community and federal government. Former Office of Naval Intelligence official John Stratton, who was leading the effort, “informally referred” to Taylor as his chief scientist while the task force was being assembled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
 
-That matters because “chief scientist” can sound like sole scientific authority over the government’s UAP work. The public record is narrower. Pentagon wording describes Taylor as a contributing scientist and engineer who reviewed military UAP reports and related materials or data to help identify objects and improve future technical collection. The same statement says his work focused on scientific and technical advice, not intelligence analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
+That matters because “chief scientist” can sound like sole scientific authority over the government’s UAP work. The public record is narrower. Pentagon wording describes Taylor as a contributing scientist and engineer who reviewed military UAP reports and related materials or data to help identify objects and improve future technical collection. The same statement says his work focused on scientific and technical advice, not intelligence analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
 
 A balanced reading is that Taylor’s UAP Task Force involvement was real and meaningful, but not the same as being the sole architect, final intelligence authority or public guarantor of the government’s conclusions.
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455-Illustration-1-dark.svg" | relative_url }}" alt="How Credible Is Travis Taylor on UAPs? illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Skinwalker Ranch problem: investigation, entertainment and weak public evidence
 
-Taylor’s most visible UAP work is not in an official report but on *The Secret of Skinwalker Ranch*. The programme places him in a team investigating alleged anomalies at a Utah ranch long associated with UFO and paranormal claims. The Encyclopedia of Alabama notes that Taylor has starred in the series since 2020 and summarises the ranch’s reported phenomena: strange lights, animal mutilations and electronic interference. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span>
+Taylor’s most visible UAP work is not in an official report but on *The Secret of Skinwalker Ranch*. The programme places him in a team investigating alleged anomalies at a Utah ranch long associated with UFO and paranormal claims. The Encyclopedia of Alabama notes that Taylor has starred in the series since 2020 and summarises the ranch’s reported phenomena: strange lights, animal mutilations and electronic interference.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span>
 
 For [supporters]({{ 'supporters-58c2df/' | relative_url }}), Skinwalker Ranch shows Taylor doing hands-on field investigation: using instruments, rockets, drones, cameras, [radiation]({{ 'radiation/' | relative_url }}) measurements and engineering reasoning rather than simply repeating folklore. This makes him more credible to viewers than a purely anecdotal witness. He is also often shown asking for measurements and physical mechanisms, which gives his public persona a scientific tone.
 
 For sceptics, the ranch is where Taylor’s credibility becomes most vulnerable. The claims are frequently presented in edited television form, where dramatic pacing, partial information and cliffhanger structure can outrun evidence. The strongest public scientific standard would be clear instrument logs, calibrated sensor data, error analysis, independent replication and publication in venues where outside specialists can challenge the work. Much of the ranch material has not met that standard in public.
 
-A Journal of Scientific Exploration review by Barry Greenwood criticised the way medical and physical claims around the ranch can be linked into a “perfect storm of paranormal hysteria”. It specifically notes Taylor’s claim that in 2020 he was hit with a dangerous burst of radiation after looking into a hole on the ranch property, then asks why, if such dangerous radiation was present, the site had not been treated as a restricted biological or safety area by federal authorities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span><span class="citation-popover-snippet">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span></span></span>
+A Journal of Scientific Exploration review by Barry Greenwood criticised the way medical and physical claims around the ranch can be linked into a “perfect storm of paranormal hysteria”. It specifically notes Taylor’s claim that in 2020 he was hit with a dangerous burst of radiation after looking into a hole on the ranch property, then asks why, if such dangerous radiation was present, the site had not been treated as a restricted biological or safety area by federal authorities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-title">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span><span class="citation-popover-snippet">Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd</span></span></span>
 
 That criticism does not prove Taylor is wrong about what he experienced. It does show the gap between a frightening on-screen event and a publicly documented hazard assessment. In credibility terms, the radiation story is a first-hand claim with some potential instrumental framing, but it remains weak unless the measurements, calibration, exposure pathway, medical records and independent safety review can be evaluated.
 
@@ -357,13 +357,13 @@ That criticism does not prove Taylor is wrong about what he experienced. It does
 
 Taylor’s UAP-related claims are best separated into categories.
 
-**Well-supported facts:** Taylor has a substantial technical education and aerospace-defence career; he has worked in government and contractor settings; he appeared on UAP-related television; and he contributed to the UAP Task Force in a scientific and engineering capacity. These points are supported by institutional biographies, Pentagon statements and official UAP context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[2spacesymposium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">Dr. Travis Taylor</span><span class="citation-popover-snippet">Dr. Travis Taylor</span></span></span>
+**Well-supported facts:** Taylor has a substantial technical education and aerospace-defence career; he has worked in government and contractor settings; he appeared on UAP-related television; and he contributed to the UAP Task Force in a scientific and engineering capacity. These points are supported by institutional biographies, Pentagon statements and official UAP context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: encyclopediaofalabama.org">[Encyclopedia of Alabama]</a><span class="citation-popover" role="note"><span class="citation-popover-source">encyclopediaofalabama.org</span><span class="citation-popover-title">Encyclopedia of Alabama Travis S. Taylor</span><span class="citation-popover-snippet">Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spacesymposium.org">[2spacesymposium.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spacesymposium.org</span><span class="citation-popover-title">Dr. Travis Taylor</span><span class="citation-popover-snippet">Dr. Travis Taylor</span></span></span>
 
-**Plausible but limited public claims:** Taylor had access to some military UAP reports or related materials as part of his task-force work. Pentagon statements support that general point, but the underlying classified or restricted materials are not publicly available for ordinary readers to inspect. His authority here is therefore real but constrained: he can plausibly have seen more than the public, but the public cannot verify most of what that access may have shown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
+**Plausible but limited public claims:** Taylor had access to some military UAP reports or related materials as part of his task-force work. Pentagon statements support that general point, but the underlying classified or restricted materials are not publicly available for ordinary readers to inspect. His authority here is therefore real but constrained: he can plausibly have seen more than the public, but the public cannot verify most of what that access may have shown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
 
 **Weakly supported public claims:** Many Skinwalker Ranch anomalies, including radiation events, aerial phenomena and possible links between experiments and anomalous responses, remain weak in public evidence terms. They may be intriguing, but edited television evidence is not the same as a complete scientific record.
 
-**Unsupported as established fact:** Taylor’s public profile does not establish that UAP are extraterrestrial craft, non-human technology or proof of a hidden recovery programme. NASA’s UAP FAQ says there are no data supporting the idea that UAP are evidence of alien technologies, and that the limited number of high-quality observations makes firm scientific conclusions impossible. The Department of Defense’s AARO has likewise said it found no verifiable evidence that any UAP sighting represented extraterrestrial activity, or that the US government or private industry had access to extraterrestrial technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Unsupported as established fact:** Taylor’s public profile does not establish that UAP are extraterrestrial craft, non-human technology or proof of a hidden recovery programme. NASA’s UAP FAQ says there are no data supporting the idea that UAP are evidence of alien technologies, and that the limited number of high-quality observations makes firm scientific conclusions impossible. The Department of Defense’s AARO has likewise said it found no verifiable evidence that any UAP sighting represented extraterrestrial activity, or that the US government or private industry had access to extraterrestrial technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455-Illustration-2-dark.svg" | relative_url }}" alt="How Credible Is Travis Taylor on UAPs? illustration 2" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters find him credible
@@ -376,13 +376,13 @@ The strongest supporter case is therefore about access and competence. Taylor ha
 
 ## Why critics remain unconvinced
 
-Critics make a different argument: Taylor’s government role may be real, but his public credibility is weakened by his association with programmes such as *Ancient Aliens* and *The Secret of Skinwalker Ranch*, where speculative or paranormal framing can sit beside scientific language. Science journalist Keith Kloor reported in 2022 on criticism of Taylor’s UAP Task Force involvement, focusing on the awkwardness of a reality-TV figure associated with supernatural claims holding a prominent scientific role in a government UAP process. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
+Critics make a different argument: Taylor’s government role may be real, but his public credibility is weakened by his association with programmes such as *Ancient Aliens* and *The Secret of Skinwalker Ranch*, where speculative or paranormal framing can sit beside scientific language. Science journalist Keith Kloor reported in 2022 on criticism of Taylor’s UAP Task Force involvement, focusing on the awkwardness of a reality-TV figure associated with supernatural claims holding a prominent scientific role in a government UAP process.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-title">Science UAP FAQs</span><span class="citation-popover-snippet">Science UAP FAQs</span></span></span>
 
-Some criticism overreached or became tangled in disputes about wording. The Black Vault later argued that early coverage had misrepresented or under-contextualised Pentagon statements about Taylor’s role, and published the fuller wording: Taylor was provided by SMDC on a time-limited basis, worked as one contributor among many, and was informally referred to as chief scientist by task-force leadership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
+Some criticism overreached or became tangled in disputes about wording. The Black Vault later argued that early coverage had misrepresented or under-contextualised Pentagon statements about Taylor’s role, and published the fuller wording: Taylor was provided by SMDC on a time-limited basis, worked as one contributor among many, and was informally referred to as chief scientist by task-force leadership.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
 
 Even so, the core sceptical concern remains serious. Taylor’s public work often asks viewers to trust a blend of classified access, personal experience, television investigation and incomplete data. That blend is not the same as open evidence. Critics are also right to ask whether a person can simultaneously be a government-linked UAP adviser, a paid television investigator of paranormal claims, and a media commentator without creating perception problems around independence, disclosure and incentives.
 
-Pentagon statements published by The Black Vault show that officials did recognise the need to “clarify and de-conflict” Taylor’s assigned tasks, responsibilities and outside activities, although they did not provide further personnel details. That does not prove wrongdoing. It does show that the overlap between official work and outside media activity was a real issue, not merely a sceptical invention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
+Pentagon statements published by The Black Vault show that officials did recognise the need to “clarify and de-conflict” Taylor’s assigned tasks, responsibilities and outside activities, although they did not provide further personnel details. That does not prove wrongdoing. It does show that the overlap between official work and outside media activity was a real issue, not merely a sceptical invention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-snippet">The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/v-jD-wqirjQ" title="Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with NASA, DoD" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer">Not just a TV scientist: Dr. Travis Taylor&#x27;s deep roots with NASA, DoD</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 266.6K &middot; Uploaded: June 2022 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=v-jD-wqirjQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=v-jD-wqirjQ">Open on YouTube</a></p></div></div></div>
 
@@ -390,9 +390,9 @@ Pentagon statements published by The Black Vault show that officials did recogni
 
 Later official UAP reporting neither vindicates nor destroys Taylor. It narrows what can responsibly be claimed.
 
-NASA’s 2023 UAP work emphasised data quality. Its FAQ says that limited high-quality observations make it impossible to draw scientific conclusions about many UAP events, and that better data collection is the central need. That framing is compatible with part of Taylor’s public message: UAP should be studied with instruments and technical methods. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+NASA’s 2023 UAP work emphasised data quality. Its FAQ says that limited high-quality observations make it impossible to draw scientific conclusions about many UAP events, and that better data collection is the central need. That framing is compatible with part of Taylor’s public message: UAP should be studied with instruments and technical methods.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-But NASA’s position also undercuts stronger interpretations. It says there are no data supporting the idea that UAP are evidence of alien technologies. AARO’s 2024 historical report and Pentagon briefing went further in the government-history context, saying there was no verifiable evidence of extraterrestrial activity in UAP sightings, no verifiable evidence of US government or private-sector access to extraterrestrial technology, and no indication that information had been illegally or inappropriately withheld from Congress. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
+But NASA’s position also undercuts stronger interpretations. It says there are no data supporting the idea that UAP are evidence of alien technologies. AARO’s 2024 historical report and Pentagon briefing went further in the government-history context, saying there was no verifiable evidence of extraterrestrial activity in UAP sightings, no verifiable evidence of US government or private-sector access to extraterrestrial technology, and no indication that information had been illegally or inappropriately withheld from Congress.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-snippet">DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/)
 
 For Taylor, this creates a split assessment. His credibility is strengthened when he argues for better data, better sensors and serious technical review. It is weakened when his public image is taken to imply that the evidence already points to extraordinary non-human explanations. The most authoritative public reports do not support that stronger conclusion.
 
@@ -418,194 +418,194 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
 <img src="{{ "/assets/images/Travis_Taylor_c76455-Illustration-3-dark.svg" | relative_url }}" alt="How Credible Is Travis Taylor on UAPs? illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Credible Is Travis Taylor on UAPs?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Credible Is Travis Taylor on UAPs?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Directly addresses the credibility of military, intelligence, and aviation witnesses similar to the debates surrounding Travis Taylor.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the credibility of military, intelligence, and aviation witnesses similar to the debates surrounding Travis Taylor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines how scientists, government insiders, and technologists engage with UFO claims and belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how scientists, government insiders, and technologists engage with UFO claims and belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers many of the same military and intelligence-world figures that frame Taylor&#x27;s public reputation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many of the same military and intelligence-world figures that frame Taylor&#x27;s public reputation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Directly overlaps with the institutional and Skinwalker Ranch environment associated with Travis Taylor.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly overlaps with the institutional and Skinwalker Ranch environment associated with Travis Taylor.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-credible-is-travis-taylor-on-uaps-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-credible-is-travis-taylor-on-uaps-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,169 +811,169 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
    Title: Science UAP FAQs  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2021/3550-preliminary-assessment-unidentified-aerial-phenomena</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: spacesymposium.org  
    Title: Dr. Travis Taylor  
-   Link: <a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
+   Link:<a href="https://www.spacesymposium.org/speaker/dr-travis-taylor/" target="_blank" rel="noopener noreferrer nofollow">https://www.spacesymposium.org/speaker/dr-travis-taylor/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dni.gov  
    Title: Prelimary Assessment UAP 20210625  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Prelimary-Assessment-UAP-20210625.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD Report Discounts Sightings of Extraterrestrial Technology &gt; U.S. Department of War &gt; Defense Department News | U.S. Department of War...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dni.gov  
    Title: DF 2021 00275 Preliminary Assessment Unidentified Aerial Phenomena  
-   Link: <a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/documents/FOIA/DF-2021-00275-Preliminary-Assessment-Unidentified-Aerial-Phenomena.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Official UAP Imagery  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
+   Link:<a href="https://www.energy.gov/nnsa/uapufo-resources-and-documents" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/nnsa/uapufo-resources-and-documents</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Travis Taylor explains the science behind the anomalies  
-   Link: <a href="https://www.youtube.com/watch?v=1F2bQeG2pSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1F2bQeG2pSg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor - Space Symposium Speaker...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1F2bQeG2pSg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1F2bQeG2pSg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor - Space Symposium Speaker...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Dr. Travis Taylor  
-   Link: <a href="https://www.youtube.com/watch?v=TjB_B27rI5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TjB_B27rI5E</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific analysis of Skinwalker Ranch with Travis Taylor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=TjB_B27rI5E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=TjB_B27rI5E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific analysis of Skinwalker Ranch with Travis Taylor...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: encyclopediaofalabama.org  
    Title: Encyclopedia of Alabama Travis S. Taylor  
-   Link: <a href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/taylor-travis-s/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</p></details>
+   Link:<a href="https://encyclopediaofalabama.org/article/taylor-travis-s/" target="_blank" rel="noopener noreferrer nofollow">https://encyclopediaofalabama.org/article/taylor-travis-s/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Encyclopedia of AlabamaTravis S. Taylor - Encyclopedia of Alabama...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/pentagon-releases-details-about-dr-travis-taylors-uap-task-force-involvement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultPentagon Releases Details about Dr. Travis Taylor’s UAP Task Force Involvement - The Black Vault...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: journalofscientificexploration.org  
    Title: Journal of Scientific Exploration GREENWOOD WORKING GALLEY.indd  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.org  
    Title: pentagon ufo study led researcher who believes supernatural  
-   Link: <a href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural</a>  
+   Link:<a href="https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/article/pentagon-ufo-study-led-researcher-who-believes-supernatural</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/opinion-yes-science-magazine-printed-an-altered-pentagon-statement-but-theres-more-and-heres-why-it-matters/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents3.theblackvault.com  
    Title: Records pertaining to Unidentified Aerial Phenomenon  
-   Link: <a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
+   Link:<a href="https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents3.theblackvault.com/documents/cbp/Records%20pertaining%20to%20Unidentified%20Aerial%20Phenomenon.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/stratcom-reports-reveal-previously-unknown-effort-investigating-uap-pentagon-quickly-denies-and-explains-as-simple-error/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: science.org  
-   Link: <a href="https://www.science.org/content/author/keith-kloor" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/author/keith-kloor</a>  
+   Link:<a href="https://www.science.org/content/author/keith-kloor" target="_blank" rel="noopener noreferrer nofollow">https://www.science.org/content/author/keith-kloor</a>  
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: Rocket Scientist Travis Taylor on the UFOs That Were Shot Down  
-   Link: <a href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aJ8fdNH7K4I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor on The Secret of Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=aJ8fdNH7K4I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=aJ8fdNH7K4I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor on The Secret of Skinwalker Ranch...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Dr. Travis Taylor on The Secret of Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=8K0u-r-hP_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8K0u-r-hP_A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor explains the science behind the anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8K0u-r-hP_A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8K0u-r-hP_A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor explains the science behind the anomalies...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
+   Link:<a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/</a>  
+   Link:<a href="https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ScienceMagazine/posts/a-former-department-of-defense-astrophysicist-and-reality-tv-personality-has-ass/438322851493023/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/3573615919533687/posts/4564950800400189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3573615919533687/posts/4564950800400189/</a>  
+   Link:<a href="https://www.facebook.com/groups/3573615919533687/posts/4564950800400189/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/3573615919533687/posts/4564950800400189/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/</a>  
+   Link:<a href="https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/CelestialInsights/posts/claims-regarding-alleged-extraterrestrial-remains-and-recovered-unidentified-obj/1003832229232589/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor</a>  
+   Link:<a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/dr-travis-taylor</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
+   Link:<a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/dr-travis-s-taylor-the-scientist-behind-the-sciencewith-phds-in-optical-science-/957259129853974/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt31497136/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31497136/</a>  
+   Link:<a href="https://www.imdb.com/title/tt31497136/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt31497136/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXSEfEHAojv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXSEfEHAojv/</a>
+   Link:<a href="https://www.instagram.com/reel/DXSEfEHAojv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXSEfEHAojv/</a>

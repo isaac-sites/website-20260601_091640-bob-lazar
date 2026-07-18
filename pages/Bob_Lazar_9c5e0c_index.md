@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-index/
 description: Focused pages that expand on Did Bob Lazar's Story Hold Up?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c
 parent_title: Did Bob Lazar's Story Hold Up?
@@ -16,7 +16,7 @@ parent_permalink: /did-bob-lazars-story-hold-up/
 
 # Explore Topics in Did Bob Lazar's Story Hold Up?
 
-The following pages expand on the main **[Did Bob Lazar's Story Hold Up?]({{ '/did-bob-lazars-story-hold-up/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Did Bob Lazar's Story Hold Up?]({{ '/did-bob-lazars-story-hold-up/' | relative_url }})** page and cover its key branches in.
 
 - [Propulsion]({{ '/propulsion/' | relative_url }})
 - [Degrees]({{ '/degrees/' | relative_url }})

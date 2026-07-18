@@ -259,13 +259,13 @@ image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_gps_radio_sp
 One of the most frequently cited pieces of evidence in [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s public UAP investigations is not a photograph or eyewitness account, but unusual instrument behaviour. Episodes of *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* have repeatedly highlighted GPS position shifts, drone-navigation problems, unexplained radio-frequency signals and sudden spikes on monitoring equipment. Supporters argue that these readings suggest a real physical phenomenon affecting electronics. Sceptics respond that instrument anomalies are only persuasive if they survive careful auditing, calibration checks and independent replication.
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_gps_radio_spikes_be8f00-Illustration-1-dark.svg" | relative_url }}" alt="Sensor Spikes illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_gps_radio_spikes_be8f00-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_gps_radio_spikes_be8f00-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because Taylor’s public credibility is tied closely to technical measurements. If the instruments are detecting something genuinely unusual, the readings could be significant. If the readings can be explained by ordinary interference, equipment limitations or incomplete documentation, they become weak public proof rather than strong evidence of an unknown phenomenon. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
+That distinction matters because Taylor’s public credibility is tied closely to technical measurements. If the instruments are detecting something genuinely unusual, the readings could be significant. If the readings can be explained by ordinary interference, equipment limitations or incomplete documentation, they become weak public proof rather than strong evidence of an unknown phenomenon.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span>
 
 ## What Taylor's team presents as anomalous
 
-Throughout the [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch investigations, Taylor and the wider team have pointed to recurring reports of GPS offsets, navigation irregularities and unusual radio-frequency activity. The programme has presented examples in which drones appear to report incorrect positions, GPS markers seem displaced from expected locations, or instruments detect signals in frequency ranges that the team considers noteworthy. Public promotional material from the History Channel has highlighted GPS interference as one of the recurring mysteries associated with the site. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/shorts/oIw3B_qRRG8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Phenomena is Interfering with GPS?! &#124; The Secret of...What is this mysterious phenomena that&#x27;s interfering with GPS systems? See...</span></span></span>
+Throughout the [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch investigations, Taylor and the wider team have pointed to recurring reports of GPS offsets, navigation irregularities and unusual radio-frequency activity. The programme has presented examples in which drones appear to report incorrect positions, GPS markers seem displaced from expected locations, or instruments detect signals in frequency ranges that the team considers noteworthy. Public promotional material from the History Channel has highlighted GPS interference as one of the recurring mysteries associated with the site.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/shorts/oIw3B_qRRG8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Phenomena is Interfering with GPS?! &#124; The Secret of...What is this mysterious phenomena that&#x27;s interfering with GPS systems? See...</span></span></span>
 
-In the programme's framing, these events are often treated as potentially connected. A common suggestion is that an unknown environmental effect could be influencing positioning systems, communications equipment or both. Some episodes have linked GPS irregularities to broader theories involving electromagnetic disturbances or other physical anomalies. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchFrequency Experiments &#124; The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</span></span></span>
+In the programme's framing, these events are often treated as potentially connected. A common suggestion is that an unknown environmental effect could be influencing positioning systems, communications equipment or both. Some episodes have linked GPS irregularities to broader theories involving electromagnetic disturbances or other physical anomalies.<span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchFrequency Experiments &#124; The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</span></span></span>
 
 For [supporters]({{ 'supporters-58c2df/' | relative_url }}), the attraction of this evidence is straightforward. Unlike a witness claiming to have seen a strange light, a GPS receiver or spectrum analyser appears objective. The machine is presumed to be recording something measurable rather than relying on memory or interpretation.
 
@@ -275,7 +275,7 @@ For [supporters]({{ 'supporters-58c2df/' | relative_url }}), the attraction of t
 
 GPS systems are often treated in public discussions as highly precise and almost infallible. In reality, satellite navigation can be affected by many ordinary factors.
 
-GPS works by calculating position from timing signals received from multiple satellites. Even tiny timing errors can create noticeable location errors. Signal reflections, known as multipath effects, can occur when radio signals bounce off terrain, structures, vehicles or atmospheric conditions before reaching the receiver. Different receiver models also vary significantly in accuracy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://gard.no/en/insights/gps-interference-in-geopolitical-conflict-zones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gard.no">[gard.no]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gard.no</span><span class="citation-popover-title">gps interference in geopolitical conflict zones</span><span class="citation-popover-snippet">22 Jul 2025 — Building on claims Gard has handled stemming from GNSS disruption in such regions, this article looks at the growing proble...</span></span></span>
+GPS works by calculating position from timing signals received from multiple satellites. Even tiny timing errors can create noticeable location errors. Signal reflections, known as multipath effects, can occur when radio signals bounce off terrain, structures, vehicles or atmospheric conditions before reaching the receiver. Different receiver models also vary significantly in accuracy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://gard.no/en/insights/gps-interference-in-geopolitical-conflict-zones/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gard.no">[gard.no]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gard.no</span><span class="citation-popover-title">gps interference in geopolitical conflict zones</span><span class="citation-popover-snippet">22 Jul 2025 — Building on claims Gard has handled stemming from GNSS disruption in such regions, this article looks at the growing proble...</span></span></span>
 
 For sceptics, a GPS marker appearing metres away from an expected location does not immediately suggest a UAP-related event. Before reaching that conclusion, they would want answers to questions such as:
 
@@ -292,13 +292,13 @@ For sceptics, a GPS marker appearing metres away from an expected location does 
 
 The public material released from the ranch often does not provide enough information for outside analysts to answer those questions. As a result, viewers may see the anomaly itself but not the complete chain of evidence needed to evaluate it.
 
-Even some supporters discussing the programme online have suggested using higher-precision survey equipment, noting that consumer GPS systems can behave unpredictably and that more rigorous instrumentation would strengthen any claim. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1dfbhde/so_all_these_gps_issues_have_they_considered_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">So is something messing with time? I&#x27;m a EE, not a physicist</span><span class="citation-popover-snippet">So all these GPS issues, have they considered it could be...GPS is dependent on time measurement, ie: 1 nanosecond of error introd...</span></span></span>
+Even some supporters discussing the programme online have suggested using higher-precision survey equipment, noting that consumer GPS systems can behave unpredictably and that more rigorous instrumentation would strengthen any claim.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1dfbhde/so_all_these_gps_issues_have_they_considered_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">So is something messing with time? I&#x27;m a EE, not a physicist</span><span class="citation-popover-snippet">So all these GPS issues, have they considered it could be...GPS is dependent on time measurement, ie: 1 nanosecond of error introd...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4eKphnaGW9g" title="EXTREMELY BIZARRE Events Rock the Ranch | The Secret of Skinwalker Ranch (Season 3) | History" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4eKphnaGW9g" target="_blank" rel="noopener noreferrer">EXTREMELY BIZARRE Events Rock the Ranch | The Secret of Skinwalker Ranch (Season 3) | History</a></p><p class="youtube-embed-meta">Channel: HISTORY &middot; Views: 1.2M &middot; Uploaded: May 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4eKphnaGW9g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4eKphnaGW9g">Open on YouTube</a></p></div></div></div>
 
 ## Radio-frequency spikes face the same problem
 
-The ranch investigations also place heavy emphasis on radio-frequency, or RF, detections. Taylor and other team members have repeatedly discussed unusual signals, including attention paid to frequencies around 1.6 GHz, which became one of the show's most publicised recurring themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchFrequency Experiments &#124; The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</span></span></span>
+The ranch investigations also place heavy emphasis on radio-frequency, or RF, detections. Taylor and other team members have repeatedly discussed unusual signals, including attention paid to frequencies around 1.6 GHz, which became one of the show's most publicised recurring themes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchFrequency Experiments &#124; The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</span></span></span>
 
 At first glance, a sudden spike on a spectrum display can appear dramatic. However, radio engineers generally treat such observations cautiously because the modern electromagnetic environment is crowded.
 
@@ -329,7 +329,7 @@ One reason sceptics remain unconvinced is that public audiences usually see only
 
 In a laboratory or engineering setting, researchers typically record not only the unusual event but also the normal background conditions before and after it. That baseline is crucial. A signal that looks extraordinary in isolation may turn out to appear regularly under ordinary conditions.
 
-NASA's 2023 Independent Study Team on UAP highlighted exactly this issue on a broader scale. The report argued that many UAP investigations suffer from poor sensor calibration, missing metadata, inadequate baseline measurements and a lack of multiple independent sensors observing the same event. <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
+NASA's 2023 Independent Study Team on UAP highlighted exactly this issue on a broader scale. The report argued that many UAP investigations suffer from poor sensor calibration, missing metadata, inadequate baseline measurements and a lack of multiple independent sensors observing the same event.<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.nasa.gov">[NASA Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.nasa.gov</span><span class="citation-popover-snippet">NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-snippet">NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</span></span></span>
 
 Those criticisms map directly onto the public debate around Taylor's sensor-based [claims]({{ 'claims/' | relative_url }}).
 
@@ -350,7 +350,7 @@ If an RF spike appears, they want:
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
-* Full spectrum recordings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/1065166071460425/posts/1549492859694408/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Skinwalker Ranch experiment reveals unknown phenomena Led by Dr</span><span class="citation-popover-snippet">Travis Taylor at Skinwalker Ranch, this operation used military-grade technology, swarm drones, GPS towers, radar arrays, and full-spectr...</span></span></span>
+* Full spectrum recordings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/groups/1065166071460425/posts/1549492859694408/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Skinwalker Ranch experiment reveals unknown phenomena Led by Dr</span><span class="citation-popover-snippet">Travis Taylor at Skinwalker Ranch, this operation used military-grade technology, swarm drones, GPS towers, radar arrays, and full-spectr...</span></span></span>
 * Antenna specifications.
 * Calibration records.
 * Direction-finding data.
@@ -368,7 +368,7 @@ A recurring sceptical argument is that a genuinely novel physical phenomenon sho
 
 One unexplained GPS jump or one unusual radio detection may be intriguing. Scientific confidence increases when the same effect appears repeatedly under controlled conditions and can be measured by multiple independent teams.
 
-This is why many serious UAP research proposals increasingly emphasise multimodal observation systems rather than isolated sensor hits. Projects aimed at improving UAP data collection frequently advocate combining optical cameras, infrared sensors, radar, environmental monitoring and precisely calibrated instrumentation so that one measurement can be checked against another. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+This is why many serious UAP research proposals increasingly emphasise multimodal observation systems rather than isolated sensor hits. Projects aimed at improving UAP data collection frequently advocate combining optical cameras, infrared sensors, radar, environmental monitoring and precisely calibrated instrumentation so that one measurement can be checked against another.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 From this perspective, the strongest evidence would not be a dramatic GPS glitch shown on television. It would be a documented event in which multiple independent instruments simultaneously recorded the same anomaly, with all underlying data available for review.
 
@@ -411,201 +411,201 @@ These are not impossible standards. They are the same standards commonly applied
 
 The GPS and RF episodes illustrate a broader tension in assessments of Travis Taylor.
 
-Supporters see a technically trained investigator using instruments to pursue anomalies that many researchers would ignore. They argue that recurring electronic disturbances deserve attention precisely because they appear to affect measurable systems rather than relying solely on witness testimony. <span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchFrequency Experiments &#124; The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</span></span></span>
+Supporters see a technically trained investigator using instruments to pursue anomalies that many researchers would ignore. They argue that recurring electronic disturbances deserve attention precisely because they appear to affect measurable systems rather than relying solely on witness testimony.<span class="citation-chip-wrap"><a class="citation-chip" href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-secret-of-skinwalker-ranch.fandom.com">[The Secret of Skinwalker Ranch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-secret-of-skinwalker-ranch.fandom.com</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchFrequency Experiments &#124; The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</span></span></span>
 
 Sceptics do not necessarily reject the possibility that unusual readings occurred. Their criticism is narrower. They argue that the public evidence released so far does not allow outsiders to determine whether the readings reflect an unknown phenomenon, ordinary interference, equipment limitations or interpretation errors.
 
-As a result, GPS offsets and radio spikes occupy an awkward middle ground in Taylor's public case. They are more technical than eyewitness stories and therefore carry an appearance of scientific weight. Yet without complete datasets, calibration records and independent replication, they remain suggestive rather than conclusive. That is why critics often regard them as weak public proof rather than strong evidence of an extraordinary claim. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[2space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</span></span></span>
+As a result, GPS offsets and radio spikes occupy an awkward middle ground in Taylor's public case. They are more technical than eyewitness stories and therefore carry an appearance of scientific weight. Yet without complete datasets, calibration records and independent replication, they remain suggestive rather than conclusive. That is why critics often regard them as weak public proof rather than strong evidence of an extraordinary claim. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[2space.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Do ranch sensor spikes prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Do ranch sensor spikes prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for evaluating anomalous sensor readings.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for evaluating anomalous sensor readings.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open GPS for Land Surveyors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J0fLBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for GPS for Land Surveyors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="GPS for Land Surveyors">GPS for Land Surveyors</a>
-        </h4>
-        <p class="fr-book-author">By Jan Van Sickle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open GPS for Land Surveyors on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=J0fLBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for GPS for Land Surveyors" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="GPS for Land Surveyors">GPS for Land Surveyors</a>
+</h4>
+<p class="fr-book-author">By Jan Van Sickle</p>
         
-        <p class="fr-book-desc">Explains real-world causes of GPS inaccuracies and signal issues.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains real-world causes of GPS inaccuracies and signal issues.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Places technical anomaly claims within the broader UFO evidence debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Places technical anomaly claims within the broader UFO evidence debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
+</h4>
+<p class="fr-book-author">By James Randi</p>
         
-        <p class="fr-book-desc">Shows how apparently mysterious results can arise from ordinary causes.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how apparently mysterious results can arise from ordinary causes.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">GPS for Land Surveyors</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">GPS for Land Surveyors</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-ranch-sensor-spikes-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="do-ranch-sensor-spikes-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,270 +811,270 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA ScienceIndependent Study Team ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the lack of multiple me...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nasa.gov  
    Title: update nasa shares uap independent study report names director  
-   Link: <a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
+   Link:<a href="https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UPDATE: NASA Shares UAP Independent Study Report14 Sept 2023 — We found that NASA can help the whole-of-government UAP effort through sys...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/shorts/oIw3B_qRRG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/oIw3B_qRRG8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Phenomena is Interfering with GPS?! | The Secret of...What is this mysterious phenomena that&#x27;s interfering with GPS systems? See...</p></details>
+   Link:<a href="https://www.youtube.com/shorts/oIw3B_qRRG8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/shorts/oIw3B_qRRG8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Phenomena is Interfering with GPS?! | The Secret of...What is this mysterious phenomena that&#x27;s interfering with GPS systems? See...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GCcoBIjnr1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GCcoBIjnr1k</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The 5 Biggest Discoveries Revealed | The Secret of...(the bubble) -Reason for all of the GPS anomalies: the shield is gravitational, aff...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GCcoBIjnr1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GCcoBIjnr1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 5 Biggest Discoveries Revealed | The Secret of...(the bubble) -Reason for all of the GPS anomalies: the shield is gravitational, aff...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gard.no  
    Title: gps interference in geopolitical conflict zones  
-   Link: <a href="https://gard.no/en/insights/gps-interference-in-geopolitical-conflict-zones/" target="_blank" rel="noopener noreferrer nofollow">https://gard.no/en/insights/gps-interference-in-geopolitical-conflict-zones/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>22 Jul 2025 — Building on claims Gard has handled stemming from GNSS disruption in such regions, this article looks at the growing proble...</p></details>
+   Link:<a href="https://gard.no/en/insights/gps-interference-in-geopolitical-conflict-zones/" target="_blank" rel="noopener noreferrer nofollow">https://gard.no/en/insights/gps-interference-in-geopolitical-conflict-zones/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>22 Jul 2025 — Building on claims Gard has handled stemming from GNSS disruption in such regions, this article looks at the growing proble...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: So is something messing with time? I'm a EE, not a physicist  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dfbhde/so_all_these_gps_issues_have_they_considered_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dfbhde/so_all_these_gps_issues_have_they_considered_it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So all these GPS issues, have they considered it could be...GPS is dependent on time measurement, ie: 1 nanosecond of error introd...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1dfbhde/so_all_these_gps_issues_have_they_considered_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dfbhde/so_all_these_gps_issues_have_they_considered_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So all these GPS issues, have they considered it could be...GPS is dependent on time measurement, ie: 1 nanosecond of error introd...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: I know why the GPS signals are screwed up  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1crozry/i_know_why_the_gps_signals_are_screwed_up/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1crozry/i_know_why_the_gps_signals_are_screwed_up/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I know why the GPS signals are screwed upMay 14, 2024 — I mean it could be that or there is some sort of anomaly that is just scatt...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1crozry/i_know_why_the_gps_signals_are_screwed_up/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1crozry/i_know_why_the_gps_signals_are_screwed_up/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I know why the GPS signals are screwed upMay 14, 2024 — I mean it could be that or there is some sort of anomaly that is just scatt...</p></details>
    Published: May 14, 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EJY_9M1Kpxw</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: Skinwalker Ranch Solved? The Terrifying...Travis Taylor: Skinwalker Ranch Solved? The Terrifying Truth Behind 1.6 GHz | T...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EJY_9M1Kpxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor: Skinwalker Ranch Solved? The Terrifying...Travis Taylor: Skinwalker Ranch Solved? The Terrifying Truth Behind 1.6 GHz | T...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/NASA_Unidentified_Anomalous_Phenomena%3A_Independent_Study_Team_Report/Responses_to_Statement_of_Task</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena: Independent...14 Oct 2023 — The panel notes that, at present, gathering data on UAP is...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
+   Link:<a href="https://arxiv.org/abs/2312.00558" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2312.00558</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor | Ep 129Travis Taylor is a scientist, engineer, author, TV host, and investigator. He has...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor | Ep 129Travis Taylor is a scientist, engineer, author, TV host, and investigator. He has...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
+   Link:<a href="https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UFO report finds no evidence of &#x27;extraterrestrial...14 Sept 2023 — &quot;At present, analysis of UAP data is hampered by poor sensor cal...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI went in a skeptic too and by the end of the first episode, after all the [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) an...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI went in a skeptic too and by the end of the first episode, after all the [radiation](&amp;#123;&amp;#123; &#x27;radiation/&#x27; | relative_url &amp;#125;&amp;#125;) an...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/14knm28/what_has_been_your_biggest_what_the_crap_to_quote/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/14knm28/what_has_been_your_biggest_what_the_crap_to_quote/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ly this season...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/14knm28/what_has_been_your_biggest_what_the_crap_to_quote/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/14knm28/what_has_been_your_biggest_what_the_crap_to_quote/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ly this season...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/w35cd0/the_gps_anomalies_are_they_caused_by_a_portal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/w35cd0/the_gps_anomalies_are_they_caused_by_a_portal/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>t that portal may be getting sped up or slowed down...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/w35cd0/the_gps_anomalies_are_they_caused_by_a_portal/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/w35cd0/the_gps_anomalies_are_they_caused_by_a_portal/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>t that portal may be getting sped up or slowed down...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY OF NASA UNIDENTIFIED ANOMALOUS...- **Challenges in UAP Data Deciphering**: The efficacy of UAP data analysis is impeded by issue...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16ik6x5/summary_of_nasa_unidentified_anomalous_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY OF NASA UNIDENTIFIED ANOMALOUS...- **Challenges in UAP Data Deciphering**: The efficacy of UAP data analysis is impeded by issue...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nasa.gov  
-   Link: <a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 hours ago — National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of...</p></details>
+   Link:<a href="https://www.nasa.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.nasa.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 hours ago — National Aeronautics and Space Administration. NASA explores the unknown in air and space, innovates for the benefit of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final repor...</p></details>
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nasa.govUAP9 Jun 2022 — On September 14, 2023, the NASA Unidentified Anomalous Phenomena Independent Study Team published its final repor...</p></details>
    Published: September 14, 2023  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and categorizing unidentified anomalous phenomena...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bQo08JRY0iM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bQo08JRY0iM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and categorizing unidentified anomalous phenomena...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=4eKphnaGW9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eKphnaGW9g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EXTREMELY BIZARRE Events Rock the Ranch | The Secret...Dr. Travis Taylor returns to Skinwalker Ranch to rejoin the team and continue inv...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=4eKphnaGW9g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=4eKphnaGW9g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EXTREMELY BIZARRE Events Rock the Ranch | The Secret...Dr. Travis Taylor returns to Skinwalker Ranch to rejoin the team and continue inv...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>l after being exposed to dangerous levels of radiation...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>l after being exposed to dangerous levels of radiation...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=IcB7scftPTY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IcB7scftPTY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Has a LOT of ProblemsThe TV Show, The Secret of Skinwalker Ranch, is not known for scientific accuracy, but the most rec...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=IcB7scftPTY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=IcB7scftPTY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Has a LOT of ProblemsThe TV Show, The Secret of Skinwalker Ranch, is not known for scientific accuracy, but the most rec...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
+   Link:<a href="https://www.youtube.com/watch?v=YXBsIOGsZE0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YXBsIOGsZE0</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=oicv_UxOijg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oicv_UxOijg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e area, in this scene from Season 3, Episode 3...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=oicv_UxOijg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=oicv_UxOijg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e area, in this scene from Season 3, Episode 3...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V95MHgiEApw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V95MHgiEApw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ating in the night. Using tri-field meters they detect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V95MHgiEApw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V95MHgiEApw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ating in the night. Using tri-field meters they detect...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=eO4IcJiZ1Fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eO4IcJiZ1Fw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Triangle [2025]. 6.4K views · 9 months ago...more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eO4IcJiZ1Fw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eO4IcJiZ1Fw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Triangle [2025]. 6.4K views · 9 months ago...more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=-SaxrAUgdvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-SaxrAUgdvE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the team makes an unbelievable discovery in the creek that...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-SaxrAUgdvE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-SaxrAUgdvE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the team makes an unbelievable discovery in the creek that...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=C3uXUfgSadU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=C3uXUfgSadU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP Independent Study Event Post-Meeting Media...NASA holds a virtual post-meeting media teleconference following the May 31, 2023 publi...</p></details>
    Published: May 31, 2023  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 —... (UAP) is limited by poor data quality and incomplete data sets. Existing data are often fragmented, uncal...</p></details>
+   Link:<a href="https://arxiv.org/html/2506.00125v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2506.00125v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>1 Introduction30 May 2025 —... (UAP) is limited by poor data quality and incomplete data sets. Existing data are often fragmented, uncal...</p></details>
    Published: May 2025  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AUAP_Independent_Study_Team_-_Final_Report.pdf/5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:UAP Independent Study Team - Final Report.pdf/512 Nov 2023 — At present, analysis of UAP data is hampered by poor sens...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.com  
    Title: 3.Read more  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchWhen a lidar scan reveals a dark mass at Homestead Two, the team invites a Rabbi to...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchWhen a lidar scan reveals a dark mass at Homestead Two, the team invites a Rabbi to...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EjzB6Dv-ZfY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EjzB6Dv-ZfY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Radar Deployed 12000 Feet in the Air (S6) | The Secret of Skinwalker Ranch | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EjzB6Dv-ZfY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EjzB6Dv-ZfY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerial Radar Deployed 12000 Feet in the Air (S6) | The Secret of Skinwalker Ranch | History...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Nahw4UYcCcM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nahw4UYcCcM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mesa Hides Advanced Tech Materials (S6) | The Secret of Skinwalker Ranch - YouTube...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Nahw4UYcCcM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Nahw4UYcCcM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mesa Hides Advanced Tech Materials (S6) | The Secret of Skinwalker Ranch - YouTube...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Mesa Hides Advanced Tech Materials (S6) | The Secret of Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=WSsi3Q-vZXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WSsi3Q-vZXg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Checking 1.6GHz For Skinwalker Ranch Signals...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WSsi3Q-vZXg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WSsi3Q-vZXg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Checking 1.6GHz For Skinwalker Ranch Signals...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Checking 1.6GHz For Skinwalker Ranch Signals  
-   Link: <a href="https://www.youtube.com/watch?v=WJR2yge2Od4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJR2yge2Od4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing That The Skinwalker Ranch Team Records So Many UAPs And Anomalous Data...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WJR2yge2Od4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WJR2yge2Od4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazing That The Skinwalker Ranch Team Records So Many UAPs And Anomalous Data...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Amazing That The Skinwalker Ranch Team Records So Many UAPs And Anomalous Data!  
-   Link: <a href="https://www.youtube.com/watch?v=SFJrS0GSh_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFJrS0GSh_E</a>  
+   Link:<a href="https://www.youtube.com/watch?v=SFJrS0GSh_E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SFJrS0GSh_E</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
-   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchFrequency Experiments | The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</p></details>
+   Link:<a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchFrequency Experiments | The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes th...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: metabunk.org  
    Title: The Secret of Skinwalker Ranch S03E09  
-   Link: <a href="https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP...14 May 2024 — The team observes a &quot;UAP&quot; disappearing into thin air while conducting an experiment involving rocket launches and &quot;l...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-secret-of-skinwalker-ranch-s03e09-uap-disappearing-into-thin-air-satellite-going-behind-cloud-entering-earths-shadow.13469/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP...14 May 2024 — The team observes a &quot;UAP&quot; disappearing into thin air while conducting an experiment involving rocket launches and &quot;l...</p></details>
    Published: May 2024  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: shapes.inc  
-   Link: <a href="https://shapes.inc/fandom/the-secret-of-skinwalker-ranch/deep-dive" target="_blank" rel="noopener noreferrer nofollow">https://shapes.inc/fandom/the-secret-of-skinwalker-ranch/deep-dive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch Deep DivesThe analysis suggests that the ranch&#x27;s high-energy environment, specifically the transient burst...</p></details>
+   Link:<a href="https://shapes.inc/fandom/the-secret-of-skinwalker-ranch/deep-dive" target="_blank" rel="noopener noreferrer nofollow">https://shapes.inc/fandom/the-secret-of-skinwalker-ranch/deep-dive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch Deep DivesThe analysis suggests that the ranch&#x27;s high-energy environment, specifically the transient burst...</p></details>
 
 ### Additional References
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Investigating Localized Electromagnetic...Oct 15, 2025 — The &quot;Triangle&quot; region of Skinwalker Ranch exhibits a constell...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Investigating Localized Electromagnetic...Oct 15, 2025 — The &quot;Triangle&quot; region of Skinwalker Ranch exhibits a constell...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
+   Link:<a href="https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/harvard-medical-school/estadistica/nasa-uap-independent-study-team-final-report-key-findings-and-recommendations/157385671</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA UAP Independent Study Team Final ReportAt present, analysis of UAP data is hampered by poor sensor calibration, the. lack of multipl...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: nextgov.com  
-   Link: <a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrialAnalysis of this data is “hampered by poor sensor calibration, the lack of mu...</p></details>
+   Link:<a href="https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/ideas/2023/09/nasa-report-finds-no-evidence-ufos-are-extraterrestrial/390350/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA report finds no evidence that UFOs are extraterrestrialAnalysis of this data is “hampered by poor sensor calibration, the lack of mu...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Skinwalker RanchThere is a fascinating geolab in Utah, in the Uinta Basin, called Skinwalker Ranch. For around 30 years no...</p></details>
+   Link:<a href="https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Skinwalker RanchThere is a fascinating geolab in Utah, in the Uinta Basin, called Skinwalker Ranch. For around 30 years no...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/500312439016444/posts/750439717337047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500312439016444/posts/750439717337047/</a>  
+   Link:<a href="https://www.facebook.com/groups/500312439016444/posts/750439717337047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500312439016444/posts/750439717337047/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: uah.edu  
-   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Skinwalker team member Dr. Jim Segala work with UAH&#x27;s Dr. Matt Turner to secure an experimental package for launch.Read...</p></details>
+   Link:<a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Skinwalker team member Dr. Jim Segala work with UAH&#x27;s Dr. Matt Turner to secure an experimental package for launch.Read...</p></details>
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: facebook.com  
    Title: Skinwalker Ranch experiment reveals unknown phenomena Led by Dr  
-   Link: <a href="https://www.facebook.com/groups/1065166071460425/posts/1549492859694408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1549492859694408/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor at Skinwalker Ranch, this operation used military-grade technology, swarm drones, GPS towers, radar arrays, and full-spectr...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1065166071460425/posts/1549492859694408/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1065166071460425/posts/1549492859694408/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor at Skinwalker Ranch, this operation used military-grade technology, swarm drones, GPS towers, radar arrays, and full-spectr...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: meritalk.com  
    Title: nasa urged to take more permanent role in uap research effort  
-   Link: <a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/nasa-urged-to-take-more-permanent-role-in-uap-research-effort/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Urged to Take More Permanent Role in UAP...15 Sept 2023 — The study team found that most UAP data is “hampered by poor sensor calib...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: Wikipedia  
    Title: NASA Unidentified Anomalous Phenomena Independent Study Team  
-   Link: <a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NASA Unidentified Anomalous Phenomena Independent...The team&#x27;s report was released on September 14, 2023, and did not find evidence t...</p></details>
    Published: September 14, 2023  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: nevadacurrent.com  
    Title: nasa report finds no evidence that ufos are extraterrestrial  
-   Link: <a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>
+   Link:<a href="https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2023/09/18/nasa-report-finds-no-evidence-that-ufos-are-extraterrestrial/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Sept 2023 — Analysis of this data is “hampered by poor sensor calibration, the lack of multiple measurements, the lack of sensor metad...</p></details>

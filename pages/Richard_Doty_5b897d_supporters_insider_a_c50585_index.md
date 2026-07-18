@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-supporters-insider/
 description: Focused pages that expand on Supporters.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Richard_Doty_5b897d_supporters_insider_a_c50585
 parent_title: Supporters
@@ -16,7 +16,7 @@ parent_permalink: /supporters/
 
 # Explore Topics in Supporters
 
-The following pages expand on the main **[Supporters]({{ '/supporters/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Supporters]({{ '/supporters/' | relative_url }})** page and cover its key branches in.
 
 - [AFOSI access]({{ '/afosi-access/' | relative_url }})
 - [Disinfo methods]({{ '/disinfo-methods/' | relative_url }})

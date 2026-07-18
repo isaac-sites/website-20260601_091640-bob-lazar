@@ -262,18 +262,18 @@ image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_
 
 ## Introduction
 
-The presence of former Navy pilots Ryan Graves and David Fravor at the July 2023 House [Oversight]({{ 'oversight/' | relative_url }}) [hearing]({{ 'hearing/' | relative_url }}) was one of the main reasons David Grusch's testimony received broader public attention and appeared more credible to many viewers. Graves and Fravor were not there to confirm Grusch's claims about secret crash-retrieval programmes or recovered non-human technology. Instead, they brought a different kind of evidence: first-hand accounts of unusual aerial encounters during military service. Their testimony helped frame the hearing as a national-security and aviation-safety issue rather than solely a whistleblower allegation about hidden government programmes. That distinction matters when assessing Grusch's credibility, because the pilots strengthened the seriousness of the hearing without directly validating his most controversial claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
+The presence of former Navy pilots Ryan Graves and David Fravor at the July 2023 House [Oversight]({{ 'oversight/' | relative_url }}) [hearing]({{ 'hearing/' | relative_url }}) was one of the main reasons David Grusch's testimony received broader public attention and appeared more credible to many viewers. Graves and Fravor were not there to confirm Grusch's claims about secret crash-retrieval programmes or recovered non-human technology. Instead, they brought a different kind of evidence: first-hand accounts of unusual aerial encounters during military service. Their testimony helped frame the hearing as a national-security and aviation-safety issue rather than solely a whistleblower allegation about hidden government programmes. That distinction matters when assessing Grusch's credibility, because the pilots strengthened the seriousness of the hearing without directly validating his most controversial claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-1-dark.svg" | relative_url }}" alt="Pilot context illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result was a mixed credibility effect. The hearing presented three witnesses with very different evidential foundations. Graves and Fravor described experiences they said they personally observed. Grusch described information he said he gathered from officials and sources during intelligence work. The public often treated these testimonies as part of a single story, but they rested on different kinds of evidence and should be evaluated separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
+The result was a mixed credibility effect. The hearing presented three witnesses with very different evidential foundations. Graves and Fravor described experiences they said they personally observed. Grusch described information he said he gathered from officials and sources during intelligence work. The public often treated these testimonies as part of a single story, but they rested on different kinds of evidence and should be evaluated separately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
 
 ## How Graves and Fravor broadened the hearing
 
 One reason the hearing gained unusual visibility was that Graves and Fravor were already known outside dedicated UFO circles. Both had publicly discussed military UAP encounters before the hearing, and both were associated with incidents that had attracted Pentagon attention and media coverage.
 
-Fravor is best known for the 2004 USS Nimitz "Tic Tac" encounter, in which he and other personnel reported observing an unusual object during a training exercise off the California coast. Graves became associated with reports from Navy aviators operating off the US east coast who described repeated encounters with unidentified objects in training airspace. By 2023, these cases had already been discussed in major media outlets and in government reviews of UAP reporting. CBS News <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineWhat we learned from the UFO Congress hearing1 Aug 2023 — Two of the witnesses at the hearing, David Fravor and Ryan...</span></span></span>
+Fravor is best known for the 2004 USS Nimitz "Tic Tac" encounter, in which he and other personnel reported observing an unusual object during a training exercise off the California coast. Graves became associated with reports from Navy aviators operating off the US east coast who described repeated encounters with unidentified objects in training airspace. By 2023, these cases had already been discussed in major media outlets and in government reviews of UAP reporting. CBS News<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineWhat we learned from the UFO Congress hearing1 Aug 2023 — Two of the witnesses at the hearing, David Fravor and Ryan...</span></span></span>
 
-At the hearing, Graves focused heavily on flight safety and reporting problems. He argued that military and commercial pilots needed a better system for reporting unusual aerial encounters without fear of professional stigma. Fravor focused on what he said he personally witnessed during the Nimitz incident and on the apparent performance characteristics of the object he encountered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
+At the hearing, Graves focused heavily on flight safety and reporting problems. He argued that military and commercial pilots needed a better system for reporting unusual aerial encounters without fear of professional stigma. Fravor focused on what he said he personally witnessed during the Nimitz incident and on the apparent performance characteristics of the object he encountered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span>
 
 This mattered for Grusch because it changed the atmosphere of the hearing. Instead of a single witness alleging a hidden conspiracy, Congress presented:
 
@@ -285,7 +285,7 @@ This mattered for Grusch because it changed the atmosphere of the hearing. Inste
 
 </div>
 
-Together, this created a broader narrative that UAP reports were being taken seriously by military personnel and lawmakers. Even viewers who were sceptical of Grusch's claims could see that concerns about unexplained aerial incidents extended beyond one whistleblower. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">us hiding evidence alien intelligence ufo whistleblower claims</span><span class="citation-popover-snippet">US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — Three key witnesses testified at the hearing: Ryan Graves and Davi...</span></span></span>
+Together, this created a broader narrative that UAP reports were being taken seriously by military personnel and lawmakers. Even viewers who were sceptical of Grusch's claims could see that concerns about unexplained aerial incidents extended beyond one whistleblower.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-title">us hiding evidence alien intelligence ufo whistleblower claims</span><span class="citation-popover-snippet">US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — Three key witnesses testified at the hearing: Ryan Graves and Davi...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/OwSkXDmV6Io" title="UFO hearing: Eyewitnesses describe encounters with &quot;non human&quot; entities to Congress | FULL" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer">UFO hearing: Eyewitnesses describe encounters with &quot;non human&quot; entities to Congress | FULL</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 3.5M &middot; Uploaded: July 2023 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=OwSkXDmV6Io">Open on YouTube</a></p></div></div></div>
 
@@ -293,35 +293,35 @@ Together, this created a broader narrative that UAP reports were being taken ser
 
 The strongest distinction in the hearing was the difference between what the pilots claimed and what Grusch claimed.
 
-Fravor's testimony concerned an event he said he personally observed. Whether one accepts his interpretation or not, the core claim is straightforward: he reported seeing an unusual object during a military operation. The same basic principle applies to Graves, whose testimony centred on pilot observations, sensor reports and safety concerns involving objects encountered in training areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsThe story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his expe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American Legion&#x27;UAP are in our airspace&#x27;: Former military personnel warn...27 Jul 2023 — Ryan Graves, a former Navy F-18 pilot, and...</span></span></span>
+Fravor's testimony concerned an event he said he personally observed. Whether one accepts his interpretation or not, the core claim is straightforward: he reported seeing an unusual object during a military operation. The same basic principle applies to Graves, whose testimony centred on pilot observations, sensor reports and safety concerns involving objects encountered in training areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsThe story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his expe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American Legion&#x27;UAP are in our airspace&#x27;: Former military personnel warn...27 Jul 2023 — Ryan Graves, a former Navy F-18 pilot, and...</span></span></span>
 
-Grusch's allegations were different. His most dramatic claims involved alleged crash-retrieval programmes, reverse-engineering efforts and recovered non-human materials. He repeatedly indicated that these claims came from interviews, briefings and information provided by other officials rather than from his own direct observation of recovered craft. During the hearing he acknowledged that much of his testimony relied on information supplied by sources he considered credible. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
+Grusch's allegations were different. His most dramatic claims involved alleged crash-retrieval programmes, reverse-engineering efforts and recovered non-human materials. He repeatedly indicated that these claims came from interviews, briefings and information provided by other officials rather than from his own direct observation of recovered craft. During the hearing he acknowledged that much of his testimony relied on information supplied by sources he considered credible.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
 This difference is crucial when discussing credibility:
 
 Type of claimGraves and FravorGruschPersonal observationCentral to their testimonyLimitedDirect witness statusYesUsually no regarding crash-retrieval allegationsMain subjectUAP encounters in operational settingsAlleged hidden government programmesEvidence typeEyewitness accounts, military context, some associated sensor discussionsTestimony about information received from othersMain credibility questionWhat did they see?Were the sources and underlying programmes real?
 
-Because the pilots' claims were first-hand, many observers viewed them as inherently stronger than Grusch's second-hand allegations. However, first-hand testimony alone does not establish what an object actually was. A witness can credibly report seeing something unusual without proving an extraterrestrial or non-human explanation. Likewise, even if Graves and Fravor are considered sincere and reliable witnesses, that does not automatically verify Grusch's separate claims about secret retrieval programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</span><span class="citation-popover-meta">Published: June 26, 2023</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
+Because the pilots' claims were first-hand, many observers viewed them as inherently stronger than Grusch's second-hand allegations. However, first-hand testimony alone does not establish what an object actually was. A witness can credibly report seeing something unusual without proving an extraterrestrial or non-human explanation. Likewise, even if Graves and Fravor are considered sincere and reliable witnesses, that does not automatically verify Grusch's separate claims about secret retrieval programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pbs.org">[PBS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pbs.org</span><span class="citation-popover-snippet">Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</span><span class="citation-popover-meta">Published: June 26, 2023</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-2-dark.svg" | relative_url }}" alt="Pilot context illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why many viewers linked the witnesses together
 
 In public discussion, the three witnesses were often treated as if they were collectively supporting a single conclusion. The structure of the hearing encouraged that perception.
 
-Members of Congress questioned all three witnesses during the same session. News coverage frequently summarised the hearing as a major UFO hearing rather than carefully separating the categories of evidence presented by each witness. Headlines discussing Grusch's allegations often appeared alongside summaries of Fravor's Tic Tac account and Graves's reporting concerns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo congress hearing</span><span class="citation-popover-snippet">There will probably be more congressional hearings...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
+Members of Congress questioned all three witnesses during the same session. News coverage frequently summarised the hearing as a major UFO hearing rather than carefully separating the categories of evidence presented by each witness. Headlines discussing Grusch's allegations often appeared alongside summaries of Fravor's Tic Tac account and Graves's reporting concerns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo congress hearing</span><span class="citation-popover-snippet">There will probably be more congressional hearings...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
 Psychologically, this created a form of cumulative credibility. Viewers could see:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Military pilots discussing unexplained encounters.
-* A former intelligence officer alleging concealed programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span>
+* A former intelligence officer alleging concealed programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span>
 * Congressional interest in the subject.
-* Witnesses testifying under oath. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span>
+* Witnesses testifying under oath.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span>
 
 </div>
 
-To supporters, these elements appeared mutually reinforcing. The pilots seemed to provide a real-world foundation suggesting that unusual objects existed, while Grusch appeared to offer an explanation for why more information might remain hidden. Critics argued that this was largely an association effect rather than genuine corroboration. The pilots' experiences and Grusch's allegations addressed different questions and involved different evidence chains. <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span>
+To supporters, these elements appeared mutually reinforcing. The pilots seemed to provide a real-world foundation suggesting that unusual objects existed, while Grusch appeared to offer an explanation for why more information might remain hidden. Critics argued that this was largely an association effect rather than genuine corroboration. The pilots' experiences and Grusch's allegations addressed different questions and involved different evidence chains.<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wh6CpUnlLkk" title="Former Navy Commander describes seeing UFO to Congress" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wh6CpUnlLkk" target="_blank" rel="noopener noreferrer">Former Navy Commander describes seeing UFO to Congress</a></p><p class="youtube-embed-meta">Channel: CGTN America &middot; Views: 3.6K &middot; Uploaded: August 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wh6CpUnlLkk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wh6CpUnlLkk">Open on YouTube</a></p></div></div></div>
 
@@ -329,7 +329,7 @@ To supporters, these elements appeared mutually reinforcing. The pilots seemed t
 
 One of the most important credibility issues raised by the hearing is the tendency to transfer trust from one witness to another.
 
-Fravor's account is often regarded as relatively strong within the UAP debate because it involves multiple military participants, radar reporting and a witness with extensive aviation experience. Graves is similarly viewed by supporters as a serious witness because of his military [background]({{ 'background/' | relative_url }}) and emphasis on operational safety rather than sensational claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsThe story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his expe...</span></span></span>
+Fravor's account is often regarded as relatively strong within the UAP debate because it involves multiple military participants, radar reporting and a witness with extensive aviation experience. Graves is similarly viewed by supporters as a serious witness because of his military [background]({{ 'background/' | relative_url }}) and emphasis on operational safety rather than sensational claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cbsnews.com">[CBS News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cbsnews.com</span><span class="citation-popover-snippet">CBS NewsThe story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his expe...</span></span></span>
 
 The problem arises when that credibility is automatically extended to Grusch's separate allegations.
 
@@ -340,7 +340,7 @@ Evidence that pilots encountered unusual objects does not by itself establish:
 * Possession of non-human [biologics]({{ 'biologics/' | relative_url }}).
 * A coordinated government cover-up.
 
-Those claims require their own evidence. Even if every aspect of the Graves and Fravor accounts were accepted as accurate, Grusch's crash-retrieval narrative would still need independent verification. This is one reason sceptical analysts repeatedly distinguish between the question of unexplained sightings and the question of hidden non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo congress hearing</span><span class="citation-popover-snippet">There will probably be more congressional hearings...Read more...</span></span></span>
+Those claims require their own evidence. Even if every aspect of the Graves and Fravor accounts were accepted as accurate, Grusch's crash-retrieval narrative would still need independent verification. This is one reason sceptical analysts repeatedly distinguish between the question of unexplained sightings and the question of hidden non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo congress hearing</span><span class="citation-popover-snippet">There will probably be more congressional hearings...Read more...</span></span></span>
 
 The hearing sometimes blurred that distinction in public perception. A viewer impressed by Fravor's military record or Graves's aviation-safety focus might become more willing to trust Grusch by association. Yet the evidential standards remain different. Credibility can be contagious in public debate, but evidence does not automatically transfer from one claim to another.
 
@@ -349,208 +349,208 @@ The hearing sometimes blurred that distinction in public perception. A viewer im
 
 The strongest credibility benefit that Graves and Fravor provided was indirect rather than evidential.
 
-They helped establish that: <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span>
+They helped establish that:<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">lawmakers pledge to pursue greater transparency on existential threat of uaps</span><span class="citation-popover-snippet">Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</span></span></span>
 
 * UAP reports were being discussed by experienced military personnel.
 * Congress considered the topic worthy of public oversight.
 * Aviation and national-security concerns existed independently of Grusch's allegations.
-* The hearing was not built entirely around a single whistleblower's account. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American Legion&#x27;UAP are in our airspace&#x27;: Former military personnel warn...27 Jul 2023 — Ryan Graves, a former Navy F-18 pilot, and...</span></span></span>
+* The hearing was not built entirely around a single whistleblower's account.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American Legion&#x27;UAP are in our airspace&#x27;: Former military personnel warn...27 Jul 2023 — Ryan Graves, a former Navy F-18 pilot, and...</span></span></span>
 
-That broadened the audience willing to listen to Grusch. Instead of appearing alone as someone making extraordinary claims, he appeared alongside witnesses whose stories involved operational military experiences and flight-safety concerns. This reduced the appearance that the hearing was focused solely on extraterrestrial speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineWhat we learned from the UFO Congress hearing1 Aug 2023 — Two of the witnesses at the hearing, David Fravor and Ryan...</span></span></span>
+That broadened the audience willing to listen to Grusch. Instead of appearing alone as someone making extraordinary claims, he appeared alongside witnesses whose stories involved operational military experiences and flight-safety concerns. This reduced the appearance that the hearing was focused solely on extraterrestrial speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skyatnightmagazine.com">[Sky at Night Magazine]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skyatnightmagazine.com</span><span class="citation-popover-snippet">Sky at Night MagazineWhat we learned from the UFO Congress hearing1 Aug 2023 — Two of the witnesses at the hearing, David Fravor and Ryan...</span></span></span>
 
-However, the pilots did not provide direct evidence for Grusch's central allegations. Their testimony strengthened the hearing's seriousness, not the factual proof behind crash-retrieval claims. For that reason, the hearing increased Grusch's public legitimacy as a witness while leaving the underlying evidential dispute largely unresolved. The pilots helped convince many observers that the UAP issue deserved attention. They did not demonstrate that Grusch's most dramatic assertions were true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
+However, the pilots did not provide direct evidence for Grusch's central allegations. Their testimony strengthened the hearing's seriousness, not the factual proof behind crash-retrieval claims. For that reason, the hearing increased Grusch's public legitimacy as a witness while leaving the underlying evidential dispute largely unresolved. The pilots helped convince many observers that the UAP issue deserved attention. They did not demonstrate that Grusch's most dramatic assertions were true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more</span><span class="citation-popover-snippet">House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</span><span class="citation-popover-meta">Published: July 26, 2023</span></span></span> Oversight Committee<span class="citation-link-wrap"><a class="citation-inline-link" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/usPustgTcDU" title="David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer">David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 73.9K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=usPustgTcDU">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the pilots changed Grusch&#x27;s hearing. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the pilots changed Grusch&#x27;s hearing. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rYX6sgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
-        </h4>
-        <p class="fr-book-author">By David Clarke</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rYX6sgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+</h4>
+<p class="fr-book-author">By David Clarke</p>
         
-        <p class="fr-book-desc">Now available in paperback! A history of the various manifestations and shifting meaning of the Twentieth Century&#x27;s single great contribu...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Now available in paperback! A history of the various manifestations and shifting meaning of the Twentieth Century&#x27;s single great contribu...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UqAQHo3jAbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Secret Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Life">Secret Life</a>
-        </h4>
-        <p class="fr-book-author">By David M. Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UqAQHo3jAbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Secret Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Life">Secret Life</a>
+</h4>
+<p class="fr-book-author">By David M. Jacobs</p>
         
-        <p class="fr-book-desc">Revealing and unsettling interviews with over sixty real-life individuals who claim they were abducted by aliens from the author of The U...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Revealing and unsettling interviews with over sixty real-life individuals who claim they were abducted by aliens from the author of The U...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
-        </h4>
-        <p class="fr-book-author">By Todd Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
+</h4>
+<p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Briefing Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Briefing Book">UFO Briefing Book</a>
-        </h4>
-        <p class="fr-book-author">By James Lough</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Briefing Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Briefing Book">UFO Briefing Book</a>
+</h4>
+<p class="fr-book-author">By James Lough</p>
         
-        <p class="fr-book-desc">First published 2021. Subjects: Political science, Military art and science.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2021. Subjects: Political science, Military art and science.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret Life</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Secret+Life&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Secret Life</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-pilots-changed-grusch-s-hearing-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-pilots-changed-grusch-s-hearing-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -566,7 +566,7 @@ However, the pilots did not provide direct evidence for Grusch's central allegat
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -586,7 +586,7 @@ However, the pilots did not provide direct evidence for Grusch's central allegat
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -618,7 +618,7 @@ However, the pilots did not provide direct evidence for Grusch's central allegat
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -670,7 +670,7 @@ However, the pilots did not provide direct evidence for Grusch's central allegat
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -715,7 +715,7 @@ However, the pilots did not provide direct evidence for Grusch's central allegat
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -756,166 +756,166 @@ However, the pilots did not provide direct evidence for Grusch's central allegat
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oversight.house.gov  
    Title: Ryan Graves. Executive Director Americans for Safe Aerospace Document.Read more  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeImplications on National Security, Public Safety, and...26 Jul 2023 — Hearing Hearing Date: July 26, 2023 10:00...</p></details>
    Published: July 26, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: space.com  
    Title: us hiding evidence alien intelligence ufo whistleblower claims  
-   Link: <a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — Three key witnesses testified at the hearing: Ryan Graves and Davi...</p></details>
+   Link:<a href="https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/us-hiding-evidence-alien-intelligence-ufo-whistleblower-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US hiding evidence of UFOs, alien intellligence...26 Jul 2023 — Three key witnesses testified at the hearing: Ryan Graves and Davi...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298958/ufos-congressional-hearing-what-to-know/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</p></details>
+   Link:<a href="https://time.com/6298958/ufos-congressional-hearing-what-to-know/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298958/ufos-congressional-hearing-what-to-know/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Testimony by former Air Force Major David Grusch claimed the U.S. military has been recovering and reverse-engineering extraterrestrial m...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: legion.org  
-   Link: <a href="https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The American Legion&#x27;UAP are in our airspace&#x27;: Former military personnel warn...27 Jul 2023 — Ryan Graves, a former Navy F-18 pilot, and...</p></details>
+   Link:<a href="https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/newsletters/2023/july/uap-are-in-our-airspace-former-military-personnel-warn-congress-of-alien-objects-threatening-nationa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The American Legion&#x27;UAP are in our airspace&#x27;: Former military personnel warn...27 Jul 2023 — Ryan Graves, a former Navy F-18 pilot, and...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: oversight.house.gov  
    Title: David Fravor Statement for House Oversight Committee  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeDavid Fravor Statement for House Oversight Committee25 Jul 2023 — This Tic Tac Object had just traveled 60 miles...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/David-Fravor-Statement-for-House-Oversight-Committee.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeDavid Fravor Statement for House Oversight Committee25 Jul 2023 — This Tic Tac Object had just traveled 60 miles...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence official, testified before Congress, alleging that the U.S. government has been concealing a longstanding program focused on...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: pbs.org  
-   Link: <a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</p></details>
+   Link:<a href="https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.pbs.org/newshour/politics/analysis-whistleblower-testimonies-did-not-change-our-basic-understanding-of-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analysis: Whistleblower testimonies did not change our...29 Jul 2023 — A congressional subcommittee met on June 26, 2023, to hear tes...</p></details>
    Published: June 26, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: defensescoop.com  
    Title: lawmakers pledge to pursue greater transparency on existential threat of uaps  
-   Link: <a href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</p></details>
+   Link:<a href="https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/07/26/lawmakers-pledge-to-pursue-greater-transparency-on-existential-threat-of-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lawmakers pledge to pursue greater transparency on &#x27;...26 Jul 2023 — David Fravor, former Navy pilot Ryan Graves, and former...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: LIVE | Congress holds UFO hearing with retired Maj. David Grusch  
-   Link: <a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House holds hearing on UFOs, government transparency | full video...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SpzJnrwob1A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House holds hearing on UFOs, government transparency | full video...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: House holds hearing on UFOs, government transparency | full video  
-   Link: <a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SNgoul4vyDM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SNgoul4vyDM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SNgoul4vyDM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
+   Link:<a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The hearing featured testimonies from former Navy pilots Ryan Graves and David Fravor, as well as whistleblower and former intelligence o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cbsnews.com  
-   Link: <a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsThe story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his expe...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/tic-tac-ufo-sighting-uap-video-dave-fravor-alex-dietrich-navy-fighter-pilots-house-testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CBS NewsThe story behind the &quot;Tic Tac&quot; UFO sighting by Navy pilots...26 Jul 2023 — A retired Navy fighter pilot testified about his expe...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: skyatnightmagazine.com  
-   Link: <a href="https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineWhat we learned from the UFO Congress hearing1 Aug 2023 — Two of the witnesses at the hearing, David Fravor and Ryan...</p></details>
+   Link:<a href="https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.skyatnightmagazine.com/news/what-we-learned-from-the-ufo-congress-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky at Night MagazineWhat we learned from the UFO Congress hearing1 Aug 2023 — Two of the witnesses at the hearing, David Fravor and Ryan...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: ufo congress hearing  
-   Link: <a href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There will probably be more congressional hearings...Read more...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/29/ufo-congress-hearing-summary-aoc-gaetz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There will probably be more congressional hearings...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: ufo hearing congress evidence david grusch  
-   Link: <a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings fou...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2023/jul/26/ufo-hearing-congress-evidence-david-grusch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianUS conducted &#x27;multi-decade&#x27; secret UFO program, ex-...26 Jul 2023 — Whistleblower David Grusch claims &#x27;non-human&#x27; beings fou...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office ([AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)) from 2022 t...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office ([AARO](&amp;#123;&amp;#123; &#x27;aaro/&#x27; | relative_url &amp;#125;&amp;#125;)) from 2022 t...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — House committee holds a hearing on UAPs and the need for more transparency and whistleblower protection. Read the transcrip...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — House committee holds a hearing on UAPs and the need for more transparency and whistleblower protection. Read the transcrip...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: rev.com  
-   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>[House Hearing](&amp;#123;&amp;#123; &#x27;house-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on Unidentified Anomalous Phenomena23 Jan 2026 — We heard from former Navy Commander, David Fravor, who shared firsthand ex...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[House Hearing](&amp;#123;&amp;#123; &#x27;house-hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on Unidentified Anomalous Phenomena23 Jan 2026 — We heard from former Navy Commander, David Fravor, who shared firsthand ex...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — In addition to Grusch, the panel heard testimony from Ryan Graves...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — In addition to Grusch, the panel heard testimony from Ryan Graves...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: rv-times.com  
-   Link: <a href="https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/" target="_blank" rel="noopener noreferrer nofollow">https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounters with UFOs described to congressional committeeRetired Navy commander David Fravor described an encounter with a “white T...</p></details>
+   Link:<a href="https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/" target="_blank" rel="noopener noreferrer nofollow">https://rv-times.com/2023/07/26/close-encounters-with-ufos-described-to-congressional-committee/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Close encounters with UFOs described to congressional committeeRetired Navy commander David Fravor described an encounter with a “white T...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: commons.wikimedia.org  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:2023 House Oversight and Accountability Hearing on...It includes a testimony by the whistleblower and former member of...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A2023_House_Oversight_and_Accountability_Hearing_on_UAP_%E2%80%93_Unidentified_Anomalous_Phenomena_%E2%80%93_Implications_on_National_Security%2C_Public_Safety%2C_and_Government_Transparency.webm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:2023 House Oversight and Accountability Hearing on...It includes a testimony by the whistleblower and former member of...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: spyscape.com  
-   Link: <a href="https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Five Shocking UFO Space Secrets &amp; Cover-up ClaimsFormer US Air Force intelligence officer David Grusch testified about mysterious alien l...</p></details>
+   Link:<a href="https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims" target="_blank" rel="noopener noreferrer nofollow">https://spyscape.com/article/ufo-hearing-five-shocking-space-secrets-cover-up-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Five Shocking UFO Space Secrets &amp; Cover-up ClaimsFormer US Air Force intelligence officer David Grusch testified about mysterious alien l...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theverticalspace.net  
    Title: 98 ryan graves asa uaps as a wake up call for airspace safety and innovation  
-   Link: <a href="https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation" target="_blank" rel="noopener noreferrer nofollow">https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>#98 Ryan Graves, ASA: UAPs as a wake-up call for...6 Aug 2025 — Ryan Graves is a former U.S. Navy F/A-18F pilot and the first active-dut...</p></details>
+   Link:<a href="https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation" target="_blank" rel="noopener noreferrer nofollow">https://theverticalspace.net/episode/98-ryan-graves-asa-uaps-as-a-wake-up-call-for-airspace-safety-and-innovation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>#98 Ryan Graves, ASA: UAPs as a wake-up call for...6 Aug 2025 — Ryan Graves is a former U.S. Navy F/A-18F pilot and the first active-dut...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OwSkXDmV6Io</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Eyewitnesses describe encounters with &quot;non...The Witnesses on the panel today for sharing their stories on how they&#x27;ve enga...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=OwSkXDmV6Io" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=OwSkXDmV6Io</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing: Eyewitnesses describe encounters with &quot;non...The Witnesses on the panel today for sharing their stories on how they&#x27;ve enga...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=usPustgTcDU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Fravor Opening Statement at Unidentified Anomalous...I want to first thank you for the invitation to speak to the committee on the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=usPustgTcDU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Fravor Opening Statement at Unidentified Anomalous...I want to first thank you for the invitation to speak to the committee on the...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: podcasts.happyscribe.com  
    Title: 122 david fravor ufos aliens fighter jets and aerospace engineering  
-   Link: <a href="https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of #122 – David Fravor: UFOs, Aliens, Fighter Jets...The following is a conversation with Commander David Fraser, who was a Navy pilot f...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/lex-fridman-podcast-artificial-intelligence-ai/122-david-fravor-ufos-aliens-fighter-jets-and-aerospace-engineering</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of #122 – David Fravor: UFOs, Aliens, Fighter Jets...The following is a conversation with Commander David Fraser, who was a Navy pilot f...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: elitefasion.com  
-   Link: <a href="https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony" target="_blank" rel="noopener noreferrer nofollow">https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the 2004 Nimitz encounter as told by the Navy pilot who saw the object directly and later...</p></details>
+   Link:<a href="https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony" target="_blank" rel="noopener noreferrer nofollow">https://elitefasion.com/uap-ufo-records/fravor-tic-tac-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The story of the 2004 Nimitz encounter as told by the Navy pilot who saw the object directly and later...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
    Title: who are the uap whistleblowers and what are they telling congress  
-   Link: <a href="https://www.facebook.com/mashable/videos/who-are-the-uap-whistleblowers-and-what-are-they-telling-congress/721501646403055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mashable/videos/who-are-the-uap-whistleblowers-and-what-are-they-telling-congress/721501646403055/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On July 26, 2023, three former military officials testified before...The third military official to testify was retired major David Grus...</p></details>
+   Link:<a href="https://www.facebook.com/mashable/videos/who-are-the-uap-whistleblowers-and-what-are-they-telling-congress/721501646403055/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/mashable/videos/who-are-the-uap-whistleblowers-and-what-are-they-telling-congress/721501646403055/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On July 26, 2023, three former military officials testified before...The third military official to testify was retired major David Grus...</p></details>
    Published: July 26, 2023  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18q1t7w/what_happened_to_ryan_graves/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18q1t7w/what_happened_to_ryan_graves/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What happened to Ryan Graves?: r/UFOsApologies if this has been rehashed. Did a search on this sub and haven’t seen anything in a few mo...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18q1t7w/what_happened_to_ryan_graves/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18q1t7w/what_happened_to_ryan_graves/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What happened to Ryan Graves?: r/UFOsApologies if this has been rehashed. Did a search on this sub and haven’t seen anything in a few mo...</p></details>

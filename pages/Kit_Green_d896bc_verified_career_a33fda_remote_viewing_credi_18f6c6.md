@@ -259,20 +259,20 @@ image: /assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_cre
 Kit Green’s documented intelligence and medical career is one of the strongest foundations of his public credibility. The more difficult question is whether his association with remote-viewing research helped or harmed that credibility. The answer depends largely on what standard is being applied.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_credi_18f6c6-Illustration-1-dark.svg" | relative_url }}" alt="Remote viewing illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_credi_18f6c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_credi_18f6c6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-On one level, Green’s links to Stanford Research Institute (SRI) remote-viewing work are historically real and help confirm that he moved inside unusual intelligence-adjacent research circles during the Cold War. On another level, remote viewing remains widely regarded by mainstream science as unproven or pseudoscientific, and [official reviews]({{ 'official-reviews/' | relative_url }}) ultimately concluded that it did not provide reliable intelligence value. That means Green’s involvement is often used by critics as evidence of poor judgement, even though the underlying historical fact is more complicated: participation in intelligence-sponsored research does not automatically validate the phenomenon being studied. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> Wikipedia For readers assessing Green’s credibility on UFO and UAP matters <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>, the remote-viewing connection sits in an awkward middle ground. It demonstrates genuine access to classified and experimental programmes, but it also ties his public image to one of the most controversial areas of Cold War intelligence research.
+On one level, Green’s links to Stanford Research Institute (SRI) remote-viewing work are historically real and help confirm that he moved inside unusual intelligence-adjacent research circles during the Cold War. On another level, remote viewing remains widely regarded by mainstream science as unproven or pseudoscientific, and [official reviews]({{ 'official-reviews/' | relative_url }}) ultimately concluded that it did not provide reliable intelligence value. That means Green’s involvement is often used by critics as evidence of poor judgement, even though the underlying historical fact is more complicated: participation in intelligence-sponsored research does not automatically validate the phenomenon being studied.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> Wikipedia For readers assessing Green’s credibility on UFO and UAP matters<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>, the remote-viewing connection sits in an awkward middle ground. It demonstrates genuine access to classified and experimental programmes, but it also ties his public image to one of the most controversial areas of Cold War intelligence research.
 
 ## SRI and the intelligence-linked research trail
 
-The strongest evidence connecting Green to remote-viewing research comes from the historical record surrounding SRI's parapsychology programme in the 1970s. Declassified CIA material confirms that intelligence agencies funded experiments at SRI to investigate whether so-called remote viewing might have practical intelligence applications. Researchers such as Harold Puthoff and Russell Targ became central figures in those efforts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMTo evaluate the research program, a &quot;blue ribbon&quot; panel was assembled. The panel included t...</span></span></span>
+The strongest evidence connecting Green to remote-viewing research comes from the historical record surrounding SRI's parapsychology programme in the 1970s. Declassified CIA material confirms that intelligence agencies funded experiments at SRI to investigate whether so-called remote viewing might have practical intelligence applications. Researchers such as Harold Puthoff and Russell Targ became central figures in those efforts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMTo evaluate the research program, a &quot;blue ribbon&quot; panel was assembled. The panel included t...</span></span></span>
 
-Green appears repeatedly in accounts of that period as a CIA-linked scientific monitor or participant in discussions around the research. Historical photographs and later publications place him alongside figures associated with the programme, including Puthoff and remote-viewing subject Pat Price. A frequently reproduced photograph from the mid-1970s shows Green with Price and Puthoff following remote-viewing tests, while later archival discussions of the SRI programme identify Green as a CIA representative involved in conversations about parapsychology research. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/psychic-spy-139-v15n10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">A Psychic Spy</span><span class="citation-popover-snippet">A Psychic SpyOctober 1, 2008 — 30 Sept 2008 — Russell Targ is a preternatural brainiac who developed a government-funded psychic espi...</span><span class="citation-popover-meta">Published: October 1, 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</span></span></span>
+Green appears repeatedly in accounts of that period as a CIA-linked scientific monitor or participant in discussions around the research. Historical photographs and later publications place him alongside figures associated with the programme, including Puthoff and remote-viewing subject Pat Price. A frequently reproduced photograph from the mid-1970s shows Green with Price and Puthoff following remote-viewing tests, while later archival discussions of the SRI programme identify Green as a CIA representative involved in conversations about parapsychology research.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/psychic-spy-139-v15n10/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-title">A Psychic Spy</span><span class="citation-popover-snippet">A Psychic SpyOctober 1, 2008 — 30 Sept 2008 — Russell Targ is a preternatural brainiac who developed a government-funded psychic espi...</span><span class="citation-popover-meta">Published: October 1, 2008</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</span></span></span>
 
 This point is important because some UFO discussions exaggerate the connection in two opposite directions:
 
 * [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) sometimes portray Green’s involvement as proof that psychic phenomena were successfully validated by intelligence agencies.
 * Critics sometimes portray the connection as evidence that Green was merely involved in fringe pseudoscience.
 
-The historical record supports neither extreme. What it clearly shows is that intelligence organisations funded investigations into remote viewing and that Green was close enough to those efforts to be associated with them. Whether the underlying claims were true is a separate question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2003/jun/05/research.science1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The remote viewers &#124; Science4 Jun 2003 — They asked parapsychologists Hal Puthoff and Russell Targ of the Stanford Research Institute to...</span></span></span>
+The historical record supports neither extreme. What it clearly shows is that intelligence organisations funded investigations into remote viewing and that Green was close enough to those efforts to be associated with them. Whether the underlying claims were true is a separate question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2003/jun/05/research.science1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The remote viewers &#124; Science4 Jun 2003 — They asked parapsychologists Hal Puthoff and Russell Targ of the Stanford Research Institute to...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2B6-TMuudqE" title="The Stargate Project: When the CIA Dabbled with the Psychic" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2B6-TMuudqE" target="_blank" rel="noopener noreferrer">The Stargate Project: When the CIA Dabbled with the Psychic</a></p><p class="youtube-embed-meta">Channel: Megaprojects &middot; Views: 349.1K &middot; Uploaded: April 2021 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2B6-TMuudqE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2B6-TMuudqE">Open on YouTube</a></p></div></div></div>
 
@@ -280,15 +280,15 @@ The historical record supports neither extreme. What it clearly shows is that in
 
 One of the most common misunderstandings is the idea that government involvement itself validates remote viewing. The declassified documents do not support that conclusion.
 
-The original SRI experiments were conducted because intelligence officials wanted to determine whether unusual perception claims might have operational value. The existence of funding demonstrates institutional curiosity and concern, particularly during the Cold War, when American agencies worried that Soviet programmes might be exploring similar ideas. It does not demonstrate that remote viewing worked as claimed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2003/jun/05/research.science1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The remote viewers &#124; Science4 Jun 2003 — They asked parapsychologists Hal Puthoff and Russell Targ of the Stanford Research Institute to...</span></span></span>
+The original SRI experiments were conducted because intelligence officials wanted to determine whether unusual perception claims might have operational value. The existence of funding demonstrates institutional curiosity and concern, particularly during the Cold War, when American agencies worried that Soviet programmes might be exploring similar ideas. It does not demonstrate that remote viewing worked as claimed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2003/jun/05/research.science1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The remote viewers &#124; Science4 Jun 2003 — They asked parapsychologists Hal Puthoff and Russell Targ of the Stanford Research Institute to...</span></span></span>
 
-The most important official review came decades later. In the 1990s, the CIA commissioned an evaluation of the programme. The review acknowledged that some experimental results appeared statistically unusual, but it concluded that the evidence did not demonstrate a reliable intelligence tool and that the information produced was too inconsistent for operational use. The programme was subsequently terminated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">ite chosen by experimenters and unknown to the subject.Read more...</span></span></span>
+The most important official review came decades later. In the 1990s, the CIA commissioned an evaluation of the programme. The review acknowledged that some experimental results appeared statistically unusual, but it concluded that the evidence did not demonstrate a reliable intelligence tool and that the information produced was too inconsistent for operational use. The programme was subsequently terminated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">ite chosen by experimenters and unknown to the subject.Read more...</span></span></span>
 
 That distinction matters when evaluating Green.
 
 A sceptical reading is straightforward: a scientifically trained intelligence officer became involved with a programme that ultimately failed to convince the wider scientific community and failed to deliver dependable intelligence results.
 
-A more charitable reading is that intelligence agencies routinely investigate uncertain possibilities, especially when potential national-security implications exist. Under that interpretation, Green's participation reflects the exploratory culture of Cold War intelligence research rather than personal endorsement of every paranormal claim that emerged from it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span>
+A more charitable reading is that intelligence agencies routinely investigate uncertain possibilities, especially when potential national-security implications exist. Under that interpretation, Green's participation reflects the exploratory culture of Cold War intelligence research rather than personal endorsement of every paranormal claim that emerged from it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_credi_18f6c6-Illustration-2-dark.svg" | relative_url }}" alt="Remote viewing illustration 2" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_credi_18f6c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_verified_career_a33fda_remote_viewing_credi_18f6c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why critics see the remote-viewing link as a warning sign
@@ -297,12 +297,12 @@ For many critics of Green’s later UFO-related statements, the remote-viewing c
 
 The argument runs roughly as follows:
 
-1. Remote viewing never achieved mainstream scientific acceptance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>
+1. Remote viewing never achieved mainstream scientific acceptance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>
 2. Green was associated with researchers and programmes that promoted it.
 3. Green later became involved with other controversial subjects, including anomalous medical cases, UFO reports and claims about exotic phenomena.
 4. Therefore, critics argue that he may be unusually willing to entertain extraordinary possibilities that lack strong evidential support.
 
-This criticism is strengthened by the fact that some figures in the remote-viewing world later became heavily involved in UFO and paranormal communities. The overlap between intelligence-linked psychic research, consciousness studies and UFO subcultures is historically real. Puthoff, for example, remained influential in later UAP discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia From a credibility-analysis perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>, the concern is not necessarily that Green participated in remote-viewing research. It is that association with one disputed field may affect how observers interpret his judgement in another disputed field.
+This criticism is strengthened by the fact that some figures in the remote-viewing world later became heavily involved in UFO and paranormal communities. The overlap between intelligence-linked psychic research, consciousness studies and UFO subcultures is historically real. Puthoff, for example, remained influential in later UAP discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[newdualism.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</span><span class="citation-popover-meta">Published: July 1995</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia From a credibility-analysis perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>, the concern is not necessarily that Green participated in remote-viewing research. It is that association with one disputed field may affect how observers interpret his judgement in another disputed field.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1LoAz2vlwSw" title="A History of Remote Viewing [Top Secret Project STARGATE] Declassified; The Ark of the Covenant" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1LoAz2vlwSw" target="_blank" rel="noopener noreferrer">A History of Remote Viewing [Top Secret Project STARGATE] Declassified; The Ark of the Covenant</a></p><p class="youtube-embed-meta">Channel: Jarid Boosters &middot; Views: 21.3K &middot; Uploaded: October 2024 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1LoAz2vlwSw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1LoAz2vlwSw">Open on YouTube</a></p></div></div></div>
 
@@ -312,7 +312,7 @@ Supporters of Green usually frame the issue differently.
 
 Their argument is that intelligence work often involves investigating claims before deciding whether they are true. In this view, Green's proximity to remote-viewing programmes demonstrates access and responsibility rather than gullibility. Analysts and scientists in national-security environments are frequently tasked with examining unconventional possibilities precisely because decision-makers do not yet know whether those possibilities are real.
 
-Supporters also point out that Green's mainstream credentials did not disappear after the remote-viewing era. He continued to hold significant positions in medicine, neuroscience, technology assessment and forensic science. Publicly documented academic and professional appointments suggest that his broader career was not derailed by participation in fringe research programmes. That fact complicates attempts to dismiss him as merely a paranormal enthusiast. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</span></span></span>
+Supporters also point out that Green's mainstream credentials did not disappear after the remote-viewing era. He continued to hold significant positions in medicine, neuroscience, technology assessment and forensic science. Publicly documented academic and professional appointments suggest that his broader career was not derailed by participation in fringe research programmes. That fact complicates attempts to dismiss him as merely a paranormal enthusiast.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</span></span></span>
 
 A further argument is that critics sometimes confuse involvement with endorsement. The historical record demonstrates Green's connection to remote-viewing research networks. It does not always demonstrate that he accepted every paranormal conclusion advanced by those networks.
 
@@ -321,9 +321,9 @@ A further argument is that critics sometimes confuse involvement with endorsemen
 
 The practical credibility impact is mixed.
 
-For readers who prioritise institutional access, Green's remote-viewing links can reinforce the idea that he operated within unusual intelligence circles and had exposure to programmes that remain poorly understood by the public. The connection helps explain why later UFO researchers treated him as a potentially informed insider. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</span></span></span>
+For readers who prioritise institutional access, Green's remote-viewing links can reinforce the idea that he operated within unusual intelligence circles and had exposure to programmes that remain poorly understood by the public. The connection helps explain why later UFO researchers treated him as a potentially informed insider.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationThe Star Gate Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</span></span></span>
 
-For readers who prioritise scientific caution, the same connection can weaken confidence. Remote viewing remains scientifically controversial, and official evaluations failed to establish it as a reliable intelligence capability. A documented association with that field naturally raises questions about evidential standards and susceptibility to extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">REMOT E VIEWING OF NATURAL TARGETS</span><span class="citation-popover-snippet">SRI....1:40 THIS IS A REMOTE VIEWING EXPERIMENT WITH PAT PRICE, DEAN BROWN. AND RUSSELL TARG IN THE SHIELDED ROOM IN BUILDING 30. THE T...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>
+For readers who prioritise scientific caution, the same connection can weaken confidence. Remote viewing remains scientifically controversial, and official evaluations failed to establish it as a reliable intelligence capability. A documented association with that field naturally raises questions about evidential standards and susceptibility to extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-title">REMOT E VIEWING OF NATURAL TARGETS</span><span class="citation-popover-snippet">SRI....1:40 THIS IS A REMOTE VIEWING EXPERIMENT WITH PAT PRICE, DEAN BROWN. AND RUSSELL TARG IN THE SHIELDED ROOM IN BUILDING 30. THE T...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Remote viewing</span><span class="citation-popover-snippet">Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</span></span></span>
 
 The most balanced assessment is that Green's remote-viewing links neither prove nor disprove his credibility on UAP issues. They demonstrate something narrower but still important: he genuinely moved within intelligence-sponsored investigations of unconventional subjects. That fact strengthens claims about his access and historical connections. It does not strengthen the underlying paranormal claims themselves.
 
@@ -332,194 +332,194 @@ As a credibility factor, the remote-viewing connection therefore functions less 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/fzMb6Xw8ur4" title="Reality Check: &#x27;Project Stargate&#x27; and what JFK knew about UFOs | Backscroll" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=fzMb6Xw8ur4" target="_blank" rel="noopener noreferrer">Reality Check: &#x27;Project Stargate&#x27; and what JFK knew about UFOs | Backscroll</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 102.6K &middot; Uploaded: July 2025 &middot; Length: 2 hours 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=fzMb6Xw8ur4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=fzMb6Xw8ur4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did fringe research help or hurt credibility?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did fringe research help or hurt credibility?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vineyard Stalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/474729-M.jpg" alt="Cover for Vineyard Stalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vineyard Stalker">Vineyard Stalker</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Vineyard Stalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/474729-M.jpg" alt="Cover for Vineyard Stalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Vineyard Stalker">Vineyard Stalker</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides accessible context for remote-viewing credibility debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides accessible context for remote-viewing credibility debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Directly addresses the intelligence-linked remote-viewing world tied to Green.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses the intelligence-linked remote-viewing world tied to Green.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Provides accessible context for remote-viewing credibility debates.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Provides accessible context for remote-viewing credibility debates.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Links intelligence circles, paranormal research and UAP narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Links intelligence circles, paranormal research and UAP narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vineyard Stalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Vineyard+Stalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Vineyard Stalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR"><img src="https://i.ebayimg.com/images/g/Ig8AAeSw2QVpzWp1/s-l225.jpg" alt="Listing image for CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR"><img src="https://i.ebayimg.com/images/g/Ig8AAeSw2QVpzWp1/s-l225.jpg" alt="Listing image for CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA U-2 DRAGON LADY vêlkrö PATCH: IN GOD WE TRUST MONITOR ALL OTHERS WE MONITOR</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Badge Patch Heat Stick Patch"><img src="https://i.ebayimg.com/images/g/mDYAAOSwcx5ZZebs/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Badge Patch Heat Stick Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Badge Patch Heat Stick Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Badge Patch Heat Stick Patch"><img src="https://i.ebayimg.com/images/g/mDYAAOSwcx5ZZebs/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Badge Patch Heat Stick Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Badge Patch Heat Stick Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited"><img src="https://i.ebayimg.com/images/g/vF8AAOSwdBZan1-M/s-l225.jpg" alt="Listing image for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited"><img src="https://i.ebayimg.com/images/g/vF8AAOSwdBZan1-M/s-l225.jpg" alt="Listing image for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch"><img src="https://i.ebayimg.com/images/g/D4kAAOSw~4pltTNN/s-l225.jpg" alt="Listing image for American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch"><img src="https://i.ebayimg.com/images/g/D4kAAOSw~4pltTNN/s-l225.jpg" alt="Listing image for American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">American U.S. Army Vietnam War CIA ‘Black Operations’ Grim Reaper Cloth Patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-fringe-research-help-or-hurt-credibility-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="did-fringe-research-help-or-hurt-credibility-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ As a credibility factor, the remote-viewing connection therefore functions less 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ As a credibility factor, the remote-viewing connection therefore functions less 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ As a credibility factor, the remote-viewing connection therefore functions less 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ As a credibility factor, the remote-viewing connection therefore functions less 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ As a credibility factor, the remote-viewing connection therefore functions less 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,136 +725,136 @@ As a credibility factor, the remote-viewing connection therefore functions less 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: newdualism.org  
    Title: CIA Initiated Remote Viewing At Stanford Research Institute  
-   Link: <a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</p></details>
+   Link:<a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-Initiated Remote Viewing At Stanford Research InstituteIn July 1995 the CIA declassified, and approved for release, documents reveali...</p></details>
    Published: July 1995  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMTo evaluate the research program, a &quot;blue ribbon&quot; panel was assembled. The panel included t...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMTo evaluate the research program, a &quot;blue ribbon&quot; panel was assembled. The panel included t...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ite chosen by experimenters and unknown to the subject.Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ite chosen by experimenters and unknown to the subject.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: vice.com  
    Title: A Psychic Spy  
-   Link: <a href="https://www.vice.com/en/article/psychic-spy-139-v15n10/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/psychic-spy-139-v15n10/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A Psychic SpyOctober 1, 2008 — 30 Sept 2008 — Russell Targ is a preternatural brainiac who developed a government-funded psychic espi...</p></details>
+   Link:<a href="https://www.vice.com/en/article/psychic-spy-139-v15n10/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/psychic-spy-139-v15n10/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Psychic SpyOctober 1, 2008 — 30 Sept 2008 — Russell Targ is a preternatural brainiac who developed a government-funded psychic espi...</p></details>
    Published: October 1, 2008  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stargate Project (U.S. Army unit)The Stargate Project&#x27;s work primarily involved remote viewing, the... CIA on remote viewing, aliens...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Stargate_Project_%28U.S._Army_unit%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stargate Project (U.S. Army unit)The Stargate Project&#x27;s work primarily involved remote viewing, the... CIA on remote viewing, aliens...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Christopher (singer)  
-   Link: <a href="https://en.wikipedia.org/wiki/Christopher_%28singer%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Christopher_%28singer%29</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher (singer)Christopher Lund Nissen is a Danish singer from Copenhagen, signed to EMI Denmark. In November 2012, he won an awa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Christopher_%28singer%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Christopher_%28singer%29</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Christopher (singer)Christopher Lund Nissen is a Danish singer from Copenhagen, signed to EMI Denmark. In November 2012, he won an awa...</p></details>
    Published: November 2012  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Christopher" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Christopher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ChristopherChristopher is the English version of a Europe-wide name derived from the Greek name Χριστόφορος (Christophoros or Christof...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Christopher" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Christopher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ChristopherChristopher is the English version of a Europe-wide name derived from the Greek name Χριστόφορος (Christophoros or Christof...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
    Title: REMOT E VIEWING OF NATURAL TARGETS  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SRI....1:40 THIS IS A REMOTE VIEWING EXPERIMENT WITH PAT PRICE, DEAN BROWN. AND RUSSELL TARG IN THE SHIELDED ROOM IN BUILDING 30. THE T...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SRI....1:40 THIS IS A REMOTE VIEWING EXPERIMENT WITH PAT PRICE, DEAN BROWN. AND RUSSELL TARG IN THE SHIELDED ROOM IN BUILDING 30. THE T...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00788r000800370001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00788r000800370001-4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY REMOTE VIEWING SESSION CC45The purpose of the session was to provide information relevant to the hostage situation in the US Emba...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00788r000800370001-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00788r000800370001-4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SUMMARY REMOTE VIEWING SESSION CC45The purpose of the session was to provide information relevant to the hostage situation in the US Emba...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/science/2003/jun/05/research.science1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/jun/05/research.science1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The remote viewers | Science4 Jun 2003 — They asked parapsychologists Hal Puthoff and Russell Targ of the Stanford Research Institute to...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2003/jun/05/research.science1" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2003/jun/05/research.science1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The remote viewers | Science4 Jun 2003 — They asked parapsychologists Hal Puthoff and Russell Targ of the Stanford Research Institute to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationThe [Star Gate](&amp;#123;&amp;#123; &#x27;star-gate/&#x27; | relative_url &amp;#125;&amp;#125;) Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3865/2573</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Journal of Scientific ExplorationThe [Star Gate](&amp;#123;&amp;#123; &#x27;star-gate/&#x27; | relative_url &amp;#125;&amp;#125;) Archives: Reports of the United States...Christopher Green (“Kit Green”), at the time wit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: CHRISTOPHER Watch all the official music videos  
-   Link: <a href="https://www.youtube.com/channel/UCWAZJoAnXf9B3xTPbZgGy0g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCWAZJoAnXf9B3xTPbZgGy0g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHRISTOPHERWatch all the official music videos - including his big hits Irony, Heartbeat, Told You So, CPH Girls, Monogamy and many moreR...</p></details>
+   Link:<a href="https://www.youtube.com/channel/UCWAZJoAnXf9B3xTPbZgGy0g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/channel/UCWAZJoAnXf9B3xTPbZgGy0g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHRISTOPHERWatch all the official music videos - including his big hits Irony, Heartbeat, Told You So, CPH Girls, Monogamy and many moreR...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: music.apple.com  
-   Link: <a href="https://music.apple.com/us/artist/christopher/502578404" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/artist/christopher/502578404</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>writes and sings in English, mixing uplifting ballads with funk-dipped hooks and chart-topping collaborations.Read more...</p></details>
+   Link:<a href="https://music.apple.com/us/artist/christopher/502578404" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/artist/christopher/502578404</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>writes and sings in English, mixing uplifting ballads with funk-dipped hooks and chart-topping collaborations.Read more...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: christophermusic.dk  
-   Link: <a href="https://christophermusic.dk/" target="_blank" rel="noopener noreferrer nofollow">https://christophermusic.dk/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CHRISTOPHER MUSIC | OFFICIAL STOREOfficial store with music albums, exclusive merch and latest tour information. Explore new releases, sh...</p></details>
+   Link:<a href="https://christophermusic.dk/" target="_blank" rel="noopener noreferrer nofollow">https://christophermusic.dk/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CHRISTOPHER MUSIC | OFFICIAL STOREOfficial store with music albums, exclusive merch and latest tour information. Explore new releases, sh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>LEAKED call between CIA Dr. Kit Green &amp; Psychic-...Here are the key notes: there exist a leaked phone call. It will be linked below. Rem...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pv5xx7/leaked_call_between_cia_dr_kit_green_psychic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LEAKED call between CIA Dr. Kit Green &amp; Psychic-...Here are the key notes: there exist a leaked phone call. It will be linked below. Rem...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing: The US Sponsored Psychic...This paper deals with experiments conducted in USA in which certain individuals were trained...</p></details>
+   Link:<a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote Viewing: The US Sponsored Psychic...This paper deals with experiments conducted in USA in which certain individuals were trained...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/name/nm0634240/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0634240/</a>  
+   Link:<a href="https://www.imdb.com/name/nm0634240/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/name/nm0634240/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: researchgate.net  
    Title: Research Gate Left to rlght: Christopher Green, Pat Price, and Hal Puthoff  
-   Link: <a href="https://www.researchgate.net/figure/Left-to-rlght-Christopher-Green-Pat-Price-and-Hal-Puthoff-Picture-taken-following-a_fig3_237282216" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Left-to-rlght-Christopher-Green-Pat-Price-and-Hal-Puthoff-Picture-taken-following-a_fig3_237282216</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewing experiments have been used by the CIA to understand the nature of consciousness (Puthoff, 1996). Quantum mechanical descr...</p></details>
+   Link:<a href="https://www.researchgate.net/figure/Left-to-rlght-Christopher-Green-Pat-Price-and-Hal-Puthoff-Picture-taken-following-a_fig3_237282216" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/figure/Left-to-rlght-Christopher-Green-Pat-Price-and-Hal-Puthoff-Picture-taken-following-a_fig3_237282216</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewing experiments have been used by the CIA to understand the nature of consciousness (Puthoff, 1996). Quantum mechanical descr...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2B6-TMuudqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2B6-TMuudqE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Stargate Project: When the CIA Dabbled with the PsychicThe first 100 people to go to [http://blinkist.com/MEGAPROJECTS](http://blinkist.com/MEGAPROJECTS) will get unlimi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2B6-TMuudqE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2B6-TMuudqE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Stargate Project: When the CIA Dabbled with the PsychicThe first 100 people to go to [http://blinkist.com/MEGAPROJECTS](http://blinkist.com/MEGAPROJECTS) will get unlimi...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: telegraph.co.uk  
    Title: no way could explain cia scientist convinced uri gellers psychic  
-   Link: <a href="https://www.telegraph.co.uk/men/thinking-man/no-way-could-explain-cia-scientist-convinced-uri-gellers-psychic/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/men/thinking-man/no-way-could-explain-cia-scientist-convinced-uri-gellers-psychic/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the CIA scientist convinced by Uri Geller&#x27;s psychic powers21 Jan 2017 — Geller was simply told on the call with Dr Green that he was “a s...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/men/thinking-man/no-way-could-explain-cia-scientist-convinced-uri-gellers-psychic/" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/men/thinking-man/no-way-could-explain-cia-scientist-convinced-uri-gellers-psychic/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the CIA scientist convinced by Uri Geller&#x27;s psychic powers21 Jan 2017 — Geller was simply told on the call with Dr Green that he was “a s...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: uniladtech.com  
    Title: hidden cia program possible alien civilisation 864956 20250604  
-   Link: <a href="https://www.uniladtech.com/science/space/nasa/hidden-cia-program-possible-alien-civilisation-864956-20250604" target="_blank" rel="noopener noreferrer nofollow">https://www.uniladtech.com/science/space/nasa/hidden-cia-program-possible-alien-civilisation-864956-20250604</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden CIA program reveals possible location of alien...4 Jun 2025 — A resurfaced CIA file details a psychic&#x27;s claim of discovering huma...</p></details>
+   Link:<a href="https://www.uniladtech.com/science/space/nasa/hidden-cia-program-possible-alien-civilisation-864956-20250604" target="_blank" rel="noopener noreferrer nofollow">https://www.uniladtech.com/science/space/nasa/hidden-cia-program-possible-alien-civilisation-864956-20250604</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hidden CIA program reveals possible location of alien...4 Jun 2025 — A resurfaced CIA file details a psychic&#x27;s claim of discovering huma...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1ni2q1k/declassified_files_suggest_the_cias_stargate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ni2q1k/declassified_files_suggest_the_cias_stargate/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>hic spying, but was a PHOENIX program to &quot;remote view&quot; an anti-reality.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1ni2q1k/declassified_files_suggest_the_cias_stargate/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1ni2q1k/declassified_files_suggest_the_cias_stargate/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hic spying, but was a PHOENIX program to &quot;remote view&quot; an anti-reality.Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
    Title: the cias stargate project was never about remote  
-   Link: <a href="https://www.reddit.com/r/AlternativeHistory/comments/1mjynec/the_cias_stargate_project_was_never_about_remote/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1mjynec/the_cias_stargate_project_was_never_about_remote/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA&#x27;s Stargate Project Was Never About Remote...The CIA&#x27;s Stargate Project Was Never About Remote Viewing... No-Badger-3653. • 7mo...</p></details>
+   Link:<a href="https://www.reddit.com/r/AlternativeHistory/comments/1mjynec/the_cias_stargate_project_was_never_about_remote/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/AlternativeHistory/comments/1mjynec/the_cias_stargate_project_was_never_about_remote/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA&#x27;s Stargate Project Was Never About Remote...The CIA&#x27;s Stargate Project Was Never About Remote Viewing... No-Badger-3653. • 7mo...</p></details>

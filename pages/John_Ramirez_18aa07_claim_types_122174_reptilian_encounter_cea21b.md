@@ -259,15 +259,15 @@ image: /assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter
 John Ramirez’s reported reptilian encounter is one of the clearest tests of how far a reader is willing to extend trust from a verified intelligence background into claims that lack independent evidence. Unlike stories about radar systems, intelligence analysis or government structures, the reptilian account is presented as a personal experience. That makes it first-hand rather than second-hand. It does not, however, make it well-supported.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter_cea21b-Illustration-1-dark.svg" | relative_url }}" alt="Encounter claim illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter_cea21b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter_cea21b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For credibility analysis, this distinction matters. A first-hand claim can be sincere, detailed and memorable while still remaining unverified. Ramirez’s reptilian story sits in exactly that category. [Supporters]({{ 'supporters-124489/' | relative_url }}) view it as the sort of direct encounter that an insider would only discuss after retirement. [Sceptics]({{ 'sceptics-70c753/' | relative_url }}) see it as a claim that moves beyond anything supported by documents, witnesses, physical evidence or institutional records. The debate is therefore not mainly about whether Ramirez says he experienced something. It is about what counts as evidence that the experience happened in the way he interprets it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</span></span></span>
+For credibility analysis, this distinction matters. A first-hand claim can be sincere, detailed and memorable while still remaining unverified. Ramirez’s reptilian story sits in exactly that category. [Supporters]({{ 'supporters-124489/' | relative_url }}) view it as the sort of direct encounter that an insider would only discuss after retirement. [Sceptics]({{ 'sceptics-70c753/' | relative_url }}) see it as a claim that moves beyond anything supported by documents, witnesses, physical evidence or institutional records. The debate is therefore not mainly about whether Ramirez says he experienced something. It is about what counts as evidence that the experience happened in the way he interprets it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</span></span></span>
 
 ## What Ramirez reportedly said happened
 
-Across interviews, podcast appearances and discussion clips circulated through UFO communities, Ramirez has described what he interpreted as an encounter with a reptilian-type being. The story is typically presented as a personal experience rather than as intelligence reporting, and it is often discussed alongside his broader claims about non-human intelligence, hybrid programmes and [alien ancestry]({{ 'alien-ancestry/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">42 from AREA52 - DEBRIEFED With Chris Ramsay (2...</span></span></span>
+Across interviews, podcast appearances and discussion clips circulated through UFO communities, Ramirez has described what he interpreted as an encounter with a reptilian-type being. The story is typically presented as a personal experience rather than as intelligence reporting, and it is often discussed alongside his broader claims about non-human intelligence, hybrid programmes and [alien ancestry]({{ 'alien-ancestry/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">42 from AREA52 - DEBRIEFED With Chris Ramsay (2...</span></span></span>
 
-One reason the encounter receives attention is that it differs from the more common pattern of ex-official UFO testimony. Many former military or intelligence figures focus on unusual sensor returns, classified briefings, unexplained aerial objects or institutional secrecy. Ramirez instead moves into a category of claim associated with direct contact narratives. According to discussions of his interviews, he has described a close encounter with a being he characterised as reptilian and has linked that experience to wider beliefs about non-human entities interacting with humanity. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Encountered With Reptilian Alien</span><span class="citation-popover-snippet">Ex-CIA Officer Encountered With Reptilian AlienSeptember 4, 2023 — Ex-CIA Officer Encountered With Reptilian Alien; Says Reptilian...</span><span class="citation-popover-meta">Published: September 4, 2023</span></span></span>
+One reason the encounter receives attention is that it differs from the more common pattern of ex-official UFO testimony. Many former military or intelligence figures focus on unusual sensor returns, classified briefings, unexplained aerial objects or institutional secrecy. Ramirez instead moves into a category of claim associated with direct contact narratives. According to discussions of his interviews, he has described a close encounter with a being he characterised as reptilian and has linked that experience to wider beliefs about non-human entities interacting with humanity.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Encountered With Reptilian Alien</span><span class="citation-popover-snippet">Ex-CIA Officer Encountered With Reptilian AlienSeptember 4, 2023 — Ex-CIA Officer Encountered With Reptilian Alien; Says Reptilian...</span><span class="citation-popover-meta">Published: September 4, 2023</span></span></span>
 
-The evidential problem emerges immediately. The encounter is not supported by released photographs, medical records, contemporaneous reports, corroborating witnesses or physical traces that can be independently examined. Public discussion of the event therefore depends almost entirely on Ramirez’s own account of what he believes he experienced. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA John Ramirez says he encountered Reptilian alien</span><span class="citation-popover-snippet">August 20, 2023 — Ex-CIA John Ramirez says he encountered Reptilian alien. He discusses reptilians &amp; their alleged involvement in society...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
+The evidential problem emerges immediately. The encounter is not supported by released photographs, medical records, contemporaneous reports, corroborating witnesses or physical traces that can be independently examined. Public discussion of the event therefore depends almost entirely on Ramirez’s own account of what he believes he experienced.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA John Ramirez says he encountered Reptilian alien</span><span class="citation-popover-snippet">August 20, 2023 — Ex-CIA John Ramirez says he encountered Reptilian alien. He discusses reptilians &amp; their alleged involvement in society...</span><span class="citation-popover-meta">Published: August 20, 2023</span></span></span>
 
 ## Why first-hand does not mean well-evidenced
 
@@ -285,7 +285,7 @@ It does not answer:
 
 </div>
 
-The reptilian encounter illustrates this distinction particularly clearly. If Ramirez genuinely experienced something unusual, that still leaves open a wide range of possibilities about what happened. Human perception can be affected by darkness, stress, sleep-related experiences, memory reconstruction, expectation, cultural influences and later reinterpretation. None of those possibilities automatically explain the encounter, but they remain possibilities because the claim lacks external verification. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
+The reptilian encounter illustrates this distinction particularly clearly. If Ramirez genuinely experienced something unusual, that still leaves open a wide range of possibilities about what happened. Human perception can be affected by darkness, stress, sleep-related experiences, memory reconstruction, expectation, cultural influences and later reinterpretation. None of those possibilities automatically explain the encounter, but they remain possibilities because the claim lacks external verification.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
 
 This is where the encounter differs from claims involving documents, sensor records or multiple witnesses. A radar anomaly can at least theoretically be checked against logs and instrumentation. A personal encounter occurring in a private setting often leaves nothing except testimony.
 
@@ -295,7 +295,7 @@ As a result, the evidential threshold becomes higher, not lower. The more extrao
 
 ## The credibility gap between intelligence expertise and personal encounters
 
-Ramirez's supporters often point to his reported CIA and intelligence-community career when discussing his testimony. The argument is not necessarily that his background proves the encounter happened, but that it makes him a more serious witness than an average storyteller. Public biographies describe a career involving signals intelligence, radar analysis and counterproliferation work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">Apple TVJohn Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Forme...</span></span></span> The difficulty is that expertise in one domain does not automatically transfer to another.
+Ramirez's supporters often point to his reported CIA and intelligence-community career when discussing his testimony. The argument is not necessarily that his background proves the encounter happened, but that it makes him a more serious witness than an average storyteller. Public biographies describe a career involving signals intelligence, radar analysis and counterproliferation work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[apple]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">Apple TVJohn Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Forme...</span></span></span> The difficulty is that expertise in one domain does not automatically transfer to another.
 
 A person may be highly knowledgeable about missile-warning systems and still be mistaken about a personal encounter. Intelligence work can establish that someone had access to sensitive environments. It does not establish that every later interpretation of an unusual event is correct.
 
@@ -321,18 +321,18 @@ Several recurring objections appear in discussions of the encounter:
 
 </div>
 
-Online discussions show many critics treating the story as an example of anecdotal testimony rather than evidence of non-human entities. Some commenters explicitly argue that a verified intelligence background should not be treated as validation for claims about reptilian beings. Others suggest that the lack of corroboration makes the story impossible to distinguish from misperception, imagination or mistaken interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">the government. They can write works of fiction though.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
+Online discussions show many critics treating the story as an example of anecdotal testimony rather than evidence of non-human entities. Some commenters explicitly argue that a verified intelligence background should not be treated as validation for claims about reptilian beings. Others suggest that the lack of corroboration makes the story impossible to distinguish from misperception, imagination or mistaken interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">the government. They can write works of fiction though.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Open source on reddit.com.</span></span></span>
 
-The wider cultural context also matters. Reptilian beings occupy a prominent place in modern conspiracy culture, particularly through theories popularised by David Icke. Because reptilian narratives already existed long before Ramirez discussed his experience, sceptics argue that the story enters an established mythology rather than creating a new evidential category. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reptilian conspiracy theory</span><span class="citation-popover-snippet">Reptilian conspiracy theory</span></span></span>
+The wider cultural context also matters. Reptilian beings occupy a prominent place in modern conspiracy culture, particularly through theories popularised by David Icke. Because reptilian narratives already existed long before Ramirez discussed his experience, sceptics argue that the story enters an established mythology rather than creating a new evidential category.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Reptilian conspiracy theory</span><span class="citation-popover-snippet">Reptilian conspiracy theory</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter_cea21b-Illustration-2-dark.svg" | relative_url }}" alt="Encounter claim illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter_cea21b-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_reptilian_encounter_cea21b-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How supporters read the encounter
 
 Supporters usually approach the story from a different starting point.
 
-Rather than asking whether the encounter can be proven, they ask whether Ramirez appears sincere and whether his broader background makes him worth listening to. In this reading, the encounter gains significance because it comes from someone presented as a former intelligence officer rather than from a lifelong UFO personality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">Apple TVJohn Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Forme...</span></span></span>
+Rather than asking whether the encounter can be proven, they ask whether Ramirez appears sincere and whether his broader background makes him worth listening to. In this reading, the encounter gains significance because it comes from someone presented as a former intelligence officer rather than from a lifelong UFO personality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tv.apple.com">[Apple TV]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tv.apple.com</span><span class="citation-popover-snippet">Apple TVJohn Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Forme...</span></span></span>
 
-Some supporters also argue that direct-contact experiences are inherently difficult to document and that the absence of physical evidence does not automatically mean the event was imaginary. Within parts of the UFO community, personal testimony is often treated as an important category of evidence even when conventional verification is unavailable. Comments defending Ramirez frequently emphasise that he describes the event as a genuine experience rather than as an attempt to prove a scientific conclusion. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">secret CIA programs, and hidden truths behind UFO phenomena. He...</span></span></span>
+Some supporters also argue that direct-contact experiences are inherently difficult to document and that the absence of physical evidence does not automatically mean the event was imaginary. Within parts of the UFO community, personal testimony is often treated as an important category of evidence even when conventional verification is unavailable. Comments defending Ramirez frequently emphasise that he describes the event as a genuine experience rather than as an attempt to prove a scientific conclusion.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">secret CIA programs, and hidden truths behind UFO phenomena. He...</span></span></span>
 
 This interpretation does not solve the verification problem, but it explains why some audiences remain interested in the account despite the lack of corroborating material.
 
@@ -341,163 +341,163 @@ This interpretation does not solve the verification problem, but it explains why
 
 The reptilian encounter has become a useful dividing line in assessments of Ramirez.
 
-Readers who focus on his technical background, intelligence career and discussions of government structures may see him as a potentially informed commentator whose more speculative claims deserve cautious consideration. Once the conversation shifts to reptilian encounters, hybrid bloodlines or direct contact narratives, many observers conclude that the evidential basis becomes dramatically weaker. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</span></span></span>
+Readers who focus on his technical background, intelligence career and discussions of government structures may see him as a potentially informed commentator whose more speculative claims deserve cautious consideration. Once the conversation shifts to reptilian encounters, hybrid bloodlines or direct contact narratives, many observers conclude that the evidential basis becomes dramatically weaker.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</span></span></span>
 
 The encounter therefore functions as a credibility stress test. It forces a choice about standards of evidence.
 
 If the standard is personal testimony alone, the story remains possible but unverified. If the standard requires independent corroboration, physical traces or documentary support, the public evidence currently falls short. Nothing publicly available confirms that Ramirez encountered a reptilian being, and nothing publicly available conclusively disproves that he had an experience he interpreted that way.
 
-That unresolved gap is precisely why the encounter remains significant in evaluating Ramirez. It is one of the clearest examples where his claims move away from institutional knowledge and into a realm that depends almost entirely on personal belief, memory and interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Encountered With Reptilian Alien</span><span class="citation-popover-snippet">Ex-CIA Officer Encountered With Reptilian AlienSeptember 4, 2023 — Ex-CIA Officer Encountered With Reptilian Alien; Says Reptilian...</span><span class="citation-popover-meta">Published: September 4, 2023</span></span></span>
+That unresolved gap is precisely why the encounter remains significant in evaluating Ramirez. It is one of the clearest examples where his claims move away from institutional knowledge and into a realm that depends almost entirely on personal belief, memory and interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer Encountered With Reptilian Alien</span><span class="citation-popover-snippet">Ex-CIA Officer Encountered With Reptilian AlienSeptember 4, 2023 — Ex-CIA Officer Encountered With Reptilian Alien; Says Reptilian...</span><span class="citation-popover-meta">Published: September 4, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wQM7DmU3-bE" title="John Ramirez on the CIA tracking Alien DNA, Time Displacement &amp; Crop Circles code - Psicoactivo #564" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer">John Ramirez on the CIA tracking Alien DNA, Time Displacement &amp; Crop Circles code - Psicoactivo #564</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 19.1K &middot; Uploaded: August 2025 &middot; Length: 1 hour 36 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wQM7DmU3-bE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for What counts as evidence for the reptilian claim?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for What counts as evidence for the reptilian claim?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Shadowbox Reptilian Alien Figure Rare"><img src="https://i.ebayimg.com/images/g/W4sAAeSwCEdp1FsX/s-l225.jpg" alt="Listing image for Vintage Shadowbox Reptilian Alien Figure Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Vintage Shadowbox Reptilian Alien Figure Rare</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Shadowbox Reptilian Alien Figure Rare"><img src="https://i.ebayimg.com/images/g/W4sAAeSwCEdp1FsX/s-l225.jpg" alt="Listing image for Vintage Shadowbox Reptilian Alien Figure Rare" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Vintage Shadowbox Reptilian Alien Figure Rare</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectable Tosk Reptilian Alien Star Trek Deep Space 9 Playmates Figure BNIB"><img src="https://i.ebayimg.com/images/g/cD0AAeSwsDBpmuXx/s-l225.jpg" alt="Listing image for Collectable Tosk Reptilian Alien Star Trek Deep Space 9 Playmates Figure BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Collectable Tosk Reptilian Alien Star Trek Deep Space 9 Playmates Figure BNIB</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Collectable Tosk Reptilian Alien Star Trek Deep Space 9 Playmates Figure BNIB"><img src="https://i.ebayimg.com/images/g/cD0AAeSwsDBpmuXx/s-l225.jpg" alt="Listing image for Collectable Tosk Reptilian Alien Star Trek Deep Space 9 Playmates Figure BNIB" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Collectable Tosk Reptilian Alien Star Trek Deep Space 9 Playmates Figure BNIB</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OOAK Ink Drawing “Dw­ellers in the Cavern” Alien Humanoids &amp; Reptilian Creature"><img src="https://i.ebayimg.com/images/g/mfoAAeSwSqVpLw~t/s-l225.jpg" alt="Listing image for OOAK Ink Drawing “Dw­ellers in the Cavern” Alien Humanoids &amp; Reptilian Creature" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">OOAK Ink Drawing “Dw­ellers in the Cavern” Alien Humanoids &amp; Reptilian Creature</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for OOAK Ink Drawing “Dw­ellers in the Cavern” Alien Humanoids &amp; Reptilian Creature"><img src="https://i.ebayimg.com/images/g/mfoAAeSwSqVpLw~t/s-l225.jpg" alt="Listing image for OOAK Ink Drawing “Dw­ellers in the Cavern” Alien Humanoids &amp; Reptilian Creature" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">OOAK Ink Drawing “Dw­ellers in the Cavern” Alien Humanoids &amp; Reptilian Creature</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shadowbox 1996 Alien Series REPTILIAN ALIEN with Trading Card - SET 2 - Sealed"><img src="https://i.ebayimg.com/images/g/aUoAAOSwpK1k0AEN/s-l225.jpg" alt="Listing image for Shadowbox 1996 Alien Series REPTILIAN ALIEN with Trading Card - SET 2 - Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Shadowbox 1996 Alien Series REPTILIAN ALIEN with Trading Card - SET 2 - Sealed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search <span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Shadowbox 1996 Alien Series REPTILIAN ALIEN with Trading Card - SET 2 - Sealed"><img src="https://i.ebayimg.com/images/g/aUoAAOSwpK1k0AEN/s-l225.jpg" alt="Listing image for Shadowbox 1996 Alien Series REPTILIAN ALIEN with Trading Card - SET 2 - Sealed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">Shadowbox 1996 Alien Series REPTILIAN ALIEN with Trading Card - SET 2 - Sealed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for reptilian alien figure">Search<span data-ebay-domain-label>eBay.co.uk</span>: reptilian alien figure</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=reptilian+alien+figure&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="reptilian alien figure" data-ebay-reference="what-counts-as-evidence-for-the-reptilian-claim-reptilian-alien-figure" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -513,7 +513,7 @@ That unresolved gap is precisely why the encounter remains significant in evalua
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -533,7 +533,7 @@ That unresolved gap is precisely why the encounter remains significant in evalua
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -565,7 +565,7 @@ That unresolved gap is precisely why the encounter remains significant in evalua
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -617,7 +617,7 @@ That unresolved gap is precisely why the encounter remains significant in evalua
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -662,7 +662,7 @@ That unresolved gap is precisely why the encounter remains significant in evalua
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -703,110 +703,110 @@ That unresolved gap is precisely why the encounter remains significant in evalua
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>After leaving the intelligence community, Ramirez has enjoyed a second career as a UFO...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple TVJohn Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Forme...</p></details>
+   Link:<a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple TVJohn Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Forme...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: podscan.fm  
    Title: Former CIA Officer Confirms Alien Hybrids are Real  
-   Link: <a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>42 from AREA52 - DEBRIEFED With Chris Ramsay (2...</p></details>
+   Link:<a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>42 from AREA52 - DEBRIEFED With Chris Ramsay (2...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer Encountered With Reptilian Alien  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Encountered With Reptilian AlienSeptember 4, 2023 — Ex-CIA Officer Encountered With Reptilian Alien; Says Reptilian...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/169o62u/excia_officer_encountered_with_reptilian_alien/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Encountered With Reptilian AlienSeptember 4, 2023 — Ex-CIA Officer Encountered With Reptilian Alien; Says Reptilian...</p></details>
    Published: September 4, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Ex-CIA John Ramirez says he encountered Reptilian alien  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>August 20, 2023 — Ex-CIA John Ramirez says he encountered Reptilian alien. He discusses reptilians &amp; their alleged involvement in society...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15wnsav/excia_john_ramirez_says_he_encountered_reptilian/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>August 20, 2023 — Ex-CIA John Ramirez says he encountered Reptilian alien. He discusses reptilians &amp; their alleged involvement in society...</p></details>
    Published: August 20, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the government. They can write works of fiction though.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/13unei0/retired_cia_officer_john_ramirez_on_human_looking/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the government. They can write works of fiction though.Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
    Title: Reptilian conspiracy theory  
-   Link: <a href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Reptilian_conspiracy_theory</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>secret CIA programs, and hidden truths behind UFO phenomena. He...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>secret CIA programs, and hidden truths behind UFO phenomena. He...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Music484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attend...</p></details>
+   Link:<a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Music484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attend...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DR40GpZjJkl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR40GpZjJkl/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA had a program to trace this alien DNA in certain families, and particularly their children, were...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DR40GpZjJkl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DR40GpZjJkl/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA had a program to trace this alien DNA in certain families, and particularly their children, were...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XLyZgs2DneQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XLyZgs2DneQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Says He Punched a Reptilian AlienDid Ex-CIA agent John Ramirez really punch a reptilian alien? In this jaw-dropping...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XLyZgs2DneQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XLyZgs2DneQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Says He Punched a Reptilian AlienDid Ex-CIA agent John Ramirez really punch a reptilian alien? In this jaw-dropping...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="http://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wQM7DmU3-bE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA reptile OR reptilian Ex cia agent John Ramirez speaks on reptilian aliens who run the world The Lion King YMIR and The O...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=wQM7DmU3-bE" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=wQM7DmU3-bE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez CIA reptile OR reptilian Ex cia agent John Ramirez speaks on reptilian aliens who run the world The Lion King YMIR and The O...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: creators.spotify.com  
-   Link: <a href="https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com[https://creators.spotify.com/pod/profile/debriefed...No](https://creators.spotify.com/pod/profile/debriefed...No) information is available for this page...</p></details>
+   Link:<a href="https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5" target="_blank" rel="noopener noreferrer nofollow">https://creators.spotify.com/pod/profile/debriefed/episodes/Former-CIA-Officer-Confirms-Alien-Hybrids-are-Real---John-Ramirez---DEBRIEFED-ep--42-e34gqf5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.com[https://creators.spotify.com/pod/profile/debriefed...No](https://creators.spotify.com/pod/profile/debriefed...No) information is available for this page...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: poddtoppen.se  
-   Link: <a href="https://poddtoppen.se/podcast/1733797869/down-to-earth-with-kristian-harloff-uap-news/former-cia-agent-says-hybrid-programs-are-real-and-that-aliens-have-mixed-dna-with-humans" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1733797869/down-to-earth-with-kristian-harloff-uap-news/former-cia-agent-says-hybrid-programs-are-real-and-that-aliens-have-mixed-dna-with-humans</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In the preivew for the interview Ramirez claims that the human-alien program of...</p></details>
+   Link:<a href="https://poddtoppen.se/podcast/1733797869/down-to-earth-with-kristian-harloff-uap-news/former-cia-agent-says-hybrid-programs-are-real-and-that-aliens-have-mixed-dna-with-humans" target="_blank" rel="noopener noreferrer nofollow">https://poddtoppen.se/podcast/1733797869/down-to-earth-with-kristian-harloff-uap-news/former-cia-agent-says-hybrid-programs-are-real-and-that-aliens-have-mixed-dna-with-humans</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In the preivew for the interview Ramirez claims that the human-alien program of...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: grunge.com  
    Title: cia agent who made startling claims about aliens  
-   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — Various alien species were involved in this venture, he says, including...</p></details>
+   Link:<a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens14 Aug 2023 — Various alien species were involved in this venture, he says, including...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lking among us and he had a chilling encounter with Reptilian.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lking among us and he had a chilling encounter with Reptilian.Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ans &amp; their alleged involvement in society &amp; governmental...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/posts/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/919763680820102/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ans &amp; their alleged involvement in society &amp; governmental...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ns &amp; their alleged involvement in society &amp; governmental...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ns &amp; their alleged involvement in society &amp; governmental...Read more...</p></details>

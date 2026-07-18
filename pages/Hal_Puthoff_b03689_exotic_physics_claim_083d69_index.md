@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-exotic-physics/
 description: Focused pages that expand on Exotic Physics.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Hal_Puthoff_b03689_exotic_physics_claim_083d69
 parent_title: Exotic Physics
@@ -16,7 +16,7 @@ parent_permalink: /exotic-physics/
 
 # Explore Topics in Exotic Physics
 
-The following pages expand on the main **[Exotic Physics]({{ '/exotic-physics/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Exotic Physics]({{ '/exotic-physics/' | relative_url }})** page and cover its key branches in.
 
 - [AARO caveat]({{ '/aaro-caveat/' | relative_url }})
 - [DIA paper list]({{ '/dia-paper-list/' | relative_url }})

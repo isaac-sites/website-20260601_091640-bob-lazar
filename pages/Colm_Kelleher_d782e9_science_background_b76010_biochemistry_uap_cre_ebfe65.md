@@ -262,12 +262,12 @@ image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistr
 
 ## Introduction
 
-Colm Kelleher occupies an unusual position in modern UFO and UAP debates because he is not simply a commentator or witness. He has a verifiable scientific career in biochemistry and molecular biology, including a PhD from Trinity College Dublin, biomedical research work, biotechnology management roles and later involvement in aerospace-linked programmes. That [background]({{ 'background-ef59e9/' | relative_url }}) gives him a stronger investigative profile than many figures associated with paranormal or UFO subjects. It also explains why some supporters view him as a more credible source when discussing alleged anomalous events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn The key question]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span>, however, is not whether Kelleher has genuine scientific credentials. That part is comparatively easy to verify. The harder question is how much those credentials should influence assessments of his UAP-related claims. His scientific record strengthens his credibility in some areas, especially programme management, biological analysis and research organisation. It does not automatically validate claims about non-human intelligence, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) phenomena, alleged “hitchhiker” effects or other extraordinary conclusions that remain disputed.
+Colm Kelleher occupies an unusual position in modern UFO and UAP debates because he is not simply a commentator or witness. He has a verifiable scientific career in biochemistry and molecular biology, including a PhD from Trinity College Dublin, biomedical research work, biotechnology management roles and later involvement in aerospace-linked programmes. That [background]({{ 'background-ef59e9/' | relative_url }}) gives him a stronger investigative profile than many figures associated with paranormal or UFO subjects. It also explains why some supporters view him as a more credible source when discussing alleged anomalous events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn The key question]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span>, however, is not whether Kelleher has genuine scientific credentials. That part is comparatively easy to verify. The harder question is how much those credentials should influence assessments of his UAP-related claims. His scientific record strengthens his credibility in some areas, especially programme management, biological analysis and research organisation. It does not automatically validate claims about non-human intelligence, [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) phenomena, alleged “hitchhiker” effects or other extraordinary conclusions that remain disputed.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-1-dark.svg" | relative_url }}" alt="Science Record illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Much Does Kelleher's Science Record Prove?
 
-The strongest credibility argument in Kelleher’s favour is that his scientific background is real and documented rather than self-described. Multiple biographical profiles identify him as a trained biochemist with doctoral-level education from Trinity College Dublin and a long career in laboratory and biotechnology work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audible.in">[audible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audible.in</span><span class="citation-popover-snippet">Kelleher – Audio Books, Best Sellers, Author BioAuthor Photo Credit: Stephanie Flaherty Since obtaining his PhD in biochemistry from the...</span></span></span> That distinguishes him from many public UFO personalities whose authority depends primarily on personal testimony, military service, media exposure or community reputation. Kelleher entered UAP discussions after building a professional career in science and biotechnology.
+The strongest credibility argument in Kelleher’s favour is that his scientific background is real and documented rather than self-described. Multiple biographical profiles identify him as a trained biochemist with doctoral-level education from Trinity College Dublin and a long career in laboratory and biotechnology work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[LinkedIn]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audible.in">[audible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audible.in</span><span class="citation-popover-snippet">Kelleher – Audio Books, Best Sellers, Author BioAuthor Photo Credit: Stephanie Flaherty Since obtaining his PhD in biochemistry from the...</span></span></span> That distinguishes him from many public UFO personalities whose authority depends primarily on personal testimony, military service, media exposure or community reputation. Kelleher entered UAP discussions after building a professional career in science and biotechnology.
 
 At the same time, a scientific qualification is not a universal credential. Public debates around UFOs often treat scientific status as if it transfers automatically across fields. In reality, expertise in biochemistry does not make someone an authority on radar systems, aerospace engineering, atmospheric optics, intelligence analysis or spacecraft design. The fact that Kelleher has scientific training is relevant; the idea that it settles disputed UFO claims is not.
 
@@ -277,13 +277,13 @@ The credibility value of his background therefore lies more in research competen
 
 The most concrete part of Kelleher’s record is his biomedical career.
 
-Biographical accounts consistently describe him as a biochemist who spent years working in cell and molecular biology. SourceWatch, drawing on professional biographies, describes him as having a long research career in molecular biology and notes leadership roles in biotechnology research programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[SourceWatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-title">Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher17 Jun 2018 — &quot;Dr. Colm Kelleher is a biochemist with a twenty-eight-year research career in cell and molecular b...</span></span></span>
+Biographical accounts consistently describe him as a biochemist who spent years working in cell and molecular biology. SourceWatch, drawing on professional biographies, describes him as having a long research career in molecular biology and notes leadership roles in biotechnology research programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[SourceWatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-title">Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher17 Jun 2018 — &quot;Dr. Colm Kelleher is a biochemist with a twenty-eight-year research career in cell and molecular b...</span></span></span>
 
-His later career also included work that remained connected to biological and technical research rather than shifting entirely into paranormal publishing. Rice University's Archives of the Impossible profile states that after his AAWSAP work he led Bigelow Aerospace's Environmental Control and Life Support Systems department, overseeing projects related to life-support systems for spacecraft operating in low Earth orbit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+His later career also included work that remained connected to biological and technical research rather than shifting entirely into paranormal publishing. Rice University's Archives of the Impossible profile states that after his AAWSAP work he led Bigelow Aerospace's Environmental Control and Life Support Systems department, overseeing projects related to life-support systems for spacecraft operating in low Earth orbit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
-This matters because it demonstrates continued involvement in technically demanding programmes. Critics sometimes portray Kelleher as essentially a paranormal investigator who happened to have scientific credentials decades ago. The available record suggests a more complicated picture: he remained involved in biotechnology and aerospace-related work after becoming known in UFO circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+This matters because it demonstrates continued involvement in technically demanding programmes. Critics sometimes portray Kelleher as essentially a paranormal investigator who happened to have scientific credentials decades ago. The available record suggests a more complicated picture: he remained involved in biotechnology and aerospace-related work after becoming known in UFO circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
-Published scientific work also shows that his name continued appearing in technical research contexts. While not a large public publication record compared with a career academic researcher, documented co-authorships and biotechnology affiliations indicate that his scientific identity was not purely historical. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[SourceWatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-title">Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher17 Jun 2018 — &quot;Dr. Colm Kelleher is a biochemist with a twenty-eight-year research career in cell and molecular b...</span></span></span>
+Published scientific work also shows that his name continued appearing in technical research contexts. While not a large public publication record compared with a career academic researcher, documented co-authorships and biotechnology affiliations indicate that his scientific identity was not purely historical.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sourcewatch.org">[SourceWatch]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sourcewatch.org</span><span class="citation-popover-title">Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher17 Jun 2018 — &quot;Dr. Colm Kelleher is a biochemist with a twenty-eight-year research career in cell and molecular b...</span></span></span>
 
 ## Where Biochemistry Helps UAP Investigation
 
@@ -291,7 +291,7 @@ The strongest argument for giving Kelleher's views additional weight is not that
 
 Several areas stand out:
 
-* **Medical and physiological claims.** AAWSAP and related investigations reportedly examined alleged health effects associated with UAP encounters. Evaluating symptoms, biological reports and [medical records]({{ 'medical-records/' | relative_url }}) benefits from scientific literacy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+* **Medical and physiological claims.** AAWSAP and related investigations reportedly examined alleged health effects associated with UAP encounters. Evaluating symptoms, biological reports and [medical records]({{ 'medical-records/' | relative_url }}) benefits from scientific literacy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 <div class="content-enhancement content-enhancement--metric" markdown="1">
 
@@ -301,7 +301,7 @@ Several areas stand out:
 
 </div>
 
-This is one reason Kelleher attracted attention inside programmes connected to Robert Bigelow's research efforts. His skill set fit investigations that blended intelligence-style collection with medical and scientific questions. Rice University's profile of his [AAWSAP role]({{ 'aawsap-role/' | relative_url }}) explicitly notes that the programme examined medical, physiological and psychological aspects of reported phenomena in addition to UAP reports themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+This is one reason Kelleher attracted attention inside programmes connected to Robert Bigelow's research efforts. His skill set fit investigations that blended intelligence-style collection with medical and scientific questions. Rice University's profile of his [AAWSAP role]({{ 'aawsap-role/' | relative_url }}) explicitly notes that the programme examined medical, physiological and psychological aspects of reported phenomena in addition to UAP reports themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 In other words, his credentials may strengthen confidence that investigations were conducted by someone familiar with research procedures. They do not automatically strengthen confidence in the final conclusions.
 
@@ -332,7 +332,7 @@ From an evidence perspective, the sceptical caution is broadly consistent with n
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-2-dark.svg" | relative_url }}" alt="Science Record illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Skinwalker Ranch Problem
 
-Kelleher's reputation is closely tied to investigations at Skinwalker Ranch through the National Institute for Discovery Science (NIDS), where he reportedly led investigative work for years. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+Kelleher's reputation is closely tied to investigations at Skinwalker Ranch through the National Institute for Discovery Science (NIDS), where he reportedly led investigative work for years.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 This creates a credibility tension.
 
@@ -355,9 +355,9 @@ Supporters often emphasise:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * His PhD and laboratory experience.
-* His biotechnology and aerospace management career. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span>
+* His biotechnology and aerospace management career.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span>
 * His access to government-linked research programmes.
-* His involvement with AAWSAP and BAASS. Title of Site | Rice University+2LinkedIn <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[impossiblearchives.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+* His involvement with AAWSAP and BAASS. Title of Site | Rice University+2LinkedIn<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[impossiblearchives.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 </div>
 
@@ -378,201 +378,201 @@ Neither side is entirely wrong. Kelleher's scientific record genuinely distingui
 
 ## The Most Balanced Credibility Assessment
 
-Kelleher's biochemistry record is one of the strongest verifiable parts of his public profile. It establishes that he is a trained scientist with a real research background, not simply a media figure operating on reputation alone. His career in biotechnology and aerospace-related work provides evidence of technical competence and organisational experience. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audible.in">[Audible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audible.in</span><span class="citation-popover-snippet">Kelleher – Audio Books, Best Sellers, Author BioAuthor Photo Credit: Stephanie Flaherty Since obtaining his PhD in biochemistry from the...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[3Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span> LinkedIn That background improves his credibility as an investigator <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span>, programme manager and interpreter of biological or medical data. It helps explain why he was entrusted with responsibilities inside organisations such as NIDS, BAASS and Bigelow Aerospace. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
+Kelleher's biochemistry record is one of the strongest verifiable parts of his public profile. It establishes that he is a trained scientist with a real research background, not simply a media figure operating on reputation alone. His career in biotechnology and aerospace-related work provides evidence of technical competence and organisational experience.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: audible.in">[Audible]</a><span class="citation-popover" role="note"><span class="citation-popover-source">audible.in</span><span class="citation-popover-snippet">Kelleher – Audio Books, Best Sellers, Author BioAuthor Photo Credit: Stephanie Flaherty Since obtaining his PhD in biochemistry from the...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[3Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span> LinkedIn That background improves his credibility as an investigator<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: linkedin.com">[linkedin.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">linkedin.com</span><span class="citation-popover-title">Linked In Colm Kelleher</span><span class="citation-popover-snippet">Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</span></span></span>, programme manager and interpreter of biological or medical data. It helps explain why he was entrusted with responsibilities inside organisations such as NIDS, BAASS and Bigelow Aerospace.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</span></span></span>
 
 The limitation is equally important. None of those credentials independently prove the reality of the most extraordinary UAP or paranormal claims associated with his work. A PhD can establish expertise. It cannot substitute for transparent evidence, replication or independent verification.
 
 As a result, Kelleher's scientific record is best viewed as a credibility enhancer rather than a credibility guarantee. It strengthens the case that his claims deserve examination. It does not, by itself, establish that those claims are correct.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Does Kelleher&#x27;s Science Record Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Does Kelleher&#x27;s Science Record Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Addresses how expertise should and should not influence belief.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses how expertise should and should not influence belief.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Profiles scientifically trained figures involved in anomaly discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Profiles scientifically trained figures involved in anomaly discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Shows how his scientific background is used in program management and investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Shows how his scientific background is used in program management and investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
-        </h4>
-        <p class="fr-book-author">By Thomas S. Kuhn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Structure of Scientific Revolutions on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Structure of Scientific Revolutions">The Structure of Scientific Revolutions</a>
+</h4>
+<p class="fr-book-author">By Thomas S. Kuhn</p>
         
-        <p class="fr-book-desc">Provides perspective on authority, expertise and scientific change.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides perspective on authority, expertise and scientific change.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Structure+of+Scientific+Revolutions+by+Thomas+S.+Kuhn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Skinwalkers at the Pentagon</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="https://i.ebayimg.com/images/g/rB4AAOSwA8dlI-dX/s-l225.jpg" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster"><img src="https://i.ebayimg.com/images/g/rB4AAOSwA8dlI-dX/s-l225.jpg" alt="Listing image for PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">PERIODIC TABLE Real Elements A3 Laminated Chemistry Science Educational Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850"><img src="https://i.ebayimg.com/images/g/oZEAAOSw1WxmFbeQ/s-l225.jpg" alt="Listing image for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850"><img src="https://i.ebayimg.com/images/g/oZEAAOSw1WxmFbeQ/s-l225.jpg" alt="Listing image for Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage Science Poster Scientific Illustration Print Classroom &amp; Home Gift 1850</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="https://i.ebayimg.com/images/g/y90AAeSwvJxouTpz/s-l225.jpg" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic table with elements poster Science Wall Chart UPDATED Education Poster"><img src="https://i.ebayimg.com/images/g/y90AAeSwvJxouTpz/s-l225.jpg" alt="Listing image for Periodic table with elements poster Science Wall Chart UPDATED Education Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic table with elements poster Science Wall Chart UPDATED Education Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="https://i.ebayimg.com/images/g/Q3IAAeSwu6BppQZ2/s-l225.jpg" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart"><img src="https://i.ebayimg.com/images/g/Q3IAAeSwu6BppQZ2/s-l225.jpg" alt="Listing image for Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">Periodic Table of Elements Poster For Kids, LAMINATED, Science &amp; Chemistry Chart</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: science poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-kelleher-s-science-record-prove-science-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science poster" data-ebay-reference="how-much-does-kelleher-s-science-record-prove-science-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ As a result, Kelleher's scientific record is best viewed as a credibility enhanc
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ As a result, Kelleher's scientific record is best viewed as a credibility enhanc
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ As a result, Kelleher's scientific record is best viewed as a credibility enhanc
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ As a result, Kelleher's scientific record is best viewed as a credibility enhanc
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ As a result, Kelleher's scientific record is best viewed as a credibility enhanc
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,97 +778,97 @@ As a result, Kelleher's scientific record is best viewed as a credibility enhanc
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
-   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</p></details>
+   Link:<a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityIn 2008, Kelleher became deputy administrator of Bigelow Aerospace Advanced Space...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: linkedin.com  
    Title: Linked In Colm Kelleher  
-   Link: <a href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colm-kelleher-834a05112</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</p></details>
+   Link:<a href="https://www.linkedin.com/in/colm-kelleher-834a05112" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/colm-kelleher-834a05112</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher - Bigelow AerospaceExperienced program manager in biotechnology and aerospace with successful management of… · Expe...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: audible.in  
-   Link: <a href="https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher – Audio Books, Best Sellers, Author BioAuthor Photo Credit: Stephanie Flaherty Since obtaining his PhD in biochemistry from the...</p></details>
+   Link:<a href="https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK" target="_blank" rel="noopener noreferrer nofollow">https://www.audible.in/author/Colm-A-Kelleher/B001K8R0JK</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher – Audio Books, Best Sellers, Author BioAuthor Photo Credit: Stephanie Flaherty Since obtaining his PhD in biochemistry from the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: sourcewatch.org  
    Title: Colm Kelleher  
-   Link: <a href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Colm_Kelleher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher17 Jun 2018 — &quot;Dr. Colm Kelleher is a biochemist with a twenty-eight-year research career in cell and molecular b...</p></details>
+   Link:<a href="https://www.sourcewatch.org/index.php/Colm_Kelleher" target="_blank" rel="noopener noreferrer nofollow">https://www.sourcewatch.org/index.php/Colm_Kelleher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher17 Jun 2018 — &quot;Dr. Colm Kelleher is a biochemist with a twenty-eight-year research career in cell and molecular b...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: news.rice.edu  
    Title: archives impossible conference explores cultivation impossibility  
-   Link: <a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rice.edu&#x27;Archives of the Impossible&#x27; conference explores the cultivation...18 May 2023 — Speakers and panelists included renowned resear...</p></details>
+   Link:<a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rice.edu&#x27;Archives of the Impossible&#x27; conference explores the cultivation...18 May 2023 — Speakers and panelists included renowned resear...</p></details>
    Published: May 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: impossiblearchives.rice.edu  
    Title: transnationalism transdisciplinarity transcendence  
-   Link: <a href="https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rice.edu2023 Archives of the Impossible Conference - Rice University30 speakers who set out to demystify the paranormal through their res...</p></details>
+   Link:<a href="https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/conferences/2023/transnationalism-transdisciplinarity-transcendence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rice.edu2023 Archives of the Impossible Conference - Rice University30 speakers who set out to demystify the paranormal through their res...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University, home of Archives of the Impossible... Colm Kelleher uttered at the last Impossible...Read more...</p></details>
+   Link:<a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University, home of Archives of the Impossible... Colm Kelleher uttered at the last Impossible...Read more...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: fr.scribd.com  
-   Link: <a href="https://fr.scribd.com/document/897080159/123dok-net-en-Fr-Measles-Virus-as-a-Complex-System-Adaptation-Attenuation-and-Modelling-Le-Virus-de-La-Rougeole" target="_blank" rel="noopener noreferrer nofollow">https://fr.scribd.com/document/897080159/123dok-net-en-Fr-Measles-Virus-as-a-Complex-System-Adaptation-Attenuation-and-Modelling-Le-Virus-de-La-Rougeole</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>de la rougeole: Modélisation et Atténuation | PDFLa thèse de Johan Druelle explore le virus de la rougeole en tant que système complexe...</p></details>
+   Link:<a href="https://fr.scribd.com/document/897080159/123dok-net-en-Fr-Measles-Virus-as-a-Complex-System-Adaptation-Attenuation-and-Modelling-Le-Virus-de-La-Rougeole" target="_blank" rel="noopener noreferrer nofollow">https://fr.scribd.com/document/897080159/123dok-net-en-Fr-Measles-Virus-as-a-Complex-System-Adaptation-Attenuation-and-Modelling-Le-Virus-de-La-Rougeole</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>de la rougeole: Modélisation et Atténuation | PDFLa thèse de Johan Druelle explore le virus de la rougeole en tant que système complexe...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bionity.com  
-   Link: <a href="https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm KelleherColm Kelleher is a research scientist and author. He received his PhD at Trinity College, Dublin and has 21 years of experie...</p></details>
+   Link:<a href="https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html" target="_blank" rel="noopener noreferrer nofollow">https://www.bionity.com/en/encyclopedia/Colm_Kelleher.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colm KelleherColm Kelleher is a research scientist and author. He received his PhD at Trinity College, Dublin and has 21 years of experie...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tcd.ie  
-   Link: <a href="https://www.tcd.ie/research/profiles/?profile=kellehj3" target="_blank" rel="noopener noreferrer nofollow">https://www.tcd.ie/research/profiles/?profile=kellehj3</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Kelleher&#x27;Trinity ResearchBiography. I am the Director of the ADAPT Research Center (www.adaptcentre.ie) and the Professor of Compute...</p></details>
+   Link:<a href="https://www.tcd.ie/research/profiles/?profile=kellehj3" target="_blank" rel="noopener noreferrer nofollow">https://www.tcd.ie/research/profiles/?profile=kellehj3</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Kelleher&#x27;Trinity ResearchBiography. I am the Director of the ADAPT Research Center (www.adaptcentre.ie) and the Professor of Compute...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: simonandschuster.co.uk  
-   Link: <a href="https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lm A. Kelleher | Official Publisher PageColm A. Kelleher, Ph.D., is a biochemist with a fifteen-year research career in cell and molecu...</p></details>
+   Link:<a href="https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040" target="_blank" rel="noopener noreferrer nofollow">https://www.simonandschuster.co.uk/authors/Colm-A-Kelleher/23515040</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lm A. Kelleher | Official Publisher PageColm A. Kelleher, Ph.D., is a biochemist with a fifteen-year research career in cell and molecu...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: law.resource.org  
-   Link: <a href="https://law.resource.org/pub/us/works/Phase1Searches/Data/WebOfScience/NIHSearch01.WOS.0084.4.19.ris" target="_blank" rel="noopener noreferrer nofollow">https://law.resource.org/pub/us/works/Phase1Searches/Data/WebOfScience/NIHSearch01.WOS.0084.4.19.ris</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>resource.org[https://law.resource.org/pub/us/works/Phase1Search](https://law.resource.org/pub/us/works/Phase1Search)...... author), NIDDK, Diabet Endocrinol &amp; Obes Branch, NIH, 10 Ctr Dr, Bet...</p></details>
+   Link:<a href="https://law.resource.org/pub/us/works/Phase1Searches/Data/WebOfScience/NIHSearch01.WOS.0084.4.19.ris" target="_blank" rel="noopener noreferrer nofollow">https://law.resource.org/pub/us/works/Phase1Searches/Data/WebOfScience/NIHSearch01.WOS.0084.4.19.ris</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>resource.org[https://law.resource.org/pub/us/works/Phase1Search](https://law.resource.org/pub/us/works/Phase1Search)...... author), NIDDK, Diabet Endocrinol &amp; Obes Branch, NIH, 10 Ctr Dr, Bet...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James T. Lacatski and Colm A. Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm KelleherColm Kelleher, a biochemist, managed the day to day operations of the Advanced Aerospace Wea...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm KelleherColm Kelleher, a biochemist, managed the day to day operations of the Advanced Aerospace Wea...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q42441-1l8k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Steps in UFO Research with Colm KelleherColm Kelleher, a biochemist, managed the day to day operations of the Advanced Aerospace...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=q42441-1l8k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=q42441-1l8k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Next Steps in UFO Research with Colm KelleherColm Kelleher, a biochemist, managed the day to day operations of the Advanced Aerospace...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: new interview skinwalker ranch lead investigator  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>New Interview: Skinwalker Ranch Lead Investigator (1996...Near the beginning of this new interview, Dr. Colm Kelleher retells the story...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>New Interview: Skinwalker Ranch Lead Investigator (1996...Near the beginning of this new interview, Dr. Colm Kelleher retells the story...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newstalk.com  
    Title: meet the irishman who headed up the pentagon search for ufos 1327563  
-   Link: <a href="https://www.newstalk.com/news/meet-the-irishman-who-headed-up-the-pentagon-search-for-ufos-1327563" target="_blank" rel="noopener noreferrer nofollow">https://www.newstalk.com/news/meet-the-irishman-who-headed-up-the-pentagon-search-for-ufos-1327563</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Irishman who headed up The Pentagon search for UFOs1 Apr 2022 — The biochemist, who has a PhD from Trinity College Dublin, never pred...</p></details>
+   Link:<a href="https://www.newstalk.com/news/meet-the-irishman-who-headed-up-the-pentagon-search-for-ufos-1327563" target="_blank" rel="noopener noreferrer nofollow">https://www.newstalk.com/news/meet-the-irishman-who-headed-up-the-pentagon-search-for-ufos-1327563</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Irishman who headed up The Pentagon search for UFOs1 Apr 2022 — The biochemist, who has a PhD from Trinity College Dublin, never pred...</p></details>

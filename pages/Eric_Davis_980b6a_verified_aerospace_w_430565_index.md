@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-verified-aerospace-w/
 description: Focused pages that expand on Verified Work.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_verified_aerospace_w_430565
 parent_title: Verified Work
@@ -16,7 +16,7 @@ parent_permalink: /verified-work/
 
 # Explore Topics in Verified Work
 
-The following pages expand on the main **[Verified Work]({{ '/verified-work/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Verified Work]({{ '/verified-work/' | relative_url }})** page and cover its key branches in.
 
 - [DIA paper]({{ '/dia-paper-b8f0a1/' | relative_url }})
 - [Propulsion work]({{ '/propulsion-work/' | relative_url }})

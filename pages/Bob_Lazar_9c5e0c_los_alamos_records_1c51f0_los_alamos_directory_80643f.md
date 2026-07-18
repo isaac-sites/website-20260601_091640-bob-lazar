@@ -256,196 +256,196 @@ image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_dire
 
 ## Introduction
 
-One of the most debated pieces of “real‑world” evidence in the long, contested biography of **Bob Lazar** is a single entry in a 1982 internal phone directory from Los Alamos National Laboratory (LANL). Supporters of Lazar’s claims point to that listing as contemporaneous documentation of his presence in a scientific institution years before his UFO revelations in 1989; critics argue the record is modest and, on its own, does **not** confirm his core assertions about being a staff physicist or having access to classified research. That tension — what the directory proves, what it doesn’t, and why the “K/M” contractor marker matters — sits at the centre of this narrow but highly persistent dispute in Lazar’s chronicle. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+One of the most debated pieces of “real‑world” evidence in the long, contested biography of **Bob Lazar** is a single entry in a 1982 internal phone directory from Los Alamos National Laboratory (LANL). Supporters of Lazar’s claims point to that listing as contemporaneous documentation of his presence in a scientific institution years before his UFO revelations in 1989; critics argue the record is modest and, on its own, does **not** confirm his core assertions about being a staff physicist or having access to classified research. That tension — what the directory proves, what it doesn’t, and why the “K/M” contractor marker matters — sits at the centre of this narrow but highly persistent dispute in Lazar’s chronicle.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-1-dark.svg" | relative_url }}" alt="Directory Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How the Phone‑Directory Listing Was Discovered
 
-The Los Alamos phone directory at issue is an internal contact list from 1982 that a journalist later located and publicised in the context of investigations into Lazar’s background. In that directory, an entry appears for **“Robert Lazar”** alongside other names listed under scientific and technical personnel. According to multiple reporting threads tracing the case’s history, this pre‑1989 artefact was found by investigative reporter George Knapp and has been circulated by UFO advocates and sceptics alike when discussing Lazar’s possible ties to Los Alamos operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+The Los Alamos phone directory at issue is an internal contact list from 1982 that a journalist later located and publicised in the context of investigations into Lazar’s background. In that directory, an entry appears for **“Robert Lazar”** alongside other names listed under scientific and technical personnel. According to multiple reporting threads tracing the case’s history, this pre‑1989 artefact was found by investigative reporter George Knapp and has been circulated by UFO advocates and sceptics alike when discussing Lazar’s possible ties to Los Alamos operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-This directory does not appear to have a strongly preserved public archive; instead, its existence is documented through secondary reporting and reproduced clippings and excerpts shared in UFO literature and online discussion. Its discovery became significant precisely because Lazar’s broader résumé claims — including advanced [degrees]({{ 'degrees/' | relative_url }}) and classified employment — were otherwise unsupported by institutional records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+This directory does not appear to have a strongly preserved public archive; instead, its existence is documented through secondary reporting and reproduced clippings and excerpts shared in UFO literature and online discussion. Its discovery became significant precisely because Lazar’s broader résumé claims — including advanced [degrees]({{ 'degrees/' | relative_url }}) and classified employment — were otherwise unsupported by institutional records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Lb_1d68vx-g" title="Joe Rogan Experience #2479 - Bob Lazar &amp; Luigi Vendittelli" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Lb_1d68vx-g" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2479 - Bob Lazar &amp; Luigi Vendittelli</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 7.0M &middot; Uploaded: April 2026 &middot; Length: 2 hours 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Lb_1d68vx-g" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Lb_1d68vx-g">Open on YouTube</a></p></div></div></div>
 
 ## Why the “K/M” Contractor Marker Matters
 
-The key detail in the directory entry that drives much of the debate is the annotation next to Lazar’s name: **“K/M.”** Multiple researchers and critics have interpreted this label as referring to **Kirk‑Mayer**, a private subcontractor that historically provided technical and maintenance support services to LANL and related Department of Energy enterprises. According to accounts summarising commentary from ufologist Stanton Friedman and others, the phone book’s organisational codes included designators for Department of Energy staff and a range of contractors as well as direct LANL employees. The presence of “K/M” beside Lazar’s name is thus taken by many commentators as indicating he was **listed as a Kirk‑Mayer contractor** or subcontractor rather than directly employed by LANL itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swallowingthecamel.me">[Swallowing The Camel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swallowingthecamel.me</span><span class="citation-popover-title">Swallowing The Camel Hoaxes From Space Part I: Bob Lazar – Swallowing The Camel</span><span class="citation-popover-snippet">Swallowing The CamelHoaxes From Space Part I: Bob Lazar – Swallowing The CamelAugust 31, 2009...</span><span class="citation-popover-meta">Published: August 31, 2009</span></span></span>
+The key detail in the directory entry that drives much of the debate is the annotation next to Lazar’s name: **“K/M.”** Multiple researchers and critics have interpreted this label as referring to **Kirk‑Mayer**, a private subcontractor that historically provided technical and maintenance support services to LANL and related Department of Energy enterprises. According to accounts summarising commentary from ufologist Stanton Friedman and others, the phone book’s organisational codes included designators for Department of Energy staff and a range of contractors as well as direct LANL employees. The presence of “K/M” beside Lazar’s name is thus taken by many commentators as indicating he was **listed as a Kirk‑Mayer contractor** or subcontractor rather than directly employed by LANL itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swallowingthecamel.me">[Swallowing The Camel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swallowingthecamel.me</span><span class="citation-popover-title">Swallowing The Camel Hoaxes From Space Part I: Bob Lazar – Swallowing The Camel</span><span class="citation-popover-snippet">Swallowing The CamelHoaxes From Space Part I: Bob Lazar – Swallowing The CamelAugust 31, 2009...</span><span class="citation-popover-meta">Published: August 31, 2009</span></span></span>
 
-Interpreting that distinction is crucial. Being on a contractor roster in a facility phone list means someone was present on site and connected in some capacity to technical activity — enough that they needed a contact extension — but it does **not necessarily signify** formal scientific employment, a staff physicist title, or access to national security programmes. Critics point out that user facilities such as the Los Alamos Meson Physics Facility saw large numbers of external researchers, visiting teams, temporary technicians, and contractors cycling through for specific tasks, and that many such individuals would be present for weeks or months without being LANL employees in a personnel‑record sense. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">The Robert Lazar Timeline &#124; Disclosdex</span><span class="citation-popover-snippet">The Robert Lazar Timeline &#124; DisclosdexJanuary 1, 1997...</span><span class="citation-popover-meta">Published: January 1, 1997</span></span></span>
+Interpreting that distinction is crucial. Being on a contractor roster in a facility phone list means someone was present on site and connected in some capacity to technical activity — enough that they needed a contact extension — but it does **not necessarily signify** formal scientific employment, a staff physicist title, or access to national security programmes. Critics point out that user facilities such as the Los Alamos Meson Physics Facility saw large numbers of external researchers, visiting teams, temporary technicians, and contractors cycling through for specific tasks, and that many such individuals would be present for weeks or months without being LANL employees in a personnel‑record sense.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: disclosdex.com">[Disclosdex]</a><span class="citation-popover" role="note"><span class="citation-popover-source">disclosdex.com</span><span class="citation-popover-title">The Robert Lazar Timeline &#124; Disclosdex</span><span class="citation-popover-snippet">The Robert Lazar Timeline &#124; DisclosdexJanuary 1, 1997...</span><span class="citation-popover-meta">Published: January 1, 1997</span></span></span>
 
-Indeed, some local testimony cited in connection with the directory suggests Lazar worked as an electrical or repair technician through a subcontractor, a position that would make his phone listing plausible but would fall far short of the senior scientific role he later claimed in the Area 51 narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.papooselake.org/the-updated-bob-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papooselake.org">[Papoose Lake Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papooselake.org</span><span class="citation-popover-title">Papoose Lake Institute The Updated Bob Lazar Timeline</span><span class="citation-popover-snippet">Papoose Lake InstituteThe Updated Bob Lazar Timeline - Papoose Lake Institute...</span></span></span>
+Indeed, some local testimony cited in connection with the directory suggests Lazar worked as an electrical or repair technician through a subcontractor, a position that would make his phone listing plausible but would fall far short of the senior scientific role he later claimed in the Area 51 narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.papooselake.org/the-updated-bob-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: papooselake.org">[Papoose Lake Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">papooselake.org</span><span class="citation-popover-title">Papoose Lake Institute The Updated Bob Lazar Timeline</span><span class="citation-popover-snippet">Papoose Lake InstituteThe Updated Bob Lazar Timeline - Papoose Lake Institute...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-2-dark.svg" | relative_url }}" alt="Directory Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Critics and Supporters Infer from the Directory Evidence
 
 ### Supporter Interpretation
 
-For those inclined to take Lazar’s claims seriously, the existence of a **pre‑disclosure phone directory entry** places him in technical orbit around a major national laboratory before he publicly revealed his UFO story in 1989. That timing helps counter narratives that Lazar was invented after the fact or simply fabricated an entire biography retrospectively. In this frame, any contemporaneous document mentioning his name in a scientific environment counts as corroborative anchor evidence, even if its precise meaning remains ambiguous. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+For those inclined to take Lazar’s claims seriously, the existence of a **pre‑disclosure phone directory entry** places him in technical orbit around a major national laboratory before he publicly revealed his UFO story in 1989. That timing helps counter narratives that Lazar was invented after the fact or simply fabricated an entire biography retrospectively. In this frame, any contemporaneous document mentioning his name in a scientific environment counts as corroborative anchor evidence, even if its precise meaning remains ambiguous.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/m2rGvYB-oWM" title="George Knapp Drops Bob Lazar Bombshell" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=m2rGvYB-oWM" target="_blank" rel="noopener noreferrer">George Knapp Drops Bob Lazar Bombshell</a></p><p class="youtube-embed-meta">Channel: VETTED &middot; Views: 234.5K &middot; Uploaded: February 2026 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=m2rGvYB-oWM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=m2rGvYB-oWM">Open on YouTube</a></p></div></div></div>
 
 ### Skeptical Interpretation
 
-Most sceptical researchers take a more conservative view. The directory listing establishes **presence**, but not **rank, qualification, or role**. The “K/M” notation, in their reading, reinforces the interpretation that Lazar was a contractor — a working visitor or supporting technician — rather than a laboratory scientist with independent research authority, payroll status, or classified clearance. This interpretation aligns with documented institutional responses later stating that LANL had “no personnel records” of Lazar on file, which fits the pattern expected if Lazar was neither an employee nor directly hired by LANL. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+Most sceptical researchers take a more conservative view. The directory listing establishes **presence**, but not **rank, qualification, or role**. The “K/M” notation, in their reading, reinforces the interpretation that Lazar was a contractor — a working visitor or supporting technician — rather than a laboratory scientist with independent research authority, payroll status, or classified clearance. This interpretation aligns with documented institutional responses later stating that LANL had “no personnel records” of Lazar on file, which fits the pattern expected if Lazar was neither an employee nor directly hired by LANL.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-Critics also point out that the directory’s inclusion of contractors and visiting users — which was standard practice in such facilities — means a name on that list, without supporting payroll, security or employment records, cannot be elevated into proof of core narrative claims such as high‑level involvement in advanced physics, let alone top‑secret back‑engineering programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swallowingthecamel.me">[Swallowing The Camel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swallowingthecamel.me</span><span class="citation-popover-title">Swallowing The Camel Hoaxes From Space Part I: Bob Lazar – Swallowing The Camel</span><span class="citation-popover-snippet">Swallowing The CamelHoaxes From Space Part I: Bob Lazar – Swallowing The CamelAugust 31, 2009...</span><span class="citation-popover-meta">Published: August 31, 2009</span></span></span>
+Critics also point out that the directory’s inclusion of contractors and visiting users — which was standard practice in such facilities — means a name on that list, without supporting payroll, security or employment records, cannot be elevated into proof of core narrative claims such as high‑level involvement in advanced physics, let alone top‑secret back‑engineering programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: swallowingthecamel.me">[Swallowing The Camel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">swallowingthecamel.me</span><span class="citation-popover-title">Swallowing The Camel Hoaxes From Space Part I: Bob Lazar – Swallowing The Camel</span><span class="citation-popover-snippet">Swallowing The CamelHoaxes From Space Part I: Bob Lazar – Swallowing The CamelAugust 31, 2009...</span><span class="citation-popover-meta">Published: August 31, 2009</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-3-dark.svg" | relative_url }}" alt="Directory Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Directory Evidence Actually Shows
 
-The strongest consensus that emerges from reviewing reporting and analysis on this narrow dataset is modest and precise: the 1982 Los Alamos directory entry confirms that a **Robert Lazar** was associated with technical activity at or around Los Alamos that warranted inclusion in a facility contact list, and that his association was marked with a reasonable contractor code rather than an unequivocal lab staff designation. It does **not**, by itself, confirm his claims about being a physicist employed directly by Los Alamos, hold advanced degrees or clearances, or later working on secret reverse‑engineering projects at Area 51 or S‑4. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+The strongest consensus that emerges from reviewing reporting and analysis on this narrow dataset is modest and precise: the 1982 Los Alamos directory entry confirms that a **Robert Lazar** was associated with technical activity at or around Los Alamos that warranted inclusion in a facility contact list, and that his association was marked with a reasonable contractor code rather than an unequivocal lab staff designation. It does **not**, by itself, confirm his claims about being a physicist employed directly by Los Alamos, hold advanced degrees or clearances, or later working on secret reverse‑engineering projects at Area 51 or S‑4.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
-Viewed through a strict evidentiary lens, the directory helps narrow the question of Lazar’s biography: it anchors his **presence** in a scientific environment at a specific time, but leaves open — and still contested — the question of **role, responsibility, and access**. In the broader assessment of Lazar’s credibility, as with other parts of his background narrative, this slice of documentary evidence plays a supporting role, not a conclusive one. <span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
+Viewed through a strict evidentiary lens, the directory helps narrow the question of Lazar’s biography: it anchors his **presence** in a scientific environment at a specific time, but leaves open — and still contested — the question of **role, responsibility, and access**. In the broader assessment of Lazar’s credibility, as with other parts of his background narrative, this slice of documentary evidence plays a supporting role, not a conclusive one.<span class="citation-chip-wrap"><a class="citation-chip" href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: factually.co">[Factually]</a><span class="citation-popover" role="note"><span class="citation-popover-source">factually.co</span><span class="citation-popover-title">Which contemporaneous newspaper articles or Los Alamos</span><span class="citation-popover-snippet">Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</span><span class="citation-popover-meta">Published: May 10, 2026</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XXve4QnlaMo" title="The Story Behind S4, Aliens &amp; Bob Lazar" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer">The Story Behind S4, Aliens &amp; Bob Lazar</a></p><p class="youtube-embed-meta">Channel: Scary Mysteries &middot; Views: 161.0K &middot; Uploaded: January 2020 &middot; Length: 18 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XXve4QnlaMo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for What the Los Alamos Phone Book Really Proves, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for What the Los Alamos Phone Book Really Proves, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage"><img src="https://i.ebayimg.com/images/g/af4AAOSwYCdjbYkj/s-l225.jpg" alt="Listing image for LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage"><img src="https://i.ebayimg.com/images/g/af4AAOSwYCdjbYkj/s-l225.jpg" alt="Listing image for LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS FIRE DEPARTMENT ENERGY RESEARCH PATCH NEW MEXICO NM USA DOE Vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H"><img src="https://i.ebayimg.com/images/g/FdUAAeSwfLxqFbaN/s-l225.jpg" alt="Listing image for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H"><img src="https://i.ebayimg.com/images/g/FdUAAeSwfLxqFbaN/s-l225.jpg" alt="Listing image for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;"><img src="https://i.ebayimg.com/images/g/ef0AAOSwCmZnOPS5/s-l225.jpg" alt="Listing image for Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;"><img src="https://i.ebayimg.com/images/g/ef0AAOSwCmZnOPS5/s-l225.jpg" alt="Listing image for Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos National Laboratory &quot;Pit Rebuild Project&quot; EDU1 1998 Patch 3.5&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG"><img src="https://i.ebayimg.com/images/g/eIUAAeSwyTBp1-Ly/s-l225.jpg" alt="Listing image for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG"><img src="https://i.ebayimg.com/images/g/eIUAAeSwyTBp1-Ly/s-l225.jpg" alt="Listing image for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-los-alamos-phone-book-really-proves-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-the-los-alamos-phone-book-really-proves-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -461,7 +461,7 @@ Viewed through a strict evidentiary lens, the directory helps narrow the questio
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -481,7 +481,7 @@ Viewed through a strict evidentiary lens, the directory helps narrow the questio
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -513,7 +513,7 @@ Viewed through a strict evidentiary lens, the directory helps narrow the questio
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -565,7 +565,7 @@ Viewed through a strict evidentiary lens, the directory helps narrow the questio
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -610,7 +610,7 @@ Viewed through a strict evidentiary lens, the directory helps narrow the questio
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -651,114 +651,114 @@ Viewed through a strict evidentiary lens, the directory helps narrow the questio
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: factually.co  
    Title: Which contemporaneous newspaper articles or Los Alamos  
-   Link: <a href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</p></details>
+   Link:<a href="https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441" target="_blank" rel="noopener noreferrer nofollow">https://factually.co/fact-checks/science/contemporaneous-newspaper-articles-los-alamos-records-mentioning-bob-lazar-what-they-say-1bc441</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Which contemporaneous newspaper articles or Los Alamos...May 10, 2026...</p></details>
    Published: May 10, 2026  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: disclosdex.com  
    Title: The Robert Lazar [Timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;) | Disclosdex  
-   Link: <a href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/1997-robert-lazar-timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robert Lazar Timeline | DisclosdexJanuary 1, 1997...</p></details>
+   Link:<a href="https://disclosdex.com/documents/1997-robert-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/documents/1997-robert-lazar-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Robert Lazar Timeline | DisclosdexJanuary 1, 1997...</p></details>
    Published: January 1, 1997  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: disclosdex.com  
-   Link: <a href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/people/bob-lazar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar | DisclosdexBOB LAZAR Claimant Bob Lazar made Area 51 famous by alleging S-4 housed alien craft and disputed reverse-engineerin...</p></details>
+   Link:<a href="https://disclosdex.com/people/bob-lazar" target="_blank" rel="noopener noreferrer nofollow">https://disclosdex.com/people/bob-lazar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar | DisclosdexBOB LAZAR Claimant Bob Lazar made Area 51 famous by alleging S-4 housed alien craft and disputed reverse-engineerin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: swallowingthecamel.me  
    Title: Swallowing The Camel Hoaxes From Space Part I: Bob Lazar – Swallowing The Camel  
-   Link: <a href="https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Swallowing The CamelHoaxes From Space Part I: Bob Lazar – Swallowing The CamelAugust 31, 2009...</p></details>
+   Link:<a href="https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://swallowingthecamel.me/2009/08/31/hoaxes-from-space-part-i-bob-lazar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Swallowing The CamelHoaxes From Space Part I: Bob Lazar – Swallowing The CamelAugust 31, 2009...</p></details>
    Published: August 31, 2009  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: papooselake.org  
    Title: Papoose Lake Institute The Updated Bob Lazar Timeline  
-   Link: <a href="https://www.papooselake.org/the-updated-bob-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.papooselake.org/the-updated-bob-lazar-timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Papoose Lake InstituteThe Updated Bob Lazar Timeline - Papoose Lake Institute...</p></details>
+   Link:<a href="https://www.papooselake.org/the-updated-bob-lazar-timeline" target="_blank" rel="noopener noreferrer nofollow">https://www.papooselake.org/the-updated-bob-lazar-timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Papoose Lake InstituteThe Updated Bob Lazar Timeline - Papoose Lake Institute...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: kb42.info  
    Title: Bob Lazar  
-   Link: <a href="https://kb42.info/index.php?title=Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://kb42.info/index.php?title=Bob_Lazar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOB LAZAR From KB42 Bob Lazar Image Name(s): | Robert Lazar Birth Name: | Robert Scott Lazar Birth Date: | 01, 26, 1959 Birth Place...</p></details>
+   Link:<a href="https://kb42.info/index.php?title=Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://kb42.info/index.php?title=Bob_Lazar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOB LAZAR From KB42 Bob Lazar Image Name(s): | Robert Lazar Birth Name: | Robert Scott Lazar Birth Date: | 01, 26, 1959 Birth Place...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dreamlandresort.com  
-   Link: <a href="https://www.dreamlandresort.com/area51/lazar/timeline.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dreamlandresort.com/area51/lazar/timeline.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>(14) At Rachel-93, RL was asked for the year of his graduation from MIT and if he got a Ph.D. He replied, &quot;No, it was a Master&#x27;s degree...</p></details>
+   Link:<a href="https://www.dreamlandresort.com/area51/lazar/timeline.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.dreamlandresort.com/area51/lazar/timeline.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(14) At Rachel-93, RL was asked for the year of his graduation from MIT and if he got a Ph.D. He replied, &quot;No, it was a Master&#x27;s degree...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: rielpolitik.com  
    Title: conspiracy of silence physicist claims bob lazar did work at los alamos  
-   Link: <a href="https://rielpolitik.com/2015/08/22/conspiracy-of-silence-physicist-claims-bob-lazar-did-work-at-los-alamos/" target="_blank" rel="noopener noreferrer nofollow">https://rielpolitik.com/2015/08/22/conspiracy-of-silence-physicist-claims-bob-lazar-did-work-at-los-alamos/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CONSPIRACY OF SILENCE: Physicist claims Bob Lazar did work at Los Alamos | RIELPOLITIKAugust 22, 2015 — CONSPIRACY OF SILENCE: PHYSICIST...</p></details>
+   Link:<a href="https://rielpolitik.com/2015/08/22/conspiracy-of-silence-physicist-claims-bob-lazar-did-work-at-los-alamos/" target="_blank" rel="noopener noreferrer nofollow">https://rielpolitik.com/2015/08/22/conspiracy-of-silence-physicist-claims-bob-lazar-did-work-at-los-alamos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CONSPIRACY OF SILENCE: Physicist claims Bob Lazar did work at Los Alamos | RIELPOLITIKAugust 22, 2015 — CONSPIRACY OF SILENCE: PHYSICIST...</p></details>
    Published: August 22, 2015  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: thetruthfiles.com  
    Title: The Lazar Files — Bob Lazar, S-4 & Area 51 | The Truth Files  
-   Link: <a href="https://www.thetruthfiles.com/the-lazar-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thetruthfiles.com/the-lazar-files/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2026 — PUBLIC TIMELINE The moments that turned Lazar from local figure into permanent black-program folklore 1982 THE LOS ALAMOS...</p></details>
+   Link:<a href="https://www.thetruthfiles.com/the-lazar-files/" target="_blank" rel="noopener noreferrer nofollow">https://www.thetruthfiles.com/the-lazar-files/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 5, 2026 — PUBLIC TIMELINE The moments that turned Lazar from local figure into permanent black-program folklore 1982 THE LOS ALAMOS...</p></details>
    Published: April 5, 2026  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: unexplained.co  
    Title: Bob Lazar & S-4: What the Declassified Records Show  
-   Link: <a href="https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Image: Bob Lazar &amp;amp; S-4: What the Declassified Records Show UFO &amp; Aliens BOB LAZAR &amp; S-4: WHAT THE DECLASSIFIED RECO...</p></details>
+   Link:<a href="https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 9, 2026 — Image: Bob Lazar &amp;amp; S-4: What the Declassified Records Show UFO &amp; Aliens BOB LAZAR &amp; S-4: WHAT THE DECLASSIFIED RECO...</p></details>
    Published: January 9, 2026  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: alienscientist.com  
-   Link: <a href="https://www.alienscientist.com/boblazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alienscientist.com/boblazar.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At the time of his &quot;disclosure&quot; [Element 115](&amp;#123;&amp;#123; &#x27;element-115/&#x27; | relative_url &amp;#125;&amp;#125;) was still undiscove...</p></details>
+   Link:<a href="https://www.alienscientist.com/boblazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alienscientist.com/boblazar.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At the time of his &quot;disclosure&quot; [Element 115](&amp;#123;&amp;#123; &#x27;element-115/&#x27; | relative_url &amp;#125;&amp;#125;) was still undiscove...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: gbppr.net  
    Title: Investigation of Bob Lazar's M.I.T  
-   Link: <a href="https://gbppr.net/lazar/lazar-mit.html" target="_blank" rel="noopener noreferrer nofollow">https://gbppr.net/lazar/lazar-mit.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ClaimsINVESTIGATION OF BOB LAZAR&#x27;S M.I.T. CLAIMS Glenn Campbell June 1993 LAZAR&#x27;S STATEMENTS Bob Lazar claims to have degrees from MIT an...</p></details>
+   Link:<a href="https://gbppr.net/lazar/lazar-mit.html" target="_blank" rel="noopener noreferrer nofollow">https://gbppr.net/lazar/lazar-mit.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ClaimsINVESTIGATION OF BOB LAZAR&#x27;S M.I.T. CLAIMS Glenn Campbell June 1993 LAZAR&#x27;S STATEMENTS Bob Lazar claims to have degrees from MIT an...</p></details>
    Published: June 1993  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: allmystery.de  
-   Link: <a href="https://www.allmystery.de/themen/uf25899-153" target="_blank" rel="noopener noreferrer nofollow">https://www.allmystery.de/themen/uf25899-153</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar und die Area 51 (Seite 154) - AllmysteryDecember 14, 2015 — BOB LAZAR UND DIE AREA 51 15.12.2015 um 09:06 @allfather Ich möchte...</p></details>
+   Link:<a href="https://www.allmystery.de/themen/uf25899-153" target="_blank" rel="noopener noreferrer nofollow">https://www.allmystery.de/themen/uf25899-153</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar und die Area 51 (Seite 154) - AllmysteryDecember 14, 2015 — BOB LAZAR UND DIE AREA 51 15.12.2015 um 09:06 @allfather Ich möchte...</p></details>
    Published: December 14, 2015  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: zamandayolculuk.com  
    Title: Government Scientist  
-   Link: <a href="https://www.zamandayolculuk.com/html-2/government_scientist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.zamandayolculuk.com/html-2/government_scientist.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob LazarGOVERNMENT SCIENTIST GOES PUBLIC Former Department of Naval Intelligence Scientist Discusses Our Government’s Most Highly Classi...</p></details>
+   Link:<a href="https://www.zamandayolculuk.com/html-2/government_scientist.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.zamandayolculuk.com/html-2/government_scientist.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob LazarGOVERNMENT SCIENTIST GOES PUBLIC Former Department of Naval Intelligence Scientist Discusses Our Government’s Most Highly Classi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Lb_1d68vx-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lb_1d68vx-g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire with George Knapp and Ron Futrell - Return of Mystery Wire - Episode 1 - Dec 4, 2025...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Lb_1d68vx-g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Lb_1d68vx-g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mystery Wire with George Knapp and Ron Futrell - Return of Mystery Wire - Episode 1 - Dec 4, 2025...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: ufoevidence.org  
    Title: The Bob Lazar Story  
-   Link: <a href="https://www.ufoevidence.org/documents/doc1249.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1249.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BRODEN, UFO AREA ORIGINAL SOURCE | FAIR USE NOTICE Summary: This is a really fascinating story and the story self has as many sup...</p></details>
+   Link:<a href="https://www.ufoevidence.org/documents/doc1249.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoevidence.org/documents/doc1249.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BRODEN, UFO AREA ORIGINAL SOURCE | FAIR USE NOTICE Summary: This is a really fascinating story and the story self has as many sup...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us!  
-   Link: <a href="https://www.youtube.com/watch?v=_2qjFU7B_RM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_2qjFU7B_RM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2479 - Bob Lazar &amp; Luigi Vendittelli...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=_2qjFU7B_RM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=_2qjFU7B_RM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Joe Rogan Experience #2479 - Bob Lazar &amp; Luigi Vendittelli...</p></details>

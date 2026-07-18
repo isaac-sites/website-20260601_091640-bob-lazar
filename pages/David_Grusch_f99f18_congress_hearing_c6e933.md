@@ -298,37 +298,37 @@ image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933-overview-socia
 
 ## Introduction
 
-The 2023 House [Oversight]({{ 'oversight/' | relative_url }}) hearing changed David Grusch’s public credibility by moving him from an interview-based UFO whistleblower story into a sworn congressional witness in a nationally visible setting. That mattered because Congress confirmed his relevance as a witness, placed his claims beside testimony from respected military aviators, and framed UAP secrecy as an oversight issue rather than just a fringe belief. But the hearing did not prove his most dramatic allegations. It strengthened the public case that Grusch was a serious insider making formal claims through official channels; it did not independently establish that the US government possesses non-human craft, [biologics]({{ 'biologics/' | relative_url }}), or a hidden reverse-engineering programme. The result was a split credibility effect: politically amplified, procedurally more serious, but still evidentially unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</span></span></span>
+The 2023 House [Oversight]({{ 'oversight/' | relative_url }}) hearing changed David Grusch’s public credibility by moving him from an interview-based UFO whistleblower story into a sworn congressional witness in a nationally visible setting. That mattered because Congress confirmed his relevance as a witness, placed his claims beside testimony from respected military aviators, and framed UAP secrecy as an oversight issue rather than just a fringe belief. But the hearing did not prove his most dramatic allegations. It strengthened the public case that Grusch was a serious insider making formal claims through official channels; it did not independently establish that the US government possesses non-human craft, [biologics]({{ 'biologics/' | relative_url }}), or a hidden reverse-engineering programme. The result was a split credibility effect: politically amplified, procedurally more serious, but still evidentially unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-overview.webp" | relative_url }}" alt="Overview image for Hearing" loading="eager" decoding="sync" fetchpriority="high">
 ## Why the hearing changed the story
 
-Before the July 2023 hearing, Grusch’s allegations had already attracted attention because they were reported as coming from a former intelligence official who had taken claims to Congress and the Intelligence Community Inspector General. The original public story was extraordinary: that the US had recovered intact or partially intact craft of “non-human” origin and that this had been hidden from ordinary oversight. But it still arrived through journalism, unnamed sources, classified-process references and Grusch’s own account rather than public documents or physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span>
+Before the July 2023 hearing, Grusch’s allegations had already attracted attention because they were reported as coming from a former intelligence official who had taken claims to Congress and the Intelligence Community Inspector General. The original public story was extraordinary: that the US had recovered intact or partially intact craft of “non-human” origin and that this had been hidden from ordinary oversight. But it still arrived through journalism, unnamed sources, classified-process references and Grusch’s own account rather than public documents or physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span><span class="citation-popover-snippet">The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non</span></span></span>
 
-The hearing changed the audience and the status of the claim. The House Oversight Committee’s own page listed the event as a formal hearing on “Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency”, with Grusch appearing alongside Ryan Graves and retired Commander David Fravor. The committee identified Grusch as a former National Reconnaissance Office representative to the UAP Task Force, which gave the proceeding an institutional frame rather than the feel of a media spectacle alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
+The hearing changed the audience and the status of the claim. The House Oversight Committee’s own page listed the event as a formal hearing on “Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency”, with Grusch appearing alongside Ryan Graves and retired Commander David Fravor. The committee identified Grusch as a former National Reconnaissance Office representative to the UAP Task Force, which gave the proceeding an institutional frame rather than the feel of a media spectacle alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
 
-That distinction is central to his credibility. A congressional hearing is not a trial, a scientific validation process, or proof that a witness’s underlying claims are true. It is, however, a public act of political seriousness. By inviting Grusch, placing him under oath, and asking him about where evidence could be found, Congress made it harder to dismiss him merely as an online rumour. At the same time, the hearing exposed the central weakness of his case: the most sensational parts still depended on what he said other people had told him, not on public exhibits that independent observers could inspect. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
+That distinction is central to his credibility. A congressional hearing is not a trial, a scientific validation process, or proof that a witness’s underlying claims are true. It is, however, a public act of political seriousness. By inviting Grusch, placing him under oath, and asking him about where evidence could be found, Congress made it harder to dismiss him merely as an online rumour. At the same time, the hearing exposed the central weakness of his case: the most sensational parts still depended on what he said other people had told him, not on public exhibits that independent observers could inspect.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
 
 ## Testimony under oath
 
-Grusch’s opening statement was carefully framed around his [background]({{ 'background/' | relative_url }}), whistleblower status and the limits of what he said he could discuss publicly. He stated that he had been an intelligence officer for 14 years, had served in the US Air Force and at the National Geospatial-Intelligence Agency, and had been involved in UAP and “trans-medium object” analysis. He also said he became a whistleblower after receiving reports from current and former military and intelligence personnel that the US government was operating in secrecy “above Congressional oversight” regarding UAPs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
+Grusch’s opening statement was carefully framed around his [background]({{ 'background/' | relative_url }}), whistleblower status and the limits of what he said he could discuss publicly. He stated that he had been an intelligence officer for 14 years, had served in the US Air Force and at the National Geospatial-Intelligence Agency, and had been involved in UAP and “trans-medium object” analysis. He also said he became a whistleblower after receiving reports from current and former military and intelligence personnel that the US government was operating in secrecy “above Congressional oversight” regarding UAPs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
 
-The strongest credibility gain from the hearing came from that formal posture. Grusch was not speaking anonymously, not appearing only on a podcast, and not merely repeating a rumour in a private setting. He was testifying in a named capacity, before elected officials, in a setting where false statements could carry legal and reputational consequences. For supporters, that made his claims more difficult to brush aside: a former intelligence officer was publicly saying Congress had been denied visibility into programmes he believed existed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
+The strongest credibility gain from the hearing came from that formal posture. Grusch was not speaking anonymously, not appearing only on a podcast, and not merely repeating a rumour in a private setting. He was testifying in a named capacity, before elected officials, in a setting where false statements could carry legal and reputational consequences. For supporters, that made his claims more difficult to brush aside: a former intelligence officer was publicly saying Congress had been denied visibility into programmes he believed existed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
 
-Yet his own wording also kept the evidential question open. In the written statement, Grusch said his testimony was based on information given to him by people with “a longstanding track record of legitimacy and service”, and he added that some had shared alleged photography, documentation and classified oral testimony. He also said, crucially, that he was “speaking to the facts as I have been told them”. That phrase helps explain why the hearing improved his standing as a whistleblower but not as a direct proof source for alien technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
+Yet his own wording also kept the evidential question open. In the written statement, Grusch said his testimony was based on information given to him by people with “a longstanding track record of legitimacy and service”, and he added that some had shared alleged photography, documentation and classified oral testimony. He also said, crucially, that he was “speaking to the facts as I have been told them”. That phrase helps explain why the hearing improved his standing as a whistleblower but not as a direct proof source for alien technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
 
-The most memorable moment was his statement that “non-human biologics” had allegedly been recovered with some craft. Public reporting noted that he said he had not personally seen those biologics and was relying on people he described as having direct knowledge. This was dramatic enough to make the hearing internationally newsworthy, but it also sharpened the credibility problem: the stronger the claim became, the more visible the lack of public corroborating evidence became. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress david grusch whistleblower live updates</span><span class="citation-popover-snippet">ufo hearing congress david grusch whistleblower live updates</span></span></span>
+The most memorable moment was his statement that “non-human biologics” had allegedly been recovered with some craft. Public reporting noted that he said he had not personally seen those biologics and was relying on people he described as having direct knowledge. This was dramatic enough to make the hearing internationally newsworthy, but it also sharpened the credibility problem: the stronger the claim became, the more visible the lack of public corroborating evidence became.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo hearing congress david grusch whistleblower live updates</span><span class="citation-popover-snippet">ufo hearing congress david grusch whistleblower live updates</span></span></span>
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-1-dark.svg" | relative_url }}" alt="Hearing illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How other witnesses shaped the setting
 
-The hearing did not rest on Grusch alone. Ryan Graves and David Fravor gave the session a different kind of credibility because their testimony centred on pilot experiences and aviation safety rather than hidden crash-retrieval programmes. Graves had become associated with concerns about frequent UAP encounters by military aviators, while Fravor was linked to the 2004 “Tic Tac” encounter, one of the most widely discussed modern military UAP cases. The House witness list put these men beside Grusch, which gave the hearing a broader national-security and pilot-reporting context. House Documents <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</span></span></span>
+The hearing did not rest on Grusch alone. Ryan Graves and David Fravor gave the session a different kind of credibility because their testimony centred on pilot experiences and aviation safety rather than hidden crash-retrieval programmes. Graves had become associated with concerns about frequent UAP encounters by military aviators, while Fravor was linked to the 2004 “Tic Tac” encounter, one of the most widely discussed modern military UAP cases. The House witness list put these men beside Grusch, which gave the hearing a broader national-security and pilot-reporting context. House Documents<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</span></span></span>
 
-This helped Grusch in one way and complicated him in another. It helped because the presence of military pilots made the hearing feel less like a single extraordinary allegation and more like part of a wider institutional problem: service members see things, reporting channels may be inadequate, and stigma may discourage disclosure. That made Grusch’s demand for congressional scrutiny sound less isolated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This helped Grusch in one way and complicated him in another. It helped because the presence of military pilots made the hearing feel less like a single extraordinary allegation and more like part of a wider institutional problem: service members see things, reporting channels may be inadequate, and stigma may discourage disclosure. That made Grusch’s demand for congressional scrutiny sound less isolated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-But it also created a useful comparison. Graves and Fravor were primarily associated with direct observation of unusual aerial phenomena. Grusch’s claims were different in kind: alleged secret programmes, recovered materials, biologics, contractor concealment and reprisals. The hearing therefore raised two credibility questions at once. One was whether UAP reporting deserved better official handling; the other was whether Grusch’s specific hidden-programme allegations were true. The first question gained broad legitimacy. The second remained unproven. AP News <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</span></span></span>
+But it also created a useful comparison. Graves and Fravor were primarily associated with direct observation of unusual aerial phenomena. Grusch’s claims were different in kind: alleged secret programmes, recovered materials, biologics, contractor concealment and reprisals. The hearing therefore raised two credibility questions at once. One was whether UAP reporting deserved better official handling; the other was whether Grusch’s specific hidden-programme allegations were true. The first question gained broad legitimacy. The second remained unproven. AP News<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</span></span></span>
 
-This distinction matters for readers assessing Grusch. Public sympathy for pilots who report unexplained encounters does not automatically validate claims about non-human crash retrievals. Conversely, scepticism about the crash-retrieval claim does not mean every UAP safety concern is unserious. The hearing’s biggest public effect was to join those two issues in one televised event, even though they require different standards of evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
+This distinction matters for readers assessing Grusch. Public sympathy for pilots who report unexplained encounters does not automatically validate claims about non-human crash retrievals. Conversely, scepticism about the crash-retrieval claim does not mean every UAP safety concern is unserious. The hearing’s biggest public effect was to join those two issues in one televised event, even though they require different standards of evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/usPustgTcDU" title="David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer">David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 73.9K &middot; Uploaded: July 2023 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=usPustgTcDU">Open on YouTube</a></p></div></div></div>
 
@@ -336,22 +336,22 @@ This distinction matters for readers assessing Grusch. Public sympathy for pilot
 
 The hearing strengthened several limited claims about Grusch and the UAP debate.
 
-**First, it made his institutional relevance harder to deny.** The committee did not present him as a random claimant. Its witness page described him as a former National Reconnaissance Office representative to the UAP Task Force, and his own statement gave a detailed account of his intelligence and UAP-related work. That does not prove the hidden programmes existed, but it supports the narrower claim that he had a plausible route to hear sensitive UAP-related allegations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
+**First, it made his institutional relevance harder to deny.** The committee did not present him as a random claimant. Its witness page described him as a former National Reconnaissance Office representative to the UAP Task Force, and his own statement gave a detailed account of his intelligence and UAP-related work. That does not prove the hidden programmes existed, but it supports the narrower claim that he had a plausible route to hear sensitive UAP-related allegations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span>
 
-**Second, it made the oversight question more credible.** Grusch’s strongest public argument was not “believe me because aliens are real”; it was that Congress should investigate whether classified programmes had evaded lawful oversight. That argument fitted neatly into the committee’s transparency and national-security remit, and it also aligned with Senate interest in creating a UAP records process. Schumer and Rounds’ UAP Disclosure Act proposal called for a National Archives collection and a presumption of disclosure for UAP records, while acknowledging that stories circulating around the issue had “varying levels of credibility”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+**Second, it made the oversight question more credible.** Grusch’s strongest public argument was not “believe me because aliens are real”; it was that Congress should investigate whether classified programmes had evaded lawful oversight. That argument fitted neatly into the committee’s transparency and national-security remit, and it also aligned with Senate interest in creating a UAP records process. Schumer and Rounds’ UAP Disclosure Act proposal called for a National Archives collection and a presumption of disclosure for UAP records, while acknowledging that stories circulating around the issue had “varying levels of credibility”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-**Third, it gave supporters a procedural milestone.** After the hearing, supporters could point to testimony under oath, bipartisan congressional interest and proposed disclosure legislation rather than only to interviews and specialist UFO media. This was the major public-credibility gain: Grusch became part of an official oversight story, not merely a personality within UFO discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
+**Third, it gave supporters a procedural milestone.** After the hearing, supporters could point to testimony under oath, bipartisan congressional interest and proposed disclosure legislation rather than only to interviews and specialist UFO media. This was the major public-credibility gain: Grusch became part of an official oversight story, not merely a personality within UFO discourse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
 
 Those gains are real but bounded. They improve the credibility of Grusch as a serious complainant with relevant background. They do not independently verify the alleged existence of non-human craft, biologics or a concealed reverse-engineering programme.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-2-dark.svg" | relative_url }}" alt="Hearing illustration 2" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the hearing did not settle
 
-The hearing did not produce the kind of evidence that would settle Grusch’s central claims for a sceptical public. There were no public photographs authenticated by independent experts, no named first-hand custodians of recovered material, no declassified programme records, no chain of custody for alleged biologics, and no physical sample. The most dramatic statements were presented as information Grusch said he had received from others, with details deferred to classified settings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee <span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">ufos uaps congress whistleblower spy aliens ba8a8cfba353d7b9de29c3d906a69ba7</span><span class="citation-popover-snippet">ufos uaps congress whistleblower spy aliens ba8a8cfba353d7b9de29c3d906a69ba7</span></span></span>
+The hearing did not produce the kind of evidence that would settle Grusch’s central claims for a sceptical public. There were no public photographs authenticated by independent experts, no named first-hand custodians of recovered material, no declassified programme records, no chain of custody for alleged biologics, and no physical sample. The most dramatic statements were presented as information Grusch said he had received from others, with details deferred to classified settings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee<span class="citation-link-wrap"><a class="citation-inline-link" href="https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">ufos uaps congress whistleblower spy aliens ba8a8cfba353d7b9de29c3d906a69ba7</span><span class="citation-popover-snippet">ufos uaps congress whistleblower spy aliens ba8a8cfba353d7b9de29c3d906a69ba7</span></span></span>
 
-That gap became more important after official pushback. The Pentagon’s All-domain Anomaly Resolution Office, or [AARO]({{ 'aaro/' | relative_url }}), later published a historical report stating that it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed extraterrestrial technology. AARO also reported no evidence that the US government or private companies had reverse-engineered extraterrestrial material. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> There was also a process dispute over whether Grusch had provided information to AARO. An AARO memorandum dated January 2024 said the officehad made multiple attempts to invite Grusch for an oral history interview about his claimed knowledge of US possession of extraterrestrial material and reverse-engineering programmes, and that those invitations had negative results. The memo also stated that AARO was authorised to receive UAP-related information regardless of classification or compartmentalisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Personal Property System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">24 F 0250 Final Product</span></span></span>
+That gap became more important after official pushback. The Pentagon’s All-domain Anomaly Resolution Office, or [AARO]({{ 'aaro/' | relative_url }}), later published a historical report stating that it found no evidence that any US government investigation, academic-sponsored research or official review had confirmed extraterrestrial technology. AARO also reported no evidence that the US government or private companies had reverse-engineered extraterrestrial material. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reuters.com">[reuters]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reuters.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> There was also a process dispute over whether Grusch had provided information to AARO. An AARO memorandum dated January 2024 said the officehad made multiple attempts to invite Grusch for an oral history interview about his claimed knowledge of US possession of extraterrestrial material and reverse-engineering programmes, and that those invitations had negative results. The memo also stated that AARO was authorised to receive UAP-related information regardless of classification or compartmentalisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Personal Property System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">24 F 0250 Final Product</span></span></span>
 
-For sceptics, this weakened the public force of the hearing. If Grusch had names, locations and programme details, they argued, the relevant investigative bodies needed usable information, not just public hints. For supporters, the same dispute looked different: they argued that classified channels, legal exposure, reprisals and compartmented access could explain why he avoided giving details publicly or insisted on particular secure conditions. The public record does not fully resolve that disagreement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
+For sceptics, this weakened the public force of the hearing. If Grusch had names, locations and programme details, they argued, the relevant investigative bodies needed usable information, not just public hints. For supporters, the same dispute looked different: they argued that classified channels, legal exposure, reprisals and compartmented access could explain why he avoided giving details publicly or insisted on particular secure conditions. The public record does not fully resolve that disagreement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lcrCMLVk614" title="David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer">David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing</a></p><p class="youtube-embed-meta">Channel: C-SPAN &middot; Views: 511.9K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 5 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lcrCMLVk614">Open on YouTube</a></p></div></div></div>
 
@@ -359,220 +359,220 @@ For sceptics, this weakened the public force of the hearing. If Grusch had names
 
 The hearing created a common misunderstanding: that testimony under oath is the same as proof. It is not. Testimony under oath can raise the cost of lying and clarify what a witness is willing to stand behind. It does not make [hearsay]({{ 'hearsay/' | relative_url }}) into direct evidence, and it does not substitute for records, material samples or independent corroboration.
 
-For Grusch, the oath mattered most on questions about what he said he was told, what complaints he filed, what he believed Congress should investigate, and what he could offer in a classified setting. It mattered less as proof that the underlying claims were true. A person can be honest about receiving reports from other officials while those reports may still be mistaken, exaggerated, misinterpreted, part of internal lore, or based on classified programmes unrelated to non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">ex intelligence official us government ufo</span><span class="citation-popover-snippet">ex intelligence official us government ufo</span></span></span>
+For Grusch, the oath mattered most on questions about what he said he was told, what complaints he filed, what he believed Congress should investigate, and what he could offer in a classified setting. It mattered less as proof that the underlying claims were true. A person can be honest about receiving reports from other officials while those reports may still be mistaken, exaggerated, misinterpreted, part of internal lore, or based on classified programmes unrelated to non-human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[house]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">Oversight Committee Microsoft Word</span><span class="citation-popover-snippet">House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</span></span></span> Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bu.edu">[Boston University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bu.edu</span><span class="citation-popover-title">ex intelligence official us government ufo</span><span class="citation-popover-snippet">ex intelligence official us government ufo</span></span></span>
 
-That is why the hearing produced such different reactions. Believers saw a decorated insider risking his career before Congress. Sceptics saw another high-status witness making extraordinary claims without public evidence. Both reactions draw on something real. Grusch’s credentials and formal testimony increase the seriousness of the allegation; the absence of [public proof]({{ 'public-proof/' | relative_url }}) limits how far credibility can reasonably extend. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/science/archive/2023/06/alien-intact-vehicles-ufo-us-government/674323/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">The Atlantic Why Everyone Is Suddenly Talking About Aliens</span><span class="citation-popover-snippet">The Atlantic Why Everyone Is Suddenly Talking About Aliens</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is why the hearing produced such different reactions. Believers saw a decorated insider risking his career before Congress. Sceptics saw another high-status witness making extraordinary claims without public evidence. Both reactions draw on something real. Grusch’s credentials and formal testimony increase the seriousness of the allegation; the absence of [public proof]({{ 'public-proof/' | relative_url }}) limits how far credibility can reasonably extend.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theatlantic.com/science/archive/2023/06/alien-intact-vehicles-ufo-us-government/674323/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theatlantic.com">[The Atlantic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theatlantic.com</span><span class="citation-popover-title">The Atlantic Why Everyone Is Suddenly Talking About Aliens</span><span class="citation-popover-snippet">The Atlantic Why Everyone Is Suddenly Talking About Aliens</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EXri0KF2oZY" title="Whistleblower opening statement in House hearing on alleged covert government UAP program" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer">Whistleblower opening statement in House hearing on alleged covert government UAP program</a></p><p class="youtube-embed-meta">Channel: ABC News &middot; Views: 115.3K &middot; Uploaded: July 2023 &middot; Length: 4 minutes 12 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EXri0KF2oZY">Open on YouTube</a></p></div></div></div>
 
 ## Public credibility after the hearing
 
-The clearest before-and-after change was mainstream visibility. Grusch’s claims moved from a specialist story into coverage by major outlets, wire services and international media. The Associated Press, Time, the Guardian and others reported the hearing because the spectacle of a former intelligence official discussing non-human biologics before Congress was newsworthy, even while the reports also stressed the lack of confirmed evidence. AP News <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest before-and-after change was mainstream visibility. Grusch’s claims moved from a specialist story into coverage by major outlets, wire services and international media. The Associated Press, Time, the Guardian and others reported the hearing because the spectacle of a former intelligence official discussing non-human biologics before Congress was newsworthy, even while the reports also stressed the lack of confirmed evidence. AP News<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That wider coverage made Grusch more credible to some readers simply because the topic was no longer confined to UFO podcasts, documentaries or online forums. Congressional attention can reduce stigma: if elected officials are asking questions, then perhaps the issue is not absurd to discuss. NASA’s later UAP study also reinforced the idea that stigma around reporting unusual observations should be reduced, while still finding no evidence that UAP observations were extraterrestrial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
+That wider coverage made Grusch more credible to some readers simply because the topic was no longer confined to UFO podcasts, documentaries or online forums. Congressional attention can reduce stigma: if elected officials are asking questions, then perhaps the issue is not absurd to discuss. NASA’s later UAP study also reinforced the idea that stigma around reporting unusual observations should be reduced, while still finding no evidence that UAP observations were extraterrestrial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: apnews.com">[AP News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">apnews.com</span><span class="citation-popover-title">congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f</span><span class="citation-popover-snippet">has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</span></span></span>
 
-But mainstream attention also made the weaknesses more visible. Once the claim entered national news, journalists and scientists applied ordinary evidential standards: where is the material, who has custody, what documents can be reviewed, and what independent body has verified the claim? Vanity Fair reported that major outlets had earlier hesitated over the original Grusch story partly because of verification concerns and lack of physical evidence. That same issue remained after the hearing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+But mainstream attention also made the weaknesses more visible. Once the claim entered national news, journalists and scientists applied ordinary evidential standards: where is the material, who has custody, what documents can be reviewed, and what independent body has verified the claim? Vanity Fair reported that major outlets had earlier hesitated over the original Grusch story partly because of verification concerns and lack of physical evidence. That same issue remained after the hearing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The most balanced assessment is that the hearing increased Grusch’s public importance more than it increased the proven truth of his claims. He became a central figure in the politics of UAP transparency. He did not become, on the public evidence available so far, a confirmed witness to recovered non-human technology.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-3-dark.svg" | relative_url }}" alt="Hearing illustration 3" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_congress_hearing_c6e933-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What would change the assessment now
 
-The hearing left a clear standard for future credibility. Grusch’s position would be strengthened if named first-hand witnesses testified publicly or in documented official channels; if Congress or inspectors general confirmed specific concealed programmes; if authenticated records showed illegal withholding from oversight; or if physical material with a credible chain of custody were made available for independent analysis. Procedural seriousness alone cannot carry a claim this large indefinitely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Democratic Leadership <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The hearing left a clear standard for future credibility. Grusch’s position would be strengthened if named first-hand witnesses testified publicly or in documented official channels; if Congress or inspectors general confirmed specific concealed programmes; if authenticated records showed illegal withholding from oversight; or if physical material with a credible chain of custody were made available for independent analysis. Procedural seriousness alone cannot carry a claim this large indefinitely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> Democratic Leadership<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: democrats.senate.gov">[Senate Democratic Leadership]</a><span class="citation-popover" role="note"><span class="citation-popover-source">democrats.senate.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-His credibility would weaken if investigations continue to find no verifiable evidence, if alleged sources fail to appear in usable channels, or if the claims remain permanently dependent on unnamed people and inaccessible documents. AARO’s historical report and its memorandum about attempts to interview Grusch are important here because they show that official review has not publicly validated his central allegations and that there was disagreement over whether he engaged with the office set up to investigate UAP claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Personal Property System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">24 F 0250 Final Product</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>
+His credibility would weaken if investigations continue to find no verifiable evidence, if alleged sources fail to appear in usable channels, or if the claims remain permanently dependent on unnamed people and inaccessible documents. AARO’s historical report and its memorandum about attempts to interview Grusch are important here because they show that official review has not publicly validated his central allegations and that there was disagreement over whether he engaged with the office set up to investigate UAP claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[Defense Personal Property System]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">24 F 0250 Final Product</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[2U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">U.S. Department of War</span><span class="citation-popover-snippet">U.S. Department of War</span></span></span>
 
 The fairest conclusion is not that the hearing proved Grusch right or exposed him as false. It showed why he matters: he had enough background, procedural standing and congressional relevance to force public attention. It also showed why the story remains unresolved: his most consequential claims still sit behind classified-process claims, unnamed sources and missing public evidence. For public credibility, the 2023 hearing was a turning point in seriousness, not a final verdict.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why the 2023 Hearing Changed the Story. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why the 2023 Hearing Changed the Story. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-        </h4>
-        <p class="fr-book-author">By Michèle Ruffat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
+</h4>
+<p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
-        </h4>
-        <p class="fr-book-author">By Todd Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
+</h4>
+<p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
-        </h4>
-        <p class="fr-book-author">By Märta Honko</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
+</h4>
+<p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
-        </h4>
-        <p class="fr-book-author">By Fernando de Sousa</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
+</h4>
+<p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-2023-hearing-changed-the-story-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="why-the-2023-hearing-changed-the-story-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -588,7 +588,7 @@ The fairest conclusion is not that the hearing proved Grusch right or exposed hi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -608,7 +608,7 @@ The fairest conclusion is not that the hearing proved Grusch right or exposed hi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -640,7 +640,7 @@ The fairest conclusion is not that the hearing proved Grusch right or exposed hi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -692,7 +692,7 @@ The fairest conclusion is not that the hearing proved Grusch right or exposed hi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -737,7 +737,7 @@ The fairest conclusion is not that the hearing proved Grusch right or exposed hi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -778,189 +778,189 @@ The fairest conclusion is not that the hearing proved Grusch right or exposed hi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeUnidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: oversight.house.gov  
    Title: Oversight Committee Microsoft Word  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Oversight CommitteeMicrosoft Word - Dave_G_HOC_Speech_FINAL_For_Trans...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>“Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency” | Committee Repository...</p></details>
+   Link:<a href="https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/Committee/Calendar/ByEvent.aspx?EventID=116282</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Unidentified Anomalous Phenomena: Implications on National Security, Public Safety, and Government Transparency” | Committee Repository...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: democrats.senate.gov  
-   Link: <a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
+   Link:<a href="https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/newsroom/press-releases/schumer-rounds-introduce-new-legislation-to-declassify-government-records-related-to-unidentified-anomalous-phenomena-and-ufos_modeled-after-jfk-assassination-records-collection-act--as-an-amendment-to-ndaa</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: democrats.senate.gov  
    Title: uap amendment  
-   Link: <a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
+   Link:<a href="https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.democrats.senate.gov/imo/media/doc/uap_amendment.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: oversight.house.gov  
    Title: Written Testimony Shellenberger  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Written-Testimony-Shellenberger.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: apnews.com  
    Title: congress ufos uaps pentagon aliens 631ad4d174ee9559580935ec11afcf3f  
-   Link: <a href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</p></details>
+   Link:<a href="https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/congress-ufos-uaps-pentagon-aliens-631ad4d174ee9559580935ec11afcf3f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>has concealed what he called a “multi-decade” program to collect and reverse-engineer “UAPs,” or...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S. Has Retrieved Craft of Non  
-   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
+   Link:<a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: apnews.com  
    Title: ufos uaps congress whistleblower spy aliens ba8a8cfba353d7b9de29c3d906a69ba7  
-   Link: <a href="https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7</a>  
+   Link:<a href="https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/ufos-uaps-congress-whistleblower-spy-aliens-ba8a8cfba353d7b9de29c3d906a69ba7</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: ufo hearing congress david grusch whistleblower live updates  
-   Link: <a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
+   Link:<a href="https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/live/2023/jul/26/ufo-hearing-congress-david-grusch-whistleblower-live-updates</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/07/ufo-hearing-congress" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/07/ufo-hearing-congress</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: apnews.com  
-   Link: <a href="https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a</a>  
+   Link:<a href="https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/8b477a5ed6a42f99bb13a4518368ce9a</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/mar/08/pentagon-ufo-report-hiding-aliens</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: esd.whs.mil  
    Title: 24 F 0250 Final Product  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf</a>  
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: bu.edu  
    Title: ex intelligence official us government ufo  
-   Link: <a href="https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/</a>  
+   Link:<a href="https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.bu.edu/articles/2023/ex-intelligence-official-us-government-ufo/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theatlantic.com  
    Title: The Atlantic Why Everyone Is Suddenly Talking About Aliens  
-   Link: <a href="https://www.theatlantic.com/science/archive/2023/06/alien-intact-vehicles-ufo-us-government/674323/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/archive/2023/06/alien-intact-vehicles-ufo-us-government/674323/</a>  
+   Link:<a href="https://www.theatlantic.com/science/archive/2023/06/alien-intact-vehicles-ufo-us-government/674323/" target="_blank" rel="noopener noreferrer nofollow">https://www.theatlantic.com/science/archive/2023/06/alien-intact-vehicles-ufo-us-government/674323/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
+   Link:<a href="https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/sep/14/ufo-nasa-research-chief-announcement</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theguardian.com  
    Title: house ufo hearing  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: theguardian.com  
    Title: whistleblower ufo alien tech spacecraft  
-   Link: <a href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft</a>  
+   Link:<a href="https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jun/06/whistleblower-ufo-alien-tech-spacecraft</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theguardian.com  
    Title: ufo hearing update congress whistleblower  
-   Link: <a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
+   Link:<a href="https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2023/jul/26/ufo-hearing-update-congress-whistleblower</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: U.S. Department of War  
-   Link: <a href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/</a>  
+   Link:<a href="https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/DepartmentofWar/posts/statement-attributable-to-assistant-to-the-secretary-of-war-for-public-affairs-a/1440451988121062/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: rev.com  
    Title: house uap whistleblower hearing  
-   Link: <a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
+   Link:<a href="https://www.rev.com/transcripts/house-uap-whistleblower-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-uap-whistleblower-hearing</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rev.com  
    Title: [house hearing](&#123;&#123; 'house-hearing/' | relative_url &#125;&#125;) on unidentified anomalous phenomena  
-   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+   Link:<a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
 
 ### Additional References
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
    Title: David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=usPustgTcDU</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=usPustgTcDU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=usPustgTcDU</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live: Congress holds hearing on UFOs after whistleblowers claim government kept information secret...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXri0KF2oZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EXri0KF2oZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EXri0KF2oZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lLTbIgZwu5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lLTbIgZwu5s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower opening statement in House hearing on alleged covert government UAP program...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lLTbIgZwu5s" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lLTbIgZwu5s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Whistleblower opening statement in House hearing on alleged covert government UAP program...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: David Grusch Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing  
-   Link: <a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lcrCMLVk614" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lcrCMLVk614</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Fravor Opening Statement at Unidentified Anomalous Phenomena (UAP) Hearing...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX56wolftv/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1702051294719622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX56wolftv/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1702051294719622/</a>  
+   Link:<a href="https://www.facebook.com/FOX56wolftv/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1702051294719622/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX56wolftv/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1702051294719622/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17l1mcv/david_grusch_replies_to_kirkpatricks_claims_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17l1mcv/david_grusch_replies_to_kirkpatricks_claims_i/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17l1mcv/david_grusch_replies_to_kirkpatricks_claims_i/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17l1mcv/david_grusch_replies_to_kirkpatricks_claims_i/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: thenationaldesk.com  
-   Link: <a href="https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+   Link:<a href="https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/fact-check-team/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: abcnews4.com  
-   Link: <a href="https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
+   Link:<a href="https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars" target="_blank" rel="noopener noreferrer nofollow">https://abcnews4.com/news/nation-world/fact-check-team-pentagon-releases-new-ufo-files-but-no-evidence-of-aliens-found-extraterrestrial-military-space-nasa-particles-declassified-mars</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WIONews/posts/former-us-air-force-intelligence-officer-and-whistleblower-david-grusch-says-non/614056397500205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-intelligence-officer-and-whistleblower-david-grusch-says-non/614056397500205/</a>
+   Link:<a href="https://www.facebook.com/WIONews/posts/former-us-air-force-intelligence-officer-and-whistleblower-david-grusch-says-non/614056397500205/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WIONews/posts/former-us-air-force-intelligence-officer-and-whistleblower-david-grusch-says-non/614056397500205/</a>

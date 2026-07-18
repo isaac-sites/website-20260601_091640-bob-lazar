@@ -256,7 +256,7 @@ image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_n
 
 ## Introduction
 
-One of the hardest questions in assessing Colm Kelleher's credibility is not whether he held real investigative roles. His involvement with the National Institute for Discovery Science (NIDS), [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) research and later Bigelow Aerospace Advanced Space Studies (BAASS) is well documented. The more difficult issue is whether the most striking claims associated with those projects were independently confirmed or mainly circulated within the same interconnected group of investigators, sponsors, authors and witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> YouTube This matters because unusual claims become more persuasive when separate people <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span>, institutions and evidence streams arrive at similar conclusions without relying on one another. Sceptics argue that much of the Kelleher-centred evidence network fails that test. Supporters counter that repeated testimony from experienced insiders should not be dismissed simply because the same people worked together. The disagreement is less about whether the individuals existed or held the positions they claimed, and more about how much independence exists between the sources.
+One of the hardest questions in assessing Colm Kelleher's credibility is not whether he held real investigative roles. His involvement with the National Institute for Discovery Science (NIDS), [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) research and later Bigelow Aerospace Advanced Space Studies (BAASS) is well documented. The more difficult issue is whether the most striking claims associated with those projects were independently confirmed or mainly circulated within the same interconnected group of investigators, sponsors, authors and witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> YouTube This matters because unusual claims become more persuasive when separate people<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span>, institutions and evidence streams arrive at similar conclusions without relying on one another. Sceptics argue that much of the Kelleher-centred evidence network fails that test. Supporters counter that repeated testimony from experienced insiders should not be dismissed simply because the same people worked together. The disagreement is less about whether the individuals existed or held the positions they claimed, and more about how much independence exists between the sources.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-1-dark.svg" | relative_url }}" alt="Corroboration illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## Who sits inside the Kelleher-Bigelow-NIDS-BAASS circle?
@@ -267,13 +267,13 @@ Several of the most influential figures connected to Kelleher's UAP and paranorm
 
 * Robert Bigelow funded NIDS and later BAASS.
 * Colm Kelleher held senior investigative and management roles within those projects.
-* George Knapp helped publicise Skinwalker Ranch and co-authored books with Kelleher. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[impossiblearchives.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span>
+* George Knapp helped publicise Skinwalker Ranch and co-authored books with Kelleher.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[impossiblearchives.rice.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span>
 * James Lacatski became a central AAWSAP figure and later co-authored books with Kelleher and Knapp.
-* Many later public accounts draw heavily from material originally collected by NIDS, BAASS or individuals connected to those organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[3Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> YouTube That overlap does not prove the claims are wrong. Scientific and intelligence investigations often involve small specialist communities. The <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI%29problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Open source on youtube.com.</span></span></span> is that a reader can easily mistake multiple retellings of a story for multiple independent confirmations.
+* Many later public accounts draw heavily from material originally collected by NIDS, BAASS or individuals connected to those organisations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[3Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> YouTube That overlap does not prove the claims are wrong. Scientific and intelligence investigations often involve small specialist communities. The<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI%29problem" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Open source on youtube.com.</span></span></span> is that a reader can easily mistake multiple retellings of a story for multiple independent confirmations.
 
 For example, a reported incident might originate with a witness interviewed by NIDS, later appear in a Knapp article, then be discussed in a Kelleher book, referenced in a BAASS report, repeated in a conference presentation and later cited by another researcher. On paper, that can look like numerous sources. In reality, the chain may trace back to a single original account.
 
-This distinction becomes especially important when evaluating claims involving [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch, alleged "hitchhiker effects", paranormal manifestations or reports of non-human intelligence encounters. Many of the most dramatic stories circulate through the same cluster of investigators and publications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsGeorge Knapp Λ Colm Kelleher on Skinwalker Ranch...George Knapp and Colm Kelleher explore fresh revelations from Skinwalk...</span></span></span>
+This distinction becomes especially important when evaluating claims involving [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch, alleged "hitchhiker effects", paranormal manifestations or reports of non-human intelligence encounters. Many of the most dramatic stories circulate through the same cluster of investigators and publications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple PodcastsGeorge Knapp Λ Colm Kelleher on Skinwalker Ranch...George Knapp and Colm Kelleher explore fresh revelations from Skinwalk...</span></span></span>
 
 ## Why repeated testimony is not automatically independent evidence
 
@@ -297,7 +297,7 @@ In evidence assessment, several questions matter:
 
 The more interconnected the participants become, the harder it is to separate independent observation from shared interpretation.
 
-This problem appears repeatedly in discussions of Skinwalker Ranch. Kelleher and his collaborators have described a wide range of reported phenomena, including unusual lights, apparent creatures, psychological effects and later claims of lingering "hitchhiker" experiences. Yet critics note that many of these reports originate from a relatively small pool of researchers, ranch personnel, contractors or associates who were already immersed in the same investigative environment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.nl/-/en/Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.nl">[Amazon.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.nl</span><span class="citation-popover-snippet">the unknown, Colm Kelleher spent hundreds of days and nights on the Skinwalker...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bol.com/nl/nl/p/hunt-for-the-skinwalker/9300000150941643/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bol.com">[Bol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bol.com</span><span class="citation-popover-snippet">Kelleher,, PhD - BolLeading a first-class team of research scientists, Colm Kelleher spent hundreds of days and nights on the Skinwalker...</span></span></span>
+This problem appears repeatedly in discussions of Skinwalker Ranch. Kelleher and his collaborators have described a wide range of reported phenomena, including unusual lights, apparent creatures, psychological effects and later claims of lingering "hitchhiker" experiences. Yet critics note that many of these reports originate from a relatively small pool of researchers, ranch personnel, contractors or associates who were already immersed in the same investigative environment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.amazon.nl/-/en/Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: amazon.nl">[Amazon.nl]</a><span class="citation-popover" role="note"><span class="citation-popover-source">amazon.nl</span><span class="citation-popover-snippet">the unknown, Colm Kelleher spent hundreds of days and nights on the Skinwalker...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bol.com/nl/nl/p/hunt-for-the-skinwalker/9300000150941643/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bol.com">[Bol]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bol.com</span><span class="citation-popover-snippet">Kelleher,, PhD - BolLeading a first-class team of research scientists, Colm Kelleher spent hundreds of days and nights on the Skinwalker...</span></span></span>
 
 The issue is not necessarily fabrication. Shared expectations, selective memory and group interpretation can influence sincere witnesses without any deliberate deception.
 
@@ -327,18 +327,18 @@ Even some sympathetic observers distinguish between two separate questions:
 1. Did AAWSAP and BAASS genuinely collect large amounts of unusual testimony?
 2. Did those reports establish that the underlying phenomena were objectively real and paranormal?
 
-The first point is relatively well supported by documentation showing that the programme existed and produced substantial reporting. The second remains much more disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">BAASS Ten Month Progress Report &#124; PDFOn</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFOn November 10, 2008, Colm Kelleher, the BAASS deputy administrator. began work and over the...</span><span class="citation-popover-meta">Published: November 10, 2008</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span>
+The first point is relatively well supported by documentation showing that the programme existed and produced substantial reporting. The second remains much more disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">BAASS Ten Month Progress Report &#124; PDFOn</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFOn November 10, 2008, Colm Kelleher, the BAASS deputy administrator. began work and over the...</span><span class="citation-popover-meta">Published: November 10, 2008</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-2-dark.svg" | relative_url }}" alt="Corroboration illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Skinwalker example shows the problem most clearly
 
 Skinwalker Ranch functions as a case study in the corroboration [debate]({{ 'debate-020cbc/' | relative_url }}) because it combines extensive testimony with limited publicly available physical evidence.
 
-Kelleher has repeatedly described years of investigation and numerous anomalous reports. Yet even accounts sympathetic to the ranch story acknowledge the difficulty of obtaining conclusive physical proof. One frequently cited passage from the broader Skinwalker literature notes that years of investigation yielded little evidence that could be regarded as definitive proof of the claimed phenomena. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/145048636/Scientific_Errorism_The_Weaponization_of_Pseudoscience_Opportunism_and_Epistemic_Fraud_in_the_Age_of_UFO_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Scientific Errorism: The Weaponization of Pseudoscience</span><span class="citation-popover-snippet">Scientific Errorism: The Weaponization of Pseudoscience...January 1, 2025 — According to Colm Kelleher, a co-author of the 2005...</span><span class="citation-popover-meta">Published: January 1, 2025</span></span></span>
+Kelleher has repeatedly described years of investigation and numerous anomalous reports. Yet even accounts sympathetic to the ranch story acknowledge the difficulty of obtaining conclusive physical proof. One frequently cited passage from the broader Skinwalker literature notes that years of investigation yielded little evidence that could be regarded as definitive proof of the claimed phenomena.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/145048636/Scientific_Errorism_The_Weaponization_of_Pseudoscience_Opportunism_and_Epistemic_Fraud_in_the_Age_of_UFO_Disclosure" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">Scientific Errorism: The Weaponization of Pseudoscience</span><span class="citation-popover-snippet">Scientific Errorism: The Weaponization of Pseudoscience...January 1, 2025 — According to Colm Kelleher, a co-author of the 2005...</span><span class="citation-popover-meta">Published: January 1, 2025</span></span></span>
 
 This creates a credibility tension.
 
-Supporters argue that the sheer volume of reports, collected over many years, makes simple dismissal unreasonable. They point to experienced investigators, government interest and recurring witness descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span>
+Supporters argue that the sheer volume of reports, collected over many years, makes simple dismissal unreasonable. They point to experienced investigators, government interest and recurring witness descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span>
 
 Sceptics answer that large quantities of testimony do not automatically solve the corroboration problem when:
 
@@ -360,7 +360,7 @@ Supporters generally see the network issue differently.
 
 Their argument is that specialised investigations naturally create small expert communities. If only a handful of people had access to AAWSAP materials, Skinwalker Ranch fieldwork or classified briefings, overlap is inevitable rather than suspicious.
 
-They also argue that critics sometimes impose an unrealistically high standard. Many intelligence investigations rely on trusted internal reporting long before information becomes publicly available. From that viewpoint, recurring names such as Kelleher, Lacatski, Knapp and Bigelow appear repeatedly because they were among the few people directly involved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> YouTube Supporters further contend that some later military UAP reporting emerged from people outside the original Skinwalker circle <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span>, suggesting that not every unusual claim can be traced back to the same source network.
+They also argue that critics sometimes impose an unrealistically high standard. Many intelligence investigations rely on trusted internal reporting long before information becomes publicly available. From that viewpoint, recurring names such as Kelleher, Lacatski, Knapp and Bigelow appear repeatedly because they were among the few people directly involved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> YouTube Supporters further contend that some later military UAP reporting emerged from people outside the original Skinwalker circle<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Archives of the Impossible conference &#124; Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</span></span></span>, suggesting that not every unusual claim can be traced back to the same source network.
 
 For them, repeated testimony from informed insiders should increase confidence, especially when the participants had professional reputations to protect.
 
@@ -400,197 +400,197 @@ For readers trying to evaluate Kelleher's credibility, the key question is there
 
 Where independent records, external witnesses, official documentation or verifiable data exist, the overlap becomes less important. Where the evidence remains largely confined to the same circle of investigators, authors and sponsors, the corroboration problem remains unresolved.
 
-That is why debate over Kelleher's strongest claims often returns to the same point: the existence of a real investigative programme is easier to verify than the extraordinary conclusions some participants draw from it. The closer a claim remains to the Kelleher-Bigelow-NIDS-BAASS ecosystem, the more sceptics question its independence. The further it can be confirmed beyond that circle, the stronger its credibility becomes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[3Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">BAASS Ten Month Progress Report &#124; PDFOn</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFOn November 10, 2008, Colm Kelleher, the BAASS deputy administrator. began work and over the...</span><span class="citation-popover-meta">Published: November 10, 2008</span></span></span>
+That is why debate over Kelleher's strongest claims often returns to the same point: the existence of a real investigative programme is easier to verify than the extraordinary conclusions some participants draw from it. The closer a claim remains to the Kelleher-Bigelow-NIDS-BAASS ecosystem, the more sceptics question its independence. The further it can be confirmed beyond that circle, the stronger its credibility becomes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">National Institute for Discovery Science</span><span class="citation-popover-snippet">National Institute for Discovery Science</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[3Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-title">BAASS Ten Month Progress Report &#124; PDFOn</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFOn November 10, 2008, Colm Kelleher, the BAASS deputy administrator. began work and over the...</span><span class="citation-popover-meta">Published: November 10, 2008</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does insider overlap weaken a claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does insider overlap weaken a claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Documents the investigator network at the centre of the page topic.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Documents the investigator network at the centre of the page topic.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Examines insider testimony and institutional relationships.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines insider testimony and institutional relationships.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
-        </h4>
-        <p class="fr-book-author">By Mark Pilkington</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mirage Men on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FjWfBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Mirage Men" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
+</h4>
+<p class="fr-book-author">By Mark Pilkington</p>
         
-        <p class="fr-book-desc">Explores how overlapping sources can shape extraordinary narratives.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how overlapping sources can shape extraordinary narratives.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Features many of the recurring figures discussed in the credibility debate.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Features many of the recurring figures discussed in the credibility debate.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mirage+Men&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mirage Men</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-insider-overlap-weaken-a-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-does-insider-overlap-weaken-a-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -606,7 +606,7 @@ That is why debate over Kelleher's strongest claims often returns to the same po
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -626,7 +626,7 @@ That is why debate over Kelleher's strongest claims often returns to the same po
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -658,7 +658,7 @@ That is why debate over Kelleher's strongest claims often returns to the same po
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -710,7 +710,7 @@ That is why debate over Kelleher's strongest claims often returns to the same po
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -755,7 +755,7 @@ That is why debate over Kelleher's strongest claims often returns to the same po
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -796,171 +796,171 @@ That is why debate over Kelleher's strongest claims often returns to the same po
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: impossiblearchives.rice.edu  
-   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</p></details>
+   Link:<a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD0ZVbtbnfI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=VD0ZVbtbnfI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=VD0ZVbtbnfI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Archives of the Impossible conference | Flash Talk: Colm A...... (NIDS) team on Skinwalker Ranch as well as multiple other NIDS projects...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: National Institute for Discovery Science  
-   Link: <a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/National_Institute_for_Discovery_Science</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm Kelleher... Skinwalker Ranch in Utah starting in 1996. Military interest in the project led t...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8xXGe6NaU4M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Researching the Paranormal with Colm Kelleher... Skinwalker Ranch in Utah starting in 1996. Military interest in the project led t...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsGeorge Knapp Λ Colm Kelleher on Skinwalker Ranch...George Knapp and Colm Kelleher explore fresh revelations from Skinwalk...</p></details>
+   Link:<a href="https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/at/podcast/george-knapp-%CE%BB-colm-kelleher-on-skinwalker-ranch-evidence/id1521758802?i=1000550007920</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple PodcastsGeorge Knapp Λ Colm Kelleher on Skinwalker Ranch...George Knapp and Colm Kelleher explore fresh revelations from Skinwalk...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: amazon.nl  
-   Link: <a href="https://www.amazon.nl/-/en/Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Colm-Kelleher/dp/1416505210</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>the unknown, Colm Kelleher spent hundreds of days and nights on the Skinwalker...Read more...</p></details>
+   Link:<a href="https://www.amazon.nl/-/en/Colm-Kelleher/dp/1416505210" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.nl/-/en/Colm-Kelleher/dp/1416505210</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the unknown, Colm Kelleher spent hundreds of days and nights on the Skinwalker...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: bol.com  
-   Link: <a href="https://www.bol.com/nl/nl/p/hunt-for-the-skinwalker/9300000150941643/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/hunt-for-the-skinwalker/9300000150941643/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher,, PhD - BolLeading a first-class team of research scientists, Colm Kelleher spent hundreds of days and nights on the Skinwalker...</p></details>
+   Link:<a href="https://www.bol.com/nl/nl/p/hunt-for-the-skinwalker/9300000150941643/" target="_blank" rel="noopener noreferrer nofollow">https://www.bol.com/nl/nl/p/hunt-for-the-skinwalker/9300000150941643/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher,, PhD - BolLeading a first-class team of research scientists, Colm Kelleher spent hundreds of days and nights on the Skinwalker...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: scribd.com  
    Title: BAASS Ten Month Progress Report | PDFOn  
-   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Progress Report | PDFOn November 10, 2008, Colm Kelleher, the BAASS deputy administrator. began work and over the...</p></details>
+   Link:<a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Progress Report | PDFOn November 10, 2008, Colm Kelleher, the BAASS deputy administrator. began work and over the...</p></details>
    Published: November 10, 2008  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: news.rice.edu  
    Title: archives impossible conference explores cultivation impossibility  
-   Link: <a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice News&#x27;Archives of the Impossible&#x27; conference explores the cultivation...18 May 2023 — He highlighted one particular occurrence while...</p></details>
+   Link:<a href="https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility" target="_blank" rel="noopener noreferrer nofollow">https://news.rice.edu/news/2023/archives-impossible-conference-explores-cultivation-impossibility</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rice News&#x27;Archives of the Impossible&#x27; conference explores the cultivation...18 May 2023 — He highlighted one particular occurrence while...</p></details>
    Published: May 2023  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: academia.edu  
    Title: Scientific Errorism: The Weaponization of Pseudoscience  
-   Link: <a href="https://www.academia.edu/145048636/Scientific_Errorism_The_Weaponization_of_Pseudoscience_Opportunism_and_Epistemic_Fraud_in_the_Age_of_UFO_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145048636/Scientific_Errorism_The_Weaponization_of_Pseudoscience_Opportunism_and_Epistemic_Fraud_in_the_Age_of_UFO_Disclosure</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Errorism: The Weaponization of Pseudoscience...January 1, 2025 — According to Colm Kelleher, a co-author of the 2005...</p></details>
+   Link:<a href="https://www.academia.edu/145048636/Scientific_Errorism_The_Weaponization_of_Pseudoscience_Opportunism_and_Epistemic_Fraud_in_the_Age_of_UFO_Disclosure" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/145048636/Scientific_Errorism_The_Weaponization_of_Pseudoscience_Opportunism_and_Epistemic_Fraud_in_the_Age_of_UFO_Disclosure</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Errorism: The Weaponization of Pseudoscience...January 1, 2025 — According to Colm Kelleher, a co-author of the 2005...</p></details>
    Published: January 1, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2nPQCtWYtAk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>brings together people from different fields, experiences The...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2nPQCtWYtAk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2nPQCtWYtAk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>brings together people from different fields, experiences The...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: archive.org  
    Title: Luis Elizondo, Imminent Inside the Pentagon s Hunt for UFOs  
-   Link: <a href="https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, Imminent Inside the Pentagon...16 May 2024 — Will flew to California with a small team that included Colm Kelleher, a bio...</p></details>
+   Link:<a href="https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, Imminent Inside the Pentagon...16 May 2024 — Will flew to California with a small team that included Colm Kelleher, a bio...</p></details>
    Published: May 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: The Echo Chamber Problem in UAP Research  
-   Link: <a href="https://www.youtube.com/watch?v=S0T0v5a73Lw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T0v5a73Lw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Source Independence in UFO Investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=S0T0v5a73Lw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=S0T0v5a73Lw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Source Independence in UFO Investigations...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Analyzing Source Independence in UFO Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=t-1GzU9XGz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t-1GzU9XGz4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Skinwalker Ranch Investigative Circle...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=t-1GzU9XGz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=t-1GzU9XGz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating the Skinwalker Ranch Investigative Circle...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Investigating the Skinwalker Ranch Investigative Circle  
-   Link: <a href="https://www.youtube.com/watch?v=8p_hS2R6M_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8p_hS2R6M_I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenge of Verifying Anecdotal UAP Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8p_hS2R6M_I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8p_hS2R6M_I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Challenge of Verifying Anecdotal UAP Evidence...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: The Challenge of Verifying Anecdotal UAP Evidence  
-   Link: <a href="https://www.youtube.com/watch?v=s5R83D5zF5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R83D5zF5A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Rigor and the Problem of Insular Testimony...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s5R83D5zF5A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s5R83D5zF5A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Rigor and the Problem of Insular Testimony...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Scientific Rigor and the Problem of Insular Testimony  
-   Link: <a href="https://www.youtube.com/watch?v=93PqQvLz7l4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93PqQvLz7l4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Critical analysis of UAP witness corroboration independent sources David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed U...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=93PqQvLz7l4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93PqQvLz7l4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Critical analysis of UAP witness corroboration independent sources David Grusch Claims Government Found &#x27;Nonhuman Biologics&#x27; On Crashed U...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: George Knapp  
-   Link: <a href="https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement to Congress8 Aug 2023 — It seems AAWSAP wanted the AFOSI-PJ to share information about classified flights so they could compare...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement to Congress8 Aug 2023 — It seems AAWSAP wanted the AFOSI-PJ to share information about classified flights so they could compare...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uapedia.ai  
-   Link: <a href="https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher, PhD: Biochemist, Field Investigator, and...Colm Kelleher biography, AAWSAP, BAASS, Skinwalker Ranch, Hunt for the Skinwalker...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/colm-a-kelleher-phd-biochemist-field-investigator-and-architect-of-aawsap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher, PhD: Biochemist, Field Investigator, and...Colm Kelleher biography, AAWSAP, BAASS, Skinwalker Ranch, Hunt for the Skinwalker...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: intownmag.com  
    Title: archives of the impossible  
-   Link: <a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University, home of Archives of the Impossible... Colm Kelleher uttered at the last Impossible...Read more...</p></details>
+   Link:<a href="https://www.intownmag.com/2025/03/archives-of-the-impossible/" target="_blank" rel="noopener noreferrer nofollow">https://www.intownmag.com/2025/03/archives-of-the-impossible/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rice University, home of Archives of the Impossible... Colm Kelleher uttered at the last Impossible...Read more...</p></details>
 
 ### Additional References
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1275062130036186/posts/1764712414404486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1275062130036186/posts/1764712414404486/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP contacts and experiences shared by fansLas Vegas investigative journalist George Knapp co-wrote the book with biochemist Dr. Colm Kel...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1275062130036186/posts/1764712414404486/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1275062130036186/posts/1764712414404486/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP contacts and experiences shared by fansLas Vegas investigative journalist George Knapp co-wrote the book with biochemist Dr. Colm Kel...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramIn 2005, the book Hunt for the Skinwalker, written by Colm Kelleher and George K...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramIn 2005, the book Hunt for the Skinwalker, written by Colm Kelleher and George K...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: reddit.com  
    Title: new interview skinwalker ranch lead investigator  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Lead Investigator (1996-2012) Dr. Colm...New Interview: Skinwalker Ranch Lead Investigator (1996-2012) Dr. Colm Kellehe...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12ipzxp/new_interview_skinwalker_ranch_lead_investigator/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch Lead Investigator (1996-2012) Dr. Colm...New Interview: Skinwalker Ranch Lead Investigator (1996-2012) Dr. Colm Kellehe...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>inions on Hunt for the Skinwalker by Colm Kelleher and George...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1dvaq6g/colm_kelleher_discusses_aawsap_and_experiences_of/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>inions on Hunt for the Skinwalker by Colm Kelleher and George...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: zenodo.org  
    Title: (1) Detectable Signatures of UAP Dissertation  
-   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>i Detectable Signatures of Unidentified Aerospace...physical evidence of phenomenological events occurring there (Kelleher and Knapp, 2005)...</p></details>
+   Link:<a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>i Detectable Signatures of Unidentified Aerospace...physical evidence of phenomenological events occurring there (Kelleher and Knapp, 2005)...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>e official investigations. I know better, through decades...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/VICE/posts/dennis-anderson-has-been-investigating-ufos-for-63-years-hes-a-former-member-of-/1340088867984094/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e official investigations. I know better, through decades...Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>alkers at the Pentagon”, revealing that AAWSAP documented...Read more...</p></details>
+   Link:<a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>alkers at the Pentagon”, revealing that AAWSAP documented...Read more...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ghly conductive, and potentially could be used as a battery.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/pq6xo2/the_archived_website_for_nids_founded_by_bigelow/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ghly conductive, and potentially could be used as a battery.Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: boom-studios.com  
-   Link: <a href="https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher and veteran journalist George Knapp in their groundbreaking 2005 nonfiction book, Hunt For The Skinwalker: Science Confronts the...</p></details>
+   Link:<a href="https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/" target="_blank" rel="noopener noreferrer nofollow">https://www.boom-studios.com/archives/hunt-for-the-skinwalker-announcement/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher and veteran journalist George Knapp in their groundbreaking 2005 nonfiction book, Hunt For The Skinwalker: Science Confronts the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: sfcrowsnest.info  
-   Link: <a href="https://sfcrowsnest.info/hunt-for-the-skinwalker-by-colm-a-kelleher-phd-and-george-knapp-book-review/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/hunt-for-the-skinwalker-by-colm-a-kelleher-phd-and-george-knapp-book-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher phD and...30 Dec 2021 — The skinwalkers rarely get into this book after this point. The Gorman family moved out after being the...</p></details>
+   Link:<a href="https://sfcrowsnest.info/hunt-for-the-skinwalker-by-colm-a-kelleher-phd-and-george-knapp-book-review/" target="_blank" rel="noopener noreferrer nofollow">https://sfcrowsnest.info/hunt-for-the-skinwalker-by-colm-a-kelleher-phd-and-george-knapp-book-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher phD and...30 Dec 2021 — The skinwalkers rarely get into this book after this point. The Gorman family moved out after being the...</p></details>

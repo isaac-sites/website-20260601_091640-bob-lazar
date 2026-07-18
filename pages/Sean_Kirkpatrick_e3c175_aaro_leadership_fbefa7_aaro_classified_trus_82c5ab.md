@@ -263,7 +263,7 @@ This tension sits at the centre of debates over Kirkpatrick’s reliability. [Su
 
 ## What AARO said it searched and reviewed
 
-From its creation, AARO was designed as a government-wide investigative body rather than a public research project. Kirkpatrick told Congress that the office worked across the Department of Defense, the intelligence community and other agencies to collect, analyse and resolve reports of unidentified anomalous phenomena (UAP). He also stated that AARO was conducting historical research into decades of government UAP-related activity, not merely reviewing recent military sightings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
+From its creation, AARO was designed as a government-wide investigative body rather than a public research project. Kirkpatrick told Congress that the office worked across the Department of Defense, the intelligence community and other agencies to collect, analyse and resolve reports of unidentified anomalous phenomena (UAP). He also stated that AARO was conducting historical research into decades of government UAP-related activity, not merely reviewing recent military sightings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
 
 The office repeatedly described its work as involving:
 
@@ -271,11 +271,11 @@ The office repeatedly described its work as involving:
 * Review of historical government archives.
 * Interviews with current and former officials.
 * Examination of claims involving Special Access Programs (SAPs), highly restricted government programmes.
-* Coordination with intelligence and security offices capable of checking compartmented records. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
+* Coordination with intelligence and security offices capable of checking compartmented records. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
 
-AARO’s 2024 Historical Record Report presented itself as the result of extensive archival and classified review. The report stated that investigators examined long-running allegations about secret crash-retrieval and reverse-engineering programmes and found no verified evidence that the US government possessed extraterrestrial technology. It also described investigations into specific historical programme claims and said that some stories originated from misunderstandings, rumours or misinterpretations of legitimate classified activities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span>
+AARO’s 2024 Historical Record Report presented itself as the result of extensive archival and classified review. The report stated that investigators examined long-running allegations about secret crash-retrieval and reverse-engineering programmes and found no verified evidence that the US government possessed extraterrestrial technology. It also described investigations into specific historical programme claims and said that some stories originated from misunderstandings, rumours or misinterpretations of legitimate classified activities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span>
 
-For Kirkpatrick’s supporters, this matters because AARO was not relying solely on public documents. The office was explicitly established to gain access to information that ordinary researchers, journalists and academics could not obtain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span>
+For Kirkpatrick’s supporters, this matters because AARO was not relying solely on public documents. The office was explicitly established to gain access to information that ordinary researchers, journalists and academics could not obtain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Y04DMIFjozo" title="The Evidence That Will Shut Down The Pentagon&#x27;s UFO Office AARO" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Y04DMIFjozo" target="_blank" rel="noopener noreferrer">The Evidence That Will Shut Down The Pentagon&#x27;s UFO Office AARO</a></p><p class="youtube-embed-meta">Channel: The Good Trouble Show with Matt Ford &middot; Views: 11.2K &middot; Uploaded: December 2025 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Y04DMIFjozo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Y04DMIFjozo">Open on YouTube</a></p></div></div></div>
 
@@ -283,11 +283,11 @@ For Kirkpatrick’s supporters, this matters because AARO was not relying solely
 
 The strongest argument in Kirkpatrick’s favour is straightforward: if secret programmes exist, an office with security clearances and official authority should be better positioned to find them than members of the public.
 
-Many of the most dramatic UAP allegations involve restricted defence programmes, compartmented intelligence activities or alleged crash-retrieval efforts. These are areas where open-source investigation reaches a natural limit. AARO was created specifically to cross organisational boundaries and check claims against protected records. Congress expected the office to do exactly that. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
+Many of the most dramatic UAP allegations involve restricted defence programmes, compartmented intelligence activities or alleged crash-retrieval efforts. These are areas where open-source investigation reaches a natural limit. AARO was created specifically to cross organisational boundaries and check claims against protected records. Congress expected the office to do exactly that.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
 
-Kirkpatrick repeatedly emphasised that extraordinary allegations required documentary evidence, access records, budget trails, programme authorisations and direct witnesses rather than stories passed through multiple intermediaries. In public statements after leaving office, he argued that many claims ultimately traced back to a relatively small network of interconnected sources and that AARO’s classified reviews did not substantiate allegations of hidden alien-technology programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO Hunter19 Jan 2024 — AARO&#x27;s archival research has located the administrative proposal for the DHS SAP, complete with the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Kirkpatrick, who led the All-domain Anomaly Resolution Office (Aaro) since its inception in 2022, argues that these theorists perpetuate...</span></span></span>
+Kirkpatrick repeatedly emphasised that extraordinary allegations required documentary evidence, access records, budget trails, programme authorisations and direct witnesses rather than stories passed through multiple intermediaries. In public statements after leaving office, he argued that many claims ultimately traced back to a relatively small network of interconnected sources and that AARO’s classified reviews did not substantiate allegations of hidden alien-technology programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-title">Scientific American Here&#x27;s What I Learned as the U.S</span><span class="citation-popover-snippet">Government&#x27;s UFO Hunter19 Jan 2024 — AARO&#x27;s archival research has located the administrative proposal for the DHS SAP, complete with the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Kirkpatrick, who led the All-domain Anomaly Resolution Office (Aaro) since its inception in 2022, argues that these theorists perpetuate...</span></span></span>
 
-This gives AARO a credibility advantage over commentators whose conclusions rely mainly on witness testimony, leaked anecdotes or publicly available records. If AARO genuinely had access to relevant classified systems, then its findings were informed by evidence unavailable to most outside observers. That institutional reach is a significant reason many policymakers viewed Kirkpatrick as a more authoritative source on government knowledge of UAP than media personalities or independent investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span>
+This gives AARO a credibility advantage over commentators whose conclusions rely mainly on witness testimony, leaked anecdotes or publicly available records. If AARO genuinely had access to relevant classified systems, then its findings were informed by evidence unavailable to most outside observers. That institutional reach is a significant reason many policymakers viewed Kirkpatrick as a more authoritative source on government knowledge of UAP than media personalities or independent investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_aaro_classified_trus_82c5ab-Illustration-2-dark.svg" | relative_url }}" alt="Trust gap illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_aaro_classified_trus_82c5ab-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_aaro_classified_trus_82c5ab-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where public verification still breaks down
@@ -298,7 +298,7 @@ The public cannot independently inspect most of the databases, records searches,
 
 That is not necessarily unreasonable, but it is not independently auditable either.
 
-The problem became especially visible in disputes surrounding allegations of hidden crash-retrieval programmes. Supporters of disclosure argued that the absence of public evidence does not prove the absence of classified evidence. AARO, by contrast, argued that its classified investigations failed to validate such claims. Because the underlying material often remained inaccessible, outsiders could not fully evaluate either side’s evidence. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[2esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">January 8th, 2024 MEMORANDUM FOR RECORD...8 Jan 2024 — AARO provided Mr. Grusch with a memorandum from the Director of Special Access Pr...</span></span></span>
+The problem became especially visible in disputes surrounding allegations of hidden crash-retrieval programmes. Supporters of disclosure argued that the absence of public evidence does not prove the absence of classified evidence. AARO, by contrast, argued that its classified investigations failed to validate such claims. Because the underlying material often remained inaccessible, outsiders could not fully evaluate either side’s evidence. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[2esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">January 8th, 2024 MEMORANDUM FOR RECORD...8 Jan 2024 — AARO provided Mr. Grusch with a memorandum from the Director of Special Access Pr...</span></span></span>
 
 This is a classic [transparency]({{ 'transparency/' | relative_url }}) dilemma. A government office may genuinely conduct a thorough classified investigation while simultaneously being unable to demonstrate that thoroughness to the public. The result is a credibility gap that cannot be closed merely by repeating conclusions.
 
@@ -308,7 +308,7 @@ This is a classic [transparency]({{ 'transparency/' | relative_url }}) dilemma. 
 
 Critics of Kirkpatrick frequently focused less on AARO's findings than on whether AARO had truly reached every relevant compartment of government.
 
-Some argued that an office operating within existing defence structures could miss programmes hidden behind exceptionally restrictive access controls. Others questioned whether witnesses were willing to trust AARO with sensitive information or whether institutional incentives discouraged full disclosure. These concerns became part of broader disputes involving whistleblower claims and congressional interest in alleged hidden programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">January 8th, 2024 MEMORANDUM FOR RECORD...8 Jan 2024 — AARO provided Mr. Grusch with a memorandum from the Director of Special Access Pr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span> Scoop Critics also noted that AARO could not publicly release much of the evidence underlying its reviews. From their perspective, this left the public evaluating competing claims largely on trust: trust in whistleblowers, trust in government investigators, or trust in congressional oversight mechanisms.
+Some argued that an office operating within existing defence structures could miss programmes hidden behind exceptionally restrictive access controls. Others questioned whether witnesses were willing to trust AARO with sensitive information or whether institutional incentives discouraged full disclosure. These concerns became part of broader disputes involving whistleblower claims and congressional interest in alleged hidden programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">24 F 0250 Final Product</span><span class="citation-popover-snippet">January 8th, 2024 MEMORANDUM FOR RECORD...8 Jan 2024 — AARO provided Mr. Grusch with a memorandum from the Director of Special Access Pr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</span></span></span> Scoop Critics also noted that AARO could not publicly release much of the evidence underlying its reviews. From their perspective, this left the public evaluating competing claims largely on trust: trust in whistleblowers, trust in government investigators, or trust in congressional oversight mechanisms.
 
 Importantly, this criticism does not automatically prove AARO was wrong. It highlights a limitation in public verification. A classified review may be accurate and still fail to persuade sceptics if the supporting material cannot be openly examined.
 
@@ -317,7 +317,7 @@ Importantly, this criticism does not automatically prove AARO was wrong. It high
 
 For Sean Kirkpatrick, the trust gap produces a mixed credibility outcome.
 
-His credibility is strengthened by the fact that he led an office specifically authorised to examine classified records, coordinate across agencies and investigate claims that ordinary researchers could not easily access. When discussing what AARO reviewed, how it conducted investigations and what evidence it claims to have found, he speaks from a position of documented institutional authority. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
+His credibility is strengthened by the fact that he led an office specifically authorised to examine classified records, coordinate across agencies and investigate claims that ordinary researchers could not easily access. When discussing what AARO reviewed, how it conducted investigations and what evidence it claims to have found, he speaks from a position of documented institutional authority. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[Senate Armed Services Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-title">Armed Services Committee Dr</span><span class="citation-popover-snippet">Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</span></span></span>
 
 At the same time, his most consequential conclusions depend heavily on evidence that remains largely hidden from public scrutiny. Readers who believe AARO's access was comprehensive may regard his assessments as persuasive. Readers who doubt the completeness of those classified searches, or who believe important information remains outside AARO's reach, are unlikely to find those same conclusions decisive.
 
@@ -326,152 +326,152 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/bi0H_mkwTW0" title="All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer">All-domain Anomaly Resolution Office (AARO): a Duality in Mission Regarding UAPs (Sean Kirkpatrick)</a></p><p class="youtube-embed-meta">Channel: National Capital Area Skeptics (NCAS) &middot; Views: 2.5K &middot; Uploaded: April 2026 &middot; Length: 1 hour 40 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=bi0H_mkwTW0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Can AARO&#x27;s classified checks be trusted?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Can AARO&#x27;s classified checks be trusted?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster"><img src="https://i.ebayimg.com/images/g/uQ4AAOSwFd5oH3xX/s-l225.jpg" alt="Listing image for Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO LOCKHEED Wall Art, Aerospace UAP Disclosure Decor, Area 51 Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-aaro-s-classified-checks-be-trusted-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="can-aaro-s-classified-checks-be-trusted-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -487,7 +487,7 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -507,7 +507,7 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -539,7 +539,7 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -591,7 +591,7 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -636,7 +636,7 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -677,136 +677,136 @@ The result is not a simple question of whether Kirkpatrick is trustworthy. It is
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: armed-services.senate.gov  
    Title: Armed Services Committee Dr  
-   Link: <a href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/kirkpatrick-statement</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/download/kirkpatrick-statement" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/kirkpatrick-statement</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick19 Apr 2023 — It is a privilege to be here today to testify on the Department of Defense&#x27;s efforts to address Unidentifie...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick Director, All-domain Anomaly...19 Apr 2023 — Meanwhile, consistent with legislative direction, AARO is also carefully r...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/FOIA/2023%20FOIAs/23-F-0922_4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick Director, All-domain Anomaly...19 Apr 2023 — Meanwhile, consistent with legislative direction, AARO is also carefully r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: war.gov  
    Title: usdis ronald moultrie and dr sean kirkpatrick media roundtable on the all domai  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarUSD(I&amp;S) Ronald Moultrie and Dr. Sean Kirkpatrick Media...16 Dec 2022 — In July, we established the All-domain Anomaly...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3249303/usdis-ronald-moultrie-and-dr-sean-kirkpatrick-media-roundtable-on-the-all-domai/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarUSD(I&amp;S) Ronald Moultrie and Dr. Sean Kirkpatrick Media...16 Dec 2022 — In July, we established the All-domain Anomaly...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — • One named program was a UAP-related Prospective Special Access...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: armed-services.senate.gov  
    Title: Date: Wednesday,  
-   Link: <a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate Armed Services CommitteeHearing: [2023-04-19] Open/Closed: To receive testimony...19 Apr 2023 — To receive testimony on the missi...</p></details>
    Published: April 19, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: defensescoop.com  
-   Link: <a href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Senate&#x27;s intelligence authorization bill questions &#x27;reverse...27 Jun 2023 — Sean Kirkpatrick, director of the Pentagon&#x27;s new...</p></details>
+   Link:<a href="https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/06/27/senates-intelligence-authorization-bill-questions-reverse-engineering-of-government-recovered-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Senate&#x27;s intelligence authorization bill questions &#x27;reverse...27 Jun 2023 — Sean Kirkpatrick, director of the Pentagon&#x27;s new...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: esd.whs.mil  
    Title: 24 F 0250 Final Product  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 8th, 2024 MEMORANDUM FOR RECORD...8 Jan 2024 — AARO provided Mr. Grusch with a memorandum from the Director of Special Access Pr...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/24-F-0250_Final_Product.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 8th, 2024 MEMORANDUM FOR RECORD...8 Jan 2024 — AARO provided Mr. Grusch with a memorandum from the Director of Special Access Pr...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: aaro director dr sean kirkpatrick holds an off camera media roundtable  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — All-Domain Anomaly Resolution Office Director Sean Kirkpatrick he...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera...31 Oct 2023 — All-Domain Anomaly Resolution Office Director Sean Kirkpatrick he...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press ProductsJon Kosloski Statement for the Record to the Senate Armed Services Committee... Sean Kirkpatrick Holds an Of...</p></details>
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional/Press ProductsJon Kosloski Statement for the Record to the Senate Armed Services Committee... Sean Kirkpatrick Holds an Of...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: scientificamerican.com  
    Title: Scientific American Here's What I Learned as the U.S  
-   Link: <a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s UFO Hunter19 Jan 2024 — AARO&#x27;s archival research has located the administrative proposal for the DHS SAP, complete with the...</p></details>
+   Link:<a href="https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/heres-what-i-learned-as-the-u-s-governments-ufo-hunter/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s UFO Hunter19 Jan 2024 — AARO&#x27;s archival research has located the administrative proposal for the DHS SAP, complete with the...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, who led the All-domain Anomaly Resolution Office (Aaro) since its inception in 2022, argues that these theorists perpetuate...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick, who led the All-domain Anomaly Resolution Office (Aaro) since its inception in 2022, argues that these theorists perpetuate...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
 
 ### Additional References
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: dr sean kirkpatrick the pentagons former ufo investigator disclosed a classified  
-   Link: <a href="https://www.facebook.com/HistoryInPictures/posts/dr-sean-kirkpatrick-the-pentagons-former-ufo-investigator-disclosed-a-classified/970704428422297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryInPictures/posts/dr-sean-kirkpatrick-the-pentagons-former-ufo-investigator-disclosed-a-classified/970704428422297/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick, the Pentagon&#x27;s former UFO...Dr. Sean Kirkpatrick, the Pentagon&#x27;s former UFO investigator, disclosed a classified gover...</p></details>
+   Link:<a href="https://www.facebook.com/HistoryInPictures/posts/dr-sean-kirkpatrick-the-pentagons-former-ufo-investigator-disclosed-a-classified/970704428422297/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HistoryInPictures/posts/dr-sean-kirkpatrick-the-pentagons-former-ufo-investigator-disclosed-a-classified/970704428422297/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick, the Pentagon&#x27;s former UFO...Dr. Sean Kirkpatrick, the Pentagon&#x27;s former UFO investigator, disclosed a classified gover...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: metabunk.org  
    Title: sean kirkpatricks interview with daniel lavelle at the guardian transcript.13399  
-   Link: <a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick&#x27;s Interview With Daniel Lavelle at The...22 Mar 2024 — Daniel Lavelle just published an article about UAP and Sean Kirk...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick&#x27;s Interview With Daniel Lavelle at The...22 Mar 2024 — Daniel Lavelle just published an article about UAP and Sean Kirk...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: Sean Kirkpatrick is no longer head of the 'UFO hunting' office  
-   Link: <a href="https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(AARO), Dr. Sean Kirkpatrick, testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on April 19 regar...</p></details>
+   Link:<a href="https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/theguardian/posts/sean-kirkpatrick-is-no-longer-head-of-the-ufo-hunting-office-but-a-new-report-he/801179468706975/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(AARO), Dr. Sean Kirkpatrick, testified before the Senate Armed Services Emerging Threats and Capabilities Subcommittee on April 19 regar...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Seán Kirkpatrick, “US Defense Department and the UAP Mission,” AARO, Accessed...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Seán Kirkpatrick, “US Defense Department and the UAP Mission,” AARO, Accessed...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: avi-loeb.medium.com  
    Title: afterthoughts on the second uap [senate hearing](&#123;&#123; 'senate-hearing/' | relative_url &#125;&#125;) 7ceeacb1caf8  
-   Link: <a href="https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Second UAP Senate Hearing | by Avi LoebOn April 19, 2023, the director of the All-domain Anomaly Resolution Office (AARO), Dr. Sea...</p></details>
+   Link:<a href="https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8" target="_blank" rel="noopener noreferrer nofollow">https://avi-loeb.medium.com/afterthoughts-on-the-second-uap-senate-hearing-7ceeacb1caf8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Second UAP Senate Hearing | by Avi LoebOn April 19, 2023, the director of the All-domain Anomaly Resolution Office (AARO), Dr. Sea...</p></details>
    Published: April 19, 2023  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: UFO whistleblower says U.S. recovered nonhuman "biologics" from crash sites  
-   Link: <a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission is relevant because it features Dr. Sean Kirkpatrick explaining how the...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xnG4Mfak-Oc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnG4Mfak-Oc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office (AARO): a Duality in Mission is relevant because it features Dr. Sean Kirkpatrick explaining how the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
    Title: sean kirkpatrick calls everyone a liar and theres  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/19atp0h/sean_kirkpatrick_calls_everyone_a_liar_and_theres/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/19atp0h/sean_kirkpatrick_calls_everyone_a_liar_and_theres/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick calls Everyone a Liar and There&#x27;s No...Kirkpatrick refused to ever contact him back so that he can claim &quot;nO wHiSTleBlo...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/19atp0h/sean_kirkpatrick_calls_everyone_a_liar_and_theres/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/19atp0h/sean_kirkpatrick_calls_everyone_a_liar_and_theres/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sean Kirkpatrick calls Everyone a Liar and There&#x27;s No...Kirkpatrick refused to ever contact him back so that he can claim &quot;nO wHiSTleBlo...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/latimes/posts/sean-kirkpatrick-ran-the-governments-investigation-into-ufos-so-he-knows-a-lot-a/1033154068851465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/latimes/posts/sean-kirkpatrick-ran-the-governments-investigation-into-ufos-so-he-knows-a-lot-a/1033154068851465/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he allegations of any reverse engineering program for non-human...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/latimes/posts/sean-kirkpatrick-ran-the-governments-investigation-into-ufos-so-he-knows-a-lot-a/1033154068851465/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/latimes/posts/sean-kirkpatrick-ran-the-governments-investigation-into-ufos-so-he-knows-a-lot-a/1033154068851465/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he allegations of any reverse engineering program for non-human...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/News3LasVegas/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1306206655058009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News3LasVegas/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1306206655058009/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has found no verified evidence of alien beings, alien...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/News3LasVegas/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1306206655058009/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/News3LasVegas/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1306206655058009/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO has found no verified evidence of alien beings, alien...Read more...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an Kirkpatrick. Sean Kirkpatrick: Though AARO is still a...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Channel4News/posts/the-us-government-had-recovered-non-human-biologics-from-uap-or-ufo-crash-sites-/266749619321491/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an Kirkpatrick. Sean Kirkpatrick: Though AARO is still a...Read more...</p></details>

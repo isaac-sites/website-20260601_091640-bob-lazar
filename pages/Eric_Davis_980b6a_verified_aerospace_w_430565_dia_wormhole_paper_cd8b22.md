@@ -256,14 +256,14 @@ image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_dia_wormhole
 
 ## Introduction
 
-The Defence Intelligence Agency (DIA) paper most often linked to <span>Eric Davis</span> is *Traversable Wormholes, Stargates, and [Negative Energy]({{ 'negative-energy/' | relative_url }})*, a 2010 Defence Intelligence Reference Document (DIRD) written under a Pentagon-linked research effort associated with the Advanced Aerospace Weapon System Applications Program (AAWSAP). The document is real, officially commissioned, and publicly available through the DIA's reading room. [defense](#endnote-8 "Snippet: Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti")
+The Defence Intelligence Agency (DIA) paper most often linked to<span>Eric Davis</span> is *Traversable Wormholes, Stargates, and [Negative Energy]({{ 'negative-energy/' | relative_url }})*, a 2010 Defence Intelligence Reference Document (DIRD) written under a Pentagon-linked research effort associated with the Advanced Aerospace Weapon System Applications Program (AAWSAP). The document is real, officially commissioned, and publicly available through the DIA's reading room. [defense](#endnote-8 "Snippet: Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti")
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_dia_wormhole_paper_cd8b22-Illustration-1-dark.svg" | relative_url }}" alt="DIA paper illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_dia_wormhole_paper_cd8b22-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_dia_wormhole_paper_cd8b22-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What it proved, however, is much narrower than many UFO discussions suggest. The paper did not present evidence of recovered alien technology, operational wormholes, reverse-engineered spacecraft, or confirmed non-human intelligence. Instead, it reviewed existing theoretical physics literature about whether traversable wormholes might be possible under the laws of general relativity if exotic conditions could be achieved. Its significance for assessing Eric Davis is that it demonstrates he was entrusted to write defence-funded studies on speculative propulsion concepts. It does not demonstrate that the concepts described in the paper exist in reality. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+What it proved, however, is much narrower than many UFO discussions suggest. The paper did not present evidence of recovered alien technology, operational wormholes, reverse-engineered spacecraft, or confirmed non-human intelligence. Instead, it reviewed existing theoretical physics literature about whether traversable wormholes might be possible under the laws of general relativity if exotic conditions could be achieved. Its significance for assessing Eric Davis is that it demonstrates he was entrusted to write defence-funded studies on speculative propulsion concepts. It does not demonstrate that the concepts described in the paper exist in reality.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 ## What the DIA document actually says
 
-The report sits within a broader collection of DIA-funded studies exploring advanced aerospace concepts. Other reports in the same series covered topics such as [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}), antigravity, quantum vacuum energy, cloaking technologies and advanced materials. The wormhole paper was one contribution to that exploratory portfolio. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+The report sits within a broader collection of DIA-funded studies exploring advanced aerospace concepts. Other reports in the same series covered topics such as [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}), antigravity, quantum vacuum energy, cloaking technologies and advanced materials. The wormhole paper was one contribution to that exploratory portfolio.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 Davis's central question was theoretical: if Einstein's equations permit wormholes, what would be required to make one traversable by humans or spacecraft?
 
@@ -274,9 +274,9 @@ The document discusses:
 * The concept of "negative energy" and exotic matter.
 * The enormous energy requirements implied by existing models.
 * Possible applications for faster-than-light travel and interstellar transport.
-* The distinction between mathematical possibility and engineering feasibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cropper.watch.aetnd.com">[2cropper.watch.aetnd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cropper.watch.aetnd.com</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative EnergyA &quot;stargate&quot; is a special class of traversable wormhole solutions to Einstein&#x27;s gene...</span></span></span>
+* The distinction between mathematical possibility and engineering feasibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span> Intelligence Agency<span class="citation-chip-wrap"><a class="citation-chip" href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cropper.watch.aetnd.com">[2cropper.watch.aetnd.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cropper.watch.aetnd.com</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative EnergyA &quot;stargate&quot; is a special class of traversable wormhole solutions to Einstein&#x27;s gene...</span></span></span>
 
-One of the report's recurring themes is that traversable wormholes appear to require violations of ordinary energy conditions. In simple terms, the mathematics suggests that unusual forms of matter or energy would be needed to keep a wormhole open. The paper reviews theoretical discussions of Casimir effects, quantum vacuum phenomena and other speculative mechanisms that physicists have explored as potential sources of such effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+One of the report's recurring themes is that traversable wormholes appear to require violations of ordinary energy conditions. In simple terms, the mathematics suggests that unusual forms of matter or energy would be needed to keep a wormhole open. The paper reviews theoretical discussions of Casimir effects, quantum vacuum phenomena and other speculative mechanisms that physicists have explored as potential sources of such effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 This is important because the report is often misrepresented online as if it announced the existence of wormholes. It did not. It examined whether certain equations permit them and what extraordinary requirements would follow if someone attempted to build one.
 
@@ -284,7 +284,7 @@ This is important because the report is often misrepresented online as if it ann
 
 ## Why official commissioning is not confirmation
 
-The strongest argument made by supporters is straightforward: governments do not normally pay for studies they consider completely irrelevant. The fact that the DIA commissioned the report shows that some officials were willing to spend money examining unconventional aerospace concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+The strongest argument made by supporters is straightforward: governments do not normally pay for studies they consider completely irrelevant. The fact that the DIA commissioned the report shows that some officials were willing to spend money examining unconventional aerospace concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 That point is valid as far as it goes. The document is evidence of official interest.
 
@@ -292,7 +292,7 @@ The leap from "official interest" to "official confirmation" is where the eviden
 
 Defence and intelligence agencies routinely commission exploratory research that examines possibilities rather than proven realities. The purpose of many threat-assessment studies is to investigate whether a concept could ever become important, not whether it already exists. During the Cold War and after, governments funded studies on psychic phenomena, exotic weapons concepts, unconventional propulsion systems and other low-probability ideas precisely because even a small chance of strategic significance was considered worth examining.
 
-Nothing in the wormhole report indicates that the DIA possessed a wormhole, had observed one, or had recovered technology based on one. The report functions as a literature review and theoretical assessment rather than a disclosure document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+Nothing in the wormhole report indicates that the DIA possessed a wormhole, had observed one, or had recovered technology based on one. The report functions as a literature review and theoretical assessment rather than a disclosure document.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 A useful comparison is a government-funded report on fusion power. Such a report would demonstrate official interest in fusion energy, but it would not itself prove that a practical commercial fusion reactor already exists. The same logic applies here.
 
@@ -302,7 +302,7 @@ For credibility assessment purposes, the document matters because it helps separ
 
 The first question is whether Eric Davis genuinely worked on advanced aerospace concepts for defence-related organisations.
 
-The answer is yes. The DIA document provides direct evidence that he authored an officially commissioned report under a recognised government programme. His involvement is not based merely on interviews, conference appearances or UFO media claims. The paper itself exists and carries his name. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+The answer is yes. The DIA document provides direct evidence that he authored an officially commissioned report under a recognised government programme. His involvement is not based merely on interviews, conference appearances or UFO media claims. The paper itself exists and carries his name.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 The second question is whether that government work validates later claims associated with UFO crash retrievals, hidden programmes or non-human technology.
 
@@ -325,7 +325,7 @@ Supporters tend to emphasise several points:
 * Davis possessed relevant scientific credentials.
 * The subject matter goes far beyond conventional aerospace engineering.
 * Multiple DIA-funded studies examined similarly exotic topics.
-* Government interest may indicate concern about technologies not publicly understood. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span> Intelligence Agency <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span> From this perspective, the document suggests that at least some defence officials were willing to explore possibilities that mainstream science often treats as extremely remote.
+* Government interest may indicate concern about technologies not publicly understood.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span> Intelligence Agency<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span> From this perspective, the document suggests that at least some defence officials were willing to explore possibilities that mainstream science often treats as extremely remote.
 
 Some supporters further argue that the public may be seeing only the theoretical front end of a larger classified effort. That remains speculation rather than evidence contained in the document itself.
 
@@ -343,11 +343,11 @@ They note that:
 * No experimental demonstration of a traversable wormhole is presented.
 * Many discussed mechanisms depend on exotic matter that has never been shown to exist in the required form.
 * The paper repeatedly addresses theoretical possibilities rather than demonstrated technologies.
-* Government sponsorship does not transform speculation into proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+* Government sponsorship does not transform speculation into proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 </div>
 
-Critics also point out that the broader AAWSAP portfolio included many highly speculative subjects, suggesting the programme's purpose was exploratory horizon-scanning rather than documenting existing capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+Critics also point out that the broader AAWSAP portfolio included many highly speculative subjects, suggesting the programme's purpose was exploratory horizon-scanning rather than documenting existing capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 Under this reading, the paper reveals more about the government's willingness to investigate unconventional ideas than about the reality of those ideas.
 
@@ -356,11 +356,11 @@ Under this reading, the paper reveals more about the government's willingness to
 
 A common misunderstanding is that later academic work somehow vindicated the report's more ambitious implications.
 
-In reality, subsequent physics research has continued to explore wormholes mathematically while leaving major practical barriers intact. Modern theoretical papers still investigate negative energy conditions, traversability constraints and quantum effects, but these remain largely theoretical questions rather than engineering achievements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
+In reality, subsequent physics research has continued to explore wormholes mathematically while leaving major practical barriers intact. Modern theoretical papers still investigate negative energy conditions, traversability constraints and quantum effects, but these remain largely theoretical questions rather than engineering achievements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
 
 That means the core status of the DIA report has not fundamentally changed.
 
-Theoretical wormhole research remains a legitimate area of mathematical and theoretical physics. At the same time, there is still no public evidence that a traversable wormhole has been constructed, observed as a transport system, or incorporated into an operational aerospace platform. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
+Theoretical wormhole research remains a legitimate area of mathematical and theoretical physics. At the same time, there is still no public evidence that a traversable wormhole has been constructed, observed as a transport system, or incorporated into an operational aerospace platform.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</span><span class="citation-popover-meta">Published: February 12, 2021</span></span></span>
 
 The report therefore occupies an unusual middle ground: it is neither pseudoscientific fiction nor proof of revolutionary technology. It is a government-sponsored survey of speculative physics.
 
@@ -368,7 +368,7 @@ The report therefore occupies an unusual middle ground: it is neither pseudoscie
 
 The most defensible conclusion is also the least dramatic.
 
-The DIA wormhole paper proves that Eric Davis authored a real defence-funded study on highly speculative spacetime concepts and that parts of the U.S. national security system were willing to examine unconventional aerospace ideas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
+The DIA wormhole paper proves that Eric Davis authored a real defence-funded study on highly speculative spacetime concepts and that parts of the U.S. national security system were willing to examine unconventional aerospace ideas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</span></span></span>
 
 It does not prove that wormholes exist as usable transport systems. It does not prove that the government possesses exotic propulsion technology. It does not prove that UFOs are using wormholes. And it does not independently verify claims about recovered non-human craft.
 
@@ -377,18 +377,18 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/xnxasfyHtfo" title="Eric Weinstein Demands UFO Secrets From Pentagon Scientist" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer">Eric Weinstein Demands UFO Secrets From Pentagon Scientist</a></p><p class="youtube-embed-meta">Channel: Jesse Michels &middot; Views: 707.6K &middot; Uploaded: March 2026 &middot; Length: 3 hours 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=xnxasfyHtfo">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did the DIA wormhole paper prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did the DIA wormhole paper prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frontiers of Propulsion Science
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frontiers of Propulsion Science
 
             
 
@@ -397,186 +397,186 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
             
 
                 Progress in Astronautics and Aeronautics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frontiers of Propulsion Science
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frontiers of Propulsion Science
 
             
 
                 Progress in Astronautics and Aeronautics">Frontiers of Propulsion Science Progress in Astronautics and...</a>
-        </h4>
-        <p class="fr-book-author">By Marc G. Millis and Eric W. Davis</p>
+</h4>
+<p class="fr-book-author">By Marc G. Millis and Eric W. Davis</p>
         
-        <p class="fr-book-desc">Directly addresses speculative propulsion and advanced theoretical concepts.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses speculative propulsion and advanced theoretical concepts.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Holes and Time Warps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/248886-M.jpg" alt="Cover for Black Holes and Time Warps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Holes and Time Warps">Black Holes and Time Warps</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Black Holes and Time Warps on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/248886-M.jpg" alt="Cover for Black Holes and Time Warps" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Holes and Time Warps">Black Holes and Time Warps</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Provides authoritative context for wormhole discussions.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides authoritative context for wormhole discussions.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hyperspace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kFLiAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hyperspace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hyperspace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kFLiAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hyperspace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Introduces higher dimensions, wormholes, and advanced theoretical ideas.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces higher dimensions, wormholes, and advanced theoretical ideas.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Eerie+Silence+by+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Eerie Silence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gscYcI4uHhkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Eerie Silence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Eerie+Silence+by+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eerie Silence">The Eerie Silence</a>
-        </h4>
-        <p class="fr-book-author">By Paul Davies</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Eerie+Silence+by+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Eerie Silence on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=gscYcI4uHhkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Eerie Silence" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Eerie+Silence+by+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Eerie Silence">The Eerie Silence</a>
+</h4>
+<p class="fr-book-author">By Paul Davies</p>
         
-        <p class="fr-book-desc">Balances speculation with scientific analysis.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Eerie+Silence+by+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances speculation with scientific analysis.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Eerie+Silence+by+Paul+Davies&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+Progress+in+Astronautics+and+Aeronautics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frontiers of Propulsion Science Progress in Astronautics and Aeronautics</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Holes and Time Warps</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyperspace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyperspace</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science+Progress+in+Astronautics+and+Aeronautics&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Frontiers of Propulsion Science Progress in Astronautics and Aeronautics</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Black Holes and Time Warps</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyperspace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyperspace</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/EI4AAOSw6oNjeHDc/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0"><img src="https://i.ebayimg.com/images/g/EI4AAOSw6oNjeHDc/s-l225.jpg" alt="Listing image for Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">Home Wall Art Print - Vintage Space Poster - SOLAR SYSTEM PLANETS-A4,A3,A2,A1,A0</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE"><img src="https://i.ebayimg.com/images/g/fWEAAOSw0exaAdPQ/s-l225.jpg" alt="Listing image for SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">SOLAR SYSTEM PLANETS SPACE SSPS03 MOVIE POSTER PRINT A4 A3 BUY 2 GET 3RD FREE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/09UAAOSw-ndoEKxD/s-l225.jpg" alt="Listing image for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/09UAAOSw-ndoEKxD/s-l225.jpg" alt="Listing image for Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">Retro Rocket Launch Poster Outer Space Sci Fi Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes"><img src="https://i.ebayimg.com/images/g/axwAAOSwintXRxHu/s-l225.jpg" alt="Listing image for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes"><img src="https://i.ebayimg.com/images/g/axwAAOSwintXRxHu/s-l225.jpg" alt="Listing image for GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">GALAXY UNIVERSE poster photo picture art print of space A0-A4 different sizes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-dia-wormhole-paper-prove-space-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space poster" data-ebay-reference="what-did-the-dia-wormhole-paper-prove-space-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,128 +782,128 @@ For assessing Eric Davis's credibility, the document strengthens the case that h
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
    Title: B.Read more  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyTraversable Wormholes, Stargates, and Negative Energy6 Apr 2010 — The magnitude of energy condition violations...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cropper.watch.aetnd.com  
-   Link: <a href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative EnergyA &quot;stargate&quot; is a special class of traversable wormhole solutions to Einstein&#x27;s gene...</p></details>
+   Link:<a href="https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cropper.watch.aetnd.com/cdn.watch.aetnd.com/sites/2/2019/07/AATIP-Wormhole-study_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative EnergyA &quot;stargate&quot; is a special class of traversable wormhole solutions to Einstein&#x27;s gene...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06628</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</p></details>
+   Link:<a href="https://arxiv.org/abs/2102.06628" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06628</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How to Make Traversable Wormholes: Eternal AdS$_4$ Wormholes from Coupled CFT&#x27;sFebruary 12, 2021...</p></details>
    Published: February 12, 2021  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Traversable Casimir Wormholes in D Dimensions  
-   Link: <a href="https://arxiv.org/abs/2107.00605" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.00605</a>  
+   Link:<a href="https://arxiv.org/abs/2107.00605" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.00605</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
    Title: arXiv Are Einstein-Dirac-Maxwell wormholes traversable?  
-   Link: <a href="https://arxiv.org/abs/2305.11217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.11217</a>  
+   Link:<a href="https://arxiv.org/abs/2305.11217" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.11217</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2107.07052" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.07052</a>  
+   Link:<a href="https://arxiv.org/abs/2107.07052" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2107.07052</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — SECTION I: Introduction. This report represents Volume I of the All-domain Anomaly Resoluti...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>only been observed by professional engineers, scientists, and astronomers...</p></details>
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>only been observed by professional engineers, scientists, and astronomers...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
    Title: Credible Physicist Confirms UFO Reality? Hannibal Breaks It Down  
-   Link: <a href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W3EHW_2W6Ac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W3EHW_2W6Ac" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W3EHW_2W6Ac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: Traversable Wormholes  
-   Link: <a href="https://www.youtube.com/watch?v=DS-MYq0mVCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DS-MYq0mVCs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=DS-MYq0mVCs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DS-MYq0mVCs</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: earthtech.org  
-   Link: <a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W. DavisDavis, E. W. (2010), “Traversable Wormholes, Stargates, and Negative Energy,” Defense Intelligence Reference Document, Acqui...</p></details>
+   Link:<a href="https://earthtech.org/pubs/davis/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/davis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric W. DavisDavis, E. W. (2010), “Traversable Wormholes, Stargates, and Negative Energy,” Defense Intelligence Reference Document, Acqui...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: locationsunknown.org  
    Title: Locations Unknown Defense Intelligence Reference Documents (DRIDs)(PDF  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Reference Documents (DRIDs)Eric Davis, who was interviewed on the Coast to Coast AM radio show on January 28, 2018...</p></details>
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Reference Documents (DRIDs)Eric Davis, who was interviewed on the Coast to Coast AM radio show on January 28, 2018...</p></details>
    Published: January 28, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pdfcoffee.com  
    Title: defense intelligence reference document pdf free  
-   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense: Intelligence Reference DocumentDIA-08-1004-004. Traversable Wormholes, Stargates, and Negative Energy UNCLASSIFIED//FOR OFFICIAL...</p></details>
+   Link:<a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense: Intelligence Reference DocumentDIA-08-1004-004. Traversable Wormholes, Stargates, and Negative Energy UNCLASSIFIED//FOR OFFICIAL...</p></details>
 
 ### Additional References
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: fas.org  
-   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>More Light on Black Program to Track UFOsOne such title, “Traversable Wormholes, Stargates, and Negative Energy,” was prepared by Dr. Eri...</p></details>
+   Link:<a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>More Light on Black Program to Track UFOsOne such title, “Traversable Wormholes, Stargates, and Negative Energy,” was prepared by Dr. Eri...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy we must depl...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/242129358_Negative_Energy_Wormholes_and_Warp_Drive</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative Energy, Wormholes and Warp DriveThe energy density is &quot;negative&quot; in the sense that the configuration of mass-energy we must depl...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/timetravel/comments/16h7eqt/defense_intelligence_agency_traversable_wormholes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/timetravel/comments/16h7eqt/defense_intelligence_agency_traversable_wormholes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative EnergyEric W. Davis says he used his security clearances, his need-to-know access, and a l...</p></details>
+   Link:<a href="https://www.reddit.com/r/timetravel/comments/16h7eqt/defense_intelligence_agency_traversable_wormholes/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/timetravel/comments/16h7eqt/defense_intelligence_agency_traversable_wormholes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative EnergyEric W. Davis says he used his security clearances, his need-to-know access, and a l...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP ImageryThe United States European Command submitted a report of an unidentified anomalous phenomenon to the All-domain Anomaly Resolu...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/</a>  
+   Link:<a href="https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UniversityofVirginia/posts/the-us-department-of-defense-recently-released-a-cache-of-once-classified-papers/1434239718744513/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the PENTAGON unit that researched UFOs—Luis Elizondo...SHOCKING UFO SECRETS REVEALED! Former head of the U.S. GOVERNMENT&#x27;S Advanced Aero...</p></details>
+   Link:<a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the PENTAGON unit that researched UFOs—Luis Elizondo...SHOCKING UFO SECRETS REVEALED! Former head of the U.S. GOVERNMENT&#x27;S Advanced Aero...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: earthtech.org  
-   Link: <a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Teleportation via Wormhole- Stargates• Energy density of material required to create &amp; thread a traversable wormhole must be “negative”...</p></details>
+   Link:<a href="https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/teleportation_via_Wormhole-Stargates_Eric_Davis.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Teleportation via Wormhole- Stargates• Energy density of material required to create &amp; thread a traversable wormhole must be “negative”...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: interstellarresearchcentre.org  
-   Link: <a href="https://interstellarresearchcentre.org/papers" target="_blank" rel="noopener noreferrer nofollow">https://interstellarresearchcentre.org/papers</a>  
+   Link:<a href="https://interstellarresearchcentre.org/papers" target="_blank" rel="noopener noreferrer nofollow">https://interstellarresearchcentre.org/papers</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy fund here: [https://lnkd.in/e5uTgK3a](https://lnkd.in/e5uTgK3a).... NEW PDF...</p></details>
+   Link:<a href="https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/posts/corey-goode-7024621_new-pdf-teleportation-physics-study-by-eric-activity-7238620808732889088-b52N</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Traversable Wormholes, Stargates, and Negative Energy fund here: [https://lnkd.in/e5uTgK3a](https://lnkd.in/e5uTgK3a).... NEW PDF...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. UNCLASSIFIED//FOR OFFICIAL USE ONLY Defense Intelligence Reference...Read more...</p></details>
+   Link:<a href="https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/traversable-wormholes-stargates-negative-energy-001-2/traversable-wormholes--stargates----negative-energy001%20%282%29_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>See other formats. UNCLASSIFIED//FOR OFFICIAL USE ONLY Defense Intelligence Reference...Read more...</p></details>

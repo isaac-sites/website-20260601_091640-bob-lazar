@@ -298,29 +298,29 @@ image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-overview-so
 
 ## Introduction
 
-[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s remote-viewing record both helps and hurts his credibility. It helps because the basic fact is not imaginary: Puthoff really did work at Stanford Research Institute on intelligence-funded psychic research, and some of that work entered peer-reviewed and declassified records. It hurts because the strongest official reviews did not validate remote viewing as a reliable intelligence tool, and critics argued that early positive results were vulnerable to weak controls, subjective judging and information leakage. The credibility lesson for UAP readers is therefore precise: Puthoff’s remote-viewing past shows verified access to unusual US intelligence research, but it also shows a long-standing willingness to treat highly contested frontier claims as scientifically promising before the wider evidence base is strong enough to settle them. New Dualism Archive <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Information transmission under conditions of sensory shielding &#124; Nature</span><span class="citation-popover-snippet">Information transmission under conditions of sensory shielding &#124; Nature</span></span></span>
+[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s remote-viewing record both helps and hurts his credibility. It helps because the basic fact is not imaginary: Puthoff really did work at Stanford Research Institute on intelligence-funded psychic research, and some of that work entered peer-reviewed and declassified records. It hurts because the strongest official reviews did not validate remote viewing as a reliable intelligence tool, and critics argued that early positive results were vulnerable to weak controls, subjective judging and information leakage. The credibility lesson for UAP readers is therefore precise: Puthoff’s remote-viewing past shows verified access to unusual US intelligence research, but it also shows a long-standing willingness to treat highly contested frontier claims as scientifically promising before the wider evidence base is strong enough to settle them. New Dualism Archive<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Information transmission under conditions of sensory shielding &#124; Nature</span><span class="citation-popover-snippet">Information transmission under conditions of sensory shielding &#124; Nature</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-overview.webp" | relative_url }}" alt="Overview image for Remote Viewing" loading="eager" decoding="sync" fetchpriority="high">
 ## What Puthoff did at SRI
 
-Before he became a familiar name in modern UAP circles, Puthoff was best known to sceptics, parapsychology researchers and intelligence-history readers for his work at Stanford Research Institute, now SRI International. In the early 1970s he and Russell Targ investigated “remote viewing”: the claimed ability of a person to describe a hidden, distant or otherwise inaccessible target without normal sensory access. Their work involved figures such as Ingo Swann, Pat Price and Uri Geller, and was conducted in the Cold War context of US concern that Soviet research into psychic phenomena might have intelligence value. Puthoff later described the programme as CIA-initiated research at SRI to test whether remote viewing “might have any utility for intelligence collection”. New Dualism Archive EarthTech The most important point for credibility is that this was not merely a private occult hobby later inflated into a government myth. A declassi <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Hal Puthoff</span><span class="citation-popover-snippet">Earth Tech Hal Puthoff</span></span></span> fied CIA record describes remote viewing as a term associated with SRI scientists Harold Puthoff and Russell Targ, and other declassified material includes SRI experimental material such as “Remote Viewing of Natural Targets”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span> Puthoff and Targ also published a 1974 paper in *Nature*, “Information transmission under conditions of sensory shielding”, whose abstract reported results “suggesting” an unknown perceptual modality by which people might obtain information not available to the ordinary senses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Before he became a familiar name in modern UAP circles, Puthoff was best known to sceptics, parapsychology researchers and intelligence-history readers for his work at Stanford Research Institute, now SRI International. In the early 1970s he and Russell Targ investigated “remote viewing”: the claimed ability of a person to describe a hidden, distant or otherwise inaccessible target without normal sensory access. Their work involved figures such as Ingo Swann, Pat Price and Uri Geller, and was conducted in the Cold War context of US concern that Soviet research into psychic phenomena might have intelligence value. Puthoff later described the programme as CIA-initiated research at SRI to test whether remote viewing “might have any utility for intelligence collection”. New Dualism Archive EarthTech The most important point for credibility is that this was not merely a private occult hobby later inflated into a government myth. A declassi<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[earthtech.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Hal Puthoff</span><span class="citation-popover-snippet">Earth Tech Hal Puthoff</span></span></span> fied CIA record describes remote viewing as a term associated with SRI scientists Harold Puthoff and Russell Targ, and other declassified material includes SRI experimental material such as “Remote Viewing of Natural Targets”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span> Puthoff and Targ also published a 1974 paper in *Nature*, “Information transmission under conditions of sensory shielding”, whose abstract reported results “suggesting” an unknown perceptual modality by which people might obtain information not available to the ordinary senses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That publication matters because it is one reason supporters do not see Puthoff’s remote-viewing era as empty folklore. It reached a prestigious scientific journal, attracted serious attention, and became part of a longer US government-funded research trail. But the wording also matters: “suggesting” is not the same as proving, and a startling paper in a major journal is not a permanent scientific settlement. Puthoff’s credibility problem begins exactly there, in the gap between “this was officially funded and taken seriously by some institutions” and “this produced dependable knowledge”.
 
-The work also placed Puthoff in a recognisable pattern that later followed him into UAP debates. He was not simply observing a marginal claim from a distance; he was helping to formulate experimental protocols, promote the research, respond to critics and interpret anomalous results as potentially important. In 1981, for example, Puthoff and Targ published a *Nature* response to criticisms of their remote-viewing experiments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This shows a sustained professional commitment, not a passing association.
+The work also placed Puthoff in a recognisable pattern that later followed him into UAP debates. He was not simply observing a marginal claim from a distance; he was helping to formulate experimental protocols, promote the research, respond to critics and interpret anomalous results as potentially important. In 1981, for example, Puthoff and Targ published a *Nature* response to criticisms of their remote-viewing experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> This shows a sustained professional commitment, not a passing association.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-Illustration-1-dark.svg" | relative_url }}" alt="Remote Viewing illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What official reviews did and did not show
 
-The fairest reading of the official record is mixed but ultimately damaging to remote viewing as an intelligence tool. The 1995 American Institutes for Research evaluation, commissioned after the programme was transferred to CIA review, did not simply say “nothing happened”. Its review structure included Jessica Utts, a statistician sympathetic to the evidence for anomalous effects, and Ray Hyman, a psychologist and prominent sceptic. The report explicitly recognised that laboratory results had shown a statistically significant effect in some studies, and it noted that the two expert reviewers agreed that results had been obtained more often than chance would predict. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
+The fairest reading of the official record is mixed but ultimately damaging to remote viewing as an intelligence tool. The 1995 American Institutes for Research evaluation, commissioned after the programme was transferred to CIA review, did not simply say “nothing happened”. Its review structure included Jessica Utts, a statistician sympathetic to the evidence for anomalous effects, and Ray Hyman, a psychologist and prominent sceptic. The report explicitly recognised that laboratory results had shown a statistically significant effect in some studies, and it noted that the two expert reviewers agreed that results had been obtained more often than chance would predict.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
 
-But that limited concession did not rescue the programme. The AIR report drew a sharp distinction between laboratory anomaly and useful intelligence. It said the results did not provide a convincing demonstration that a paranormal ability was involved, had not identified the nature or source of the effect, and raised methodological concerns such as reliance on the same viewers, judges, target sets and scoring procedures. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> In plain English, even when the numbers looked interesting, the review did not find a robust, well-understood capability that could be taken out of the lab and trusted.
+But that limited concession did not rescue the programme. The AIR report drew a sharp distinction between laboratory anomaly and useful intelligence. It said the results did not provide a convincing demonstration that a paranormal ability was involved, had not identified the nature or source of the effect, and raised methodological concerns such as reliance on the same viewers, judges, target sets and scoring procedures.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> In plain English, even when the numbers looked interesting, the review did not find a robust, well-understood capability that could be taken out of the lab and trusted.
 
-The operational judgement was harsher. The executive summary concluded that remote-viewing information was inconsistent, inaccurate on specifics, required substantial subjective interpretation, and had not been used to guide intelligence operations. It added that remote viewing had failed to produce actionable intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> Later in the report, AIR stated that remote viewing, as used in the programme, had not been shown to have value in intelligence operations and that viewings had never provided an adequate basis for “actionable” intelligence — information strong enough to cause action to be taken. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
+The operational judgement was harsher. The executive summary concluded that remote-viewing information was inconsistent, inaccurate on specifics, required substantial subjective interpretation, and had not been used to guide intelligence operations. It added that remote viewing had failed to produce actionable intelligence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> Later in the report, AIR stated that remote viewing, as used in the programme, had not been shown to have value in intelligence operations and that viewings had never provided an adequate basis for “actionable” intelligence — information strong enough to cause action to be taken.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
 
 This distinction is central to Puthoff’s credibility. Supporters can accurately say that US intelligence agencies funded and reviewed remote-viewing research for years, and that some reviewers thought the laboratory data deserved further attention. Critics can accurately say that the official intelligence-value review found the material too vague, unreliable and non-actionable for operational use. Both statements can be true at the same time.
 
-A separate National Research Council review, *Enhancing Human Performance: Issues, Theories, and Techniques*, also placed paranormal claims within a broader military-interest context and treated them as controversial techniques needing rigorous evaluation rather than as established capabilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That wider institutional context undercuts a common myth on both sides. The US government did not behave as though remote viewing was obviously fake from the beginning; nor did it ultimately certify it as a dependable intelligence method.
+A separate National Research Council review, *Enhancing Human Performance: Issues, Theories, and Techniques*, also placed paranormal claims within a broader military-interest context and treated them as controversial techniques needing rigorous evaluation rather than as established capabilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nationalacademies.org">[National Academies]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nationalacademies.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> That wider institutional context undercuts a common myth on both sides. The US government did not behave as though remote viewing was obviously fake from the beginning; nor did it ultimately certify it as a dependable intelligence method.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XRTon6qgVws" title="Joe McMoneagle - CIA&#x27;s Project Stargate | SRS #95" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XRTon6qgVws" target="_blank" rel="noopener noreferrer">Joe McMoneagle - CIA&#x27;s Project Stargate | SRS #95</a></p><p class="youtube-embed-meta">Channel: Shawn Ryan Show &middot; Views: 5.2M &middot; Uploaded: February 2024 &middot; Length: 6 hours 13 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XRTon6qgVws" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XRTon6qgVws">Open on YouTube</a></p></div></div></div>
 
@@ -328,20 +328,20 @@ A separate National Research Council review, *Enhancing Human Performance: Issue
 
 The sceptical case against Puthoff’s remote-viewing legacy is not just “psychic claims sound strange”. It is more specific: critics argue that early SRI experiments suffered from ordinary experimental weaknesses that can create extraordinary-looking results. In remote viewing, a viewer’s description is often broad, metaphorical or fragmentary; a judge then compares that description with possible targets. That creates room for subjective matching, accidental cues, selective emphasis and hindsight interpretation.
 
-One famous line of criticism concerned sensory cues in the judging materials. Critics David Marks and Richard Kammann argued that some early remote-viewing transcripts contained clues about ordering or context that could help judges match descriptions to targets without any paranormal information transfer. A later sceptical discussion in *Nature* and related literature kept pressing the question of whether the positive results survived when such cues were removed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Remote Viewing Revisited</span><span class="citation-popover-snippet">Remote Viewing Revisited</span></span></span> Puthoff and Targ disputed the criticisms, but the dispute itself became part of the credibility burden. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+One famous line of criticism concerned sensory cues in the judging materials. Critics David Marks and Richard Kammann argued that some early remote-viewing transcripts contained clues about ordering or context that could help judges match descriptions to targets without any paranormal information transfer. A later sceptical discussion in *Nature* and related literature kept pressing the question of whether the positive results survived when such cues were removed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: centerforinquiry.s3.amazonaws.com">[centerforinquiry.s3.amazonaws.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">centerforinquiry.s3.amazonaws.com</span><span class="citation-popover-title">Remote Viewing Revisited</span><span class="citation-popover-snippet">Remote Viewing Revisited</span></span></span> Puthoff and Targ disputed the criticisms, but the dispute itself became part of the credibility burden.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Uri Geller association is another reason the SRI period remains controversial. Puthoff and Targ investigated Geller at SRI, and their work became part of the public story of laboratory tests of alleged psychic ability. For sceptics, Geller’s later reputation as a stage performer and alleged trickster makes the episode a warning about scientists being fooled by skilled performers or by experimental conditions that do not fully anticipate deception. For supporters, the Geller controversy is not enough to dismiss all SRI work, especially because remote-viewing trials also involved other participants and protocols. The credibility problem is not that one association automatically invalidates Puthoff; it is that it adds to a pattern of high tolerance for claims that mainstream critics regard as inadequately controlled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Information transmission under conditions of sensory shielding &#124; Nature</span><span class="citation-popover-snippet">Information transmission under conditions of sensory shielding &#124; Nature</span></span></span>
+The Uri Geller association is another reason the SRI period remains controversial. Puthoff and Targ investigated Geller at SRI, and their work became part of the public story of laboratory tests of alleged psychic ability. For sceptics, Geller’s later reputation as a stage performer and alleged trickster makes the episode a warning about scientists being fooled by skilled performers or by experimental conditions that do not fully anticipate deception. For supporters, the Geller controversy is not enough to dismiss all SRI work, especially because remote-viewing trials also involved other participants and protocols. The credibility problem is not that one association automatically invalidates Puthoff; it is that it adds to a pattern of high tolerance for claims that mainstream critics regard as inadequately controlled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-title">Information transmission under conditions of sensory shielding &#124; Nature</span><span class="citation-popover-snippet">Information transmission under conditions of sensory shielding &#124; Nature</span></span></span>
 
-The AIR report’s operational findings strengthen the sceptical reading because they focus on usefulness rather than philosophical disbelief. Intelligence work needs specificity: names, locations, timings, technical details, or warnings that can be checked and acted upon. AIR found that remote-viewing output was often broad, inconsistent and laden with irrelevant or erroneous material, with little agreement among viewers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> That is a practical failure even if one leaves the paranormal question open.
+The AIR report’s operational findings strengthen the sceptical reading because they focus on usefulness rather than philosophical disbelief. Intelligence work needs specificity: names, locations, timings, technical details, or warnings that can be checked and acted upon. AIR found that remote-viewing output was often broad, inconsistent and laden with irrelevant or erroneous material, with little agreement among viewers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> That is a practical failure even if one leaves the paranormal question open.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-Illustration-2-dark.svg" | relative_url }}" alt="Remote Viewing illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why supporters still treat the SRI record as meaningful
 
-Supporters of Puthoff’s credibility usually begin from a different premise: serious institutions do not fund a line of research for years unless at least some responsible people saw something worth investigating. From that angle, Puthoff’s SRI work shows that he was trusted by elements of the intelligence community to explore unusual possibilities under contract, and that his work was not simply invented after the fact. Declassified CIA material and later programme histories confirm that US agencies did sponsor remote-viewing research and that Puthoff was part of its early SRI phase. CIA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
+Supporters of Puthoff’s credibility usually begin from a different premise: serious institutions do not fund a line of research for years unless at least some responsible people saw something worth investigating. From that angle, Puthoff’s SRI work shows that he was trusted by elements of the intelligence community to explore unusual possibilities under contract, and that his work was not simply invented after the fact. Declassified CIA material and later programme histories confirm that US agencies did sponsor remote-viewing research and that Puthoff was part of its early SRI phase. CIA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
 
-Supporters also point to the AIR report’s acknowledgement of statistically significant laboratory effects. Jessica Utts argued that the evidence supported the existence of psychic functioning, while Hyman disagreed that the evidence justified that conclusion. AIR’s own synthesis did not dismiss the laboratory anomaly as meaningless; rather, it said the studies had not identified the source of the effect and had not shown a convincing paranormal mechanism. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> This gives supporters a narrow but real foothold: the official review was not a simple debunking document in which every result was treated as fraud or chance.
+Supporters also point to the AIR report’s acknowledgement of statistically significant laboratory effects. Jessica Utts argued that the evidence supported the existence of psychic functioning, while Hyman disagreed that the evidence justified that conclusion. AIR’s own synthesis did not dismiss the laboratory anomaly as meaningless; rather, it said the studies had not identified the source of the effect and had not shown a convincing paranormal mechanism.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span> This gives supporters a narrow but real foothold: the official review was not a simple debunking document in which every result was treated as fraud or chance.
 
-That said, the pro-Puthoff argument is strongest when kept modest. It can support claims such as “Puthoff worked on real government-funded research into remote viewing” and “some reviewers considered the statistical evidence interesting”. It cannot honestly support stronger claims such as “the CIA proved psychic spying works” or “Puthoff’s judgement was vindicated by official intelligence results”. The official operational conclusion points in the opposite direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
+That said, the pro-Puthoff argument is strongest when kept modest. It can support claims such as “Puthoff worked on real government-funded research into remote viewing” and “some reviewers considered the statistical evidence interesting”. It cannot honestly support stronger claims such as “the CIA proved psychic spying works” or “Puthoff’s judgement was vindicated by official intelligence results”. The official operational conclusion points in the opposite direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
 
 This distinction matters in UAP credibility debates because supporters sometimes use government association as a shortcut for truth. Puthoff’s remote-viewing career is a caution against that shortcut. Government funding proves institutional interest, not factual success. A classified or semi-classified setting may show that officials were curious, worried, opportunistic or open to low-probability research; it does not automatically mean the underlying claim was confirmed.
 
@@ -351,7 +351,7 @@ This distinction matters in UAP credibility debates because supporters sometimes
 
 Puthoff’s later UAP role is often read through the remote-viewing lens because the same credibility tension reappears. On one side, he has real institutional proximity: intelligence-funded research, defence-adjacent networks, Bigelow-linked activity, To The Stars Academy involvement, and contact with later UAP figures. On the other side, he has a record of pursuing claims that sit well outside mainstream science and that have not produced public, independently verified proof at the level their strongest interpretations require.
 
-This is why journalists and critics often mention remote viewing when discussing Puthoff’s UAP influence. *The New Yorker* placed Puthoff within the broader story of how UFOs became a more serious Washington topic after decades of stigma, while *The New Republic* took a much more sceptical line, describing Puthoff’s role in remote viewing as part of a wider retreat from scientific caution in government-adjacent UFO interest. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These accounts differ in tone, but both recognise that Puthoff is not a random commentator. He is a bridge figure between intelligence-world curiosity, paranormal research, [exotic physics]({{ 'exotic-physics/' | relative_url }}) and UAP advocacy.
+This is why journalists and critics often mention remote viewing when discussing Puthoff’s UAP influence. *The New Yorker* placed Puthoff within the broader story of how UFOs became a more serious Washington topic after decades of stigma, while *The New Republic* took a much more sceptical line, describing Puthoff’s role in remote viewing as part of a wider retreat from scientific caution in government-adjacent UFO interest.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> These accounts differ in tone, but both recognise that Puthoff is not a random commentator. He is a bridge figure between intelligence-world curiosity, paranormal research, [exotic physics]({{ 'exotic-physics/' | relative_url }}) and UAP advocacy.
 
 For a reader assessing his UAP credibility, the remote-viewing past should neither be ignored nor used as a lazy disqualification. It should be used as a calibration tool. It shows that Puthoff can gain access to serious institutions and persuade serious people that unusual claims deserve investigation. It also shows that institutional access can coexist with weak or unresolved evidence. That is directly relevant when Puthoff discusses UAP materials, alleged programmes, non-human hypotheses or frontier propulsion ideas.
 
@@ -364,9 +364,9 @@ Puthoff’s remote-viewing work should be treated as a verified but credibility-
 
 The most defensible assessment is:
 
-* **Verified:** Puthoff worked with Russell Targ at SRI on remote-viewing research connected to US intelligence interest, and this work appears in peer-reviewed, declassified and retrospective records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
-* **Partly supportive but limited:** Some laboratory results were judged statistically interesting, and the 1995 [AIR review]({{ 'air-review/' | relative_url }}) acknowledged that an anomaly had been observed in recent laboratory experiments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
-* **Damaging to strong claims:** AIR concluded that remote viewing had not produced actionable intelligence and was not shown to have value in intelligence operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
+* **Verified:** Puthoff worked with Russell Targ at SRI on remote-viewing research connected to US intelligence interest, and this work appears in peer-reviewed, declassified and retrospective records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
+* **Partly supportive but limited:** Some laboratory results were judged statistically interesting, and the 1995 [AIR review]({{ 'air-review/' | relative_url }}) acknowledged that an anomaly had been observed in recent laboratory experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
+* **Damaging to strong claims:** AIR concluded that remote viewing had not produced actionable intelligence and was not shown to have value in intelligence operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archiveremote~1.PD F</span><span class="citation-popover-snippet">National Security Archiveremote~1.PD F</span></span></span>
 * **Credibility-relevant for UAP:** The episode shows a recurring pattern in which Puthoff operates at the boundary of government interest, frontier science and contested extraordinary claims. That makes him historically important, but it also means his later UAP claims need independent evidence rather than deference to his access, résumé or confidence.
 
 Remote viewing did not simply destroy Puthoff’s credibility, because the historical record confirms that he was part of real programmes that serious agencies funded and reviewed. But it did create a durable credibility problem: his most famous pre-UAP research remains a case where official curiosity and reported anomalies did not mature into a reliable, accepted intelligence capability. For UAP readers, that is the key lesson. Puthoff’s background can justify paying attention to what he says; it cannot justify accepting extraordinary conclusions without stronger public evidence.
@@ -374,194 +374,194 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/zgyYms376Mg" title="Scientific and Spiritual Implications of Psychic Abilities - Russell Targ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer">Scientific and Spiritual Implications of Psychic Abilities - Russell Targ</a></p><p class="youtube-embed-meta">Channel: Science and Nonduality &middot; Views: 217.7K &middot; Uploaded: February 2015 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=zgyYms376Mg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=zgyYms376Mg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Remote Viewing Help or Hurt His Credibility?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Remote Viewing Help or Hurt His Credibility?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mind-Reach on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/820760-M.jpg" alt="Cover for Mind-Reach" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Central primary-source book for understanding his remote-viewing reputation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Central primary-source book for understanding his remote-viewing reputation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Examines the Stargate era and the institutional setting around Puthoff.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines the Stargate era and the institutional setting around Puthoff.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Solutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8969088-M.jpg" alt="Cover for Lean Solutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Solutions">Lean Solutions</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Lean Solutions on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8969088-M.jpg" alt="Cover for Lean Solutions" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Solutions">Lean Solutions</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Solutions</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mind+Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mind Reach</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Lean Solutions</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/d0cAAOSwcBJjrECV/s-l225.jpg" alt="Listing image for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30"><img src="https://i.ebayimg.com/images/g/d0cAAOSwcBJjrECV/s-l225.jpg" alt="Listing image for Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Boulevard Of Lights At Dusk Eiffel Remote View Wall Home Decor - POSTER 20x30</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/9FkAAOSwuvRnpUv-/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/9FkAAOSwuvRnpUv-/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/ypoAAOSwutRnpSHX/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/ypoAAOSwutRnpSHX/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater"><img src="https://i.ebayimg.com/images/g/vNwAAeSwKOdp~eVF/s-l225.jpg" alt="Listing image for Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater"><img src="https://i.ebayimg.com/images/g/vNwAAeSwKOdp~eVF/s-l225.jpg" alt="Listing image for Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Photo:Steele Missouri 1938 Children Viewing Movie Posters Outside Theater</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="did-remote-viewing-help-or-hurt-his-credibility-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -577,7 +577,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -597,7 +597,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -629,7 +629,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -681,7 +681,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -726,7 +726,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -767,164 +767,164 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: nature.com  
    Title: Information transmission under conditions of sensory shielding | Nature  
-   Link: <a href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/251602a0</a>  
+   Link:<a href="https://www.nature.com/articles/251602a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/251602a0</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: earthtech.org  
    Title: Earth Tech Hal Puthoff  
-   Link: <a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
+   Link:<a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Remote Viewing Revisited  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf</a>  
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002200420001-1.pdf</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00789r002200380001-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00789r002200380001-6</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00789r002200380001-6" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00789r002200380001-6</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000100220001-8</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000100440001-9.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1996/03/22165045/p21.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/10/22165252/p47.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/10/22165252/p47.pdf</a>  
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/10/22165252/p47.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1988/10/22165252/p47.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/CIA-RDP96-00789R002600250001-6/CIA-RDP96-00789R002600250001-6_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CIA-RDP96-00789R002600250001-6/CIA-RDP96-00789R002600250001-6_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/CIA-RDP96-00789R002600250001-6/CIA-RDP96-00789R002600250001-6_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/CIA-RDP96-00789R002600250001-6/CIA-RDP96-00789R002600250001-6_djvu.txt</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: archive.org  
    Title: cia readingroom document cia rdp96 00792r000600310001 7  
-   Link: <a href="https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7</a>  
+   Link:<a href="https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: newdualism.org  
    Title: CIA Initiated Remote Viewing At Stanford Research Institute  
-   Link: <a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
+   Link:<a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archiveremote~1.PD F  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf</a>  
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB438/docs/doc_57.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/4423858/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/4423858/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/4423858/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7254336/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7254336/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: nationalacademies.org  
-   Link: <a href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/1025/chapter/13</a>  
+   Link:<a href="https://www.nationalacademies.org/read/1025/chapter/13" target="_blank" rel="noopener noreferrer nofollow">https://www.nationalacademies.org/read/1025/chapter/13</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: newyorker.com  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/1974Natur.251..602T/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1974Natur.251..602T/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/1974Natur.251..602T/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/1974Natur.251..602T/abstract</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: irenaroglic.si  
-   Link: <a href="https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc" target="_blank" rel="noopener noreferrer nofollow">https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc</a>  
+   Link:<a href="https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc" target="_blank" rel="noopener noreferrer nofollow">https://irenaroglic.si/wp-content/uploads/slo/znanclanki/nature1974.doc</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/3360082/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3360082/</a>  
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/3360082/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/3360082/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: ics.uci.edu  
-   Link: <a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
+   Link:<a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: history.co.uk  
    Title: hal puthoff  
-   Link: <a href="https://www.history.co.uk/shows/unidentified/cast/hal-puthoff" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/cast/hal-puthoff</a>  
+   Link:<a href="https://www.history.co.uk/shows/unidentified/cast/hal-puthoff" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/unidentified/cast/hal-puthoff</a>  
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute</a>  
+   Link:<a href="https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/51621266/CIA_Initiated_Remote_Viewing_Program_at_Stanford_Research_Institute</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding</a>  
+   Link:<a href="https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/74804595/Information_transmission_under_conditions_of_sensory_shielding</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/342061969_What_Do_We_Know_About_Psi_The_First_Decade_of_Remote_Viewing_Research_and_Operations_at_Stanford_Research_Institute" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342061969_What_Do_We_Know_About_Psi_The_First_Decade_of_Remote_Viewing_Research_and_Operations_at_Stanford_Research_Institute</a>  
+   Link:<a href="https://www.researchgate.net/publication/342061969_What_Do_We_Know_About_Psi_The_First_Decade_of_Remote_Viewing_Research_and_Operations_at_Stanford_Research_Institute" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/342061969_What_Do_We_Know_About_Psi_The_First_Decade_of_Remote_Viewing_Research_and_Operations_at_Stanford_Research_Institute</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports</a>  
+   Link:<a href="https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/403178755_The_Star_Gate_Archives_Reports_of_the_United_States_Government_Sponsored_Psi_Program_1972-1995_Volume_4_Operational_Remote_Viewing_Memorandums_and_Reports</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
+   Link:<a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOoozxOzT5JWlBVY-8o5c6_UNG_QQtHi_uOwVWY0Z6i8_VPQ3inIa" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOoozxOzT5JWlBVY-8o5c6_UNG_QQtHi_uOwVWY0Z6i8_VPQ3inIa</a>  
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOoozxOzT5JWlBVY-8o5c6_UNG_QQtHi_uOwVWY0Z6i8_VPQ3inIa" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/aliens?srsltid=AfmBOoozxOzT5JWlBVY-8o5c6_UNG_QQtHi_uOwVWY0Z6i8_VPQ3inIa</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: ciaotest.cc.columbia.edu  
-   Link: <a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html</a>  
+   Link:<a href="https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html" target="_blank" rel="noopener noreferrer nofollow">https://ciaotest.cc.columbia.edu/olj/sa/sa_jan02srm01.html</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DRCzW6KAqyq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRCzW6KAqyq/?hl=en</a>  
+   Link:<a href="https://www.instagram.com/reel/DRCzW6KAqyq/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DRCzW6KAqyq/?hl=en</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/FOX5NY/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1531845661638047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1531845661638047/</a>  
+   Link:<a href="https://www.facebook.com/FOX5NY/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1531845661638047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX5NY/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1531845661638047/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox6news/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1571226091257542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1571226091257542/</a>
+   Link:<a href="https://www.facebook.com/fox6news/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1571226091257542/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox6news/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1571226091257542/</a>

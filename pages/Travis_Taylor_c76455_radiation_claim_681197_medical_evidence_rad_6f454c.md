@@ -256,16 +256,16 @@ image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_medical_eviden
 
 ## Introduction
 
-Claims that [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) suffered radiation sickness during a [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) investigation sound medically specific, but the public evidence remains much weaker than the label suggests. Radiation sickness, more formally called Acute Radiation Syndrome (ARS), is not diagnosed from a television sequence, a dosimeter alarm, a headache, nausea, skin irritation or a person saying they felt unwell after an unusual event. Medical teams normally require a combination of exposure data, symptom timing, laboratory testing and clinical documentation before concluding that ionising radiation caused the illness. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome &#124; Radiation Emergencies10 Apr 2024 — Some symptoms of Acute Radiation Syndrome (ARS) include nausea, vomiting...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — Mild symptoms may occur as low as 0.3 Gy or 30 radsD. The survival r...</span></span></span>
+Claims that [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) suffered radiation sickness during a [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) investigation sound medically specific, but the public evidence remains much weaker than the label suggests. Radiation sickness, more formally called Acute Radiation Syndrome (ARS), is not diagnosed from a television sequence, a dosimeter alarm, a headache, nausea, skin irritation or a person saying they felt unwell after an unusual event. Medical teams normally require a combination of exposure data, symptom timing, laboratory testing and clinical documentation before concluding that ionising radiation caused the illness.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome &#124; Radiation Emergencies10 Apr 2024 — Some symptoms of Acute Radiation Syndrome (ARS) include nausea, vomiting...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — Mild symptoms may occur as low as 0.3 Gy or 30 radsD. The survival r...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_medical_evidence_rad_6f454c-Illustration-1-dark.svg" | relative_url }}" alt="Medical proof illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_medical_evidence_rad_6f454c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197_medical_evidence_rad_6f454c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters when assessing Taylor's credibility. The question is not whether he felt ill. The question is what evidence would be needed to confirm that [radiation]({{ 'radiation/' | relative_url }}) exposure was the cause rather than one of several competing explanations. Publicly available material from *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch* presents a reported exposure and subsequent symptoms, but viewers have not been shown the kind of medical record normally used to establish a confirmed radiation injury. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span>
+That distinction matters when assessing Taylor's credibility. The question is not whether he felt ill. The question is what evidence would be needed to confirm that [radiation]({{ 'radiation/' | relative_url }}) exposure was the cause rather than one of several competing explanations. Publicly available material from *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch* presents a reported exposure and subsequent symptoms, but viewers have not been shown the kind of medical record normally used to establish a confirmed radiation injury.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span>
 
 ## What symptoms would and would not prove radiation exposure?
 
 One of the most common misunderstandings in public discussions of radiation incidents is that symptoms alone can identify the cause. In reality, many reported radiation-sickness symptoms overlap with common medical conditions.
 
-Health authorities such as the US Centers for Disease Control and Prevention note that early symptoms of significant radiation exposure can include nausea, vomiting, diarrhoea, headache, weakness and fatigue. Skin reddening or burns can also occur in some cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">Mayo Clinic Radiation sickness</span><span class="citation-popover-snippet">The amount of time between exposure and when these symptoms...Read more...</span></span></span> [3CDC 3CDC]
+Health authorities such as the US Centers for Disease Control and Prevention note that early symptoms of significant radiation exposure can include nausea, vomiting, diarrhoea, headache, weakness and fatigue. Skin reddening or burns can also occur in some cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">Mayo Clinic Radiation sickness</span><span class="citation-popover-snippet">The amount of time between exposure and when these symptoms...Read more...</span></span></span> [3CDC 3CDC]
 
 The problem is that those symptoms are not unique to radiation. They can also result from:
 
@@ -282,7 +282,7 @@ The problem is that those symptoms are not unique to radiation. They can also re
 
 </div>
 
-Medical reviews of radiation accidents therefore focus heavily on timing and progression rather than isolated complaints. The interval between a suspected exposure and the onset of symptoms can be diagnostically important. For example, the appearance of nausea and vomiting within a known time window after a documented high-dose exposure is treated differently from vague illness developing later without a measured source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">Mayo Clinic Radiation sickness</span><span class="citation-popover-snippet">The amount of time between exposure and when these symptoms...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In Taylor&#x27;s case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>, publicly discussed symptoms have included feeling seriously unwell and [claims]({{ 'claims/' | relative_url }}) of radiation-related effects after work around Homestead 2. However, viewers have not been shown a complete clinical timeline documenting exactly when symptoms began, how long they lasted, whether they worsened, whether objective physical findings were recorded, or how physicians evaluated alternative causes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Without that information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>, symptoms alone cannot establish a diagnosis of radiation sickness.
+Medical reviews of radiation accidents therefore focus heavily on timing and progression rather than isolated complaints. The interval between a suspected exposure and the onset of symptoms can be diagnostically important. For example, the appearance of nausea and vomiting within a known time window after a documented high-dose exposure is treated differently from vague illness developing later without a measured source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mayoclinic.org">[Mayo Clinic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mayoclinic.org</span><span class="citation-popover-title">Mayo Clinic Radiation sickness</span><span class="citation-popover-snippet">The amount of time between exposure and when these symptoms...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia In Taylor&#x27;s case]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>, publicly discussed symptoms have included feeling seriously unwell and [claims]({{ 'claims/' | relative_url }}) of radiation-related effects after work around Homestead 2. However, viewers have not been shown a complete clinical timeline documenting exactly when symptoms began, how long they lasted, whether they worsened, whether objective physical findings were recorded, or how physicians evaluated alternative causes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia Without that information]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>, symptoms alone cannot establish a diagnosis of radiation sickness.
 
 ## The clinical records that would strengthen the claim
 
@@ -297,7 +297,7 @@ Investigators would normally want:
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * The exact dosimeter readings.
-* Dose rate and accumulated dose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — Mild symptoms may occur as low as 0.3 Gy or 30 radsD. The survival r...</span></span></span>
+* Dose rate and accumulated dose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — Mild symptoms may occur as low as 0.3 Gy or 30 radsD. The survival r...</span></span></span>
 * Instrument model and calibration records.
 * Detector location during the event.
 * Whether multiple instruments agreed.
@@ -306,7 +306,7 @@ Investigators would normally want:
 
 </div>
 
-International Atomic Energy Agency guidance on accident dosimetry emphasises the importance of recording individual exposures and maintaining reliable exposure assessment during radiological incidents. IAEA <span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span>
+International Atomic Energy Agency guidance on accident dosimetry emphasises the importance of recording individual exposures and maintaining reliable exposure assessment during radiological incidents. IAEA<span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span>
 
 A televised alarm or numerical display is not the same thing as a documented exposure record reviewed by radiation-health specialists.
 
@@ -322,7 +322,7 @@ Examples would include:
 
 * Emergency department notes.
 * Occupational medicine assessments.
-* Radiation-safety consultations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[www-pub.iaea.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span>
+* Radiation-safety consultations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[www-pub.iaea.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span>
 * Toxicology reviews.
 * Follow-up specialist evaluations.
 
@@ -334,15 +334,15 @@ Those records would help establish what doctors observed at the time rather than
 
 Blood counts are a major component of radiation-injury assessment.
 
-CDC clinical guidance notes that changes in blood-cell counts, particularly lymphocyte depletion, can help estimate exposure severity after significant radiation events. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Signs and Symptoms of Radiation Exposure31 Jan 2025 — These can range from mild effects, such as skin reddening, to serious effects such...</span></span></span>
+CDC clinical guidance notes that changes in blood-cell counts, particularly lymphocyte depletion, can help estimate exposure severity after significant radiation events.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Signs and Symptoms of Radiation Exposure31 Jan 2025 — These can range from mild effects, such as skin reddening, to serious effects such...</span></span></span>
 
 Doctors would therefore look for:
 
 <div class="content-enhancement content-enhancement--caution" markdown="1">
 
-* Serial complete blood counts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Acute radiation syndrome</span><span class="citation-popover-snippet">Acute radiation syndromeRepeated complete blood counts (CBCs) can indicate the severity of exposure. Treatment of ARS is generally sup...</span></span></span>
+* Serial complete blood counts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Acute radiation syndrome</span><span class="citation-popover-snippet">Acute radiation syndromeRepeated complete blood counts (CBCs) can indicate the severity of exposure. Treatment of ARS is generally sup...</span></span></span>
 * Lymphocyte trends over time.
-* Evidence of bone-marrow suppression. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/radiation-emergencies/treatment/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Medications that speed up blood cell production, including Neupogen, may help...Read more...</span></span></span>
+* Evidence of bone-marrow suppression.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/radiation-emergencies/treatment/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Medications that speed up blood cell production, including Neupogen, may help...Read more...</span></span></span>
 * Signs of infection risk or bleeding abnormalities.
 
 </div>
@@ -366,13 +366,13 @@ Medical investigators would want:
 
 </div>
 
-Radiation skin injuries can evolve over days, weeks or months rather than appearing as simple redness immediately after exposure. Specialists therefore examine whether the appearance and timing are consistent with known radiation injury patterns. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/treatment/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Medications that speed up blood cell production, including Neupogen, may help...Read more...</span></span></span>
+Radiation skin injuries can evolve over days, weeks or months rather than appearing as simple redness immediately after exposure. Specialists therefore examine whether the appearance and timing are consistent with known radiation injury patterns.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/treatment/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Medications that speed up blood cell production, including Neupogen, may help...Read more...</span></span></span>
 
 No publicly released clinical file has demonstrated that kind of documented diagnostic process.
 
 ## Why radiation sickness is harder to prove than viewers may assume
 
-Acute Radiation Syndrome is associated with specific exposure conditions. Public-health guidance states that a person generally develops ARS only when radiation exposure is sufficiently high, penetrating, affects most or all of the body, and occurs over a relatively short period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://remm.hhs.gov/ars_definition.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[REMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">What is Acute Radiation SyndromeAcute Radiation Syndrome (ARS) - Also Known as Radiation Sickness. People exposed to radiation will d...</span></span></span>
+Acute Radiation Syndrome is associated with specific exposure conditions. Public-health guidance states that a person generally develops ARS only when radiation exposure is sufficiently high, penetrating, affects most or all of the body, and occurs over a relatively short period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://remm.hhs.gov/ars_definition.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[REMM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">What is Acute Radiation SyndromeAcute Radiation Syndrome (ARS) - Also Known as Radiation Sickness. People exposed to radiation will d...</span></span></span>
 
 That creates a practical evidential challenge.
 
@@ -386,7 +386,7 @@ Neither side automatically proves the other.
 
 A person can feel ill without a verified radiation source. Conversely, a radiation detector can register an elevated reading without producing the level of exposure needed to cause radiation sickness.
 
-This is why major documented radiation accidents are usually reconstructed through a combination of physics, dosimetry, laboratory medicine and clinical observation. The diagnosis is not normally based on symptoms alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span>
+This is why major documented radiation accidents are usually reconstructed through a combination of physics, dosimetry, laboratory medicine and clinical observation. The diagnosis is not normally based on symptoms alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: www-pub.iaea.org">[IAEA Publications]</a><span class="citation-popover" role="note"><span class="citation-popover-source">www-pub.iaea.org</span><span class="citation-popover-snippet">IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</span></span></span>
 
 ## Alternative explanations a medical review would test
 
@@ -402,7 +402,7 @@ Potential alternatives include:
 
 **Ordinary illness.** Viral infections, gastrointestinal illness and dehydration can mimic several early symptoms associated with ARS.
 
-**Instrument error or misinterpretation.** Radiation measurements require calibration, context and confirmation. A reading may reflect a localised source, detector issue, environmental factor or misunderstanding of the displayed number rather than a medically significant exposure. International radiation-safety guidance places considerable emphasis on exposure verification for precisely this reason. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaea.org">[IAEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaea.org</span><span class="citation-popover-title">Accident Dosimetry</span><span class="citation-popover-snippet">Accident DosimetryOctober 20, 2021 — Response organizations and employers should take all reasonable steps to assess and record expos...</span><span class="citation-popover-meta">Published: October 20, 2021</span></span></span>
+**Instrument error or misinterpretation.** Radiation measurements require calibration, context and confirmation. A reading may reflect a localised source, detector issue, environmental factor or misunderstanding of the displayed number rather than a medically significant exposure. International radiation-safety guidance places considerable emphasis on exposure verification for precisely this reason.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaea.org">[IAEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaea.org</span><span class="citation-popover-title">Accident Dosimetry</span><span class="citation-popover-snippet">Accident DosimetryOctober 20, 2021 — Response organizations and employers should take all reasonable steps to assess and record expos...</span><span class="citation-popover-meta">Published: October 20, 2021</span></span></span>
 
 A clinician trying to determine causation would examine each possibility rather than treating radiation as the default explanation.
 
@@ -425,197 +425,197 @@ A confirmed radiation-injury claim would normally be supported by some combinati
 
 </div>
 
-Public reporting around the Skinwalker Ranch incident has focused primarily on the story that Taylor became ill after an apparent radiation event. What remains absent from public view is the underlying medical documentation that would allow independent experts to determine whether the illness met recognised criteria for radiation injury or acute radiation syndrome. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>, the strongest evidence currently available supports a narrower conclusion: Taylor publicly reported symptoms after what he and the programme presented as a radiation-related incident. The medical evidence required to confirm radiation sickness itself has not been publicly released in a form that allows independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uptodate.com/contents/management-of-radiation-injury/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uptodate.com">[UpToDate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uptodate.com</span><span class="citation-popover-snippet">Management of radiation injury17 Jan 2025 — Radiation injury can affect multiple organ systems, most notably the skin, hematopoietic syst...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>
+Public reporting around the Skinwalker Ranch incident has focused primarily on the story that Taylor became ill after an apparent radiation event. What remains absent from public view is the underlying medical documentation that would allow independent experts to determine whether the illness met recognised criteria for radiation injury or acute radiation syndrome. CDC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>, the strongest evidence currently available supports a narrower conclusion: Taylor publicly reported symptoms after what he and the programme presented as a radiation-related incident. The medical evidence required to confirm radiation sickness itself has not been publicly released in a form that allows independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uptodate.com/contents/management-of-radiation-injury/print" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uptodate.com">[UpToDate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uptodate.com</span><span class="citation-popover-snippet">Management of radiation injury17 Jan 2025 — Radiation injury can affect multiple organ systems, most notably the skin, hematopoietic syst...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What would doctors need to confirm it?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What would doctors need to confirm it?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating extraordinary claims and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating extraordinary claims and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Highlights the need for corroborating evidence before accepting extraordinary explanations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the need for corroborating evidence before accepting extraordinary explanations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
-        </h4>
-        <p class="fr-book-author">By Atul Gawande</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Being Mortal on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jfFYBQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Being Mortal" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
+</h4>
+<p class="fr-book-author">By Atul Gawande</p>
         
-        <p class="fr-book-desc">Demonstrates how medical conclusions rely on documentation and clinical evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Demonstrates how medical conclusions rely on documentation and clinical evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation detection and measurement on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1251141-M.jpg" alt="Cover for Radiation detection and measurement" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation detection and measurement">Radiation detection and measurement</a>
-        </h4>
-        <p class="fr-book-author">By Glenn F. Knoll</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radiation detection and measurement on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/1251141-M.jpg" alt="Cover for Radiation detection and measurement" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation detection and measurement">Radiation detection and measurement</a>
+</h4>
+<p class="fr-book-author">By Glenn F. Knoll</p>
         
-        <p class="fr-book-desc">First published 1979. Subjects: Radiation, Nuclear counters, Measurement, Radiation, measurement, Radiation--measurement.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1979. Subjects: Radiation, Nuclear counters, Measurement, Radiation, measurement, Radiation--measurement.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Being+Mortal&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Being Mortal</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-would-doctors-need-to-confirm-it-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-would-doctors-need-to-confirm-it-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -631,7 +631,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -651,7 +651,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -683,7 +683,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -735,7 +735,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -780,7 +780,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -821,181 +821,181 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome | Radiation Emergencies10 Apr 2024 — Some symptoms of Acute Radiation Syndrome (ARS) include nausea, vomiting...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome | Radiation Emergencies10 Apr 2024 — Some symptoms of Acute Radiation Syndrome (ARS) include nausea, vomiting...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — Mild symptoms may occur as low as 0.3 Gy or 30 radsD. The survival r...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome: Information for Clinicians23 Apr 2024 — Mild symptoms may occur as low as 0.3 Gy or 30 radsD. The survival r...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: remm.hhs.gov  
-   Link: <a href="https://remm.hhs.gov/ars_definition.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/ars_definition.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What is Acute Radiation SyndromeAcute Radiation Syndrome (ARS) - Also Known as Radiation Sickness. People exposed to radiation will d...</p></details>
+   Link:<a href="https://remm.hhs.gov/ars_definition.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/ars_definition.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What is Acute Radiation SyndromeAcute Radiation Syndrome (ARS) - Also Known as Radiation Sickness. People exposed to radiation will d...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Signs and Symptoms of Radiation Exposure31 Jan 2025 — These can range from mild effects, such as skin reddening, to serious effects such...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/signs-symptoms/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/signs-symptoms/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Signs and Symptoms of Radiation Exposure31 Jan 2025 — These can range from mild effects, such as skin reddening, to serious effects such...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Acute radiation syndrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute radiation syndromeRepeated complete blood counts (CBCs) can indicate the severity of exposure. Treatment of ARS is generally sup...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute radiation syndromeRepeated complete blood counts (CBCs) can indicate the severity of exposure. Treatment of ARS is generally sup...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iaea.org  
    Title: Accident Dosimetry  
-   Link: <a href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Accident DosimetryOctober 20, 2021 — Response organizations and employers should take all reasonable steps to assess and record expos...</p></details>
+   Link:<a href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Accident DosimetryOctober 20, 2021 — Response organizations and employers should take all reasonable steps to assess and record expos...</p></details>
    Published: October 20, 2021  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: www-pub.iaea.org  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/PUB1891_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsSafety Reports Series No. 101This Safety Report on the medical management of radiation injuries includes new information...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: www-pub.iaea.org  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/TRS457_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/TRS457_web.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsDosimetry in diagnostic radiology: an international code of...This publication is seen as a continuation of the IAEA&#x27;s...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/TRS457_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/TRS457_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsDosimetry in diagnostic radiology: an international code of...This publication is seen as a continuation of the IAEA&#x27;s...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: www-pub.iaea.org  
    Title: Publications How to recognize and initially respond to an accidental  
-   Link: <a href="https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Report... IAEA-WHO: Planning the Medical Response to Radiological Accidents. Safety...Read more...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/publications/PDF/IAEA-WHO-P-En-rev.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Safety Report... IAEA-WHO: Planning the Medical Response to Radiological Accidents. Safety...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: uptodate.com  
-   Link: <a href="https://www.uptodate.com/contents/management-of-radiation-injury/print" target="_blank" rel="noopener noreferrer nofollow">https://www.uptodate.com/contents/management-of-radiation-injury/print</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Management of radiation injury17 Jan 2025 — Radiation injury can affect multiple organ systems, most notably the skin, hematopoietic syst...</p></details>
+   Link:<a href="https://www.uptodate.com/contents/management-of-radiation-injury/print" target="_blank" rel="noopener noreferrer nofollow">https://www.uptodate.com/contents/management-of-radiation-injury/print</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Management of radiation injury17 Jan 2025 — Radiation injury can affect multiple organ systems, most notably the skin, hematopoietic syst...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: www-pub.iaea.org  
    Title: The report on the accident at Tammiku.Read more  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsDiagnosis and Treatment of Radiation InjuriesJune 14, 2024 — The International Atomic Energy Agency has provided detaile...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>IAEA PublicationsDiagnosis and Treatment of Radiation InjuriesJune 14, 2024 — The International Atomic Energy Agency has provided detaile...</p></details>
    Published: June 14, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: www-pub.iaea.org  
    Title: who l eng  
-   Link: <a href="https://www-pub.iaea.org/mtcd/publications/pdf/iaea-who-l-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/mtcd/publications/pdf/iaea-who-l-eng.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TO RECOGNIZE AND INITIALLY RESPOND...IAEA-WHO: Diagnosis and Treatment of Radiation. Injuries. Safety Report Series, No. 2, IAEA, Vienna...</p></details>
+   Link:<a href="https://www-pub.iaea.org/mtcd/publications/pdf/iaea-who-l-eng.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/mtcd/publications/pdf/iaea-who-l-eng.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TO RECOGNIZE AND INITIALLY RESPOND...IAEA-WHO: Diagnosis and Treatment of Radiation. Injuries. Safety Report Series, No. 2, IAEA, Vienna...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: www-pub.iaea.org  
    Title: Pub1055 web  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1055_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1055_web.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the medical response to radiological accidentsComprehensive study of the causes and consequences of radiological accidents is a recurrent...</p></details>
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1055_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1055_web.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the medical response to radiological accidentsComprehensive study of the causes and consequences of radiological accidents is a recurrent...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/treatment/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/treatment/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Medications that speed up blood cell production, including Neupogen, may help...Read more...</p></details>
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/treatment/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/treatment/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Medications that speed up blood cell production, including Neupogen, may help...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor... Skinwalker Ranch. Travis S. Taylor. Born, (1968-07-24) July 24, 1968 (age 57). Decatur, Alabama, USA. Education. A...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor... Skinwalker Ranch. Travis S. Taylor. Born, (1968-07-24) July 24, 1968 (age 57). Decatur, Alabama, USA. Education. A...</p></details>
    Published: July 24, 1968  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</p></details>
+   Link:<a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...But after uncovering a mysterious manhole, Travis st...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: mayoclinic.org  
    Title: Mayo Clinic Radiation sickness  
-   Link: <a href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The amount of time between exposure and when these symptoms...Read more...</p></details>
+   Link:<a href="https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058" target="_blank" rel="noopener noreferrer nofollow">https://www.mayoclinic.org/diseases-conditions/radiation-sickness/symptoms-causes/syc-20377058</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The amount of time between exposure and when these symptoms...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: restoredcdc.org  
    Title: acute radiation syndrome  
-   Link: <a href="https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Emergencies10 Apr 2024 — Early symptoms. Symptoms of ARS may include. Nausea; Vomiting; Headache; Diarrhea. These symptoms star...</p></details>
+   Link:<a href="https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html" target="_blank" rel="noopener noreferrer nofollow">https://restoredcdc.org/www.cdc.gov/radiation-emergencies/signs-symptoms/acute-radiation-syndrome.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Emergencies10 Apr 2024 — Early symptoms. Symptoms of ARS may include. Nausea; Vomiting; Headache; Diarrhea. These symptoms star...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sciencedirect.com  
    Title: Acute Radiation Syndrome  
-   Link: <a href="https://www.sciencedirect.com/topics/nursing-and-health-professions/acute-radiation-syndrome" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/nursing-and-health-professions/acute-radiation-syndrome</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSymptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea. Onset occurs within a few hours after exposure. Stage la...</p></details>
+   Link:<a href="https://www.sciencedirect.com/topics/nursing-and-health-professions/acute-radiation-syndrome" target="_blank" rel="noopener noreferrer nofollow">https://www.sciencedirect.com/topics/nursing-and-health-professions/acute-radiation-syndrome</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>an overviewSymptoms are anorexia, severe nausea, vomiting, cramps, and diarrhea. Onset occurs within a few hours after exposure. Stage la...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: digitallibrary.un.org  
-   Link: <a href="https://digitallibrary.un.org/record/277995" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/277995</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and treatment of radiation injuries /Diagnosis and treatment of radiation injuries / jointly sponsored by the International Atomic Energy...</p></details>
+   Link:<a href="https://digitallibrary.un.org/record/277995" target="_blank" rel="noopener noreferrer nofollow">https://digitallibrary.un.org/record/277995</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and treatment of radiation injuries /Diagnosis and treatment of radiation injuries / jointly sponsored by the International Atomic Energy...</p></details>
 
 ### Additional References
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dev-dining.rice.edu  
-   Link: <a href="https://dev-dining.rice.edu/info/breakdown-the-deadly-timeline-of-acute-radiation-syndrome-you-cant-ignore-anymore-4581649" target="_blank" rel="noopener noreferrer nofollow">https://dev-dining.rice.edu/info/breakdown-the-deadly-timeline-of-acute-radiation-syndrome-you-cant-ignore-anymore-4581649</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A: Symptoms like nausea, fatigue, and skin redness often appear 1–6 hours post-exposure and can range from...Read more...</p></details>
+   Link:<a href="https://dev-dining.rice.edu/info/breakdown-the-deadly-timeline-of-acute-radiation-syndrome-you-cant-ignore-anymore-4581649" target="_blank" rel="noopener noreferrer nofollow">https://dev-dining.rice.edu/info/breakdown-the-deadly-timeline-of-acute-radiation-syndrome-you-cant-ignore-anymore-4581649</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A: Symptoms like nausea, fatigue, and skin redness often appear 1–6 hours post-exposure and can range from...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: flutrackers.com  
-   Link: <a href="https://flutrackers.com/forum/forum/national-international-government-ngo-preparation-response/cdc/nuclear-radiation-emergencies/104832-cdc-acute-radiation-syndrome-ars-a-fact-sheet-for-the-public" target="_blank" rel="noopener noreferrer nofollow">https://flutrackers.com/forum/forum/national-international-government-ngo-preparation-response/cdc/nuclear-radiation-emergencies/104832-cdc-acute-radiation-syndrome-ars-a-fact-sheet-for-the-public</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome (ARS): A Fact Sheet for the PublicThe first symptoms of ARS typically are nausea, vomiting, and diarrhea...</p></details>
+   Link:<a href="https://flutrackers.com/forum/forum/national-international-government-ngo-preparation-response/cdc/nuclear-radiation-emergencies/104832-cdc-acute-radiation-syndrome-ars-a-fact-sheet-for-the-public" target="_blank" rel="noopener noreferrer nofollow">https://flutrackers.com/forum/forum/national-international-government-ngo-preparation-response/cdc/nuclear-radiation-emergencies/104832-cdc-acute-radiation-syndrome-ars-a-fact-sheet-for-the-public</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Acute Radiation Syndrome (ARS): A Fact Sheet for the PublicThe first symptoms of ARS typically are nausea, vomiting, and diarrhea...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbsx4kDUjvo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Retaliation? Analyzing the Attack on Dr. Travis TaylorIn this episode, we break down the most violent and scientifically signifi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbsx4kDUjvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Retaliation? Analyzing the Attack on Dr. Travis TaylorIn this episode, we break down the most violent and scientifically signifi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
+   Link:<a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: These may not always occur and can differ  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2083703/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2083703/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Implementing EPR Dosimetry for Life-Threatening Incidentsby AB Flood · 2007 · Cited by 14 — The short-term initial symptoms of radiati...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC2083703/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC2083703/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Implementing EPR Dosimetry for Life-Threatening Incidentsby AB Flood · 2007 · Cited by 14 — The short-term initial symptoms of radiati...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: prnewswire.com  
    Title: dr travis s taylor joins radiance technologies 301530536  
-   Link: <a href="https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor Joins Radiance TechnologiesApr 21, 2022 — Taylor boasts a doctorate in aerospace systems engineering, a doctorate in opt...</p></details>
+   Link:<a href="https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html" target="_blank" rel="noopener noreferrer nofollow">https://www.prnewswire.com/news-releases/dr-travis-s-taylor-joins-radiance-technologies-301530536.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis S. Taylor Joins Radiance TechnologiesApr 21, 2022 — Taylor boasts a doctorate in aerospace systems engineering, a doctorate in opt...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>radiation exposure, but the person next to him did not.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>radiation exposure, but the person next to him did not.Read more...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/22840382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22840382/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>radiation exposure tracking: worldwide programs and...25 Jul 2012 — The purpose of this study was to assess the current status of patien...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/22840382/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/22840382/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>radiation exposure tracking: worldwide programs and...25 Jul 2012 — The purpose of this study was to assess the current status of patien...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ker Ranch Filming… According to multiple insiders...</p></details>
+   Link:<a href="https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61573009825429/posts/1-minute-ago-disturbing-evidence-found-inside-travis-taylors-van-during-skinwalk/122166424286766994/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ker Ranch Filming… According to multiple insiders...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: academic.oup.com  
    Title: The patient developed Grade 4 HS  
-   Link: <a href="https://academic.oup.com/jrr/article/59/suppl_2/ii54/4917670" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jrr/article/59/suppl_2/ii54/4917670</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMedical management of acute radiation syndrome and...by N Dainiak · 2018 · Cited by 91 — The whole-body dose of gamma radiat...</p></details>
+   Link:<a href="https://academic.oup.com/jrr/article/59/suppl_2/ii54/4917670" target="_blank" rel="noopener noreferrer nofollow">https://academic.oup.com/jrr/article/59/suppl_2/ii54/4917670</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>OUP AcademicMedical management of acute radiation syndrome and...by N Dainiak · 2018 · Cited by 91 — The whole-body dose of gamma radiat...</p></details>

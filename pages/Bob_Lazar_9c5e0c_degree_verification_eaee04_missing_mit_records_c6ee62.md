@@ -262,16 +262,16 @@ image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_re
 
 ## Introduction
 
-Bob Lazar’s claimed MIT physics degree is not a side issue in his Area 51 story. It is one of the foundations that makes the story either more credible or less credible. Lazar has long presented himself as someone recruited to work on highly advanced [propulsion]({{ 'propulsion/' | relative_url }}) systems at a secret facility known as S-4. That claim depends heavily on the idea that he possessed exceptional scientific training. When investigators could not verify his attendance at MIT, critics argued that the missing academic trail weakened the central reason the government would supposedly have selected him for such work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
+Bob Lazar’s claimed MIT physics degree is not a side issue in his Area 51 story. It is one of the foundations that makes the story either more credible or less credible. Lazar has long presented himself as someone recruited to work on highly advanced [propulsion]({{ 'propulsion/' | relative_url }}) systems at a secret facility known as S-4. That claim depends heavily on the idea that he possessed exceptional scientific training. When investigators could not verify his attendance at MIT, critics argued that the missing academic trail weakened the central reason the government would supposedly have selected him for such work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-1-dark.svg" | relative_url }}" alt="MIT records illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The debate is often misunderstood. The absence of MIT records does not automatically prove Lazar never worked around scientific facilities, nor does it conclusively disprove every aspect of his UFO claims. What it does affect is the credibility of his stated qualifications. In a story that relies on technical expertise, missing evidence for the claimed expertise becomes a major evidential problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
+The debate is often misunderstood. The absence of MIT records does not automatically prove Lazar never worked around scientific facilities, nor does it conclusively disprove every aspect of his UFO claims. What it does affect is the credibility of his stated qualifications. In a story that relies on technical expertise, missing evidence for the claimed expertise becomes a major evidential problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
 
 ## What Lazar Said About an MIT Physics Degree
 
-Lazar has repeatedly claimed that he earned an advanced degree in physics from the Massachusetts Institute of Technology and another advanced qualification from Caltech. These educational claims became part of the public explanation for why he was supposedly chosen to study exotic propulsion technology. Supporters often point to his confident use of scientific language and his discussions of reactor systems, gravity manipulation and [Element 115]({{ 'element-115/' | relative_url }}) as signs that he possessed specialist training. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
+Lazar has repeatedly claimed that he earned an advanced degree in physics from the Massachusetts Institute of Technology and another advanced qualification from Caltech. These educational claims became part of the public explanation for why he was supposedly chosen to study exotic propulsion technology. Supporters often point to his confident use of scientific language and his discussions of reactor systems, gravity manipulation and [Element 115]({{ 'element-115/' | relative_url }}) as signs that he possessed specialist training.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
 
-The importance of the MIT claim is therefore practical rather than symbolic. If Lazar merely claimed to have witnessed unusual events, his university background would be less central. Instead, he claimed to have participated in reverse-engineering efforts involving technology beyond known aerospace engineering. That type of work would normally require demonstrable expertise, advanced education, strong references and a documented technical career. The MIT degree serves as one of the key explanations for how he would have gained access to such a programme in the first place. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
+The importance of the MIT claim is therefore practical rather than symbolic. If Lazar merely claimed to have witnessed unusual events, his university background would be less central. Instead, he claimed to have participated in reverse-engineering efforts involving technology beyond known aerospace engineering. That type of work would normally require demonstrable expertise, advanced education, strong references and a documented technical career. The MIT degree serves as one of the key explanations for how he would have gained access to such a programme in the first place.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oKrS_qGCKFs" title="Corroborating Evidence for Bob Lazar&#x27;s Story" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oKrS_qGCKFs" target="_blank" rel="noopener noreferrer">Corroborating Evidence for Bob Lazar&#x27;s Story</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 414.5K &middot; Uploaded: June 2025 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oKrS_qGCKFs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oKrS_qGCKFs">Open on YouTube</a></p></div></div></div>
 
@@ -279,7 +279,7 @@ The importance of the MIT claim is therefore practical rather than symbolic. If 
 
 One reason the missing MIT record receives so much attention is that universities such as MIT maintain extensive systems for documenting attendance, enrolment and [degrees]({{ 'degrees/' | relative_url }}).
 
-MIT's registrar publicly describes multiple methods by which former students and graduates can verify their academic history. These include official transcripts, degree certifications, attendance certifications, enrolment verification and authenticated records that can be supplied to employers or third parties. MIT also maintains procedures for transcript authentication and degree verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span>
+MIT's registrar publicly describes multiple methods by which former students and graduates can verify their academic history. These include official transcripts, degree certifications, attendance certifications, enrolment verification and authenticated records that can be supplied to employers or third parties. MIT also maintains procedures for transcript authentication and degree verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span>
 
 For someone who completed a graduate programme, investigators would normally expect at least some combination of:
 
@@ -296,185 +296,185 @@ For someone who completed a graduate programme, investigators would normally exp
 
 </div>
 
-Not every historical record survives indefinitely, and universities can occasionally lose or misfile documents. However, sceptics argue that the issue with Lazar is not the absence of a single document. It is the reported absence of multiple, independent forms of corroboration that would normally exist around a graduate education at a major scientific institution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span>
+Not every historical record survives indefinitely, and universities can occasionally lose or misfile documents. However, sceptics argue that the issue with Lazar is not the absence of a single document. It is the reported absence of multiple, independent forms of corroboration that would normally exist around a graduate education at a major scientific institution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-2-dark.svg" | relative_url }}" alt="MIT records illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Investigators Treated the Missing Records as Significant
 
-The most influential investigation into Lazar's educational claims came from nuclear physicist and UFO researcher Stanton Friedman. Friedman was unusual because he was not approaching the subject as a conventional debunker. He believed some UFO cases deserved serious scientific investigation. Yet he concluded that Lazar's educational claims did not withstand scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: v-j-enterprises.com">[VJ Enterprises]</a><span class="citation-popover" role="note"><span class="citation-popover-source">v-j-enterprises.com</span><span class="citation-popover-snippet">VJ EnterprisesStanton T. Friedman / My Take On Bob LazarHe&#x27;s a Pierce physics prof, and never taught at Caltech. Lazar was registered in...</span></span></span>
+The most influential investigation into Lazar's educational claims came from nuclear physicist and UFO researcher Stanton Friedman. Friedman was unusual because he was not approaching the subject as a conventional debunker. He believed some UFO cases deserved serious scientific investigation. Yet he concluded that Lazar's educational claims did not withstand scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: v-j-enterprises.com">[VJ Enterprises]</a><span class="citation-popover" role="note"><span class="citation-popover-source">v-j-enterprises.com</span><span class="citation-popover-snippet">VJ EnterprisesStanton T. Friedman / My Take On Bob LazarHe&#x27;s a Pierce physics prof, and never taught at Caltech. Lazar was registered in...</span></span></span>
 
-According to Friedman and later sceptical researchers, searches failed to find evidence that Lazar attended MIT or Caltech. Investigators also reported difficulty finding classmates, professors or academic records that matched the [timeline]({{ 'timeline/' | relative_url }}) Lazar described. The issue became more damaging because some names Lazar reportedly offered as professors were associated with other institutions rather than with the schools he claimed to have attended. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+According to Friedman and later sceptical researchers, searches failed to find evidence that Lazar attended MIT or Caltech. Investigators also reported difficulty finding classmates, professors or academic records that matched the [timeline]({{ 'timeline/' | relative_url }}) Lazar described. The issue became more damaging because some names Lazar reportedly offered as professors were associated with other institutions rather than with the schools he claimed to have attended.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
-Critics therefore viewed the missing records not as an isolated anomaly but as part of a broader pattern. Their argument was simple: if the scientific credentials cannot be established, the public has less reason to accept the later claims that depend on those credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
+Critics therefore viewed the missing records not as an isolated anomaly but as part of a broader pattern. Their argument was simple: if the scientific credentials cannot be established, the public has less reason to accept the later claims that depend on those credentials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UjqFaQq_7I" title="Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer">Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 7.0M &middot; Uploaded: November 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UjqFaQq_7I">Open on YouTube</a></p></div></div></div>
 
 ## The Alternative Explanation Offered by Supporters
 
-Supporters of Lazar often argue that the absence of records could itself be evidence of suppression. Lazar has suggested that aspects of his background were deliberately erased after he spoke publicly about S-4 and alleged extraterrestrial technology. In this version of events, missing university records are not evidence against his story but evidence that someone attempted to discredit him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+Supporters of Lazar often argue that the absence of records could itself be evidence of suppression. Lazar has suggested that aspects of his background were deliberately erased after he spoke publicly about S-4 and alleged extraterrestrial technology. In this version of events, missing university records are not evidence against his story but evidence that someone attempted to discredit him.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
-This explanation appeals to many believers because some parts of Lazar's biography do appear to connect him to technical environments. A 1982 newspaper article described him as a physicist associated with the Los Alamos Meson Physics Facility, and a Los Alamos phone directory listed his name. Those facts are often presented as evidence that he was more than an ordinary civilian observer. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+This explanation appeals to many believers because some parts of Lazar's biography do appear to connect him to technical environments. A 1982 newspaper article described him as a physicist associated with the Los Alamos Meson Physics Facility, and a Los Alamos phone directory listed his name. Those facts are often presented as evidence that he was more than an ordinary civilian observer.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
-However, critics respond that these examples do not directly establish an MIT degree. A local newspaper description, a laboratory directory listing or contractor work near a scientific facility are not the same as documented graduation from one of the world's leading physics institutions. Even if those Los Alamos connections are genuine, they do not fill the gap left by the missing educational record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+However, critics respond that these examples do not directly establish an MIT degree. A local newspaper description, a laboratory directory listing or contractor work near a scientific facility are not the same as documented graduation from one of the world's leading physics institutions. Even if those Los Alamos connections are genuine, they do not fill the gap left by the missing educational record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-3-dark.svg" | relative_url }}" alt="MIT records illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Missing Trail Does and Does Not Prove
 
 The missing MIT record is powerful negative evidence, but it is not absolute proof of deception.
 
-It does not prove that Lazar fabricated every element of his biography. It does not prove he lacked all scientific knowledge. It does not prove that every statement he made about Area 51 or S-4 is necessarily false. Evidence in one area does not automatically settle every other question. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-snippet">Nevada CurrentUFOs, the Pentagon, and the enigma of Bob LazarJun 1, 2021 — Lazar&#x27;s story combined the most compelling elements of alien a...</span></span></span>
+It does not prove that Lazar fabricated every element of his biography. It does not prove he lacked all scientific knowledge. It does not prove that every statement he made about Area 51 or S-4 is necessarily false. Evidence in one area does not automatically settle every other question.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nevadacurrent.com">[Nevada Current]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nevadacurrent.com</span><span class="citation-popover-snippet">Nevada CurrentUFOs, the Pentagon, and the enigma of Bob LazarJun 1, 2021 — Lazar&#x27;s story combined the most compelling elements of alien a...</span></span></span>
 
-What it does do is weaken one of the strongest pillars supporting his story. If a person claims to have been recruited for extraordinarily specialised physics work, readers naturally ask what qualifications justified that recruitment. When the claimed MIT degree cannot be independently verified, the burden shifts back onto other evidence. Critics argue that Lazar has never supplied enough independent documentation to replace the missing academic record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span> OtherHand This is why the MIT issue remains central decades later. The question is not simply whether a university lost a file. The question is whether <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – Education&#x27;There&#x27;s no trace of him at MIT and no record of him having attended any course.... Lazar did not attend MIT as h...</span></span></span> the educational foundation underlying Lazar's role as a scientist can be demonstrated. For many observers, the inability to verify that foundation remains one of the most significant weaknesses in his overall credibility claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span>
+What it does do is weaken one of the strongest pillars supporting his story. If a person claims to have been recruited for extraordinarily specialised physics work, readers naturally ask what qualifications justified that recruitment. When the claimed MIT degree cannot be independently verified, the burden shifts back onto other evidence. Critics argue that Lazar has never supplied enough independent documentation to replace the missing academic record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span> OtherHand This is why the MIT issue remains central decades later. The question is not simply whether a university lost a file. The question is whether<span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – Education&#x27;There&#x27;s no trace of him at MIT and no record of him having attended any course.... Lazar did not attend MIT as h...</span></span></span> the educational foundation underlying Lazar's role as a scientist can be demonstrated. For many observers, the inability to verify that foundation remains one of the most significant weaknesses in his overall credibility claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.mit.edu">[MIT Registrar]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.mit.edu</span><span class="citation-popover-snippet">MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XdN_p5cqoz4" title="Is Bob Lazar Telling the Truth? w/ Here To Chew Bubble Gum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XdN_p5cqoz4" target="_blank" rel="noopener noreferrer">Is Bob Lazar Telling the Truth? w/ Here To Chew Bubble Gum</a></p><p class="youtube-embed-meta">Channel: WPRG TV &middot; Views: 1.2K &middot; Uploaded: March 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XdN_p5cqoz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XdN_p5cqoz4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Why the missing MIT record matters, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Why the missing MIT record matters, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-missing-mit-record-matters-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="why-the-missing-mit-record-matters-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -490,7 +490,7 @@ What it does do is weaken one of the strongest pillars supporting his story. If 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -510,7 +510,7 @@ What it does do is weaken one of the strongest pillars supporting his story. If 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -542,7 +542,7 @@ What it does do is weaken one of the strongest pillars supporting his story. If 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -594,7 +594,7 @@ What it does do is weaken one of the strongest pillars supporting his story. If 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -639,7 +639,7 @@ What it does do is weaken one of the strongest pillars supporting his story. If 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -680,141 +680,141 @@ What it does do is weaken one of the strongest pillars supporting his story. If 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: skeptic.com  
    Title: the strange case of bob lazar  
-   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</p></details>
+   Link:<a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Strange Case of Bob Lazar23 Apr 2026 — Skeptics reported finding no record of him at either institution. Lazar is a contested...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: otherhand.org  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – Education&#x27;There&#x27;s no trace of him at MIT and no record of him having attended any course.... Lazar did not attend MIT as h...</p></details>
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – Education&#x27;There&#x27;s no trace of him at MIT and no record of him having attended any course.... Lazar did not attend MIT as h...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: registrar.mit.edu  
-   Link: <a href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT RegistrarTranscripts &amp; RecordsThe Registrar&#x27;s Office provides a variety of electronic and physical documents to current and former st...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: registrar.mit.edu  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT RegistrarTranscripts, certifications &amp; lettersWe offer a variety of official documents to students, former students, and alumni, incl...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT RegistrarTranscripts, certifications &amp; lettersWe offer a variety of official documents to students, former students, and alumni, incl...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: registrar.mit.edu  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/attendance-degree-certifications" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/attendance-degree-certifications</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT RegistrarAttendance &amp; degree certificationsAttendance and degree certifications are official documents typically used to confirm atte...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/attendance-degree-certifications" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/attendance-degree-certifications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT RegistrarAttendance &amp; degree certificationsAttendance and degree certifications are official documents typically used to confirm atte...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: registrar.mit.edu  
    Title: enrollment certifications  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/enrollment-certifications" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/enrollment-certifications</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>certificationsAn enrollment certification is an official document proving your current enrollment at MIT. They are sometimes required for...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/enrollment-certifications" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/enrollment-certifications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>certificationsAn enrollment certification is an official document proving your current enrollment at MIT. They are sometimes required for...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: registrar.mit.edu  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>questions regarding the authenticity of an MIT transcript or for assistance ordering a transcript, email records@mit.edu or call (617) 25...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>questions regarding the authenticity of an MIT transcript or for assistance ordering a transcript, email records@mit.edu or call (617) 25...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: registrar.mit.edu  
    Title: digital diplomas  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>diplomasWhen you graduate, you can choose to receive a digital version of your diploma at no cost. It is sent as an email attachment that...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>diplomasWhen you graduate, you can choose to receive a digital version of your diploma at no cost. It is sent as an email attachment that...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: registrar.mit.edu  
    Title: ordering transcripts  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>transcriptsWhat you need to know. Current MIT students and alumni can order electronic or paper copies of transcripts through our provide...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/transcripts-certifications-letters/transcripts/ordering-transcripts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>transcriptsWhat you need to know. Current MIT students and alumni can order electronic or paper copies of transcripts through our provide...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: registrar.mit.edu  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/diplomas" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/diplomas</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT graduates receive a traditional paper diploma and can opt-in to receive a digital diploma. You may also request a replacement diploma...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/diplomas" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/diplomas</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT graduates receive a traditional paper diploma and can opt-in to receive a digital diploma. You may also request a replacement diploma...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: registrar.mit.edu  
    Title: digital diploma verification  
-   Link: <a href="https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas/digital-diploma-verification" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas/digital-diploma-verification</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>diploma verificationIf a student has provided a URL, simply copy it in the “Certificate URL” field and click “Verify.” If a student has p...</p></details>
+   Link:<a href="https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas/digital-diploma-verification" target="_blank" rel="noopener noreferrer nofollow">https://registrar.mit.edu/transcripts-records/diplomas/digital-diplomas/digital-diploma-verification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>diploma verificationIf a student has provided a URL, simply copy it in the “Certificate URL” field and click “Verify.” If a student has p...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: v-j-enterprises.com  
-   Link: <a href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.v-j-enterprises.com/sflazar.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>VJ EnterprisesStanton T. Friedman / My Take On Bob LazarHe&#x27;s a Pierce physics prof, and never taught at Caltech. Lazar was registered in...</p></details>
+   Link:<a href="https://www.v-j-enterprises.com/sflazar.html" target="_blank" rel="noopener noreferrer nofollow">https://www.v-j-enterprises.com/sflazar.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>VJ EnterprisesStanton T. Friedman / My Take On Bob LazarHe&#x27;s a Pierce physics prof, and never taught at Caltech. Lazar was registered in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: nevadacurrent.com  
-   Link: <a href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada CurrentUFOs, the Pentagon, and the enigma of Bob LazarJun 1, 2021 — Lazar&#x27;s story combined the most compelling elements of alien a...</p></details>
+   Link:<a href="https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://nevadacurrent.com/2021/06/01/ufos-the-pentagon-and-the-enigma-of-bob-lazar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada CurrentUFOs, the Pentagon, and the enigma of Bob LazarJun 1, 2021 — Lazar&#x27;s story combined the most compelling elements of alien a...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: MI T Registrar's Office  
-   Link: <a href="https://www.facebook.com/story.php?id=100063889180074&amp;story_fbid=1000338475439116" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php?id=100063889180074&amp;story_fbid=1000338475439116</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Registrar&#x27;s Office - September degree recipientsSeptember degree recipients – digital diplomas will be issued on Thursday, September...</p></details>
+   Link:<a href="https://www.facebook.com/story.php?id=100063889180074&amp;story_fbid=1000338475439116" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/story.php?id=100063889180074&amp;story_fbid=1000338475439116</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Registrar&#x27;s Office - September degree recipientsSeptember degree recipients – digital diplomas will be issued on Thursday, September...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of extraterrestrial...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of extraterrestrial...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: trinity.edu  
    Title: Academic Records | Office of the Registrar Degree Verification  
-   Link: <a href="https://trinity.edu/directory/departments-offices/registrar/academic-records" target="_blank" rel="noopener noreferrer nofollow">https://trinity.edu/directory/departments-offices/registrar/academic-records</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A written request is required. We accept faxed and mailed requests. All requests must be accompanied by a signed consent from the student...</p></details>
+   Link:<a href="https://trinity.edu/directory/departments-offices/registrar/academic-records" target="_blank" rel="noopener noreferrer nofollow">https://trinity.edu/directory/departments-offices/registrar/academic-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A written request is required. We accept faxed and mailed requests. All requests must be accompanied by a signed consent from the student...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mit/comments/osue6c/getting_my_transcript/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mit/comments/osue6c/getting_my_transcript/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Getting my transcript: r/mitEmail records@mit.edu and ask for your unofficial transcript. It&#x27;s free and they respond pretty fast!... co...</p></details>
+   Link:<a href="https://www.reddit.com/r/mit/comments/osue6c/getting_my_transcript/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mit/comments/osue6c/getting_my_transcript/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Getting my transcript: r/mitEmail records@mit.edu and ask for your unofficial transcript. It&#x27;s free and they respond pretty fast!... co...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/mit/comments/1af7xjy/degree_application_how_are_our_graduation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mit/comments/1af7xjy/degree_application_how_are_our_graduation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How are our graduation requirements verified?: r/mitYou need to email the registrar and your advisor if your course completion is not ac...</p></details>
+   Link:<a href="https://www.reddit.com/r/mit/comments/1af7xjy/degree_application_how_are_our_graduation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/mit/comments/1af7xjy/degree_application_how_are_our_graduation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How are our graduation requirements verified?: r/mitYou need to email the registrar and your advisor if your course completion is not ac...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gbppr.net  
-   Link: <a href="https://www.gbppr.net/lazar/lazar-mit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gbppr.net/lazar/lazar-mit.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of Bob Lazar&#x27;s M.I.T. ClaimsBob Lazar claims to have degrees from MIT and Cal-Tech. He has also made public the names of tw...</p></details>
+   Link:<a href="https://www.gbppr.net/lazar/lazar-mit.html" target="_blank" rel="noopener noreferrer nofollow">https://www.gbppr.net/lazar/lazar-mit.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigation of Bob Lazar&#x27;s M.I.T. ClaimsBob Lazar claims to have degrees from MIT and Cal-Tech. He has also made public the names of tw...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: mitcredentials.com  
-   Link: <a href="https://mitcredentials.com/MIT/docs/verify/auth/df125ea58z544e51d255etg99asy515/zy5r4c8b43/" target="_blank" rel="noopener noreferrer nofollow">https://mitcredentials.com/MIT/docs/verify/auth/df125ea58z544e51d255etg99asy515/zy5r4c8b43/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Degree VerificationUse this page to verify MIT degrees that have been registered on the blockchain. For questions, contact the Regist...</p></details>
+   Link:<a href="https://mitcredentials.com/MIT/docs/verify/auth/df125ea58z544e51d255etg99asy515/zy5r4c8b43/" target="_blank" rel="noopener noreferrer nofollow">https://mitcredentials.com/MIT/docs/verify/auth/df125ea58z544e51d255etg99asy515/zy5r4c8b43/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MIT Degree VerificationUse this page to verify MIT degrees that have been registered on the blockchain. For questions, contact the Regist...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mituniversity.ac.in  
-   Link: <a href="https://mituniversity.ac.in/examination/student-support-facility/" target="_blank" rel="noopener noreferrer nofollow">https://mituniversity.ac.in/examination/student-support-facility/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Student Support FacilityThe email should include student details and scanned documents. The verification confirmation will be sent within...</p></details>
+   Link:<a href="https://mituniversity.ac.in/examination/student-support-facility/" target="_blank" rel="noopener noreferrer nofollow">https://mituniversity.ac.in/examination/student-support-facility/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Student Support FacilityThe email should include student details and scanned documents. The verification confirmation will be sent within...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: mitadmissions.org  
-   Link: <a href="https://mitadmissions.org/apply/firstyear/transcripts/" target="_blank" rel="noopener noreferrer nofollow">https://mitadmissions.org/apply/firstyear/transcripts/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TranscriptsWe require an official transcript sent by a school counselor or representative. This applies for high school and college trans...</p></details>
+   Link:<a href="https://mitadmissions.org/apply/firstyear/transcripts/" target="_blank" rel="noopener noreferrer nofollow">https://mitadmissions.org/apply/firstyear/transcripts/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TranscriptsWe require an official transcript sent by a school counselor or representative. This applies for high school and college trans...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/21249409" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21249409</a>  
+   Link:<a href="https://www.cliffsnotes.com/study-notes/21249409" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21249409</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: mituniversitysikkim.com  
-   Link: <a href="https://mituniversitysikkim.com/old-student-verification" target="_blank" rel="noopener noreferrer nofollow">https://mituniversitysikkim.com/old-student-verification</a>  
+   Link:<a href="https://mituniversitysikkim.com/old-student-verification" target="_blank" rel="noopener noreferrer nofollow">https://mituniversitysikkim.com/old-student-verification</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: stanton friedman a respected nuclear physicist has made a bold statement about b  
-   Link: <a href="https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman, a respected nuclear physicist, has made...14 Apr 2026 — According to Friedman, Lazar&#x27;s supposed degrees from MIT and C...</p></details>
+   Link:<a href="https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman, a respected nuclear physicist, has made...14 Apr 2026 — According to Friedman, Lazar&#x27;s supposed degrees from MIT and C...</p></details>

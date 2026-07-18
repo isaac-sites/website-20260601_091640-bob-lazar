@@ -263,13 +263,13 @@ The key distinction is between evidence of a real security investigation and evi
 
 ## The 1980 Lights Reports Near Restricted Areas
 
-The events that brought Doty into the UFO story began with observations made by Paul Bennewitz near Kirtland Air Force Base and the adjacent Manzano weapons-storage area. Bennewitz became convinced that unusual aerial lights and electronic signals represented extraterrestrial activity. He photographed lights, monitored radio traffic, and repeatedly alerted military authorities. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+The events that brought Doty into the UFO story began with observations made by Paul Bennewitz near Kirtland Air Force Base and the adjacent Manzano weapons-storage area. Bennewitz became convinced that unusual aerial lights and electronic signals represented extraterrestrial activity. He photographed lights, monitored radio traffic, and repeatedly alerted military authorities.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
-From the military's perspective, however, the location itself was significant. Kirtland and the nearby Manzano complex were among the most security-sensitive facilities in the United States, associated with nuclear-weapons storage, weapons-security operations, testing activities, and other classified programmes. The area already attracted security attention regardless of whether UFO claims were true. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American LegionInside Manzano: The life of A Nuclear Special Weapons...Their firsthand accounts include nuclear weapons accidents, a...</span></span></span>
+From the military's perspective, however, the location itself was significant. Kirtland and the nearby Manzano complex were among the most security-sensitive facilities in the United States, associated with nuclear-weapons storage, weapons-security operations, testing activities, and other classified programmes. The area already attracted security attention regardless of whether UFO claims were true.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American LegionInside Manzano: The life of A Nuclear Special Weapons...Their firsthand accounts include nuclear weapons accidents, a...</span></span></span>
 
 This is the first point often lost in later retellings. The presence of AFOSI personnel, security reporting, and official interest does not automatically imply that authorities believed aliens were present. Sensitive facilities routinely generate investigations whenever civilians report unusual activity nearby.
 
-The documentary trail associated with the Bennewitz affair shows that military and intelligence personnel took an interest in his observations and claims. Doty's name appears in connection with that broader episode, which confirms involvement in a genuine security-linked matter rather than a purely private UFO investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</span></span></span>
+The documentary trail associated with the Bennewitz affair shows that military and intelligence personnel took an interest in his observations and claims. Doty's name appears in connection with that broader episode, which confirms involvement in a genuine security-linked matter rather than a purely private UFO investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</span></span></span>
 
 ## Why Security Interest Is Not Alien Confirmation
 
@@ -282,13 +282,13 @@ The records support a more limited conclusion:
 * Unusual lights were reported near restricted military areas.
 * Military and counterintelligence personnel became aware of those reports.
 * AFOSI had reason to monitor a civilian who believed he was intercepting sensitive activity.
-* Doty was associated with that environment and appears in the documentary record surrounding it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</span></span></span>
+* Doty was associated with that environment and appears in the documentary record surrounding it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</span></span></span>
 
 </div>
 
 None of those points establishes that the lights were extraterrestrial craft.
 
-Several researchers have argued that at least some of what Bennewitz observed may have involved classified military projects, test activities, communications systems, or security operations. The broader [Bennewitz case]({{ 'bennewitz-case/' | relative_url }}) became famous not because alien craft were verified, but because allegations later emerged that government personnel encouraged or exploited his extraterrestrial interpretation for counterintelligence purposes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</span></span></span> Wikipedia Even critics who regard the Bennewitz affair as a major disinformation episode generally accept that there was a real security concern behind <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span> military involvement. The dispute concerns what was being protected and how officials responded—not whether the records themselves prove alien visitation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">men in black ufo sightings mirage makers movie</span><span class="citation-popover-snippet">The real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Steve Rose: In a new documentary, US government agents claim t...</span></span></span>
+Several researchers have argued that at least some of what Bennewitz observed may have involved classified military projects, test activities, communications systems, or security operations. The broader [Bennewitz case]({{ 'bennewitz-case/' | relative_url }}) became famous not because alien craft were verified, but because allegations later emerged that government personnel encouraged or exploited his extraterrestrial interpretation for counterintelligence purposes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</span></span></span> Wikipedia Even critics who regard the Bennewitz affair as a major disinformation episode generally accept that there was a real security concern behind<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span> military involvement. The dispute concerns what was being protected and how officials responded—not whether the records themselves prove alien visitation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">men in black ufo sightings mirage makers movie</span><span class="citation-popover-snippet">The real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Steve Rose: In a new documentary, US government agents claim t...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_kirtland_records_ver_b2f659-Illustration-2-dark.svg" | relative_url }}" alt="Kirtland files illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_kirtland_records_ver_b2f659-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_kirtland_records_ver_b2f659-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What The Kirtland Documents Actually Verify
@@ -297,15 +297,15 @@ Viewed narrowly and carefully, the Kirtland-related paperwork verifies several i
 
 **It supports the existence of a genuine AFOSI connection.**
 
-The records place Doty within the orbit of real Air Force investigative activity during the period central to the Bennewitz case. This is significant because it distinguishes him from purely self-described intelligence insiders whose claimed careers cannot be independently traced. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</span></span></span>
+The records place Doty within the orbit of real Air Force investigative activity during the period central to the Bennewitz case. This is significant because it distinguishes him from purely self-described intelligence insiders whose claimed careers cannot be independently traced.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</span></span></span>
 
 **It supports involvement in a security-sensitive environment.**
 
-The reports emerged from a setting involving restricted facilities, weapons-security concerns, and counterintelligence interests. That makes AFOSI involvement plausible and understandable without invoking extraterrestrial explanations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American LegionInside Manzano: The life of A Nuclear Special Weapons...Their firsthand accounts include nuclear weapons accidents, a...</span></span></span>
+The reports emerged from a setting involving restricted facilities, weapons-security concerns, and counterintelligence interests. That makes AFOSI involvement plausible and understandable without invoking extraterrestrial explanations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: legion.org">[The American Legion]</a><span class="citation-popover" role="note"><span class="citation-popover-source">legion.org</span><span class="citation-popover-snippet">The American LegionInside Manzano: The life of A Nuclear Special Weapons...Their firsthand accounts include nuclear weapons accidents, a...</span></span></span>
 
 **It supports contact with UFO-related reporting.**
 
-The documentation shows that UFO allegations were being discussed, reported, and monitored. Doty's later statement that he encountered UFO-related claims as part of his duties is therefore not inherently inconsistent with the surviving record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kirtland Air Force Base</span><span class="citation-popover-snippet">Kirtland Air Force Base</span></span></span>
+The documentation shows that UFO allegations were being discussed, reported, and monitored. Doty's later statement that he encountered UFO-related claims as part of his duties is therefore not inherently inconsistent with the surviving record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Kirtland Air Force Base</span><span class="citation-popover-snippet">Kirtland Air Force Base</span></span></span>
 
 These are meaningful findings. They establish a real institutional context behind Doty's early role.
 
@@ -314,9 +314,9 @@ These are meaningful findings. They establish a real institutional context behin
 
 The evidential boundary is equally important.
 
-The Kirtland records do **not** verify that Doty had access to crashed flying-saucer programmes. They do not verify claims about extraterrestrial bodies, secret underground alien facilities, Majestic-12 operations, or hidden government agreements with non-human entities. Those claims come from other sources, later testimony, alleged documents, hearsay, or narratives that remain disputed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsIt has been established that Richard Doty is &quot;Falcon&quot;, the chief...</span></span></span>
+The Kirtland records do **not** verify that Doty had access to crashed flying-saucer programmes. They do not verify claims about extraterrestrial bodies, secret underground alien facilities, Majestic-12 operations, or hidden government agreements with non-human entities. Those claims come from other sources, later testimony, alleged documents, hearsay, or narratives that remain disputed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsIt has been established that Richard Doty is &quot;Falcon&quot;, the chief...</span></span></span>
 
-Nor do the records demonstrate that military officials concluded Bennewitz had discovered alien activity. The surviving documentary trail is consistent with security concerns, counterintelligence interest, and the management of a civilian observer near sensitive facilities. It is not equivalent to an official acknowledgement of extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</span></span></span> This distinction matters because many later discussions collapse two separate questions into one:
+Nor do the records demonstrate that military officials concluded Bennewitz had discovered alien activity. The surviving documentary trail is consistent with security concerns, counterintelligence interest, and the management of a civilian observer near sensitive facilities. It is not equivalent to an official acknowledgement of extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">mirage men</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</span></span></span> This distinction matters because many later discussions collapse two separate questions into one:
 
 1. Was Richard Doty a real AFOSI-linked figure involved in the Kirtland/Bennewitz affair?
 2. Did that role give him verified knowledge of alien programmes?
@@ -327,201 +327,201 @@ The Kirtland material provides substantial support for the first proposition. It
 
 For assessing Richard Doty's credibility, the Kirtland files are best understood as a floor rather than a ceiling.
 
-They show that Doty's connection to AFOSI and the Bennewitz episode was not wholly fictional. He was associated with a real security environment, real reports of unexplained lights, and a documented controversy involving military interest in a civilian UFO investigator. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</span></span></span>
+They show that Doty's connection to AFOSI and the Bennewitz episode was not wholly fictional. He was associated with a real security environment, real reports of unexplained lights, and a documented controversy involving military interest in a civilian UFO investigator.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</span></span></span>
 
 At the same time, the records are often asked to carry more weight than they can bear. They do not transform later UFO claims into verified facts. They do not bridge the evidential gap between a documented counterintelligence episode at Kirtland and later stories about hidden extraterrestrial programmes.
 
 The most evidence-based reading is therefore a restrained one: the Kirtland documentation strengthens the case that Doty was genuinely involved in a notable AFOSI-related incident in 1980, but it stops well short of confirming the extraordinary alien-[access claims]({{ 'access-claims/' | relative_url }}) that later became central to his public reputation.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What the Kirtland Files Really Prove. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What the Kirtland Files Really Prove. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Henry Hughes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
+</h4>
+<p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
-        </h4>
-        <p class="fr-book-author">By Von Axle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
+</h4>
+<p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H5JTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
-        </h4>
-        <p class="fr-book-author">By David Michael Jacobs</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Controversy in America on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H5JTAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Controversy in America" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Controversy in America">The UFO Controversy in America</a>
+</h4>
+<p class="fr-book-author">By David Michael Jacobs</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America+David+Michael+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+Operation+Trojan+Horse+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qR1ZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO&#x27;s: Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO%27s%3A+Operation+Trojan+Horse+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: Operation Trojan Horse">UFO&#x27;s: Operation Trojan Horse</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+Operation+Trojan+Horse+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: Operation Trojan Horse on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=qR1ZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO&#x27;s: Operation Trojan Horse" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO%27s%3A+Operation+Trojan+Horse+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: Operation Trojan Horse">UFO&#x27;s: Operation Trojan Horse</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO%27s%3A+Operation+Trojan+Horse+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO%27s%3A+Operation+Trojan+Horse+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Controversy in America</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Controversy+in+America&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Controversy in America</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-the-kirtland-files-really-prove-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="what-the-kirtland-files-really-prove-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -537,7 +537,7 @@ The most evidence-based reading is therefore a restrained one: the Kirtland docu
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -557,7 +557,7 @@ The most evidence-based reading is therefore a restrained one: the Kirtland docu
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -589,7 +589,7 @@ The most evidence-based reading is therefore a restrained one: the Kirtland docu
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -641,7 +641,7 @@ The most evidence-based reading is therefore a restrained one: the Kirtland docu
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -686,7 +686,7 @@ The most evidence-based reading is therefore a restrained one: the Kirtland docu
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -727,116 +727,116 @@ The most evidence-based reading is therefore a restrained one: the Kirtland docu
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: legion.org  
-   Link: <a href="https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The American LegionInside Manzano: The life of A Nuclear Special Weapons...Their firsthand accounts include nuclear weapons accidents, a...</p></details>
+   Link:<a href="https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow">https://www.legion.org/information-center/news/your-words/books/inside-manzano-the-life-of-a-nuclear-special-weapons-storage-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The American LegionInside Manzano: The life of A Nuclear Special Weapons...Their firsthand accounts include nuclear weapons accidents, a...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Kirtland Air Force Base  
-   Link: <a href="https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Kirtland_Air_Force_Base</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2254010/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2254010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men (2013)The main focus of the documentary is Richard Doty, a former agent of the Air Force Office Of Special Investigations...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
    Title: [mirage men](&#123;&#123; 'mirage-men/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...6 Oct 2010 — Whether you think that UFOs are probably just satellites or...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIn the era of flight, governments began using these techniques to protect secret aerial objects, sometim...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richard</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richard</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC ADA326148: The Roswell ReportMy predecessor, who was instrumental in transferring these records informed me that these...</p></details>
+   Link:<a href="https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/DTIC_ADA326148/DTIC_ADA326148_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Full text of &quot;DTIC ADA326148: The Roswell ReportMy predecessor, who was instrumental in transferring these records informed me that these...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</p></details>
+   Link:<a href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
    Title: men in black ufo sightings mirage makers movie  
-   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Steve Rose: In a new documentary, US government agents claim t...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Steve Rose: In a new documentary, US government agents claim t...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/hastings.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsIt has been established that Richard Doty is &quot;Falcon&quot;, the chief...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/hastings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsIt has been established that Richard Doty is &quot;Falcon&quot;, the chief...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: e-flux.com  
-   Link: <a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Society of the Psyop, Part 1: UFOs and the Future of MediaPaul Bennewitz became ever more paranoid about alien surveillance, accusing his...</p></details>
+   Link:<a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Society of the Psyop, Part 1: UFOs and the Future of MediaPaul Bennewitz became ever more paranoid about alien surveillance, accusing his...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/266803690369324/posts/1546676812381999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266803690369324/posts/1546676812381999/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Untold secrets of Manzano underground base in...UFO HUNTERS☆ Did a grey alien really attack a group of military soldiers at a Top Secret...</p></details>
+   Link:<a href="https://www.facebook.com/groups/266803690369324/posts/1546676812381999/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/266803690369324/posts/1546676812381999/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Untold secrets of Manzano underground base in...UFO HUNTERS☆ Did a grey alien really attack a group of military soldiers at a Top Secret...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: greatdreams.com  
-   Link: <a href="https://www.greatdreams.com/Falcon-Richard-Doty.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.greatdreams.com/Falcon-Richard-Doty.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty, an AFOSI agent at Kirtland AFB, and perhaps Doty would be willing to talk on camera or in some other...Read more...</p></details>
+   Link:<a href="https://www.greatdreams.com/Falcon-Richard-Doty.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.greatdreams.com/Falcon-Richard-Doty.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doty, an AFOSI agent at Kirtland AFB, and perhaps Doty would be willing to talk on camera or in some other...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...28 Feb 2025 — We dive into the story of Richard Doty—a former U.S...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...28 Feb 2025 — We dive into the story of Richard Doty—a former U.S...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: catdir.loc.gov  
    Title: UFOs sitting in the dark, tunneled recesses of the Manzano Mountains.Read more  
-   Link: <a href="https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sample text for Project Beta: the story of Paul Bennewitz...The lights were flying around the Manzano Weapons Storage Complex, then the...</p></details>
+   Link:<a href="https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html" target="_blank" rel="noopener noreferrer nofollow">https://catdir.loc.gov/catdir/enhancements/fy0641/2005297375-s.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sample text for Project Beta: the story of Paul Bennewitz...The lights were flying around the Manzano Weapons Storage Complex, then the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: legiontown.org  
    Title: inside manzano life nuclear special weapons storage site  
-   Link: <a href="https://www.legiontown.org/ownwords/9484/inside-manzano-life-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow">https://www.legiontown.org/ownwords/9484/inside-manzano-life-nuclear-special-weapons-storage-site</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Manzano: The life of A Nuclear Special Weapons...Sep 14, 2022 — This book tells part of the story of Manzano and shares experienc...</p></details>
+   Link:<a href="https://www.legiontown.org/ownwords/9484/inside-manzano-life-nuclear-special-weapons-storage-site" target="_blank" rel="noopener noreferrer nofollow">https://www.legiontown.org/ownwords/9484/inside-manzano-life-nuclear-special-weapons-storage-site</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside Manzano: The life of A Nuclear Special Weapons...Sep 14, 2022 — This book tells part of the story of Manzano and shares experienc...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: podcasts.happyscribe.com  
    Title: project beta pt d35917be 6a0f 419b 97a7 ec393c22336d  
-   Link: <a href="https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2 - Podcast TranscriptsAround 1980, Paul Bennewitz investigated the supposedly numerous UFO is flying over Kirtland military base.... Th...</p></details>
+   Link:<a href="https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.happyscribe.com/conspiracy-theories/project-beta-pt-d35917be-6a0f-419b-97a7-ec393c22336d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2 - Podcast TranscriptsAround 1980, Paul Bennewitz investigated the supposedly numerous UFO is flying over Kirtland military base.... Th...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>torage Area, at the Coyote Canyon section of the Department of...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>torage Area, at the Coyote Canyon section of the Department of...Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash near Hunter AFB in Georgia. He denotes Soviet satellites and UFOs as separate debris categories...Read more...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO crash near Hunter AFB in Georgia. He denotes Soviet satellites and UFOs as separate debris categories...Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/RockcastleCountyMemes/posts/i-love-how-the-usa-released-the-ufo-files-and-no-one-gave-a-shit/1423092349851381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RockcastleCountyMemes/posts/i-love-how-the-usa-released-the-ufo-files-and-no-one-gave-a-shit/1423092349851381/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>involvement in the UFO controversy from the late 1940s to 1990.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/RockcastleCountyMemes/posts/i-love-how-the-usa-released-the-ufo-files-and-no-one-gave-a-shit/1423092349851381/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/RockcastleCountyMemes/posts/i-love-how-the-usa-released-the-ufo-files-and-no-one-gave-a-shit/1423092349851381/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>involvement in the UFO controversy from the late 1940s to 1990.Read more...</p></details>

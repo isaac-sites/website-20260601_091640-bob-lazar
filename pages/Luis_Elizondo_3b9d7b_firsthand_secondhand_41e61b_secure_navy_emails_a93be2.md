@@ -267,22 +267,22 @@ The argument over secure Navy emails sits at the centre of a recurring credibili
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_secure_navy_emails_a93be2-Illustration-1-dark.svg" | relative_url }}" alt="Secure Emails illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_secure_navy_emails_a93be2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b_secure_navy_emails_a93be2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Supporters point to reported military email traffic as evidence that UAP incidents were taken seriously inside defence networks long before the subject became politically fashionable. Critics respond that an email, even on a secure system, proves only that officials discussed something. It does not automatically prove the underlying claim. The distinction matters because some of Elizondo's strongest public arguments rely on records, briefings and communications he says circulated within government channels rather than on events he personally witnessed.
 
-The most cited example involves retired Navy Rear Admiral Timothy Gallaudet, who has described receiving an alarming Navy message about unidentified objects during military operations. If authentic and accurately remembered, such communications suggest that UAP concerns reached senior operational levels. They remain, however, a form of second-hand evidence unless the underlying events, records and chain of custody can be independently verified. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
+The most cited example involves retired Navy Rear Admiral Timothy Gallaudet, who has described receiving an alarming Navy message about unidentified objects during military operations. If authentic and accurately remembered, such communications suggest that UAP concerns reached senior operational levels. They remain, however, a form of second-hand evidence unless the underlying events, records and chain of custody can be independently verified.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
 
 ## What Elizondo and Gallaudet say the emails showed
 
-The most detailed public account comes from Gallaudet's congressional testimony in November 2024. He described receiving an email in January 2015 while serving in a senior Navy role connected to a major training exercise involving the USS Theodore Roosevelt carrier strike group. According to his testimony, the message carried an urgent warning concerning unidentified objects creating near-midair collision risks for Navy aircraft. He recalled wording to the effect that multiple close encounters had occurred and that the exercise could potentially be affected if the issue was not resolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
+The most detailed public account comes from Gallaudet's congressional testimony in November 2024. He described receiving an email in January 2015 while serving in a senior Navy role connected to a major training exercise involving the USS Theodore Roosevelt carrier strike group. According to his testimony, the message carried an urgent warning concerning unidentified objects creating near-midair collision risks for Navy aircraft. He recalled wording to the effect that multiple close encounters had occurred and that the exercise could potentially be affected if the issue was not resolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
 
 Gallaudet's account contains two separate claims:
 
 1. An internal warning email existed.
 2. The email later disappeared from recipient accounts without explanation.
 
-He told [Congress]({{ 'congress/' | relative_url }}) that the message vanished from his inbox and from those of other recipients the following day. He further stated that the issue was not openly discussed in later meetings associated with the exercise. Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://seapowermagazine.org/retired-admiral-urges-government-transparency-on-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seapowermagazine.org">[Seapower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seapowermagazine.org</span><span class="citation-popover-snippet">SeapowerRetired Admiral Urges Government Transparency on UAPsNov 13, 2024 — The next day, the email disappeared from Gallaudet&#x27;s account...</span></span></span>
+He told [Congress]({{ 'congress/' | relative_url }}) that the message vanished from his inbox and from those of other recipients the following day. He further stated that the issue was not openly discussed in later meetings associated with the exercise. Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://seapowermagazine.org/retired-admiral-urges-government-transparency-on-uaps/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seapowermagazine.org">[Seapower]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seapowermagazine.org</span><span class="citation-popover-snippet">SeapowerRetired Admiral Urges Government Transparency on UAPsNov 13, 2024 — The next day, the email disappeared from Gallaudet&#x27;s account...</span></span></span>
 
-For Elizondo, stories like this support a broader narrative. He has repeatedly argued that unusual aerial incidents generated concern within military and intelligence channels and that many discussions occurred in classified or restricted environments inaccessible to the public. In congressional testimony and media appearances, he has referred to secure communications in which Navy personnel allegedly discussed UAP activity around military assets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/12888462/navy-ships-stalked-intelligently-controlled-ufos-whistleblower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">Elizondo, a former director of the Advanced Aerospace Threat Identification Program, noted that these unidentified aerial phenomena (UAP)...</span></span></span>
+For Elizondo, stories like this support a broader narrative. He has repeatedly argued that unusual aerial incidents generated concern within military and intelligence channels and that many discussions occurred in classified or restricted environments inaccessible to the public. In congressional testimony and media appearances, he has referred to secure communications in which Navy personnel allegedly discussed UAP activity around military assets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-sun.com/news/12888462/navy-ships-stalked-intelligently-controlled-ufos-whistleblower/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-sun.com">[The Sun]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-sun.com</span><span class="citation-popover-snippet">Elizondo, a former director of the Advanced Aerospace Threat Identification Program, noted that these unidentified aerial phenomena (UAP)...</span></span></span>
 
-The significance of the emails, from a pro-disclosure perspective, is not that they prove extraterrestrial technology. Rather, supporters argue that they demonstrate genuine operational concern among military personnel. If senior officers were circulating urgent warnings, that suggests the incidents were treated as more than casual misidentifications or internet folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonexaminer.com">[Washington Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonexaminer.com</span><span class="citation-popover-title">warning message uap interfering fa 18 flight erased from navy server witness</span><span class="citation-popover-snippet">Washington ExaminerFormer Navy rear admiral testifies that UAP warning email...Nov 13, 2024 — Despite the concern, the exercise was not...</span></span></span>
+The significance of the emails, from a pro-disclosure perspective, is not that they prove extraterrestrial technology. Rather, supporters argue that they demonstrate genuine operational concern among military personnel. If senior officers were circulating urgent warnings, that suggests the incidents were treated as more than casual misidentifications or internet folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonexaminer.com">[Washington Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonexaminer.com</span><span class="citation-popover-title">warning message uap interfering fa 18 flight erased from navy server witness</span><span class="citation-popover-snippet">Washington ExaminerFormer Navy rear admiral testifies that UAP warning email...Nov 13, 2024 — Despite the concern, the exercise was not...</span></span></span>
 
 ## Why secure messages are not the same as direct witnessing
 
@@ -303,7 +303,7 @@ What it cannot automatically establish is that the claims inside the message wer
 
 A useful comparison is an accident report. If a commander sends a warning that pilots are reporting near collisions, the message proves the reports were received. It does not independently prove what the pilots encountered. Additional evidence is needed, such as radar tracks, flight logs, sensor recordings, witness interviews or investigative findings.
 
-This distinction mirrors a larger issue in evaluating Elizondo's credibility. Much of his public case relies on information that he says came through institutional channels rather than through personal observation. His supporters see that as a strength because intelligence and defence officials often work through reporting networks. His critics argue that it creates an evidential gap because outsiders must trust descriptions of documents they cannot inspect themselves. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
+This distinction mirrors a larger issue in evaluating Elizondo's credibility. Much of his public case relies on information that he says came through institutional channels rather than through personal observation. His supporters see that as a strength because intelligence and defence officials often work through reporting networks. His critics argue that it creates an evidential gap because outsiders must trust descriptions of documents they cannot inspect themselves.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
 Even if every detail of Gallaudet's recollection were accurate, the email would still be evidence that Navy personnel reported a problem, not definitive evidence explaining what caused the encounters.
 
@@ -313,13 +313,13 @@ Even if every detail of Gallaudet's recollection were accurate, the email would 
 
 The most controversial element is not the warning itself but the claim that the message disappeared.
 
-For supporters, the alleged disappearance fits a wider pattern of restricted access, compartmentalisation and unusual handling of UAP-related information. They argue that the removal of a safety-related message would itself deserve investigation, particularly if it involved flight operations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
+For supporters, the alleged disappearance fits a wider pattern of restricted access, compartmentalisation and unusual handling of UAP-related information. They argue that the removal of a safety-related message would itself deserve investigation, particularly if it involved flight operations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
 
 Sceptics point out several alternative explanations.
 
 Military email systems are complex environments involving retention rules, archive procedures, server migrations, classification changes and automated administrative actions. A user discovering that a message is no longer visible in an inbox does not necessarily mean that the message was erased from every record system or intentionally removed to conceal information.
 
-Another limitation is that public discussion of the incident currently relies heavily on personal recollections rather than released documentary evidence. Gallaudet's testimony is specific enough to be testable in principle, but without the underlying message, recipients, routing records or archive copies, outside observers cannot determine exactly what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
+Another limitation is that public discussion of the incident currently relies heavily on personal recollections rather than released documentary evidence. Gallaudet's testimony is specific enough to be testable in principle, but without the underlying message, recipients, routing records or archive copies, outside observers cannot determine exactly what happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
 
 This is why the episode remains more important as a credibility indicator than as proof of extraordinary claims. It raises questions about internal handling of reports, but it does not by itself resolve them.
 
@@ -388,203 +388,203 @@ Without those records, it is difficult to distinguish deliberate removal from ro
 
 The secure-email question illustrates both the strengths and weaknesses of Elizondo's position as a UAP source.
 
-On the positive side, reports from figures such as Gallaudet support Elizondo's long-running claim that UAP discussions occurred within serious military environments and were not confined to fringe enthusiasts. Multiple current and former officials have described internal concern, operational reporting and restricted communications relating to unidentified objects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
+On the positive side, reports from figures such as Gallaudet support Elizondo's long-running claim that UAP discussions occurred within serious military environments and were not confined to fringe enthusiasts. Multiple current and former officials have described internal concern, operational reporting and restricted communications relating to unidentified objects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</span></span></span>
 
 On the other hand, the email story also highlights the limits of second-hand evidence. Public audiences are largely being asked to assess descriptions of records rather than the records themselves. That makes questions of documentation, [authentication]({{ 'authentication/' | relative_url }}) and chain of custody especially important.
 
-As a result, the reported Navy emails neither conclusively prove extraordinary UAP claims nor can they be dismissed as meaningless. Their strongest evidential value is narrower: they suggest that some military personnel regarded unidentified encounters as operationally significant enough to discuss through official channels. Whether those communications ultimately support larger claims about advanced technology, hidden programmes or non-human intelligence depends on evidence that remains largely unavailable to public scrutiny. Oversight Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonexaminer.com">[Washington Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonexaminer.com</span><span class="citation-popover-title">warning message uap interfering fa 18 flight erased from navy server witness</span><span class="citation-popover-snippet">Washington ExaminerFormer Navy rear admiral testifies that UAP warning email...Nov 13, 2024 — Despite the concern, the exercise was not...</span></span></span>
+As a result, the reported Navy emails neither conclusively prove extraordinary UAP claims nor can they be dismissed as meaningless. Their strongest evidential value is narrower: they suggest that some military personnel regarded unidentified encounters as operationally significant enough to discuss through official channels. Whether those communications ultimately support larger claims about advanced technology, hidden programmes or non-human intelligence depends on evidence that remains largely unavailable to public scrutiny. Oversight Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonexaminer.com">[Washington Examiner]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonexaminer.com</span><span class="citation-popover-title">warning message uap interfering fa 18 flight erased from navy server witness</span><span class="citation-popover-snippet">Washington ExaminerFormer Navy rear admiral testifies that UAP warning email...Nov 13, 2024 — Despite the concern, the exercise was not...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/k7NzR0payrs" title="FULL HEARING: UFO House Hearing amid &#x27;concerns,&#x27; witnesses speak out" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=k7NzR0payrs" target="_blank" rel="noopener noreferrer">FULL HEARING: UFO House Hearing amid &#x27;concerns,&#x27; witnesses speak out</a></p><p class="youtube-embed-meta">Channel: LiveNOW from FOX &middot; Views: 212.9K &middot; Uploaded: November 2024 &middot; Length: 2 hours 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=k7NzR0payrs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=k7NzR0payrs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Can the missing Navy emails prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Can the missing Navy emails prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
-        </h4>
-        <p class="fr-book-author">By Märta Honko</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
+</h4>
+<p class="fr-book-author">By Märta Honko</p>
         
-        <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COPING with UFOs / UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COPING with UFOs / UAP">COPING with UFOs / UAP</a>
-        </h4>
-        <p class="fr-book-author">By Sean McNamara</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COPING with UFOs / UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COPING with UFOs / UAP">COPING with UFOs / UAP</a>
+</h4>
+<p class="fr-book-author">By Sean McNamara</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Mind and body, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Mind and body, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers, UFOs or UAP? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers, UFOs or UAP?">Flying Saucers, UFOs or UAP?</a>
-        </h4>
-        <p class="fr-book-author">By Central Intelligence Agency (Cia), Director of National Intelligence</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers, UFOs or UAP? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers, UFOs or UAP?">Flying Saucers, UFOs or UAP?</a>
+</h4>
+<p class="fr-book-author">By Central Intelligence Agency (Cia), Director of National Intelligence</p>
         
-        <p class="fr-book-desc">First published 1953.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1953.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar System UAP 1013 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar System UAP 1013">Radar System UAP 1013</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Radar System UAP 1013 on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radar System UAP 1013">Radar System UAP 1013</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
         
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Radar+System+UAP+1013&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">COPING with UFOs / UAP</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers, UFOs or UAP?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UAP+i+Norden&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UAP i Norden</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">COPING with UFOs / UAP</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers, UFOs or UAP?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=can-the-missing-navy-emails-prove-anything-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="can-the-missing-navy-emails-prove-anything-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -600,7 +600,7 @@ As a result, the reported Navy emails neither conclusively prove extraordinary U
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -620,7 +620,7 @@ As a result, the reported Navy emails neither conclusively prove extraordinary U
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -652,7 +652,7 @@ As a result, the reported Navy emails neither conclusively prove extraordinary U
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -704,7 +704,7 @@ As a result, the reported Navy emails neither conclusively prove extraordinary U
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -749,7 +749,7 @@ As a result, the reported Navy emails neither conclusively prove extraordinary U
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -790,81 +790,81 @@ As a result, the reported Navy emails neither conclusively prove extraordinary U
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: the-sun.com  
-   Link: <a href="https://www.the-sun.com/news/12888462/navy-ships-stalked-intelligently-controlled-ufos-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/12888462/navy-ships-stalked-intelligently-controlled-ufos-whistleblower/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo, a former director of the Advanced Aerospace Threat Identification Program, noted that these unidentified aerial phenomena (UAP)...</p></details>
+   Link:<a href="https://www.the-sun.com/news/12888462/navy-ships-stalked-intelligently-controlled-ufos-whistleblower/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-sun.com/news/12888462/navy-ships-stalked-intelligently-controlled-ufos-whistleblower/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Elizondo, a former director of the Advanced Aerospace Threat Identification Program, noted that these unidentified aerial phenomena (UAP)...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2024/11/Updated-Testimony-Gallaudet.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oversight CommitteeUpdated-Testimony-Gallaudet.pdf - House Oversight CommitteeNov 13, 2024 — The very next day, the email disappeared fro...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: seapowermagazine.org  
-   Link: <a href="https://seapowermagazine.org/retired-admiral-urges-government-transparency-on-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/retired-admiral-urges-government-transparency-on-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SeapowerRetired Admiral Urges Government Transparency on UAPsNov 13, 2024 — The next day, the email disappeared from Gallaudet&#x27;s account...</p></details>
+   Link:<a href="https://seapowermagazine.org/retired-admiral-urges-government-transparency-on-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://seapowermagazine.org/retired-admiral-urges-government-transparency-on-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SeapowerRetired Admiral Urges Government Transparency on UAPsNov 13, 2024 — The next day, the email disappeared from Gallaudet&#x27;s account...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: washingtonexaminer.com  
    Title: warning message uap interfering fa 18 flight erased from navy server witness  
-   Link: <a href="https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Washington ExaminerFormer Navy rear admiral testifies that UAP warning email...Nov 13, 2024 — Despite the concern, the exercise was not...</p></details>
+   Link:<a href="https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonexaminer.com/policy/national-security/3228946/warning-message-uap-interfering-fa-18-flight-erased-from-navy-server-witness/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Washington ExaminerFormer Navy rear admiral testifies that UAP warning email...Nov 13, 2024 — Despite the concern, the exercise was not...</p></details>
 
 ### Additional References
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sanilx/archive_of_luis_elizondos_deleted_emails_brennan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sanilx/archive_of_luis_elizondos_deleted_emails_brennan/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan McKernan / Elizondo emails just released: r/UFOsNewly recovered emails show Luis Elizondo&#x27;s previously reported “deleted” DoD co...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sanilx/archive_of_luis_elizondos_deleted_emails_brennan/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sanilx/archive_of_luis_elizondos_deleted_emails_brennan/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brennan McKernan / Elizondo emails just released: r/UFOsNewly recovered emails show Luis Elizondo&#x27;s previously reported “deleted” DoD co...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/retired-rear-adm-tim-gallaudet-recommends-a-specific-ocean-canyon-where-he-says-/872696158470736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/retired-rear-adm-tim-gallaudet-recommends-a-specific-ocean-canyon-where-he-says-/872696158470736/</a>  
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/retired-rear-adm-tim-gallaudet-recommends-a-specific-ocean-canyon-where-he-says-/872696158470736/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/retired-rear-adm-tim-gallaudet-recommends-a-specific-ocean-canyon-where-he-says-/872696158470736/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=KgQqB8ennKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgQqB8ennKA</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BOMBSHELL: Ex-Navy Official Claims &#x27;Alarming&#x27; Email &#x27;...Retired Rear Admiral Dr. Tim Gallaudet claimed at a House Oversight Committee he...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KgQqB8ennKA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KgQqB8ennKA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BOMBSHELL: Ex-Navy Official Claims &#x27;Alarming&#x27; Email &#x27;...Retired Rear Admiral Dr. Tim Gallaudet claimed at a House Oversight Committee he...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why governments are keeping UAP info secret - 2 types of aliens witnesses report encountering most - Extraterrestrial...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why governments are keeping UAP info secret - 2 types of aliens witnesses report encountering most - Extraterrestrial...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DXx-LdcyLdv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXx-LdcyLdv/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>· 2d Congressman Tim Burchett says aliens could be stationed in five or six underwater bases...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DXx-LdcyLdv/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DXx-LdcyLdv/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>· 2d Congressman Tim Burchett says aliens could be stationed in five or six underwater bases...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: nypost.com  
    Title: pentagon leader who revealed ufos accuses govt of smear campaign  
-   Link: <a href="https://nypost.com/2021/05/26/pentagon-leader-who-revealed-ufos-accuses-govt-of-smear-campaign/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/05/26/pentagon-leader-who-revealed-ufos-accuses-govt-of-smear-campaign/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon leader who revealed UFOs accuses govt of...26 May 2021 — The complaint also said a senior official warned Elizondo he would “te...</p></details>
+   Link:<a href="https://nypost.com/2021/05/26/pentagon-leader-who-revealed-ufos-accuses-govt-of-smear-campaign/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2021/05/26/pentagon-leader-who-revealed-ufos-accuses-govt-of-smear-campaign/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon leader who revealed UFOs accuses govt of...26 May 2021 — The complaint also said a senior official warned Elizondo he would “te...</p></details>
    Published: May 2021  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/baltimoresun/posts/tim-gallaudet-is-not-alone-literally-with-his-five-dogs-scampering-underfoot-at-/1140865334754641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/baltimoresun/posts/tim-gallaudet-is-not-alone-literally-with-his-five-dogs-scampering-underfoot-at-/1140865334754641/</a>  
+   Link:<a href="https://www.facebook.com/baltimoresun/posts/tim-gallaudet-is-not-alone-literally-with-his-five-dogs-scampering-underfoot-at-/1140865334754641/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/baltimoresun/posts/tim-gallaudet-is-not-alone-literally-with-his-five-dogs-scampering-underfoot-at-/1140865334754641/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — We learned from David Grusch, a former member of the intelligence community revealed the supposed existence of secret gover...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — We learned from David Grusch, a former member of the intelligence community revealed the supposed existence of secret gover...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IBTimesUK/posts/retired-rear-admiral-gallaudet-and-former-[aaro" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IBTimesUK/posts/retired-rear-admiral-gallaudet-and-former-[aaro</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP evidence #UFO #Aliens #Conspiracy #TimGallaudet Read More:...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/IBTimesUK/posts/retired-rear-admiral-gallaudet-and-former-[aaro" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IBTimesUK/posts/retired-rear-admiral-gallaudet-and-former-[aaro</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP evidence #UFO #Aliens #Conspiracy #TimGallaudet Read More:...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f0ykk5/former_head_of_noaa_and_rear_admiral_tim/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f0ykk5/former_head_of_noaa_and_rear_admiral_tim/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ement about an USO in the ocean traveling 500+ mph that was...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f0ykk5/former_head_of_noaa_and_rear_admiral_tim/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f0ykk5/former_head_of_noaa_and_rear_admiral_tim/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ement about an USO in the ocean traveling 500+ mph that was...Read more...</p></details>

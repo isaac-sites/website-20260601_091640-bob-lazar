@@ -262,18 +262,18 @@ image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_p
 
 ## Introduction
 
-One of the most repeated arguments in favour of Bob Lazar is that he allegedly “predicted” [Element 115]({{ 'element-115/' | relative_url }}) years before scientists discovered it. On the surface, the [timeline]({{ 'timeline/' | relative_url }}) sounds impressive: Lazar publicly discussed Element 115 in 1989, while the element now known as moscovium was not synthesised until 2003 and was formally named in 2016. Supporters often present that gap as evidence that he possessed insider knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span>
+One of the most repeated arguments in favour of Bob Lazar is that he allegedly “predicted” [Element 115]({{ 'element-115/' | relative_url }}) years before scientists discovered it. On the surface, the [timeline]({{ 'timeline/' | relative_url }}) sounds impressive: Lazar publicly discussed Element 115 in 1989, while the element now known as moscovium was not synthesised until 2003 and was formally named in 2016. Supporters often present that gap as evidence that he possessed insider knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5-Illustration-1-dark.svg" | relative_url }}" alt="Prediction test illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key question, however, is not whether atomic number 115 eventually appeared on the periodic table. By the late twentieth century, physicists already expected that many heavier elements beyond uranium remained undiscovered. The periodic table contained known gaps, researchers were actively searching for “superheavy” elements, and theoretical discussions about future elements were common in nuclear science. The credibility test is therefore narrower: was choosing 115 genuinely extraordinary in 1989, or was it a plausible number for anyone aware of ongoing research into the upper reaches of the periodic table? <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
+The key question, however, is not whether atomic number 115 eventually appeared on the periodic table. By the late twentieth century, physicists already expected that many heavier elements beyond uranium remained undiscovered. The periodic table contained known gaps, researchers were actively searching for “superheavy” elements, and theoretical discussions about future elements were common in nuclear science. The credibility test is therefore narrower: was choosing 115 genuinely extraordinary in 1989, or was it a plausible number for anyone aware of ongoing research into the upper reaches of the periodic table?<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
 
 ## What was already expected in superheavy chemistry
 
-Long before Lazar entered public UFO discussions, scientists were exploring the possibility of elements heavier than those then known. The search for superheavy elements accelerated during the Cold War era as laboratories in the United States, Soviet Union, Germany and elsewhere pushed beyond uranium and the early transuranic elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://debunkingdenial.com/fraud-in-physics-i-superheavy-element-searches/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunkingdenial.com">[Debunking Denial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunkingdenial.com</span><span class="citation-popover-title">fraud in physics i superheavy element searches</span><span class="citation-popover-snippet">Debunking DenialFraud in Physics, I: Superheavy Element SearchesNov 20, 2023 — Seaborg proposed labeling the elements with atomic numbers...</span></span></span>
+Long before Lazar entered public UFO discussions, scientists were exploring the possibility of elements heavier than those then known. The search for superheavy elements accelerated during the Cold War era as laboratories in the United States, Soviet Union, Germany and elsewhere pushed beyond uranium and the early transuranic elements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://debunkingdenial.com/fraud-in-physics-i-superheavy-element-searches/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: debunkingdenial.com">[Debunking Denial]</a><span class="citation-popover" role="note"><span class="citation-popover-source">debunkingdenial.com</span><span class="citation-popover-title">fraud in physics i superheavy element searches</span><span class="citation-popover-snippet">Debunking DenialFraud in Physics, I: Superheavy Element SearchesNov 20, 2023 — Seaborg proposed labeling the elements with atomic numbers...</span></span></span>
 
-A particularly important idea was the so-called “island of stability”. Nuclear theorists proposed that certain combinations of protons and neutrons might create unusually long-lived superheavy nuclei, even though most very heavy elements decay rapidly. Interest in this possibility grew throughout the 1960s and later decades. Researchers openly discussed hypothetical elements beyond the known periodic table and tried to predict which atomic numbers might prove especially significant. Wikipedia ThoughtCo That context matters because Element 115 was not invented by Lazar. The number existed as an expected future position in the periodic table. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/island-stability-discovering-new-superheavy-elements-4018746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[thoughtco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Island of Stability</span><span class="citation-popover-snippet">Island of Stability - Discovering New Superheavy ElementsJan 11, 2020 — The location of the island of stability is predicted based on kno...</span></span></span> Scientists did not know whether it could be produced, how stable it might be, or what its exact properties would be, but the concept of a future element with 115 protons was already embedded in the logic of modern chemistry and nuclear physics. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+A particularly important idea was the so-called “island of stability”. Nuclear theorists proposed that certain combinations of protons and neutrons might create unusually long-lived superheavy nuclei, even though most very heavy elements decay rapidly. Interest in this possibility grew throughout the 1960s and later decades. Researchers openly discussed hypothetical elements beyond the known periodic table and tried to predict which atomic numbers might prove especially significant. Wikipedia ThoughtCo That context matters because Element 115 was not invented by Lazar. The number existed as an expected future position in the periodic table.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.thoughtco.com/island-stability-discovering-new-superheavy-elements-4018746" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thoughtco.com">[thoughtco.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thoughtco.com</span><span class="citation-popover-title">Thought Co Island of Stability</span><span class="citation-popover-snippet">Island of Stability - Discovering New Superheavy ElementsJan 11, 2020 — The location of the island of stability is predicted based on kno...</span></span></span> Scientists did not know whether it could be produced, how stable it might be, or what its exact properties would be, but the concept of a future element with 115 protons was already embedded in the logic of modern chemistry and nuclear physics.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-In fact, before formal discovery, chemists routinely referred to hypothetical future elements by atomic number or temporary names. Element 115 was known for years under the placeholder designation “ununpentium”, literally meaning “one-one-five”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Island of stability</span><span class="citation-popover-snippet">Island of stability</span></span></span>
+In fact, before formal discovery, chemists routinely referred to hypothetical future elements by atomic number or temporary names. Element 115 was known for years under the placeholder designation “ununpentium”, literally meaning “one-one-five”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Island of stability</span><span class="citation-popover-snippet">Island of stability</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/DoI5QbNKVsY" title="Science of Bob Lazar&#x27;s Element 115 Explored" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=DoI5QbNKVsY" target="_blank" rel="noopener noreferrer">Science of Bob Lazar&#x27;s Element 115 Explored</a></p><p class="youtube-embed-meta">Channel: Jake Broe &middot; Views: 732.6K &middot; Uploaded: June 2021 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=DoI5QbNKVsY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=DoI5QbNKVsY">Open on YouTube</a></p></div></div></div>
 
@@ -281,14 +281,14 @@ In fact, before formal discovery, chemists routinely referred to hypothetical fu
 
 The strongest sceptical argument is that Lazar did not predict the existence of a new category of matter. He selected a number that sat within an already anticipated region of the periodic table.
 
-By 1989, scientists had already discovered elements beyond atomic number 100 and were steadily moving upward. The idea that elements 113, 114, 115, 116 and beyond might eventually be synthesised was not fringe speculation. It was an active area of research. The periodic table was visibly incomplete at its heaviest end, and many textbooks, scientific publications and popular science discussions referred to undiscovered future elements. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
+By 1989, scientists had already discovered elements beyond atomic number 100 and were steadily moving upward. The idea that elements 113, 114, 115, 116 and beyond might eventually be synthesised was not fringe speculation. It was an active area of research. The periodic table was visibly incomplete at its heaviest end, and many textbooks, scientific publications and popular science discussions referred to undiscovered future elements.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
 
 Several points weaken the claim that “115” itself was a remarkable prediction:
 
-* **The periodic table already implied its existence.** If element 114 and element 116 were conceivable, then element 115 was also conceivable. The atomic number was simply one position in a sequence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
-* **Superheavy-element research was public knowledge.** The search for heavier nuclei was not classified UFO science. Laboratories openly discussed efforts to extend the periodic table. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cen.acs.org/physical-chemistry/periodic-table/IYPT-Podcast-Scientists-share-what-it-takes-to-make-a-superheavy-element/97/i17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cen.acs.org">[Chemical &amp; Engineering News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cen.acs.org</span><span class="citation-popover-snippet">Chemical &amp; Engineering NewsPodcast: Scientists share what it takes to make a superheavy...Apr 24, 2019 — Host Kerri Jansen investigated...</span></span></span>
-* **The number was not uniquely singled out by mainstream theory.** While some island-of-stability discussions focused on nearby regions of the chart of nuclides, there was no broad scientific consensus that atomic number 115 would become a revolutionary energy source or gravity-control material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">E115 was first synthesized in 2003 and later named moscovium. Lazar said that the propulsion system relied on a stable isotope of E115. I...</span></span></span>
-* **Many nearby numbers could have served the same rhetorical purpose.** Had Lazar spoken about element 117 or element 118 before their discovery, supporters could make a similar timeline argument today because those elements were also later synthesised and added to the periodic table. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samaterials.com/blog/moscovium-element-properties-and-uses.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samaterials.com">[Stanford Advanced Materials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samaterials.com</span><span class="citation-popover-title">moscovium element properties and uses</span><span class="citation-popover-snippet">Stanford Advanced MaterialsMoscovium: Element Properties and Uses12 Jan 2026 — The production of Moscovium is further related to the gene...</span></span></span>
+* **The periodic table already implied its existence.** If element 114 and element 116 were conceivable, then element 115 was also conceivable. The atomic number was simply one position in a sequence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
+* **Superheavy-element research was public knowledge.** The search for heavier nuclei was not classified UFO science. Laboratories openly discussed efforts to extend the periodic table.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cen.acs.org/physical-chemistry/periodic-table/IYPT-Podcast-Scientists-share-what-it-takes-to-make-a-superheavy-element/97/i17" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cen.acs.org">[Chemical &amp; Engineering News]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cen.acs.org</span><span class="citation-popover-snippet">Chemical &amp; Engineering NewsPodcast: Scientists share what it takes to make a superheavy...Apr 24, 2019 — Host Kerri Jansen investigated...</span></span></span>
+* **The number was not uniquely singled out by mainstream theory.** While some island-of-stability discussions focused on nearby regions of the chart of nuclides, there was no broad scientific consensus that atomic number 115 would become a revolutionary energy source or gravity-control material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">E115 was first synthesized in 2003 and later named moscovium. Lazar said that the propulsion system relied on a stable isotope of E115. I...</span></span></span>
+* **Many nearby numbers could have served the same rhetorical purpose.** Had Lazar spoken about element 117 or element 118 before their discovery, supporters could make a similar timeline argument today because those elements were also later synthesised and added to the periodic table.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.samaterials.com/blog/moscovium-element-properties-and-uses.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: samaterials.com">[Stanford Advanced Materials]</a><span class="citation-popover" role="note"><span class="citation-popover-source">samaterials.com</span><span class="citation-popover-title">moscovium element properties and uses</span><span class="citation-popover-snippet">Stanford Advanced MaterialsMoscovium: Element Properties and Uses12 Jan 2026 — The production of Moscovium is further related to the gene...</span></span></span>
 
 This distinction is often lost in popular retellings. Predicting that a blank slot on the periodic table will eventually be filled is different from predicting the specific physical properties that future element will possess.
 
@@ -297,13 +297,13 @@ This distinction is often lost in popular retellings. Predicting that a blank sl
 
 The most important credibility issue is not whether moscovium exists. It does.
 
-Scientists confirmed the existence of element 115 through accelerator experiments involving americium and calcium nuclei. The resulting atoms survived only briefly before decaying into lighter elements. The discovery established that atomic number 115 is physically real. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/physics/science-ununpentium-element-115-01340.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[Sci]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">science ununpentium element 115 01340</span><span class="citation-popover-snippet">Breaking Science NewsUnunpentium: Scientists Confirm Existence of Element 115Aug 28, 2013 — An international team of physicists has found...</span></span></span>. News: Breaking Science News
+Scientists confirmed the existence of element 115 through accelerator experiments involving americium and calcium nuclei. The resulting atoms survived only briefly before decaying into lighter elements. The discovery established that atomic number 115 is physically real.<span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.sci.news/physics/science-ununpentium-element-115-01340.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sci.news">[Sci]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sci.news</span><span class="citation-popover-title">science ununpentium element 115 01340</span><span class="citation-popover-snippet">Breaking Science NewsUnunpentium: Scientists Confirm Existence of Element 115Aug 28, 2013 — An international team of physicists has found...</span></span></span>. News: Breaking Science News
 
 However, that discovery did not validate Lazar's description of the element.
 
-His story depended on a much stronger proposition: a stable isotope of element 115 that could be stored in quantity, used as reactor fuel and somehow participate in an exotic [propulsion]({{ 'propulsion/' | relative_url }}) system. Publicly known isotopes of moscovium are highly unstable, with measured lifetimes ranging from fractions of a second to milliseconds. AZoM PubChem This creates a crucial logical divide: <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubchem.ncbi.nlm.nih.gov">[pubchem.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubchem.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Chem Moscovium &#124; Mc (Element</span><span class="citation-popover-snippet">Moscovium &#124; Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds...</span></span></span>
+His story depended on a much stronger proposition: a stable isotope of element 115 that could be stored in quantity, used as reactor fuel and somehow participate in an exotic [propulsion]({{ 'propulsion/' | relative_url }}) system. Publicly known isotopes of moscovium are highly unstable, with measured lifetimes ranging from fractions of a second to milliseconds. AZoM PubChem This creates a crucial logical divide:<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubchem.ncbi.nlm.nih.gov">[pubchem.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubchem.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Chem Moscovium &#124; Mc (Element</span><span class="citation-popover-snippet">Moscovium &#124; Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds...</span></span></span>
 
-ClaimCurrent scientific statusAn element with atomic number 115 can existConfirmed <span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span> Element 115 can be synthesised in laboratoriesConfirmed <span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span> Known isotopes of element 115 are stable enough for industrial useNot supported by current evidence <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.azom.com/article.aspx?ArticleID=10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azom.com">[AZoM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azom.com</span><span class="citation-popover-snippet">Moscovium (Mc) was synthesized using a high-speed beam of 48Ca ions. The beam was directed at 243Am (Z=95) in a...Read more...</span></span></span> Element 115 powers gravity-based spacecraftNo publicly verified evidence <span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Does the Real Element 115 Have a Connection With UFOs?&quot;Element 115, or moscovium, is a man-made, superheavy element that has...</span></span></span>
+ClaimCurrent scientific statusAn element with atomic number 115 can existConfirmed<span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span> Element 115 can be synthesised in laboratoriesConfirmed<span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span> Known isotopes of element 115 are stable enough for industrial useNot supported by current evidence<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.azom.com/article.aspx?ArticleID=10266" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azom.com">[AZoM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azom.com</span><span class="citation-popover-snippet">Moscovium (Mc) was synthesized using a high-speed beam of 48Ca ions. The beam was directed at 243Am (Z=95) in a...Read more...</span></span></span> Element 115 powers gravity-based spacecraftNo publicly verified evidence<span class="citation-chip-wrap"><a class="citation-chip" href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: science.howstuffworks.com">[HowStuffWorks]</a><span class="citation-popover" role="note"><span class="citation-popover-source">science.howstuffworks.com</span><span class="citation-popover-snippet">Does the Real Element 115 Have a Connection With UFOs?&quot;Element 115, or moscovium, is a man-made, superheavy element that has...</span></span></span>
 
 For sceptics, this means the later discovery of moscovium confirms only the least controversial part of Lazar's narrative.
 
@@ -313,11 +313,11 @@ For sceptics, this means the later discovery of moscovium confirms only the leas
 
 Despite those objections, the Element 115 argument continues to resonate with many supporters.
 
-Part of the appeal comes from the simple chronology. A casual observer hears that Lazar discussed Element 115 in 1989 and then learns that scientists later announced the existence of Element 115. The sequence feels intuitive and memorable. It creates the impression that he was ahead of public science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
+Part of the appeal comes from the simple chronology. A casual observer hears that Lazar discussed Element 115 in 1989 and then learns that scientists later announced the existence of Element 115. The sequence feels intuitive and memorable. It creates the impression that he was ahead of public science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">Open source on wikipedia.org.</span></span></span>
 
-Another reason is the continuing discussion around the island of stability. Although no stable isotope of moscovium has been found, nuclear physicists still investigate whether heavier regions of the periodic table may contain nuclei with much longer lifetimes than those currently observed. The underlying theoretical idea was never disproved simply because the first synthesised isotopes decayed quickly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[3Wikipedia 3ThoughtCo(#endnote-4 &quot;Snippet: Island]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Island of stability</span><span class="citation-popover-snippet">Island of stability</span></span></span> of Stability - Discovering New Superheavy ElementsJan 11, 2020 — The location of the island of stability is predicted based on kno...")
+Another reason is the continuing discussion around the island of stability. Although no stable isotope of moscovium has been found, nuclear physicists still investigate whether heavier regions of the periodic table may contain nuclei with much longer lifetimes than those currently observed. The underlying theoretical idea was never disproved simply because the first synthesised isotopes decayed quickly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[3Wikipedia 3ThoughtCo(#endnote-4 &quot;Snippet: Island]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Island of stability</span><span class="citation-popover-snippet">Island of stability</span></span></span> of Stability - Discovering New Superheavy ElementsJan 11, 2020 — The location of the island of stability is predicted based on kno...")
 
-Supporters therefore argue that public laboratories may have produced only the wrong isotopes, while a more stable version could exist elsewhere. Critics respond that this remains speculation rather than evidence, and that no verified isotope remotely approaches the properties Lazar described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/kpazev/bob_lazar_did_not_predict_element_115_may_1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bob Lazar did NOT predict Element 115!</span><span class="citation-popover-snippet">May 1989 issue of...January 3, 2021 — The island of stability is researched since the 1920s. The limits... The fact he was talking abou...</span><span class="citation-popover-meta">Published: January 3, 2021</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.azom.com/article.aspx?ArticleID=7958" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azom.com">[AZoM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azom.com</span><span class="citation-popover-snippet">Moscovium - Discovery, Properties and Applications13 Jan 2023 — However, isotope -289Mc is considered the most stable with a half-lif...</span></span></span>
+Supporters therefore argue that public laboratories may have produced only the wrong isotopes, while a more stable version could exist elsewhere. Critics respond that this remains speculation rather than evidence, and that no verified isotope remotely approaches the properties Lazar described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/kpazev/bob_lazar_did_not_predict_element_115_may_1989/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Bob Lazar did NOT predict Element 115!</span><span class="citation-popover-snippet">May 1989 issue of...January 3, 2021 — The island of stability is researched since the 1920s. The limits... The fact he was talking abou...</span><span class="citation-popover-meta">Published: January 3, 2021</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.azom.com/article.aspx?ArticleID=7958" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: azom.com">[AZoM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">azom.com</span><span class="citation-popover-snippet">Moscovium - Discovery, Properties and Applications13 Jan 2023 — However, isotope -289Mc is considered the most stable with a half-lif...</span></span></span>
 
 The debate ultimately survives because it sits between two facts that are both true:
 
@@ -329,159 +329,159 @@ The debate ultimately survives because it sits between two facts that are both t
 
 As a credibility test, Element 115 is less decisive than it first appears.
 
-If the claim were simply that scientists would one day identify an element with atomic number 115, the prediction is not especially remarkable. The periodic table already pointed toward undiscovered superheavy elements, and researchers were actively searching for them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
+If the claim were simply that scientists would one day identify an element with atomic number 115, the prediction is not especially remarkable. The periodic table already pointed toward undiscovered superheavy elements, and researchers were actively searching for them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv The Search for Superheavy Elements</span><span class="citation-popover-snippet">Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</span></span></span>
 
-If the claim is instead that Lazar correctly described a stable isotope of element 115 capable of powering advanced craft, the evidence remains absent. Moscovium's discovery did not confirm those specific properties, and no publicly available data show anything resembling the material Lazar described. AZoM PubChem That leaves Element 115 in an unusual position within the broader Bob Lazar debate. It is neither the clear vindication often claimed by supp <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubchem.ncbi.nlm.nih.gov">[pubchem.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubchem.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Chem Moscovium &#124; Mc (Element</span><span class="citation-popover-snippet">Moscovium &#124; Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds...</span></span></span> orters nor the complete non-event sometimes suggested by critics. The discovery of moscovium showed that atomic number 115 was a real place on the periodic table, but it did not settle the much larger question that matters for Lazar's story: whether a stable, technologically useful version of that element ever existed at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span>
+If the claim is instead that Lazar correctly described a stable isotope of element 115 capable of powering advanced craft, the evidence remains absent. Moscovium's discovery did not confirm those specific properties, and no publicly available data show anything resembling the material Lazar described. AZoM PubChem That leaves Element 115 in an unusual position within the broader Bob Lazar debate. It is neither the clear vindication often claimed by supp<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubchem.ncbi.nlm.nih.gov">[pubchem.ncbi.nlm.nih.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubchem.ncbi.nlm.nih.gov</span><span class="citation-popover-title">Pub Chem Moscovium &#124; Mc (Element</span><span class="citation-popover-snippet">Moscovium &#124; Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds...</span></span></span> orters nor the complete non-event sometimes suggested by critics. The discovery of moscovium showed that atomic number 115 was a real place on the periodic table, but it did not settle the much larger question that matters for Lazar's story: whether a stable, technologically useful version of that element ever existed at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: seaborg.llnl.gov">[Seaborg Institute]</a><span class="citation-popover" role="note"><span class="citation-popover-source">seaborg.llnl.gov</span><span class="citation-popover-title">Seaborg Institute Superheavy Element Discovery &#124; Glenn T</span><span class="citation-popover-snippet">Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/-7jA4OLNZvA" title="Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer">Alien Pictures, Why Aliens Visit, &amp; Element 115 - Answering Your Questions</a></p><p class="youtube-embed-meta">Channel: Larry King &middot; Views: 706.6K &middot; Uploaded: January 2019 &middot; Length: 5 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=-7jA4OLNZvA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=-7jA4OLNZvA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Was Element 115 really a prediction?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Was Element 115 really a prediction?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP"><img src="https://i.ebayimg.com/images/g/Ds4AAeSwKOdp7K11/s-l225.jpg" alt="Listing image for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP"><img src="https://i.ebayimg.com/images/g/Ds4AAeSwKOdp7K11/s-l225.jpg" alt="Listing image for Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO - Sports Model - Area 51 - S4 - UAP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Bob Lazar Sports Model Large &#x27;UFO / UAP Stand optional - Project Gravitaur"><img src="https://i.ebayimg.com/images/g/NyoAAeSwXXlp0Qry/s-l225.jpg" alt="Listing image for 20cm Bob Lazar Sports Model Large &#x27;UFO / UAP Stand optional - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">20cm Bob Lazar Sports Model Large &#x27;UFO / UAP Stand optional - Project Gravitaur</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for 20cm Bob Lazar Sports Model Large &#x27;UFO / UAP Stand optional - Project Gravitaur"><img src="https://i.ebayimg.com/images/g/NyoAAeSwXXlp0Qry/s-l225.jpg" alt="Listing image for 20cm Bob Lazar Sports Model Large &#x27;UFO / UAP Stand optional - Project Gravitaur" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">20cm Bob Lazar Sports Model Large &#x27;UFO / UAP Stand optional - Project Gravitaur</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51"><img src="https://i.ebayimg.com/images/g/JrEAAeSwZPJp33Rb/s-l225.jpg" alt="Listing image for Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Glow In The Dark, Touch Control USB-C charged, Bob Lazar UFO Model S4/Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles"><img src="https://i.ebayimg.com/images/g/zP8AAeSw5A9puqOZ/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles"><img src="https://i.ebayimg.com/images/g/zP8AAeSw5A9puqOZ/s-l225.jpg" alt="Listing image for Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">Rendlesham Forest UFO Model with Stand - Geek Gift Idea - UFO/UAP Collectibles</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO model">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO model</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+model&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-element-115-really-a-prediction-ufo-model&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO model" data-ebay-reference="was-element-115-really-a-prediction-ufo-model" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -497,7 +497,7 @@ If the claim is instead that Lazar correctly described a stable isotope of eleme
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -517,7 +517,7 @@ If the claim is instead that Lazar correctly described a stable isotope of eleme
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -549,7 +549,7 @@ If the claim is instead that Lazar correctly described a stable isotope of eleme
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -601,7 +601,7 @@ If the claim is instead that Lazar correctly described a stable isotope of eleme
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -646,7 +646,7 @@ If the claim is instead that Lazar correctly described a stable isotope of eleme
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -687,182 +687,182 @@ If the claim is instead that Lazar correctly described a stable isotope of eleme
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: arxiv.org  
    Title: arXiv The Search for Superheavy Elements  
-   Link: <a href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1708.04064</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</p></details>
+   Link:<a href="https://arxiv.org/pdf/1708.04064" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1708.04064</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Glenn Seaborg and Walter Loveland suggested in 1990 that the term SHE should be associated with “an element whose lifetime is strikingly...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Island of stability  
-   Link: <a href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Island_of_stability</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Island_of_stability" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Island_of_stability</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: thoughtco.com  
    Title: Thought Co Island of Stability  
-   Link: <a href="https://www.thoughtco.com/island-stability-discovering-new-superheavy-elements-4018746" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/island-stability-discovering-new-superheavy-elements-4018746</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Island of Stability - Discovering New Superheavy ElementsJan 11, 2020 — The location of the island of stability is predicted based on kno...</p></details>
+   Link:<a href="https://www.thoughtco.com/island-stability-discovering-new-superheavy-elements-4018746" target="_blank" rel="noopener noreferrer nofollow">https://www.thoughtco.com/island-stability-discovering-new-superheavy-elements-4018746</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Island of Stability - Discovering New Superheavy ElementsJan 11, 2020 — The location of the island of stability is predicted based on kno...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: sci.news  
    Title: science ununpentium element 115 01340  
-   Link: <a href="https://www.sci.news/physics/science-ununpentium-element-115-01340.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/physics/science-ununpentium-element-115-01340.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsUnunpentium: Scientists Confirm Existence of Element 115Aug 28, 2013 — An international team of physicists has found...</p></details>
+   Link:<a href="https://www.sci.news/physics/science-ununpentium-element-115-01340.html" target="_blank" rel="noopener noreferrer nofollow">https://www.sci.news/physics/science-ununpentium-element-115-01340.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Breaking Science NewsUnunpentium: Scientists Confirm Existence of Element 115Aug 28, 2013 — An international team of physicists has found...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: azom.com  
-   Link: <a href="https://www.azom.com/article.aspx?ArticleID=10266" target="_blank" rel="noopener noreferrer nofollow">https://www.azom.com/article.aspx?ArticleID=10266</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium (Mc) was synthesized using a high-speed beam of 48Ca ions. The beam was directed at 243Am (Z=95) in a...Read more...</p></details>
+   Link:<a href="https://www.azom.com/article.aspx?ArticleID=10266" target="_blank" rel="noopener noreferrer nofollow">https://www.azom.com/article.aspx?ArticleID=10266</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium (Mc) was synthesized using a high-speed beam of 48Ca ions. The beam was directed at 243Am (Z=95) in a...Read more...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: azom.com  
-   Link: <a href="https://www.azom.com/article.aspx?ArticleID=7958" target="_blank" rel="noopener noreferrer nofollow">https://www.azom.com/article.aspx?ArticleID=7958</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium - Discovery, Properties and Applications13 Jan 2023 — However, isotope -289Mc is considered the most stable with a half-lif...</p></details>
+   Link:<a href="https://www.azom.com/article.aspx?ArticleID=7958" target="_blank" rel="noopener noreferrer nofollow">https://www.azom.com/article.aspx?ArticleID=7958</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium - Discovery, Properties and Applications13 Jan 2023 — However, isotope -289Mc is considered the most stable with a half-lif...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: science.howstuffworks.com  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Real Element 115 Have a Connection With UFOs?&quot;Element 115, or moscovium, is a man-made, superheavy element that has...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/element-115.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/element-115.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Does the Real Element 115 Have a Connection With UFOs?&quot;Element 115, or moscovium, is a man-made, superheavy element that has...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>E115 was first synthesized in 2003 and later named moscovium. Lazar said that the propulsion system relied on a stable isotope of E115. I...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>E115 was first synthesized in 2003 and later named moscovium. Lazar said that the propulsion system relied on a stable isotope of E115. I...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: arxiv.org  
    Title: arXiv Superheavy Elements: Beyond the 7th Period in the Periodic Table  
-   Link: <a href="https://arxiv.org/abs/1812.05805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1812.05805</a>  
+   Link:<a href="https://arxiv.org/abs/1812.05805" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1812.05805</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2504.19650" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.19650</a>  
+   Link:<a href="https://arxiv.org/abs/2504.19650" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2504.19650</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
    Title: Bob Lazar did NOT predict Element 115!  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/kpazev/bob_lazar_did_not_predict_element_115_may_1989/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/kpazev/bob_lazar_did_not_predict_element_115_may_1989/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>May 1989 issue of...January 3, 2021 — The island of stability is researched since the 1920s. The limits... The fact he was talking abou...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/kpazev/bob_lazar_did_not_predict_element_115_may_1989/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/kpazev/bob_lazar_did_not_predict_element_115_may_1989/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 1989 issue of...January 3, 2021 — The island of stability is researched since the 1920s. The limits... The fact he was talking abou...</p></details>
    Published: January 3, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/itou3o/why_does_it_increase_lazars_credibility_that_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/itou3o/why_does_it_increase_lazars_credibility_that_he/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why does it increase Lazar&#x27;s credibility that he knew about...First, I want to say that I&#x27;m open-minded about Bob Lazar...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/itou3o/why_does_it_increase_lazars_credibility_that_he/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/itou3o/why_does_it_increase_lazars_credibility_that_he/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why does it increase Lazar&#x27;s credibility that he knew about...First, I want to say that I&#x27;m open-minded about Bob Lazar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Physics/comments/1b03ukf/a_thought_on_the_fabled_island_of_stability_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Physics/comments/1b03ukf/a_thought_on_the_fabled_island_of_stability_in/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>When a star goes nova it creates many...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/Physics/comments/1b03ukf/a_thought_on_the_fabled_island_of_stability_in/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Physics/comments/1b03ukf/a_thought_on_the_fabled_island_of_stability_in/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>When a star goes nova it creates many...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: Bob Lazar and Element 115  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/em25vc/bob_lazar_and_element_115_its_been_recently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/em25vc/bob_lazar_and_element_115_its_been_recently/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Its been recently proven to be...That part of the periodic table only goes up to 118. He could have just picked a blank spot, where the...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/em25vc/bob_lazar_and_element_115_its_been_recently/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/em25vc/bob_lazar_and_element_115_its_been_recently/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Its been recently proven to be...That part of the periodic table only goes up to 118. He could have just picked a blank spot, where the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO Hoaxster&quot;Element 115, or moscovium, is a man-made, superheavy element that has 115 protons in its nucleus,&quot; emailed Jacklyn Ga...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO Hoaxster&quot;Element 115, or moscovium, is a man-made, superheavy element that has 115 protons in its nucleus,&quot; emailed Jacklyn Ga...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: seaborg.llnl.gov  
    Title: Seaborg Institute Superheavy Element Discovery | Glenn T  
-   Link: <a href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow">https://seaborg.llnl.gov/research/superheavy-element-discovery</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</p></details>
+   Link:<a href="https://seaborg.llnl.gov/research/superheavy-element-discovery" target="_blank" rel="noopener noreferrer nofollow">https://seaborg.llnl.gov/research/superheavy-element-discovery</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seaborg InstituteIn 2003, the team of scientists observed atomic decay patterns that confirmed the existence of element 115 (moscovium) a...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: debunkingdenial.com  
    Title: fraud in physics i superheavy element searches  
-   Link: <a href="https://debunkingdenial.com/fraud-in-physics-i-superheavy-element-searches/" target="_blank" rel="noopener noreferrer nofollow">https://debunkingdenial.com/fraud-in-physics-i-superheavy-element-searches/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking DenialFraud in Physics, I: Superheavy Element SearchesNov 20, 2023 — Seaborg proposed labeling the elements with atomic numbers...</p></details>
+   Link:<a href="https://debunkingdenial.com/fraud-in-physics-i-superheavy-element-searches/" target="_blank" rel="noopener noreferrer nofollow">https://debunkingdenial.com/fraud-in-physics-i-superheavy-element-searches/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking DenialFraud in Physics, I: Superheavy Element SearchesNov 20, 2023 — Seaborg proposed labeling the elements with atomic numbers...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cen.acs.org  
-   Link: <a href="https://cen.acs.org/physical-chemistry/periodic-table/IYPT-Podcast-Scientists-share-what-it-takes-to-make-a-superheavy-element/97/i17" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/physical-chemistry/periodic-table/IYPT-Podcast-Scientists-share-what-it-takes-to-make-a-superheavy-element/97/i17</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chemical &amp; Engineering NewsPodcast: Scientists share what it takes to make a superheavy...Apr 24, 2019 — Host Kerri Jansen investigated...</p></details>
+   Link:<a href="https://cen.acs.org/physical-chemistry/periodic-table/IYPT-Podcast-Scientists-share-what-it-takes-to-make-a-superheavy-element/97/i17" target="_blank" rel="noopener noreferrer nofollow">https://cen.acs.org/physical-chemistry/periodic-table/IYPT-Podcast-Scientists-share-what-it-takes-to-make-a-superheavy-element/97/i17</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chemical &amp; Engineering NewsPodcast: Scientists share what it takes to make a superheavy...Apr 24, 2019 — Host Kerri Jansen investigated...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: samaterials.com  
    Title: moscovium element properties and uses  
-   Link: <a href="https://www.samaterials.com/blog/moscovium-element-properties-and-uses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.samaterials.com/blog/moscovium-element-properties-and-uses.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Advanced MaterialsMoscovium: Element Properties and Uses12 Jan 2026 — The production of Moscovium is further related to the gene...</p></details>
+   Link:<a href="https://www.samaterials.com/blog/moscovium-element-properties-and-uses.html" target="_blank" rel="noopener noreferrer nofollow">https://www.samaterials.com/blog/moscovium-element-properties-and-uses.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanford Advanced MaterialsMoscovium: Element Properties and Uses12 Jan 2026 — The production of Moscovium is further related to the gene...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: pubchem.ncbi.nlm.nih.gov  
    Title: Pub Chem Moscovium | Mc (Element)  
-   Link: <a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium | Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds...</p></details>
+   Link:<a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moscovium | Mc (Element) - PubChem - NIHMoscovium&#x27;s most stable isotope, moscovium-289, has a half-life of about 220 milliseconds...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxivblog.com  
-   Link: <a href="https://arxivblog.com/?p=385" target="_blank" rel="noopener noreferrer nofollow">https://arxivblog.com/?p=385</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>First superheavy element found in nature28 Apr 2008 — Yeah, maybe, first AFTER element 115 as Bob (Robert) Lazar has previously mentioned...</p></details>
+   Link:<a href="https://arxivblog.com/?p=385" target="_blank" rel="noopener noreferrer nofollow">https://arxivblog.com/?p=385</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>First superheavy element found in nature28 Apr 2008 — Yeah, maybe, first AFTER element 115 as Bob (Robert) Lazar has previously mentioned...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: mysteryofmatter.net  
    Title: Island of Stability  
-   Link: <a href="https://www.mysteryofmatter.net/island_of_stability.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mysteryofmatter.net/island_of_stability.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of MatterIn the late 1960s, Seaborg proposed that out beyond element 110 lay an “Island of Stability” where long-lived superh...</p></details>
+   Link:<a href="https://www.mysteryofmatter.net/island_of_stability.html" target="_blank" rel="noopener noreferrer nofollow">https://www.mysteryofmatter.net/island_of_stability.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Mystery of MatterIn the late 1960s, Seaborg proposed that out beyond element 110 lay an “Island of Stability” where long-lived superh...</p></details>
 
 ### Additional References
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: chemeurope.com  
-   Link: <a href="https://www.chemeurope.com/en/encyclopedia/Ununpentium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chemeurope.com/en/encyclopedia/Ununpentium.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UnunpentiumUnunpentium is the temporary name of a synthetic superheavy element in the periodic table that has the temporary symbol Uup an...</p></details>
+   Link:<a href="https://www.chemeurope.com/en/encyclopedia/Ununpentium.html" target="_blank" rel="noopener noreferrer nofollow">https://www.chemeurope.com/en/encyclopedia/Ununpentium.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UnunpentiumUnunpentium is the temporary name of a synthetic superheavy element in the periodic table that has the temporary symbol Uup an...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/posts/element-115-alien-power-source/1383082073827289/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/element-115-alien-power-source/1383082073827289/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Element 115: Alien Power SourceAccording to lazar, element 115 is a stable isotope of a super heavy element that does not occur naturally...</p></details>
+   Link:<a href="https://www.facebook.com/OMGTheWhyFiles/posts/element-115-alien-power-source/1383082073827289/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/posts/element-115-alien-power-source/1383082073827289/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Element 115: Alien Power SourceAccording to lazar, element 115 is a stable isotope of a super heavy element that does not occur naturally...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: otherhand.org  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Element 115 tidbitsCalculations with nuclear shell models have led to the expectation that element 114, with 114 protons and 184 neutrons...</p></details>
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/element-115-tidbits/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Element 115 tidbitsCalculations with nuclear shell models have led to the expectation that element 114, with 114 protons and 184 neutrons...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Simulating Element 115 Pulses in the Dual Sheet ModelDepth: If Mc-299 stabilizes (predicted half-life ~1 s), pulses could generate antima...</p></details>
+   Link:<a href="https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/simulating-element-115-pulses-in-the-dual-sheet-model-an-in-depth-educational-exploration-7969516d94cf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Simulating Element 115 Pulses in the Dual Sheet ModelDepth: If Mc-299 stabilizes (predicted half-life ~1 s), pulses could generate antima...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=DoI5QbNKVsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoI5QbNKVsY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Bob Lazar&#x27;s Element 115 ExploredBob Lazar has captured the imaginations of skeptics who question if we are alone in the univer...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=DoI5QbNKVsY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=DoI5QbNKVsY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science of Bob Lazar&#x27;s Element 115 ExploredBob Lazar has captured the imaginations of skeptics who question if we are alone in the univer...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: wired.com  
    Title: new elements periodic table nihonium moscovium tennessine oganesson  
-   Link: <a href="https://www.wired.com/story/new-elements-periodic-table-nihonium-moscovium-tennessine-oganesson" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/new-elements-periodic-table-nihonium-moscovium-tennessine-oganesson</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These elements, numbered 113, 115, 117, and 118 respectively, are man-made and were discovered by scientists from Japan, Russia, and the...</p></details>
+   Link:<a href="https://www.wired.com/story/new-elements-periodic-table-nihonium-moscovium-tennessine-oganesson" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/new-elements-periodic-table-nihonium-moscovium-tennessine-oganesson</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These elements, numbered 113, 115, 117, and 118 respectively, are man-made and were discovered by scientists from Japan, Russia, and the...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: physics.stackexchange.com  
    Title: can moscovium 299 exist and is it possible to predict how stable it will be  
-   Link: <a href="https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This question is off-topic. It is not currently accepting answers. We deal with mainstream physics here. Questions about the...</p></details>
+   Link:<a href="https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be" target="_blank" rel="noopener noreferrer nofollow">https://physics.stackexchange.com/questions/769462/can-moscovium-299-exist-and-is-it-possible-to-predict-how-stable-it-will-be</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This question is off-topic. It is not currently accepting answers. We deal with mainstream physics here. Questions about the...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: intechbearing.com  
-   Link: <a href="https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOoqPG7neIF-BmgC90hDxWBNhfCDNqXfWRRAa1toGNNmWc2AjSVtC" target="_blank" rel="noopener noreferrer nofollow">https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOoqPG7neIF-BmgC90hDxWBNhfCDNqXfWRRAa1toGNNmWc2AjSVtC</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly, all of these four elements are super heavy, lab-made and VERY radioactive.Read more...</p></details>
+   Link:<a href="https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOoqPG7neIF-BmgC90hDxWBNhfCDNqXfWRRAa1toGNNmWc2AjSVtC" target="_blank" rel="noopener noreferrer nofollow">https://intechbearing.com/blogs/news/getting-closer-to-element-115?srsltid=AfmBOoqPG7neIF-BmgC90hDxWBNhfCDNqXfWRRAa1toGNNmWc2AjSVtC</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Interestingly, all of these four elements are super heavy, lab-made and VERY radioactive.Read more...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: rsc.org  
-   Link: <a href="https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>As of 2016, these new elements will be known as Nihonium, Moscovium, Tennesine and...Read more...</p></details>
+   Link:<a href="https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability" target="_blank" rel="noopener noreferrer nofollow">https://www.rsc.org/news/2017/january/have-we-reached-the-shores-of-the-island-of-stability</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>As of 2016, these new elements will be known as Nihonium, Moscovium, Tennesine and...Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ond uranium (Z=92), synthesized through heavy-ion fusion...Read more...</p></details>
+   Link:<a href="https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ond uranium (Z=92), synthesized through heavy-ion fusion...Read more...</p></details>

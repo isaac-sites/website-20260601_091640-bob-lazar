@@ -265,7 +265,7 @@ image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medic
 Claims that people have suffered burns, neurological symptoms, skin injuries, nausea, cognitive problems or psychological distress after alleged UAP encounters sit at the most controversial end of the human-effects [debate]({{ 'debate-020cbc/' | relative_url }}). Colm Kelleher helped bring these reports into public discussion through work associated with [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}), Bigelow Aerospace Advanced Space Studies (BAASS) and the wider AAWSAP programme. The central question is not whether witnesses can become ill after unusual experiences. They can. The real question is whether the illness can be documented strongly enough to support claims about an external event rather than stress, coincidence, environmental exposure, pre-existing disease or misinterpretation.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-1-dark.svg" | relative_url }}" alt="Medical records illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-A credible investigation therefore depends less on dramatic testimony and more on medical standards. The stronger the claim, the more important it becomes to establish timelines, preserve records, measure environmental conditions and rule out ordinary causes. Without that discipline, even genuine injuries tell investigators very little about what produced them. With it, unusual cases become more useful, regardless of whether the final explanation turns out to be exotic, conventional or unresolved. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsdr.cdc.gov">[ATSDR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsdr.cdc.gov</span><span class="citation-popover-snippet">Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</span></span></span>
+A credible investigation therefore depends less on dramatic testimony and more on medical standards. The stronger the claim, the more important it becomes to establish timelines, preserve records, measure environmental conditions and rule out ordinary causes. Without that discipline, even genuine injuries tell investigators very little about what produced them. With it, unusual cases become more useful, regardless of whether the final explanation turns out to be exotic, conventional or unresolved.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsdr.cdc.gov">[ATSDR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsdr.cdc.gov</span><span class="citation-popover-snippet">Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</span></span></span>
 
 ## What a credible medical record would need
 
@@ -286,9 +286,9 @@ For an alleged UAP-related injury, a strong evidential record would typically in
 
 </div>
 
-This approach mirrors established environmental and occupational medicine practice. Investigators examining suspected toxic exposure cases do not begin by assuming a cause. They reconstruct exposure pathways, symptom onset and objective findings before drawing conclusions. The same principle would apply to a claimed UAP injury. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsdr.cdc.gov">[ATSDR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsdr.cdc.gov</span><span class="citation-popover-snippet">Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/default-source/[documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">assessment. 3.Environmental exposure. 4.Toxicology. I.World Health Organization. II.International Programme on Chemical...Read more...</span></span></span>
+This approach mirrors established environmental and occupational medicine practice. Investigators examining suspected toxic exposure cases do not begin by assuming a cause. They reconstruct exposure pathways, symptom onset and objective findings before drawing conclusions. The same principle would apply to a claimed UAP injury.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsdr.cdc.gov">[ATSDR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsdr.cdc.gov</span><span class="citation-popover-snippet">Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/default-source/[documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">assessment. 3.Environmental exposure. 4.Toxicology. I.World Health Organization. II.International Programme on Chemical...Read more...</span></span></span>
 
-The often-cited DIA reference paper *Anomalous Acute and Subacute Field Effects on Human Biological Tissues* discusses burns, neurological effects, psychiatric symptoms and possible electromagnetic mechanisms. Importantly, the document itself does not prove that UAP caused such injuries. It frames them as claims requiring clinical investigation and biophysical analysis. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+The often-cited DIA reference paper *Anomalous Acute and Subacute Field Effects on Human Biological Tissues* discusses burns, neurological effects, psychiatric symptoms and possible electromagnetic mechanisms. Importantly, the document itself does not prove that UAP caused such injuries. It frames them as claims requiring clinical investigation and biophysical analysis.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 ### Why timing matters so much
 
@@ -300,7 +300,7 @@ This is one reason sceptics often criticise older UAP injury accounts. The issue
 
 ## Environmental exposures that must be ruled out
 
-A major weakness in many public UAP injury stories is that ordinary exposure sources are discussed only briefly or not at all. Yet environmental medicine relies on systematic exclusion of known hazards before unusual explanations are considered. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsdr.cdc.gov">[ATSDR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsdr.cdc.gov</span><span class="citation-popover-snippet">Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[IRIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-snippet">• The postulated duration and magnitude of exposure.Read more...</span></span></span>
+A major weakness in many public UAP injury stories is that ordinary exposure sources are discussed only briefly or not at all. Yet environmental medicine relies on systematic exclusion of known hazards before unusual explanations are considered.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: atsdr.cdc.gov">[ATSDR]</a><span class="citation-popover" role="note"><span class="citation-popover-source">atsdr.cdc.gov</span><span class="citation-popover-snippet">Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[IRIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-snippet">• The postulated duration and magnitude of exposure.Read more...</span></span></span>
 
 ### Radiation and electromagnetic sources
 
@@ -311,10 +311,10 @@ However, investigators would need to examine:
 * Nearby radar systems.
 * Telecommunications infrastructure.
 * Industrial radiofrequency equipment.
-* Electrical faults. * Medical radiation exposure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Access to Exposure &amp; Medical Records</span><span class="citation-popover-snippet">Access to Exposure &amp; Medical Records - Safety Checklist...This checklist covers most of the regulations issued by the US Department o...</span></span></span> * Occupational exposure histories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Access to Exposure &amp; Medical Records</span><span class="citation-popover-snippet">Access to Exposure &amp; Medical Records - Safety Checklist...This checklist covers most of the regulations issued by the US Department o...</span></span></span>
+* Electrical faults. * Medical radiation exposure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Access to Exposure &amp; Medical Records</span><span class="citation-popover-snippet">Access to Exposure &amp; Medical Records - Safety Checklist...This checklist covers most of the regulations issued by the US Department o...</span></span></span> * Occupational exposure histories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[cdc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-title">Access to Exposure &amp; Medical Records</span><span class="citation-popover-snippet">Access to Exposure &amp; Medical Records - Safety Checklist...This checklist covers most of the regulations issued by the US Department o...</span></span></span>
 * Consumer electronics and high-powered transmitters.
 
-The AAWSAP-era discussions around biological effects often focused on electromagnetic mechanisms because such mechanisms at least fit known physics better than entirely unknown forces. But demonstrating exposure requires measurements, not merely symptoms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+The AAWSAP-era discussions around biological effects often focused on electromagnetic mechanisms because such mechanisms at least fit known physics better than entirely unknown forces. But demonstrating exposure requires measurements, not merely symptoms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 ### Chemical and toxic exposures
 
@@ -328,14 +328,14 @@ Many symptoms reported in alleged UAP encounters overlap with recognised toxic e
 * Fatigue.
 * Respiratory complaints.
 
-Environmental health investigations routinely examine air quality, chemicals, fuels, pesticides, industrial emissions and contaminated materials before attributing illness to an unusual source. WHO and occupational-health guidance place heavy emphasis on exposure reconstruction and hazard identification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/default-source/[documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">assessment. 3.Environmental exposure. 4.Toxicology. I.World Health Organization. II.International Programme on Chemical...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[IRIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-snippet">• The postulated duration and magnitude of exposure.Read more...</span></span></span>
+Environmental health investigations routinely examine air quality, chemicals, fuels, pesticides, industrial emissions and contaminated materials before attributing illness to an unusual source. WHO and occupational-health guidance place heavy emphasis on exposure reconstruction and hazard identification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.who.int/docs/default-source/[documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: who.int">[World Health Organization]</a><span class="citation-popover" role="note"><span class="citation-popover-source">who.int</span><span class="citation-popover-snippet">assessment. 3.Environmental exposure. 4.Toxicology. I.World Health Organization. II.International Programme on Chemical...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iris.who.int">[IRIS]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iris.who.int</span><span class="citation-popover-snippet">• The postulated duration and magnitude of exposure.Read more...</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-2-dark.svg" | relative_url }}" alt="Medical records illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Natural medical explanations
 
 The more dramatic the claim, the more important differential diagnosis becomes.
 
-Neurological symptoms may result from infections, autoimmune disorders, migraines, vestibular disorders, sleep disruption, medication effects or psychological stress. Some conditions can produce clusters of symptoms that resemble accounts later interpreted as exposure injuries. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.neurology.org/doi/10.1212/NXI.0000000000001084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurology.org">[American Academy of Neurology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurology.org</span><span class="citation-popover-snippet">American Academy of NeurologyNeurosarcoidosis &#124; Neurology Neuroimmunology &amp;...by MJ Bradshaw · 2021 · Cited by 255 — Neurologic involvem...</span></span></span>
+Neurological symptoms may result from infections, autoimmune disorders, migraines, vestibular disorders, sleep disruption, medication effects or psychological stress. Some conditions can produce clusters of symptoms that resemble accounts later interpreted as exposure injuries.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.neurology.org/doi/10.1212/NXI.0000000000001084" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: neurology.org">[American Academy of Neurology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">neurology.org</span><span class="citation-popover-snippet">American Academy of NeurologyNeurosarcoidosis &#124; Neurology Neuroimmunology &amp;...by MJ Bradshaw · 2021 · Cited by 255 — Neurologic involvem...</span></span></span>
 
 A credible UAP investigation therefore requires medical specialists who are willing to look for ordinary explanations as aggressively as they look for unusual ones.
 
@@ -345,7 +345,7 @@ The debate around Kelleher's human-effects work often becomes polarised. Believe
 
 Both concerns have some validity.
 
-Witnesses reporting unexplained illness deserve appropriate medical evaluation. Dismissing symptoms simply because they are associated with a UFO report can lead to missed diagnoses and poor patient care. Occupational-health and exposure-investigation frameworks emphasise taking complaints seriously even when the cause is initially uncertain. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osha.gov/complianceassistance/hhe-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osha.gov">[OSHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osha.gov</span><span class="citation-popover-snippet">NIOSH Health Hazard Evaluation ProgramNIOSH evaluates the workplace environment and the health of employees by reviewing records and...</span></span></span>
+Witnesses reporting unexplained illness deserve appropriate medical evaluation. Dismissing symptoms simply because they are associated with a UFO report can lead to missed diagnoses and poor patient care. Occupational-health and exposure-investigation frameworks emphasise taking complaints seriously even when the cause is initially uncertain.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osha.gov/complianceassistance/hhe-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osha.gov">[OSHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osha.gov</span><span class="citation-popover-snippet">NIOSH Health Hazard Evaluation ProgramNIOSH evaluates the workplace environment and the health of employees by reviewing records and...</span></span></span>
 
 At the same time, taking witnesses seriously is not the same thing as accepting their explanation. Medical investigation exists precisely because symptoms can have multiple causes. A respectful clinical approach should allow both possibilities to remain open.
 
@@ -372,7 +372,7 @@ Investigators need to know:
 
 A striking MRI result or unusual blood test has limited evidential value if there is no documented connection between the test and the alleged exposure event.
 
-Occupational and environmental health investigations often maintain extensive exposure and medical records for exactly this reason. Record preservation helps later reviewers determine whether conclusions were justified. CDC <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-health-and-human-services/rg-0442/n1-442-98-001_sf115.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">CFR 1910.1020.Read more...</span></span></span>
+Occupational and environmental health investigations often maintain extensive exposure and medical records for exactly this reason. Record preservation helps later reviewers determine whether conclusions were justified. CDC<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-health-and-human-services/rg-0442/n1-442-98-001_sf115.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-snippet">CFR 1910.1020.Read more...</span></span></span>
 
 For UAP-related claims, this standard becomes even more important because investigators are dealing with events whose underlying causes are already disputed.
 
@@ -397,197 +397,197 @@ Investigators would ideally have:
 
 This is where the debate surrounding Kelleher's work ultimately returns. The argument that unusual injuries deserve investigation is relatively uncontroversial. The harder question is whether any published case has yet met the evidential threshold needed to connect a documented injury to an unidentified aerial phenomenon rather than to a more conventional cause.
 
-The available public record suggests that the standards for investigating such claims are becoming clearer than they were during earlier UFO eras. What remains much less clear is whether the existing cases satisfy those standards strongly enough to transform intriguing reports into persuasive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osha.gov/complianceassistance/hhe-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osha.gov">[OSHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osha.gov</span><span class="citation-popover-snippet">NIOSH Health Hazard Evaluation ProgramNIOSH evaluates the workplace environment and the health of employees by reviewing records and...</span></span></span>
+The available public record suggests that the standards for investigating such claims are becoming clearer than they were during earlier UFO eras. What remains much less clear is whether the existing cases satisfy those standards strongly enough to transform intriguing reports into persuasive evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osha.gov/complianceassistance/hhe-program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osha.gov">[OSHA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osha.gov</span><span class="citation-popover-snippet">NIOSH Health Hazard Evaluation ProgramNIOSH evaluates the workplace environment and the health of employees by reviewing records and...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How should UAP injury claims be checked?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How should UAP injury claims be checked?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides case-study context for evaluating unusual claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides case-study context for evaluating unusual claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Premonition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QQXEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Premonition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Premonition">The Premonition</a>
-        </h4>
-        <p class="fr-book-author">By Michael Lewis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Premonition on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=2QQXEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Premonition" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Premonition">The Premonition</a>
+</h4>
+<p class="fr-book-author">By Michael Lewis</p>
         
-        <p class="fr-book-desc">Illustrates how strong medical and investigative standards are built around uncertain events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Illustrates how strong medical and investigative standards are built around uncertain events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L8xSEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Invisible Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Rainbow">The Invisible Rainbow</a>
-        </h4>
-        <p class="fr-book-author">By Arthur Firstenberg</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible Rainbow on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=L8xSEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Invisible Rainbow" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Rainbow">The Invisible Rainbow</a>
+</h4>
+<p class="fr-book-author">By Arthur Firstenberg</p>
         
-        <p class="fr-book-desc">Relevant to discussions of exposure hypotheses that must be ruled out.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Relevant to discussions of exposure hypotheses that must be ruled out.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Contains discussion of alleged biological and medical effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains discussion of alleged biological and medical effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Rainbow</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Premonition&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Premonition</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+Rainbow&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible Rainbow</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-should-uap-injury-claims-be-checked-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-should-uap-injury-claims-be-checked-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -603,7 +603,7 @@ The available public record suggests that the standards for investigating such c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -623,7 +623,7 @@ The available public record suggests that the standards for investigating such c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -655,7 +655,7 @@ The available public record suggests that the standards for investigating such c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -707,7 +707,7 @@ The available public record suggests that the standards for investigating such c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -752,7 +752,7 @@ The available public record suggests that the standards for investigating such c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -793,109 +793,109 @@ The available public record suggests that the standards for investigating such c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: atsdr.cdc.gov  
-   Link: <a href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</p></details>
+   Link:<a href="https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html" target="_blank" rel="noopener noreferrer nofollow">https://www.atsdr.cdc.gov/environmental-medicine/hcp/csemtakinganexposurehistory/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taking an Exposure History Case Study8 Jan 2024 — An exposure history provides clues that prompt the clinician to investigate the po...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: who.int  
-   Link: <a href="https://www.who.int/docs/default-source/[documents" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/[documents</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>assessment. 3.Environmental exposure. 4.Toxicology. I.World Health Organization. II.International Programme on Chemical...Read more...</p></details>
+   Link:<a href="https://www.who.int/docs/default-source/[documents" target="_blank" rel="noopener noreferrer nofollow">https://www.who.int/docs/default-source/[documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>assessment. 3.Environmental exposure. 4.Toxicology. I.World Health Organization. II.International Programme on Chemical...Read more...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: iris.who.int  
-   Link: <a href="https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>• The postulated duration and magnitude of exposure.Read more...</p></details>
+   Link:<a href="https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content" target="_blank" rel="noopener noreferrer nofollow">https://iris.who.int/server/api/core/bitstreams/2c064608-d15c-4748-8e10-01aac35e072e/content</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>• The postulated duration and magnitude of exposure.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: neurology.org  
-   Link: <a href="https://www.neurology.org/doi/10.1212/NXI.0000000000001084" target="_blank" rel="noopener noreferrer nofollow">https://www.neurology.org/doi/10.1212/NXI.0000000000001084</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of NeurologyNeurosarcoidosis | Neurology Neuroimmunology &amp;...by MJ Bradshaw · 2021 · Cited by 255 — Neurologic involvem...</p></details>
+   Link:<a href="https://www.neurology.org/doi/10.1212/NXI.0000000000001084" target="_blank" rel="noopener noreferrer nofollow">https://www.neurology.org/doi/10.1212/NXI.0000000000001084</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>American Academy of NeurologyNeurosarcoidosis | Neurology Neuroimmunology &amp;...by MJ Bradshaw · 2021 · Cited by 255 — Neurologic involvem...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: osha.gov  
-   Link: <a href="https://www.osha.gov/complianceassistance/hhe-program" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/complianceassistance/hhe-program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>NIOSH Health Hazard Evaluation ProgramNIOSH evaluates the workplace environment and the health of employees by reviewing records and...</p></details>
+   Link:<a href="https://www.osha.gov/complianceassistance/hhe-program" target="_blank" rel="noopener noreferrer nofollow">https://www.osha.gov/complianceassistance/hhe-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIOSH Health Hazard Evaluation ProgramNIOSH evaluates the workplace environment and the health of employees by reviewing records and...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: cdc.gov  
    Title: Access to Exposure & Medical Records  
-   Link: <a href="https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Access to Exposure &amp; Medical Records - Safety Checklist...This checklist covers most of the regulations issued by the US Department o...</p></details>
+   Link:<a href="https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/docs/2004-101/chklists/3acces~1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Access to Exposure &amp; Medical Records - Safety Checklist...This checklist covers most of the regulations issued by the US Department o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-health-and-human-services/rg-0442/n1-442-98-001_sf115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-health-and-human-services/rg-0442/n1-442-98-001_sf115.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CFR 1910.1020.Read more...</p></details>
+   Link:<a href="https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-health-and-human-services/rg-0442/n1-442-98-001_sf115.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/records-mgmt/rcs/schedules/departments/department-of-health-and-human-services/rg-0442/n1-442-98-001_sf115.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CFR 1910.1020.Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/niosh/docs/2019-132/default.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/docs/2019-132/default.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ional exposure banding process and gives guidance for risk managers.Read more...</p></details>
+   Link:<a href="https://www.cdc.gov/niosh/docs/2019-132/default.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/niosh/docs/2019-132/default.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional exposure banding process and gives guidance for risk managers.Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Agency Advanced Aerospace...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Agency Advanced Aerospace...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: federalregister.gov  
-   Link: <a href="https://www.federalregister.gov/documents/2007/03/22/E7-5219/the-national-institute-for-occupational-safety-and-health-niosh-of-the-centers-for-disease-control" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2007/03/22/E7-5219/the-national-institute-for-occupational-safety-and-health-niosh-of-the-centers-for-disease-control</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Institute for Occupational Safety and Health...22 Mar 2007 — Pursuant to this schedule, NIOSH will review these records to...</p></details>
+   Link:<a href="https://www.federalregister.gov/documents/2007/03/22/E7-5219/the-national-institute-for-occupational-safety-and-health-niosh-of-the-centers-for-disease-control" target="_blank" rel="noopener noreferrer nofollow">https://www.federalregister.gov/documents/2007/03/22/E7-5219/the-national-institute-for-occupational-safety-and-health-niosh-of-the-centers-for-disease-control</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Institute for Occupational Safety and Health...22 Mar 2007 — Pursuant to this schedule, NIOSH will review these records to...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...Anomalous Acute and Subacute Field Effects on Human Biological Tissues - Defense Inte...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...Anomalous Acute and Subacute Field Effects on Human Biological Tissues - Defense Inte...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Admits to the Possible Reality of ExtraterrestrialsAnomalous acute and subacute field effects on human biological tissues. Retri...</p></details>
+   Link:<a href="https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/pulse/congress-admits-possible-reality-extraterrestrials-h-nguyen-ph-d--xdjfc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congress Admits to the Possible Reality of ExtraterrestrialsAnomalous acute and subacute field effects on human biological tissues. Retri...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tsac.nl  
-   Link: <a href="https://www.tsac.nl/publicaties/Leidel%20%26%20Busch.%20Niosh.77-173.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsac.nl/publicaties/Leidel%20%26%20Busch.%20Niosh.77-173.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIOSH Publication No. 77-173, Occupational Exposure...This manual is the fourth NIOSH report oriented toward use of pre- dictive and ana...</p></details>
+   Link:<a href="https://www.tsac.nl/publicaties/Leidel%20%26%20Busch.%20Niosh.77-173.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tsac.nl/publicaties/Leidel%20%26%20Busch.%20Niosh.77-173.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIOSH Publication No. 77-173, Occupational Exposure...This manual is the fourth NIOSH report oriented toward use of pre- dictive and ana...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Refence Documents / DIRDs11 Mar 2010 — Anomalous Acute and Subacute Field Effects on Human. Biological... We make n...</p></details>
+   Link:<a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence Refence Documents / DIRDs11 Mar 2010 — Anomalous Acute and Subacute Field Effects on Human. Biological... We make n...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: alienhub.com  
-   Link: <a href="https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute And Subacute Field Effects on Human...7 Apr 2022 — Newly released document from Pentagon DIA on research conducted into...</p></details>
+   Link:<a href="https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute And Subacute Field Effects on Human...7 Apr 2022 — Newly released document from Pentagon DIA on research conducted into...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCEnvironmental Chemical Assessment in Clinical Practice  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4772201/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4772201/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>health, there are multiple barriers to the clinical assessment of toxic environmental exposures.... chemical exposure as a cause of card...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC4772201/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC4772201/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>health, there are multiple barriers to the clinical assessment of toxic environmental exposures.... chemical exposure as a cause of card...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aiha.org  
    Title: niosh incorporates written plans in risk assessment process  
-   Link: <a href="https://www.aiha.org/news/niosh-incorporates-written-plans-in-risk-assessment-process" target="_blank" rel="noopener noreferrer nofollow">https://www.aiha.org/news/niosh-incorporates-written-plans-in-risk-assessment-process</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NIOSH Incorporates Written Plans in Risk Assessment...12 Mar 2020 — According to the document, the purpose of NIOSH risk assessments is...</p></details>
+   Link:<a href="https://www.aiha.org/news/niosh-incorporates-written-plans-in-risk-assessment-process" target="_blank" rel="noopener noreferrer nofollow">https://www.aiha.org/news/niosh-incorporates-written-plans-in-risk-assessment-process</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NIOSH Incorporates Written Plans in Risk Assessment...12 Mar 2020 — According to the document, the purpose of NIOSH risk assessments is...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: inchem.org  
-   Link: <a href="https://www.inchem.org/documents/harmproj/harmproj/harmproj8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inchem.org/documents/harmproj/harmproj/harmproj8.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Human Health Risk Assessment Toolkitby RA Toolkit · Cited by 162 — Chemical risk assessments rely on scientific understanding o...</p></details>
+   Link:<a href="https://www.inchem.org/documents/harmproj/harmproj/harmproj8.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.inchem.org/documents/harmproj/harmproj/harmproj8.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WHO Human Health Risk Assessment Toolkitby RA Toolkit · Cited by 162 — Chemical risk assessments rely on scientific understanding o...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: epa.gov  
    Title: conducting human health risk assessment  
-   Link: <a href="https://www.epa.gov/risk/conducting-human-health-risk-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/risk/conducting-human-health-risk-assessment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Conducting a Human Health Risk Assessment13 Jan 2026 — Is there a critical time during a lifetime when a chemical is most toxic (e.g., fe...</p></details>
+   Link:<a href="https://www.epa.gov/risk/conducting-human-health-risk-assessment" target="_blank" rel="noopener noreferrer nofollow">https://www.epa.gov/risk/conducting-human-health-risk-assessment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Conducting a Human Health Risk Assessment13 Jan 2026 — Is there a critical time during a lifetime when a chemical is most toxic (e.g., fe...</p></details>

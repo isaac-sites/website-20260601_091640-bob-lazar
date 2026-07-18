@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-index/
 description: Focused pages that expand on How Credible Is Luis Elizondo?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b
 parent_title: How Credible Is Luis Elizondo?
@@ -16,7 +16,7 @@ parent_permalink: /how-credible-is-luis-elizondo/
 
 # Explore Topics in How Credible Is Luis Elizondo?
 
-The following pages expand on the main **[How Credible Is Luis Elizondo?]({{ '/how-credible-is-luis-elizondo/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[How Credible Is Luis Elizondo?]({{ '/how-credible-is-luis-elizondo/' | relative_url }})** page and cover its key branches in.
 
 - [AARO]({{ '/aaro-b41c4f/' | relative_url }})
 - [AATIP Role]({{ '/aatip-role/' | relative_url }})

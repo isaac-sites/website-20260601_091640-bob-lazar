@@ -301,19 +301,19 @@ image: /assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-overview-s
 John Ramirez’s alien contact and hybrid claims sit at the far end of his public UFO/UAP commentary. They are not simply claims that pilots saw unidentified objects, or that government sensors sometimes record unresolved events. They include alleged personal contact experiences, claims about human-alien hybrids, suggestions about alien DNA in family lines, and the idea that official or semi-official circles know far more than they can publicly admit. That matters because these claims require a much higher evidential standard than ordinary UAP reporting.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-overview.webp" | relative_url }}" alt="Overview image for Contact Claims" loading="eager" decoding="sync" fetchpriority="high">
-The cautious assessment is this: Ramirez’s intelligence-community background may make him an interesting commentator, but it does not by itself verify claims about extraterrestrial contact, hybrid programmes or hidden [alien ancestry]({{ 'alien-ancestry/' | relative_url }}). Publicly available sources show that he has made or amplified those themes in podcasts and fringe-leaning UFO media, while official UAP bodies such as AARO and NASA have not reported evidence of extraterrestrial beings, alien technology, recovered non-human biological material, or human-alien hybrid programmes. NASA Science <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real</span></span></span>
+The cautious assessment is this: Ramirez’s intelligence-community background may make him an interesting commentator, but it does not by itself verify claims about extraterrestrial contact, hybrid programmes or hidden [alien ancestry]({{ 'alien-ancestry/' | relative_url }}). Publicly available sources show that he has made or amplified those themes in podcasts and fringe-leaning UFO media, while official UAP bodies such as AARO and NASA have not reported evidence of extraterrestrial beings, alien technology, recovered non-human biological material, or human-alien hybrid programmes. NASA Science<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pBhAad-In70" title="EX CIA AGENT &amp; ALIEN HYBRIDS - Words by John Ramirez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pBhAad-In70" target="_blank" rel="noopener noreferrer">EX CIA AGENT &amp; ALIEN HYBRIDS - Words by John Ramirez</a></p><p class="youtube-embed-meta">Channel: TUPACABRA &middot; Views: 6.9K &middot; Uploaded: February 2022 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pBhAad-In70" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pBhAad-In70">Open on YouTube</a></p></div></div></div>
 
 ## Contact Claims
 
-Ramirez’s contact narratives are important because they shift his public profile from “retired intelligence officer commenting on UAP” into “claimant of direct or near-direct non-human intelligence experience”. Gaia’s programme listing for *John Ramirez: CIA Agent’s Close Encounters* says that Ramirez “reveals his direct contact experiences with extraterrestrials”, while also describing him as a former CIA employee who entered the agency in 1984 after Navy radar work and a George Washington University degree. That is a useful example of how his biography and contact claims are packaged together: the intelligence résumé is used to frame claims that are not independently demonstrated by the programme listing itself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span></span></span>
+Ramirez’s contact narratives are important because they shift his public profile from “retired intelligence officer commenting on UAP” into “claimant of direct or near-direct non-human intelligence experience”. Gaia’s programme listing for *John Ramirez: CIA Agent’s Close Encounters* says that Ramirez “reveals his direct contact experiences with extraterrestrials”, while also describing him as a former CIA employee who entered the agency in 1984 after Navy radar work and a George Washington University degree. That is a useful example of how his biography and contact claims are packaged together: the intelligence résumé is used to frame claims that are not independently demonstrated by the programme listing itself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span></span></span>
 
-A later podcast transcript shows the claims becoming more specific and more dramatic. In a 2025 *AREA52 – DEBRIEFED* episode, Ramirez is presented as a former CIA officer with a 25-year career and is asked about human-alien hybrids, alien DNA, a CIA tracking programme, classified medical records, implants and his own encounter with a “reptilian-like being”. The transcript attributes to the conversation claims that “hybrids are real”, that alien DNA was collected, and that the CIA tracked hybrid activity in the United States and family lineages. It also includes Ramirez describing his formal CIA work as electronic intelligence, or ELINT, involving radar and weapon-system signals rather than a stated official role in a UAP biological programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real</span></span></span>
+A later podcast transcript shows the claims becoming more specific and more dramatic. In a 2025 *AREA52 – DEBRIEFED* episode, Ramirez is presented as a former CIA officer with a 25-year career and is asked about human-alien hybrids, alien DNA, a CIA tracking programme, classified medical records, implants and his own encounter with a “reptilian-like being”. The transcript attributes to the conversation claims that “hybrids are real”, that alien DNA was collected, and that the CIA tracked hybrid activity in the United States and family lineages. It also includes Ramirez describing his formal CIA work as electronic intelligence, or ELINT, involving radar and weapon-system signals rather than a stated official role in a UAP biological programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real</span></span></span>
 
 This distinction is central. A former ELINT analyst could credibly understand radar signatures, missile-related sensor data and unusual technical reports. That does not automatically imply access to biological evidence, alien-human genetics, classified medical implants, or contact programmes. The evidential gap is not a small technicality; it is the main credibility issue. The more a claim moves from “I worked near systems that detected anomalous signatures” to “the government knows about alien hybrids”, the more the reader should ask for named documents, chain of custody, medical records, genetic data, programme names that can be checked, or corroborating witnesses willing to make precise claims under accountable conditions.
 
-The 2027 strand also belongs in this category because it frames contact as an expected public event rather than a past sighting. SYFY reported in 2023 that Ramirez had said the population was being prepared because “they’re showing up in 2027”, and that he had heard the date in a “kind of an official capacity” he could not reveal. The same article notes a separate Ramirez claim about an altercation with a reptilian-like being and treats the claims with clear scepticism rather than as established fact. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">aliens will reveal themselves in 2027 claims former cia agent</span></span></span>
+The 2027 strand also belongs in this category because it frames contact as an expected public event rather than a past sighting. SYFY reported in 2023 that Ramirez had said the population was being prepared because “they’re showing up in 2027”, and that he had heard the date in a “kind of an official capacity” he could not reveal. The same article notes a separate Ramirez claim about an altercation with a reptilian-like being and treats the claims with clear scepticism rather than as established fact.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">aliens will reveal themselves in 2027 claims former cia agent</span></span></span>
 
 That makes the contact narrative a high-risk credibility area. It may appeal to audiences already comfortable with alien contact lore, but it is weaker as public evidence. The claims are largely delivered through interviews and entertainment or podcast formats, not through released records, sworn documentation, peer-reviewed analysis, or official confirmation.
 
@@ -322,13 +322,13 @@ That makes the contact narrative a high-risk credibility area. It may appeal to 
 
 The hybrid theme is more specific than a general belief in extraterrestrials. It suggests that non-human biology has mixed with human family lines, that agencies can identify or monitor it, and that some people may be human-looking hybrids. Those are biological and historical claims, not merely intelligence or aerospace claims. They therefore need biological evidence.
 
-The public sources available for Ramirez do not supply that evidence. The *AREA52* transcript describes alleged “human-alien hybrid programmes”, “alien bloodlines”, alien DNA collection and CIA interest in particular families, but the same source is a podcast transcript and promotional episode page, not a released government file or scientific paper. It gives the reader a record of what was claimed in that media setting; it does not verify the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real</span></span></span>
+The public sources available for Ramirez do not supply that evidence. The *AREA52* transcript describes alleged “human-alien hybrid programmes”, “alien bloodlines”, alien DNA collection and CIA interest in particular families, but the same source is a podcast transcript and promotional episode page, not a released government file or scientific paper. It gives the reader a record of what was claimed in that media setting; it does not verify the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-title">Former CIA Officer Confirms Alien Hybrids are Real</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real</span></span></span>
 
-There is a separate, legitimate scientific conversation about human origins and ancient interbreeding, but it does not support alien-hybrid claims. Modern genetics does show that Homo sapiens interbred with other human relatives such as Neanderthals and Denisovans. The Smithsonian’s Human Origins programme states that Neanderthals contribute about 1–4% of the genomes of many non-African modern humans, depending on ancestry, and the National Human Genome Research Institute explains that genome comparisons are now used to trace human origins and ancestral population history. That is evidence for interbreeding among ancient human lineages, not evidence for extraterrestrial ancestry. <span class="citation-chip-wrap"><a class="citation-chip" href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanorigins.si.edu">[Human Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanorigins.si.edu</span><span class="citation-popover-title">ancient dna and neanderthals</span><span class="citation-popover-snippet">ancient dna and neanderthals</span></span></span>
+There is a separate, legitimate scientific conversation about human origins and ancient interbreeding, but it does not support alien-hybrid claims. Modern genetics does show that Homo sapiens interbred with other human relatives such as Neanderthals and Denisovans. The Smithsonian’s Human Origins programme states that Neanderthals contribute about 1–4% of the genomes of many non-African modern humans, depending on ancestry, and the National Human Genome Research Institute explains that genome comparisons are now used to trace human origins and ancestral population history. That is evidence for interbreeding among ancient human lineages, not evidence for extraterrestrial ancestry.<span class="citation-chip-wrap"><a class="citation-chip" href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: humanorigins.si.edu">[Human Origins]</a><span class="citation-popover" role="note"><span class="citation-popover-source">humanorigins.si.edu</span><span class="citation-popover-title">ancient dna and neanderthals</span><span class="citation-popover-snippet">ancient dna and neanderthals</span></span></span>
 
 This is where language can mislead. Words such as “hybrid”, “non-human”, “ancient DNA” and “human origins” can sound similar across UFO media and genetics, but they mean very different things. In mainstream biology, “non-human” can include other hominins within Earth’s evolutionary history. In UFO discourse, “non-human intelligence” is often used to imply alien, extradimensional or otherwise non-terrestrial beings. A credible argument about alien-human hybrids would have to bridge that gap with strong evidence: independently analysed DNA samples, documented provenance, expert review, replication by multiple laboratories and an explanation of why the findings cannot be accounted for by known human variation, contamination, archaic hominin ancestry, disease, mutation or laboratory error.
 
-The official UAP record also does not currently fill the gap. AARO’s 2024 consolidated annual report says it discovered “no evidence of extraterrestrial beings, activity, or technology”, and its historical review says no US, foreign or academic UAP investigation it reviewed reached the conclusion that UAP reports indicated extraterrestrial origin. AARO also reports that alleged physical materials examined in UAP contexts have not been shown to be foreign or extraterrestrial in origin. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
+The official UAP record also does not currently fill the gap. AARO’s 2024 consolidated annual report says it discovered “no evidence of extraterrestrial beings, activity, or technology”, and its historical review says no US, foreign or academic UAP investigation it reviewed reached the conclusion that UAP reports indicated extraterrestrial origin. AARO also reports that alleged physical materials examined in UAP contexts have not been shown to be foreign or extraterrestrial in origin.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1d7Mmss5TVI" title="12-07-21 John Ramirez, CIA Retired, UFOs/UAPs, Encounters and More!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer">12-07-21 John Ramirez, CIA Retired, UFOs/UAPs, Encounters and More!</a></p><p class="youtube-embed-meta">Channel: Podcast UFO Live Shows &middot; Views: 120.9K &middot; Uploaded: December 2021 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1d7Mmss5TVI">Open on YouTube</a></p></div></div></div>
 
@@ -350,20 +350,20 @@ A reasonable standard would ask for several kinds of evidence:
 
 The public record around Ramirez does not meet that standard. His claims are mostly interview-based and often depend on unnamed sources, alleged compartments, personal experiences, or statements that cannot be checked publicly. That does not prove the claims false, but it leaves them unverified. For a public-facing credibility assessment, “unverified” is not a minor label; it is the correct category until stronger evidence appears.
 
-Official UAP reporting actually reinforces the need for caution. AARO’s 2024 report says many cases remain unresolved because of insufficient data, but it also says resolved cases in that reporting period were prosaic objects such as balloons, birds, drones, satellites and aircraft, and that AARO had no evidence of extraterrestrial beings, activity or technology. NASA’s UAP independent study similarly stressed that there is no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP and that better data are needed before firm conclusions can be drawn. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
+Official UAP reporting actually reinforces the need for caution. AARO’s 2024 report says many cases remain unresolved because of insufficient data, but it also says resolved cases in that reporting period were prosaic objects such as balloons, birds, drones, satellites and aircraft, and that AARO had no evidence of extraterrestrial beings, activity or technology. NASA’s UAP independent study similarly stressed that there is no conclusive peer-reviewed evidence for an extraterrestrial origin of UAP and that better data are needed before firm conclusions can be drawn.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">DOD AARO Consolidated Annual Report on UAP Nov2024</span><span class="citation-popover-snippet">DOD AARO Consolidated Annual Report on UAP Nov2024</span></span></span>
 
 That is not the same as saying every UAP has been explained. It means that unresolved observations should not be quietly upgraded into alien biology, contact events or hybrid programmes without additional evidence. The distance between “unidentified” and “extraterrestrial-human hybrid” is vast.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-Illustration-2-dark.svg" | relative_url }}" alt="Contact Claims illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How This Affects Ramirez’s Credibility
 
-Ramirez’s credibility is not one single thing. His claimed intelligence background, his technical vocabulary, his public storytelling, and his most extraordinary alien claims need to be separated. A speaker can be credible about one part of his life and weakly supported on another. In Ramirez’s case, the public descriptions of his CIA and signals-intelligence background make him relevant to UFO/UAP discourse, but his contact and hybrid claims are the part of his narrative most exposed to sceptical challenge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span></span></span>
+Ramirez’s credibility is not one single thing. His claimed intelligence background, his technical vocabulary, his public storytelling, and his most extraordinary alien claims need to be separated. A speaker can be credible about one part of his life and weakly supported on another. In Ramirez’s case, the public descriptions of his CIA and signals-intelligence background make him relevant to UFO/UAP discourse, but his contact and hybrid claims are the part of his narrative most exposed to sceptical challenge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-title">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span><span class="citation-popover-snippet">Watch John Ramirez: CIA Agent&#x27;s Close Encounters &#124; Gaia</span></span></span>
 
 [Supporters]({{ 'supporters-124489/' | relative_url }}) may argue that intelligence work is compartmented, that former officials cannot reveal everything, and that sensitive programmes would not be documented in a way outsiders can easily verify. That is a possible explanation for missing evidence, but it is not evidence in itself. Secrecy can explain why proof is hard to obtain; it cannot substitute for proof. This is especially important when claims involve alien DNA, family-line monitoring, classified medical records, implants or a predicted public contact event.
 
-[Sceptics]({{ 'sceptics-70c753/' | relative_url }}) have a stronger position on this subtopic than on some narrower UAP questions because the hybrid claims should, in principle, be testable. If alien-human hybridisation were real and monitored by agencies, one would expect some combination of medical anomalies, genetic markers, whistleblower documents, lab records, procurement trails, biological samples or direct witnesses to have emerged in a more durable form than podcast testimony. AARO’s historical review also warns about a recurring problem in UFO claims: authentic classified or sensitive programmes can be mistakenly associated with extraterrestrial narratives, and second- or third-hand accounts can circulate without empirical support. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-20 "Endnote 20")
+[Sceptics]({{ 'sceptics-70c753/' | relative_url }}) have a stronger position on this subtopic than on some narrower UAP questions because the hybrid claims should, in principle, be testable. If alien-human hybridisation were real and monitored by agencies, one would expect some combination of medical anomalies, genetic markers, whistleblower documents, lab records, procurement trails, biological samples or direct witnesses to have emerged in a more durable form than podcast testimony. AARO’s historical review also warns about a recurring problem in UFO claims: authentic classified or sensitive programmes can be mistakenly associated with extraterrestrial narratives, and second- or third-hand accounts can circulate without empirical support.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">department of war releases unidentified anomalous phenomena files in historic t</span><span class="citation-popover-snippet">department of war releases unidentified anomalous phenomena files in historic t</span></span></span>(#endnote-20 "Endnote 20")
 
-The comparison with David Grusch’s “non-human biologics” testimony is useful but limited. Grusch made that claim in a congressional setting, while Ramirez’s hybrid and contact claims are more often made in podcasts and alternative-media venues. Even Grusch’s testimony remained contested and, publicly, unsupported by produced biological evidence; The Guardian reported his statement that “non-human” biologics were recovered according to people with direct knowledge, but the claim still depended on sources and details he did not publicly disclose. <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The comparison with David Grusch’s “non-human biologics” testimony is useful but limited. Grusch made that claim in a congressional setting, while Ramirez’s hybrid and contact claims are more often made in podcasts and alternative-media venues. Even Grusch’s testimony remained contested and, publicly, unsupported by produced biological evidence; The Guardian reported his statement that “non-human” biologics were recovered according to people with direct knowledge, but the claim still depended on sources and details he did not publicly disclose.<span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Ramirez goes further than conventional UAP transparency arguments. He is not only saying that some objects are unidentified or that governments should release better data. He is associating the topic with contact experiences, hybrids, alien DNA, human-origin narratives and future disclosure expectations. That makes him influential within parts of UFO culture, but it also makes his claims more vulnerable to the charge that intelligence credentials are being used to amplify ideas that have not crossed the evidential threshold.
 
@@ -371,159 +371,159 @@ Ramirez goes further than conventional UAP transparency arguments. He is not onl
 
 ## A Fair Bottom Line
 
-The strongest fair reading is that Ramirez is a notable example of an insider-branded UFO personality whose public claims have expanded into alien contact and hybrid territory. Those claims are central to his appeal in some UFO audiences, but they are not central to the verified public UAP record. The verified record supports a narrower statement: governments have investigated UAP, many reports remain unresolved because of poor or incomplete data, and some former officials have made dramatic claims. It does not verify alien contact, alien-human hybrids, classified alien DNA tracking, or an approaching 2027 revelation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">aliens will reveal themselves in 2027 claims former cia agent</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
+The strongest fair reading is that Ramirez is a notable example of an insider-branded UFO personality whose public claims have expanded into alien contact and hybrid territory. Those claims are central to his appeal in some UFO audiences, but they are not central to the verified public UAP record. The verified record supports a narrower statement: governments have investigated UAP, many reports remain unresolved because of poor or incomplete data, and some former officials have made dramatic claims. It does not verify alien contact, alien-human hybrids, classified alien DNA tracking, or an approaching 2027 revelation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">aliens will reveal themselves in 2027 claims former cia agent</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">4020 uap 2024</span><span class="citation-popover-snippet">4020 uap 2024</span></span></span>
 
 For readers assessing Ramirez, the key question is not whether a former intelligence officer can have unusual beliefs or experiences. The key question is whether the evidence offered matches the scale of the claim. On alien contact and hybrids, the public evidence remains thin, mostly testimonial, and heavily dependent on media settings that reward dramatic disclosure narratives. Until there is independently checkable biological, documentary or institutional evidence, these claims should be treated as extraordinary but unsubstantiated.
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-Illustration-3-dark.svg" | relative_url }}" alt="Contact Claims illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for How Far Do His Alien Claims Go?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for How Far Do His Alien Claims Go?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="https://i.ebayimg.com/images/g/a7YAAOSw8iNn75WY/s-l225.jpg" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3"><img src="https://i.ebayimg.com/images/g/a7YAAOSw8iNn75WY/s-l225.jpg" alt="Listing image for Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Sci-fi Alien Movie Poster | Official Cinema Wall Art – Film Prints A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS"><img src="https://i.ebayimg.com/images/g/sPYAAeSwx-5pi1Jl/s-l225.jpg" alt="Listing image for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS"><img src="https://i.ebayimg.com/images/g/sPYAAeSwx-5pi1Jl/s-l225.jpg" alt="Listing image for ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ICONIC HORROR MOVIE POSTERS CLASSIC SCARY FILM CINEMA WALL ART POSTER PRINTS</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN XENOMORPH POSTER BRIGHT WALL ART PRINT SIZE -A3 -A4"><img src="https://i.ebayimg.com/images/g/8YUAAOSwoDFlA1YG/s-l225.jpg" alt="Listing image for ALIEN XENOMORPH POSTER BRIGHT WALL ART PRINT SIZE -A3 -A4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN XENOMORPH POSTER BRIGHT WALL ART PRINT SIZE -A3 -A4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN XENOMORPH POSTER BRIGHT WALL ART PRINT SIZE -A3 -A4"><img src="https://i.ebayimg.com/images/g/8YUAAOSwoDFlA1YG/s-l225.jpg" alt="Listing image for ALIEN XENOMORPH POSTER BRIGHT WALL ART PRINT SIZE -A3 -A4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">ALIEN XENOMORPH POSTER BRIGHT WALL ART PRINT SIZE -A3 -A4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic &amp; New - Blockbuster Movie Posters | Official Cinema Wall Art - A4 A3"><img src="https://i.ebayimg.com/images/g/q8gAAeSw2rRn86qB/s-l225.jpg" alt="Listing image for Classic &amp; New - Blockbuster Movie Posters | Official Cinema Wall Art - A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Classic &amp; New - Blockbuster Movie Posters | Official Cinema Wall Art - A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Classic &amp; New - Blockbuster Movie Posters | Official Cinema Wall Art - A4 A3"><img src="https://i.ebayimg.com/images/g/q8gAAeSw2rRn86qB/s-l225.jpg" alt="Listing image for Classic &amp; New - Blockbuster Movie Posters | Official Cinema Wall Art - A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">Classic &amp; New - Blockbuster Movie Posters | Official Cinema Wall Art - A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for alien poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: alien poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=alien+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-do-his-alien-claims-go-alien-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="alien poster" data-ebay-reference="how-far-do-his-alien-claims-go-alien-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ For readers assessing Ramirez, the key question is not whether a former intellig
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ For readers assessing Ramirez, the key question is not whether a former intellig
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ For readers assessing Ramirez, the key question is not whether a former intellig
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ For readers assessing Ramirez, the key question is not whether a former intellig
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ For readers assessing Ramirez, the key question is not whether a former intellig
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,165 +729,165 @@ For readers assessing Ramirez, the key question is not whether a former intellig
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: gaia.com  
    Title: Watch John Ramirez: CIA Agent's Close Encounters | Gaia  
-   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
+   Link:<a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: podscan.fm  
    Title: Former CIA Officer Confirms Alien Hybrids are Real  
-   Link: <a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
+   Link:<a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dni.gov  
    Title: DOD AARO Consolidated Annual Report on UAP Nov2024  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/DOD-AARO-Consolidated-Annual-Report-on-UAP-Nov2024.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
+   Link:<a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: genome.gov  
    Title: human origins ancestry  
-   Link: <a href="https://www.genome.gov/dna-day/15-ways/human-origins-ancestry" target="_blank" rel="noopener noreferrer nofollow">https://www.genome.gov/dna-day/15-ways/human-origins-ancestry</a>  
+   Link:<a href="https://www.genome.gov/dna-day/15-ways/human-origins-ancestry" target="_blank" rel="noopener noreferrer nofollow">https://www.genome.gov/dna-day/15-ways/human-origins-ancestry</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: AARO Historical Record Report Vol 1 2024  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/AARO_Historical_Record_Report_Vol_1_2024.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: genome.gov  
    Title: human genome project  
-   Link: <a href="https://www.genome.gov/human-genome-project" target="_blank" rel="noopener noreferrer nofollow">https://www.genome.gov/human-genome-project</a>  
+   Link:<a href="https://www.genome.gov/human-genome-project" target="_blank" rel="noopener noreferrer nofollow">https://www.genome.gov/human-genome-project</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: genome.gov  
-   Link: <a href="https://www.genome.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.genome.gov/</a>  
+   Link:<a href="https://www.genome.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.genome.gov/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
+   Link:<a href="https://science.nasa.gov/uap/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: science.nasa.gov  
-   Link: <a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
+   Link:<a href="https://science.nasa.gov/uap/faqs/" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/uap/faqs/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: dod report discounts sightings of extraterrestrial technology  
-   Link: <a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
+   Link:<a href="https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/News-Stories/Article/Article/3701297/dod-report-discounts-sightings-of-extraterrestrial-technology/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: war.gov  
    Title: department of war releases unidentified anomalous phenomena files in historic t  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/4480582/department-of-war-releases-unidentified-anomalous-phenomena-files-in-historic-t/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: humanorigins.si.edu  
    Title: ancient dna and neanderthals  
-   Link: <a href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals</a>  
+   Link:<a href="https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/evidence/genetics/ancient-dna-and-neanderthals</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: oversight.house.gov  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-implications-on-national-security-public-safety-and-government-transparency/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: humanorigins.si.edu  
-   Link: <a href="https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-your-inner-neanderthal-deep-dive-neanderthal-and-denisovan-dna-modern-0" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-your-inner-neanderthal-deep-dive-neanderthal-and-denisovan-dna-modern-0</a>  
+   Link:<a href="https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-your-inner-neanderthal-deep-dive-neanderthal-and-denisovan-dna-modern-0" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-your-inner-neanderthal-deep-dive-neanderthal-and-denisovan-dna-modern-0</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: humanorigins.si.edu  
-   Link: <a href="https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-beyond-neanderthals-ancient-dna-and-denisovans-online" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-beyond-neanderthals-ancient-dna-and-denisovans-online</a>  
+   Link:<a href="https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-beyond-neanderthals-ancient-dna-and-denisovans-online" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/about/events/hot-human-origins-today-topic-beyond-neanderthals-ancient-dna-and-denisovans-online</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: humanorigins.si.edu  
    Title: homo neanderthalensis  
-   Link: <a href="https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis</a>  
+   Link:<a href="https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis" target="_blank" rel="noopener noreferrer nofollow">https://humanorigins.si.edu/evidence/human-fossils/species/homo-neanderthalensis</a>  
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
    Title: John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets  
-   Link: <a href="http://www.youtube.com/watch?v=8ZHWcMndjKI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8ZHWcMndjKI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez alien hybrids contact CIA EX CIA AGENT &amp; ALIEN HYBRIDS - Words by John Ramirez TUPACABRA...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=8ZHWcMndjKI" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=8ZHWcMndjKI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez alien hybrids contact CIA EX CIA AGENT &amp; ALIEN HYBRIDS - Words by John Ramirez TUPACABRA...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: youtube.com  
    Title: John Ramirez: The CIA is Tracking Humans that are Alien/Human Hybrids  
-   Link: <a href="http://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SGK1fpUx84g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA is Hunting Alien Hybrids? - John Ramirez - DEBRIEFED ep. 42...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SGK1fpUx84g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA is Hunting Alien Hybrids? - John Ramirez - DEBRIEFED ep. 42...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: Ex CIA Officer John Ramirez: Alien Hybrids & Breeding Program Exposed  
-   Link: <a href="http://www.youtube.com/watch?v=OycGxvv4VkA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OycGxvv4VkA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=OycGxvv4VkA" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=OycGxvv4VkA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: CIA is Hunting Alien Hybrids?  
-   Link: <a href="http://www.youtube.com/watch?v=SZwwwFadB9Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SZwwwFadB9Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA AGENT &amp; ALIEN HYBRIDS - Words by John Ramirez...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=SZwwwFadB9Y" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=SZwwwFadB9Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA AGENT &amp; ALIEN HYBRIDS - Words by John Ramirez...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: EX CIA AGENT & ALIEN HYBRIDS  
-   Link: <a href="http://www.youtube.com/watch?v=pBhAad-In70" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pBhAad-In70</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex CIA Officer John Ramirez: Alien Hybrids &amp; Breeding Program Exposed...</p></details>
+   Link:<a href="http://www.youtube.com/watch?v=pBhAad-In70" target="_blank" rel="noopener noreferrer nofollow">http://www.youtube.com/watch?v=pBhAad-In70</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex CIA Officer John Ramirez: Alien Hybrids &amp; Breeding Program Exposed...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
+   Link:<a href="https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/381405238_The_cryptoterrestrial_hypothesis_A_case_for_scientific_openness_to_a_concealed_earthly_explanation_for_Unidentified_Anomalous_Phenomena</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/</a>  
+   Link:<a href="https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/10NewsQLD/posts/the-united-states-has-been-concealing-information-about-ufos-including-the-retri/873307781306724/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/23andMe/posts/a-groundbreaking-study-just-published-in-nature-found-evidence-suggesting-that-h/1408851951276230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/23andMe/posts/a-groundbreaking-study-just-published-in-nature-found-evidence-suggesting-that-h/1408851951276230/</a>  
+   Link:<a href="https://www.facebook.com/23andMe/posts/a-groundbreaking-study-just-published-in-nature-found-evidence-suggesting-that-h/1408851951276230/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/23andMe/posts/a-groundbreaking-study-just-published-in-nature-found-evidence-suggesting-that-h/1408851951276230/</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
+   Link:<a href="https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/itvnews/posts/a-nasa-report-into-unidentified-flying-objects-ufos-has-found-no-evidence-that-t/686500760179269/</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DYcJiFpDKBl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYcJiFpDKBl/</a>
+   Link:<a href="https://www.instagram.com/p/DYcJiFpDKBl/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DYcJiFpDKBl/</a>

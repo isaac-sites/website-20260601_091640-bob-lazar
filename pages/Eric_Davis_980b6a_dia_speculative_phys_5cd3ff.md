@@ -298,39 +298,39 @@ image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-overview-soc
 
 ## Introduction
 
-The Defense Intelligence Reference Documents linked to Eric W. Davis show something real but often misunderstood: the US Defense Intelligence Agency did commission or hold speculative technical papers on subjects such as traversable wormholes, “stargates”, [negative energy]({{ 'negative-energy/' | relative_url }}) and [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}). That is evidence of official interest in scanning exotic future aerospace concepts, not evidence that those concepts work, that the US possessed such technology, or that UFOs were using it. Davis’s importance here is that he authored some of the most striking examples, placing him inside a documented defence-intelligence research setting. The credibility question is therefore narrower than the mythology around the papers: do they show a serious scientist-adjacent attempt to map distant theoretical possibilities, or do they show government money drifting into fringe territory? The fairest answer is both: the documents are genuine, technically literate in places, and useful for understanding AAWSAP/AATIP’s ambitions, but they do not close the gap between equations, engineering and evidence. The Black Vault <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence Agency</span></span></span>
+The Defense Intelligence Reference Documents linked to Eric W. Davis show something real but often misunderstood: the US Defense Intelligence Agency did commission or hold speculative technical papers on subjects such as traversable wormholes, “stargates”, [negative energy]({{ 'negative-energy/' | relative_url }}) and [warp drives]({{ 'warp-drive-bc4c41/' | relative_url }}). That is evidence of official interest in scanning exotic future aerospace concepts, not evidence that those concepts work, that the US possessed such technology, or that UFOs were using it. Davis’s importance here is that he authored some of the most striking examples, placing him inside a documented defence-intelligence research setting. The credibility question is therefore narrower than the mythology around the papers: do they show a serious scientist-adjacent attempt to map distant theoretical possibilities, or do they show government money drifting into fringe territory? The fairest answer is both: the documents are genuine, technically literate in places, and useful for understanding AAWSAP/AATIP’s ambitions, but they do not close the gap between equations, engineering and evidence. The Black Vault<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence Agency</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-overview.webp" | relative_url }}" alt="Overview image for DIA Papers" loading="eager" decoding="sync" fetchpriority="high">
 ## What the DIA papers actually were
 
-The documents usually called DIRDs were Defense Intelligence Reference Documents associated with the Advanced Aerospace Weapon System Applications Program, or AAWSAP, a DIA-managed programme also linked in public [debate]({{ 'debate/' | relative_url }}) to AATIP. A March 2022 DIA FOIA response to John Greenewald stated that a search found 37 responsive documents, totalling 1,473 pages, for a request seeking DIRDs created by Bigelow Aerospace, BAASS or parties involved with AATIP; the response also said portions were withheld under FOIA exemptions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The documents usually called DIRDs were Defense Intelligence Reference Documents associated with the Advanced Aerospace Weapon System Applications Program, or AAWSAP, a DIA-managed programme also linked in public [debate]({{ 'debate/' | relative_url }}) to AATIP. A March 2022 DIA FOIA response to John Greenewald stated that a search found 37 responsive documents, totalling 1,473 pages, for a request seeking DIRDs created by Bigelow Aerospace, BAASS or parties involved with AATIP; the response also said portions were withheld under FOIA exemptions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
-That matters because the papers are not internet folklore. They sit in an official release trail, and some are hosted or mirrored in FOIA archives. The Federation of American Scientists reported in 2019 that DIA had released a list of 38 research titles funded by the programme, including “Traversable Wormholes, Stargates, and Negative Energy”, prepared by Eric Davis. FAS described many of the topics as “highly conjectural” and beyond the boundaries of current science, engineering or military intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
+That matters because the papers are not internet folklore. They sit in an official release trail, and some are hosted or mirrored in FOIA archives. The Federation of American Scientists reported in 2019 that DIA had released a list of 38 research titles funded by the programme, including “Traversable Wormholes, Stargates, and Negative Energy”, prepared by Eric Davis. FAS described many of the topics as “highly conjectural” and beyond the boundaries of current science, engineering or military intelligence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span>
 
 The most important interpretive point is that a DIRD is not a test result, a procurement record, a recovered-hardware report or a demonstration log. It is closer to a horizon-scanning or threat-assessment paper: a way to ask, “If some adversary or future actor could exploit this area of physics, what might that imply?” That is a legitimate intelligence habit in broad form, but it can become misleading when readers treat a commissioned study as proof that the subject has moved from theoretical possibility to operational reality.
 
 ## Wormholes, warp drives and negative energy
 
-Davis’s best-known DIRD in this area is *Traversable Wormholes, Stargates, and Negative Energy*, dated 6 April 2010 and marked as a Defense Intelligence Reference Document for “Acquisition Threat Support”. The cover page alone is revealing: it places a science-fiction-sounding topic inside an intelligence-document format, with classification markings later crossed through in the released copy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
+Davis’s best-known DIRD in this area is *Traversable Wormholes, Stargates, and Negative Energy*, dated 6 April 2010 and marked as a Defense Intelligence Reference Document for “Acquisition Threat Support”. The cover page alone is revealing: it places a science-fiction-sounding topic inside an intelligence-document format, with classification markings later crossed through in the released copy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-The paper’s technical centre is not “aliens built stargates”. It is a discussion of theoretical physics concepts that already existed in the academic literature: traversable wormholes, exotic matter, violations of classical energy conditions, the Casimir effect, squeezed quantum states and the role of negative energy in general relativity. The reference list cites mainstream physics sources, including Morris and Thorne’s work on wormholes, Visser’s work on Lorentzian wormholes, Alcubierre’s warp-drive paper, and Ford and Roman on negative energy limits. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
+The paper’s technical centre is not “aliens built stargates”. It is a discussion of theoretical physics concepts that already existed in the academic literature: traversable wormholes, exotic matter, violations of classical energy conditions, the Casimir effect, squeezed quantum states and the role of negative energy in general relativity. The reference list cites mainstream physics sources, including Morris and Thorne’s work on wormholes, Visser’s work on Lorentzian wormholes, Alcubierre’s warp-drive paper, and Ford and Roman on negative energy limits.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-The phrase “negative energy” is the key. In ordinary life, energy is positive: fuel, heat, motion, radiation. In quantum field theory, however, certain configurations can be described as having locally negative energy density. That does not mean scientists can bottle unlimited anti-gravity fuel. Ford and Roman’s widely cited Scientific American treatment makes the sober point clearly: wormholes and warp drives would require a very unusual form of energy, and the same physics that permits negative energy appears to restrict how much can exist and for how long. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The phrase “negative energy” is the key. In ordinary life, energy is positive: fuel, heat, motion, radiation. In quantum field theory, however, certain configurations can be described as having locally negative energy density. That does not mean scientists can bottle unlimited anti-gravity fuel. Ford and Roman’s widely cited Scientific American treatment makes the sober point clearly: wormholes and warp drives would require a very unusual form of energy, and the same physics that permits negative energy appears to restrict how much can exist and for how long.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scientificamerican.com">[Scientific American]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scientificamerican.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-That is why the DIRDs are interesting but weak as UFO evidence. They show that Davis was engaging with real speculative physics questions. They do not show an engineering pathway to a craft, a device, a propulsion unit, or a recovered object. The wormhole paper itself points to the need for future empirical work once an intense source of negative energy is available — a phrasing that underlines the missing step rather than proving the technology exists. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
+That is why the DIRDs are interesting but weak as UFO evidence. They show that Davis was engaging with real speculative physics questions. They do not show an engineering pathway to a craft, a device, a propulsion unit, or a recovered object. The wormhole paper itself points to the need for future empirical work once an intense source of negative energy is available — a phrasing that underlines the missing step rather than proving the technology exists.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
-The related warp-drive DIRD, *[Warp Drive]({{ 'warp-drive-bc4c41/' | relative_url }}), Dark Energy, and the Manipulation of Extra Dimensions*, illustrates the same pattern. It discusses Alcubierre-style spacetime metrics, dark energy, Casimir energy and higher dimensions, then speculates about a possible mechanism by which a sufficiently advanced technology might control dark-energy density and therefore spacetime expansion. The document’s own outline says its final section “speculates about the technological progress” needed to turn the model into reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The related warp-drive DIRD, *[Warp Drive]({{ 'warp-drive-bc4c41/' | relative_url }}), Dark Energy, and the Manipulation of Extra Dimensions*, illustrates the same pattern. It discusses Alcubierre-style spacetime metrics, dark energy, Casimir energy and higher dimensions, then speculates about a possible mechanism by which a sufficiently advanced technology might control dark-energy density and therefore spacetime expansion. The document’s own outline says its final section “speculates about the technological progress” needed to turn the model into reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-Illustration-1-dark.svg" | relative_url }}" alt="DIA Papers illustration 1" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why speculative studies get funded
 
 The existence of these papers is less surprising when seen through an intelligence lens. Defence agencies sometimes examine low-probability, high-impact technologies because being late to a disruptive capability can be costly. During the Cold War and after, US defence research often took an interest in emerging areas before they were mature. In that broad sense, asking contractors to survey advanced lift, propulsion, signature reduction or unconventional materials is not inherently irrational.
 
-AARO’s 2024 historical report gives the official framing: at the direction of Senator Harry Reid, appropriations in fiscal years 2008 and 2010 provided $22 million for DIA to assess long-term, over-the-horizon foreign advanced aerospace threats. AARO says DIA established AAWSAP in 2009, that AAWSAP and AATIP have been used interchangeably on official documentation, and that AAWSAP’s primary purpose was to investigate potential next-generation aerospace technologies in 12 areas including advanced lift, propulsion, unconventional materials and signature reduction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-5 "Endnote 5")
+AARO’s 2024 historical report gives the official framing: at the direction of Senator Harry Reid, appropriations in fiscal years 2008 and 2010 provided $22 million for DIA to assess long-term, over-the-horizon foreign advanced aerospace threats. AARO says DIA established AAWSAP in 2009, that AAWSAP and AATIP have been used interchangeably on official documentation, and that AAWSAP’s primary purpose was to investigate potential next-generation aerospace technologies in 12 areas including advanced lift, propulsion, unconventional materials and signature reduction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-5 "Endnote 5")
 
 That framing helps explain why a defence-intelligence programme could fund papers on concepts that sound extreme. A future-threat survey does not have to claim that a technology already exists. It can ask whether a physics concept is impossible, merely impractical, or potentially worth watching over decades. In that narrow sense, a paper on wormholes or warp drives can be a speculative “what would it take?” exercise rather than a declaration that the technology is in hand.
 
-The problem is that AAWSAP/AATIP was not a clean, ordinary technology-watch programme in the public record. AARO states that although UFO/UAP investigation was not specifically outlined in the contract’s statement of work, the selected private-sector organisation conducted UFO research with support from the DIA programme manager, including reviewing cases, running debriefing and investigation teams, and proposing laboratories to examine recovered UFO materials. AARO also says the programme investigated alleged UAP and paranormal activity at a Utah property then owned by the head of the private-sector organisation, including “remote viewing” and “human consciousness anomalies”. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-5 "Endnote 5")
+The problem is that AAWSAP/AATIP was not a clean, ordinary technology-watch programme in the public record. AARO states that although UFO/UAP investigation was not specifically outlined in the contract’s statement of work, the selected private-sector organisation conducted UFO research with support from the DIA programme manager, including reviewing cases, running debriefing and investigation teams, and proposing laboratories to examine recovered UFO materials. AARO also says the programme investigated alleged UAP and paranormal activity at a Utah property then owned by the head of the private-sector organisation, including “remote viewing” and “human consciousness anomalies”.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-5 "Endnote 5")
 
 That dual character is central to assessing Davis. The DIRDs make him more documentable than many UFO personalities: his name is attached to genuine technical products inside a real defence-funded ecosystem. But the same ecosystem had blurred boundaries between advanced aerospace speculation, UFO investigation and paranormal interests. That makes the papers important evidence of access and institutional participation, not automatic evidence of extraordinary factual claims.
 
@@ -338,9 +338,9 @@ That dual character is central to assessing Davis. The DIRDs make him more docum
 
 ## The gap between theory and evidence
 
-The public often reads “the Pentagon studied warp drives” as if it means “the Pentagon had a warp drive”. The documents do not support that leap. They are literature surveys and speculative models, not experimental confirmations. Vice/Motherboard’s reporting on the released AAWSAP material captured the distinction well: the documents show interest in exotic technologies such as invisibility cloaking, traversable wormholes, negative energy, antigravity and gravitational-wave communications, but none appeared to have come close to becoming reality on the public evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The public often reads “the Pentagon studied warp drives” as if it means “the Pentagon had a warp drive”. The documents do not support that leap. They are literature surveys and speculative models, not experimental confirmations. Vice/Motherboard’s reporting on the released AAWSAP material captured the distinction well: the documents show interest in exotic technologies such as invisibility cloaking, traversable wormholes, negative energy, antigravity and gravitational-wave communications, but none appeared to have come close to becoming reality on the public evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The scientific gap is large. The Alcubierre warp-drive concept is a mathematical solution in general relativity, but classic versions require negative energy or exotic matter in quantities and configurations that are far beyond known engineering. Later work has tried to reduce the theoretical burden or formulate subluminal “warp” geometries, but even those papers remain theoretical; Bobrick and Martire’s 2021 model, for example, describes general warp-drive spacetimes and possible positive-energy subluminal versions, while still treating the subject as a theoretical framework rather than a demonstrated propulsion system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span>
+The scientific gap is large. The Alcubierre warp-drive concept is a mathematical solution in general relativity, but classic versions require negative energy or exotic matter in quantities and configurations that are far beyond known engineering. Later work has tried to reduce the theoretical burden or formulate subluminal “warp” geometries, but even those papers remain theoretical; Bobrick and Martire’s 2021 model, for example, describes general warp-drive spacetimes and possible positive-energy subluminal versions, while still treating the subject as a theoretical framework rather than a demonstrated propulsion system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span>
 
 That distinction is especially important in UAP credibility analysis. A theoretical paper can be mathematically interesting even when it has no link to unidentified objects in the sky. Conversely, a UAP video or radar case does not become evidence for wormholes simply because a government-funded paper once discussed wormholes. The bridge between those two domains would require hard evidence: measurements, materials, repeatable observations, propulsion signatures, engineering artefacts or a documented chain of custody. The DIRDs do not provide that bridge.
 
@@ -348,7 +348,7 @@ For Davis, the gap cuts both ways. Supporters can reasonably say that he was not
 
 ## What the papers strengthen in Davis’s credibility
 
-The DIRDs strengthen one part of Davis’s public credibility: they corroborate his proximity to the AAWSAP/AATIP technical research world. His authorship of a DIA-released paper on wormholes, stargates and negative energy is a concrete, checkable fact, not a rumour. The FOIA record also shows that Greenewald’s request specifically referenced Davis’s public comments about the documents, and that DIA later located a substantial set of responsive records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
+The DIRDs strengthen one part of Davis’s public credibility: they corroborate his proximity to the AAWSAP/AATIP technical research world. His authorship of a DIA-released paper on wormholes, stargates and negative energy is a concrete, checkable fact, not a rumour. The FOIA record also shows that Greenewald’s request specifically referenced Davis’s public comments about the documents, and that DIA later located a substantial set of responsive records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault</span></span></span>
 
 They also support a more nuanced view of his expertise. Davis’s role here was not that of a pilot witness, crash-retrieval whistleblower or first-hand observer of a craft. It was that of a physicist or technical consultant working on highly speculative advanced-propulsion and spacetime concepts. That is a narrower but more verifiable role.
 
@@ -370,9 +370,9 @@ They do not make him automatically credible on separate claims about hidden reco
 
 The same documents also complicate Davis’s credibility because they show how easily official formats can confer an aura of proof on ideas that remain remote from practical science. A document with a DIA header and a dramatic title can look more evidential than it is. For mainstream readers, that is the main trap: confusing “the government commissioned a study” with “the government confirmed the phenomenon”.
 
-AARO’s historical report makes the complication sharper. It says the AAWSAP/AATIP contract produced exploratory papers addressing the scientific areas tasked in the contract’s statement of work, but that these papers were not thoroughly peer reviewed. That does not make them worthless, but it lowers the confidence one should place in them as settled scientific assessments. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024</span></span></span>
+AARO’s historical report makes the complication sharper. It says the AAWSAP/AATIP contract produced exploratory papers addressing the scientific areas tasked in the contract’s statement of work, but that these papers were not thoroughly peer reviewed. That does not make them worthless, but it lowers the confidence one should place in them as settled scientific assessments.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume</span></span></span>
 
-There is also a governance issue. AARO says DIA did not seek or specifically authorise some of the UFO and paranormal work undertaken by the contractor, even though a DIA employee set up and managed the contract. That suggests a programme whose formal aerospace rationale and actual investigative interests were not always aligned. For Davis, the risk is association: his legitimate speculative physics work is embedded in a programme later criticised for mission drift, poor boundaries and limited public outputs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-5 "Endnote 5")
+There is also a governance issue. AARO says DIA did not seek or specifically authorise some of the UFO and paranormal work undertaken by the contractor, even though a DIA employee set up and managed the contract. That suggests a programme whose formal aerospace rationale and actual investigative interests were not always aligned. For Davis, the risk is association: his legitimate speculative physics work is embedded in a programme later criticised for mission drift, poor boundaries and limited public outputs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-5 "Endnote 5")
 
 The strongest sceptical reading is not that Davis fabricated the DIRDs. The stronger critique is that the DIRDs demonstrate a pattern in which official channels, speculative physics, UFO enthusiasm and contractor-funded research became entangled. In that environment, a technically sophisticated paper can be real while still being weak evidence for the extraordinary UFO interpretations later attached to it.
 
@@ -380,11 +380,11 @@ The strongest sceptical reading is not that Davis fabricated the DIRDs. The stro
 
 ## How supporters and sceptics read the same documents
 
-Supporters tend to read the DIRDs as proof that the US government took exotic aerospace possibilities seriously. On that point, they have evidence. DIA did release or acknowledge a set of AAWSAP/AATIP-related technical documents, and the subjects included highly unconventional physics and engineering concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Locations Unknown Defense Intelligence Reference Documents (DRIDs)On</span><span class="citation-popover-snippet">Locations Unknown Defense Intelligence Reference Documents (DRIDs)On</span></span></span>
+Supporters tend to read the DIRDs as proof that the US government took exotic aerospace possibilities seriously. On that point, they have evidence. DIA did release or acknowledge a set of AAWSAP/AATIP-related technical documents, and the subjects included highly unconventional physics and engineering concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: locationsunknown.org">[Locations Unknown]</a><span class="citation-popover" role="note"><span class="citation-popover-source">locationsunknown.org</span><span class="citation-popover-title">Locations Unknown Defense Intelligence Reference Documents (DRIDs)On</span><span class="citation-popover-snippet">Locations Unknown Defense Intelligence Reference Documents (DRIDs)On</span></span></span>
 
 Where supporters often go too far is in treating official interest as hidden confirmation. A wormhole paper does not show that a wormhole was built. A warp-drive paper does not show that observed UAP used spacetime engineering. A list of contracted studies does not prove that the contractor found working technology.
 
-Sceptics tend to read the DIRDs as evidence of poor judgement: public money spent on fringe topics under a programme shaped by a small network of believers, contractors and political patrons. That critique has support in FAS’s description of the titles as conjectural, Vice’s reporting on the programme’s weird research priorities, and AARO’s account of UFO and paranormal work sitting awkwardly alongside the formal aerospace remit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Sceptics tend to read the DIRDs as evidence of poor judgement: public money spent on fringe topics under a programme shaped by a small network of believers, contractors and political patrons. That critique has support in FAS’s description of the titles as conjectural, Vice’s reporting on the programme’s weird research priorities, and AARO’s account of UFO and paranormal work sitting awkwardly alongside the formal aerospace remit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Federation of American Scientists More Light on Black Program to Track UFOs</span><span class="citation-popover-snippet">Federation of American Scientists More Light on Black Program to Track UFOs</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Where sceptics can overstate the case is by dismissing all speculative physics as meaningless. Wormholes, negative energy and warp metrics are not random inventions; they have appeared in peer-reviewed theoretical physics. The issue is not whether equations can be written down. The issue is whether nature permits usable configurations, whether engineering can ever exploit them, and whether any UAP evidence points to them. On the public record, those latter steps remain unproven.
 
@@ -392,7 +392,7 @@ Where sceptics can overstate the case is by dismissing all speculative physics a
 
 ## What they really show about Eric Davis
 
-For a credibility page on Eric Davis, the DIA papers are one of the most important pieces of grounded evidence because they establish a documented role in a real defence-intelligence-adjacent research programme. They show Davis operating in a niche where advanced propulsion, relativity, quantum field theory and intelligence threat-scanning overlap. They also explain why his name carries weight in UAP circles: he is not simply a media commentator, but someone whose speculative physics work entered official channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
+For a credibility page on Eric Davis, the DIA papers are one of the most important pieces of grounded evidence because they establish a documented role in a real defence-intelligence-adjacent research programme. They show Davis operating in a niche where advanced propulsion, relativity, quantum field theory and intelligence threat-scanning overlap. They also explain why his name carries weight in UAP circles: he is not simply a media commentator, but someone whose speculative physics work entered official channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[defense]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>
 
 But the papers also set limits. They do not verify first-hand UAP encounters. They do not authenticate leaked memos. They do not prove crash retrievals. They do not show that wormholes, stargates, warp drives or negative-energy devices exist outside theoretical discussion. They are best understood as dataset evidence for institutional interest and speculative mechanism-building, not as proof of exotic craft.
 
@@ -407,194 +407,194 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
 <img src="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-Illustration-3-dark.svg" | relative_url }}" alt="DIA Papers illustration 3" data-theme-src-dark="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Do The DIA Papers Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Do The DIA Papers Really Show?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Examines whether concepts like warp drives and exotic propulsion could ever work.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines whether concepts like warp drives and exotic propulsion could ever work.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hyperspace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kFLiAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hyperspace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hyperspace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=kFLiAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Hyperspace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Directly addresses theoretical ideas found in the DIRDs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses theoretical ideas found in the DIRDs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Physics of Star Trek on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298166-M.jpg" alt="Cover for The Physics of Star Trek" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Physics of Star Trek">The Physics of Star Trek</a>
-        </h4>
-        <p class="fr-book-author">By Unknown author</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Physics of Star Trek on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/298166-M.jpg" alt="Cover for The Physics of Star Trek" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Physics of Star Trek">The Physics of Star Trek</a>
+</h4>
+<p class="fr-book-author">By Unknown author</p>
         
-        <p class="fr-book-desc">Explains warp drives, wormholes, and speculative physics in accessible terms.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains warp drives, wormholes, and speculative physics in accessible terms.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Science of Interstellar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PbWYBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Science of Interstellar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Interstellar">The Science of Interstellar</a>
-        </h4>
-        <p class="fr-book-author">By Kip Thorne</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Science of Interstellar on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PbWYBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Science of Interstellar" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Interstellar">The Science of Interstellar</a>
+</h4>
+<p class="fr-book-author">By Kip Thorne</p>
         
-        <p class="fr-book-desc">Provides grounded discussion of wormholes and relativity.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides grounded discussion of wormholes and relativity.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyperspace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyperspace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Physics of Star Trek</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hyperspace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hyperspace</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Physics of Star Trek</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warp drive [collage] Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/WrcAAeSwT7dpVAgT/s-l225.jpg" alt="Listing image for Warp drive [collage] Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Warp drive [collage] Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Warp drive [collage] Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/WrcAAeSwT7dpVAgT/s-l225.jpg" alt="Listing image for Warp drive [collage] Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Warp drive [collage] Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starship Warp Drive Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SOoAAeSwIOtpVAd3/s-l225.jpg" alt="Listing image for Starship Warp Drive Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Starship Warp Drive Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Starship Warp Drive Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SOoAAeSwIOtpVAd3/s-l225.jpg" alt="Listing image for Starship Warp Drive Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Starship Warp Drive Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall"><img src="https://i.ebayimg.com/images/g/MUAAAeSw8eJpxpbT/s-l225.jpg" alt="Listing image for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall"><img src="https://i.ebayimg.com/images/g/MUAAAeSw8eJpxpbT/s-l225.jpg" alt="Listing image for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WARPED-Offspring/Parkway Drive/Simple Plan..Australian LARGE TOUR poster (2013)"><img src="https://i.ebayimg.com/images/g/B4wAAOSwf3xlZXlJ/s-l225.jpg" alt="Listing image for WARPED-Offspring/Parkway Drive/Simple Plan..Australian LARGE TOUR poster (2013)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">WARPED-Offspring/Parkway Drive/Simple Plan..Australian LARGE TOUR poster (2013)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for WARPED-Offspring/Parkway Drive/Simple Plan..Australian LARGE TOUR poster (2013)"><img src="https://i.ebayimg.com/images/g/B4wAAOSwf3xlZXlJ/s-l225.jpg" alt="Listing image for WARPED-Offspring/Parkway Drive/Simple Plan..Australian LARGE TOUR poster (2013)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">WARPED-Offspring/Parkway Drive/Simple Plan..Australian LARGE TOUR poster (2013)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-do-the-dia-papers-really-show-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="what-do-the-dia-papers-really-show-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -610,7 +610,7 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -630,7 +630,7 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -662,7 +662,7 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -714,7 +714,7 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -759,7 +759,7 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -800,190 +800,190 @@ For readers assessing Davis, the useful conclusion is not “the Pentagon proved
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dia.mil  
    Title: Defense Intelligence Agency  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: fas.org  
    Title: Federation of American Scientists More Light on Black Program to Track UFOs  
-   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
+   Link:<a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/DIRD_13-DIRD_Warp_Drive_Dark_energy_and_the_Manipulation_of_Extra_Dimensions.pdf</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: vice.com  
-   Link: <a href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/</a>  
+   Link:<a href="https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/newly-released-documents-shed-light-on-government-funded-research-into-worm-holes-anti-gravity-and-invisibility-cloaks/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arxiv.org  
    Title: arXiv Introducing Physical Warp Drives  
-   Link: <a href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06824</a>  
+   Link:<a href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06824</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/23</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
+   Link:<a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
+   Link:<a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2020  
-   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf</a>  
+   Link:<a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2020.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2019.2  
-   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf</a>  
+   Link:<a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2019.2.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: en.wikisource.org  
    Title: Index:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: foia.gov  
-   Link: <a href="https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component</a>  
+   Link:<a href="https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component" target="_blank" rel="noopener noreferrer nofollow">https://www.foia.gov/?id=f67c6f12-27ed-4209-b61b-d273234b95f8&amp;type=component</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis - Hyperspace for Space Travel...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis - Hyperspace for Space Travel...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Eric Davis  
-   Link: <a href="https://www.youtube.com/watch?v=czNwSROec3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=czNwSROec3Y</a>  
+   Link:<a href="https://www.youtube.com/watch?v=czNwSROec3Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=czNwSROec3Y</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/negative-energy-wormholes-and-warp/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: locationsunknown.org  
    Title: Locations Unknown Defense Intelligence Reference Documents (DRIDs)On  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: theblackvault.com  
-   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
+   Link:<a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scientificamerican.com  
    Title: negative wormholes energy and warp  
-   Link: <a href="https://www.scientificamerican.com/article/negative-wormholes-energy-and-warp/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/negative-wormholes-energy-and-warp/</a>  
+   Link:<a href="https://www.scientificamerican.com/article/negative-wormholes-energy-and-warp/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/article/negative-wormholes-energy-and-warp/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: scientificamerican.com  
-   Link: <a href="https://www.scientificamerican.com/author/lawrence-h-ford/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/lawrence-h-ford/</a>  
+   Link:<a href="https://www.scientificamerican.com/author/lawrence-h-ford/" target="_blank" rel="noopener noreferrer nofollow">https://www.scientificamerican.com/author/lawrence-h-ford/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: documents2.theblackvault.com  
    Title: konablue release1  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: pdfcoffee.com  
    Title: defense intelligence reference document pdf free  
-   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
+   Link:<a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: studocu.com  
-   Link: <a href="https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488</a>  
+   Link:<a href="https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488" target="_blank" rel="noopener noreferrer nofollow">https://www.studocu.com/en-us/document/california-state-university-dominguez-hills/social-political-philosophy/defense-intelligence-reference-document-warp-drive-dark-energy-and-the-manipulation-of-extra-dimensions/108388488</a>  
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X3CcaP3yAkc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Weinstein Demands UFO Secrets From Pentagon Scientist...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=X3CcaP3yAkc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=X3CcaP3yAkc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Weinstein Demands UFO Secrets From Pentagon Scientist...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: UFO/UAP Disclosure Update with Eric W. Davis  
-   Link: <a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=KtE4kJ79yjc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=KtE4kJ79yjc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Eric Weinstein Demands UFO Secrets From Pentagon Scientist  
-   Link: <a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnxasfyHtfo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Update with Eric W. Davis...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xnxasfyHtfo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xnxasfyHtfo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP Disclosure Update with Eric W. Davis...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
+   Link:<a href="https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/aatip-stands-for-advanced-aerospace-threat-identification-program-and-its-very-r/10157346249393586/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/387067683_Warping_Space_A_Comprehensive_Guide_to_Energy_Requirements_and_Advancements_in_Alcubierre_Warp_Drive_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387067683_Warping_Space_A_Comprehensive_Guide_to_Energy_Requirements_and_Advancements_in_Alcubierre_Warp_Drive_Research</a>  
+   Link:<a href="https://www.researchgate.net/publication/387067683_Warping_Space_A_Comprehensive_Guide_to_Energy_Requirements_and_Advancements_in_Alcubierre_Warp_Drive_Research" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/387067683_Warping_Space_A_Comprehensive_Guide_to_Energy_Requirements_and_Advancements_in_Alcubierre_Warp_Drive_Research</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/TheBlackVault/posts/4983118128391366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheBlackVault/posts/4983118128391366/</a>  
+   Link:<a href="https://www.facebook.com/groups/TheBlackVault/posts/4983118128391366/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/TheBlackVault/posts/4983118128391366/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/</a>  
+   Link:<a href="https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/the-department-of-war-released-never-before-seen-files-on-unidentified-anomalous/1438273021676242/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/spaceflight/comments/1e0q4hp/does_this_paper_really_demonstrate_that_negative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceflight/comments/1e0q4hp/does_this_paper_really_demonstrate_that_negative/</a>  
+   Link:<a href="https://www.reddit.com/r/spaceflight/comments/1e0q4hp/does_this_paper_really_demonstrate_that_negative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/spaceflight/comments/1e0q4hp/does_this_paper_really_demonstrate_that_negative/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: scirp.org  
-   Link: <a href="https://www.scirp.org/journal/paperinformation?paperid=141629" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=141629</a>
+   Link:<a href="https://www.scirp.org/journal/paperinformation?paperid=141629" target="_blank" rel="noopener noreferrer nofollow">https://www.scirp.org/journal/paperinformation?paperid=141629</a>

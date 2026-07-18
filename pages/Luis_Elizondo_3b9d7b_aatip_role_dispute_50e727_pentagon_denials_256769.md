@@ -256,7 +256,7 @@ image: /assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_de
 
 ## Introduction
 
-The sharpest challenge to Luis Elizondo’s credibility has never been whether unidentified aerial phenomena exist. It is whether the Pentagon itself agrees with his description of his role. For years, Elizondo has publicly presented himself as the former head or director of the Advanced Aerospace Threat Identification Program (AATIP). Yet multiple Pentagon spokespersons later stated that he had “no assigned responsibilities” for AATIP while serving in the Office of the Under Secretary of Defense for Intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Pentagon spokesperson Christopher Sherwood confirmed. However, he added: “Elizondo had no responsibilities with regard to the AATIP progr...</span></span></span>
+The sharpest challenge to Luis Elizondo’s credibility has never been whether unidentified aerial phenomena exist. It is whether the Pentagon itself agrees with his description of his role. For years, Elizondo has publicly presented himself as the former head or director of the Advanced Aerospace Threat Identification Program (AATIP). Yet multiple Pentagon spokespersons later stated that he had “no assigned responsibilities” for AATIP while serving in the Office of the Under Secretary of Defense for Intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Pentagon spokesperson Christopher Sherwood confirmed. However, he added: “Elizondo had no responsibilities with regard to the AATIP progr...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-1-dark.svg" | relative_url }}" alt="Denials illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That dispute matters because it targets the strongest version of Elizondo’s authority claim. If the Pentagon is correct in the narrowest interpretation, then the public image of Elizondo as the formal leader of a recognised Pentagon UFO programme becomes much weaker. If Elizondo is correct, then the denials may reflect bureaucratic politics, programme ambiguity, or disagreements about how unofficial work should be described. The available record does not fully settle the dispute, but it does show that the argument is more specific than many supporters and critics suggest.
@@ -265,13 +265,13 @@ That dispute matters because it targets the strongest version of Elizondo’s au
 
 A common misunderstanding is that the Pentagon denied Elizondo ever worked on UAP-related matters. That is not what the most frequently quoted statements actually said.
 
-The key wording emerged through Pentagon public-affairs responses beginning in 2019 and was later repeated in multiple forms. The core claim was that Elizondo “had no responsibilities” or “no assigned responsibilities” regarding AATIP while working in the Office of the Under Secretary of Defense for Intelligence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SusanSusan is a feminine given name, the usual English version of Susanna or Susannah. All are versions of the Hebrew name Shoshana.Re...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">sex lies and ufos pentagons head of counterintelligence and security ousted</span><span class="citation-popover-snippet">The DebriefSex, Lies, and UFOs: Pentagon&#x27;s Head of...Apr 14, 2022 — Elizondo had no responsibilities with regard to the AATIP program wh...</span></span></span>
+The key wording emerged through Pentagon public-affairs responses beginning in 2019 and was later repeated in multiple forms. The core claim was that Elizondo “had no responsibilities” or “no assigned responsibilities” regarding AATIP while working in the Office of the Under Secretary of Defense for Intelligence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Susan" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">SusanSusan is a feminine given name, the usual English version of Susanna or Susannah. All are versions of the Hebrew name Shoshana.Re...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">sex lies and ufos pentagons head of counterintelligence and security ousted</span><span class="citation-popover-snippet">The DebriefSex, Lies, and UFOs: Pentagon&#x27;s Head of...Apr 14, 2022 — Elizondo had no responsibilities with regard to the AATIP program wh...</span></span></span>
 
 That wording is narrower than saying:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Elizondo never investigated UAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/NewsNationNow/posts/hes-a-former-pentagon-insider-a-veteran-and-investigator-today-hes-quite-possibl/524468589960163/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">He&#x27;s a former Pentagon insider, a veteran and investigator</span><span class="citation-popover-snippet">Luis &quot;Lue&quot; Elizondo is the former head of the Pentagon&#x27;s Advanced Aerospace Threat Identification Program (AATIP), which investigated UFO...</span></span></span>
+* Elizondo never investigated UAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/NewsNationNow/posts/hes-a-former-pentagon-insider-a-veteran-and-investigator-today-hes-quite-possibl/524468589960163/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">He&#x27;s a former Pentagon insider, a veteran and investigator</span><span class="citation-popover-snippet">Luis &quot;Lue&quot; Elizondo is the former head of the Pentagon&#x27;s Advanced Aerospace Threat Identification Program (AATIP), which investigated UFO...</span></span></span>
 * Elizondo never participated in discussions about unusual military sightings.
 * Elizondo fabricated his entire Pentagon background.
 * Elizondo never worked with personnel connected to AATIP or related efforts.
@@ -290,7 +290,7 @@ One of the most frequently cited documents supporting Elizondo's position is a m
 
 Supporters point to the document because it appears to recognise Elizondo's involvement with AATIP-related work and has been used as evidence that senior officials knew of his role. The memorandum became especially important after Pentagon spokespeople began publicly distancing the department from Elizondo's claims.
 
-However, the document has never ended the controversy because questions remain about its status and authority. Pentagon spokesperson Susan Gough later argued that a draft memorandum cited by journalists was unsigned and appeared to have been prepared by Elizondo himself rather than representing a formal departmental determination. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ezsd8d/pentagon_just_responded_john_greenewald_jr_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pentagon just responded John Greenewald, Jr</span><span class="citation-popover-snippet">about Lue...August 24, 2024 — After publication of this article, Pentagon spokesperson Susan Gough submitted comment by stating, “Luis E...</span><span class="citation-popover-meta">Published: August 24, 2024</span></span></span>
+However, the document has never ended the controversy because questions remain about its status and authority. Pentagon spokesperson Susan Gough later argued that a draft memorandum cited by journalists was unsigned and appeared to have been prepared by Elizondo himself rather than representing a formal departmental determination.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1ezsd8d/pentagon_just_responded_john_greenewald_jr_about/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Pentagon just responded John Greenewald, Jr</span><span class="citation-popover-snippet">about Lue...August 24, 2024 — After publication of this article, Pentagon spokesperson Susan Gough submitted comment by stating, “Luis E...</span><span class="citation-popover-meta">Published: August 24, 2024</span></span></span>
 
 That criticism does not automatically invalidate the document, but it changes its evidential weight. Critics argue that a draft or internal memorandum is not equivalent to an official personnel assignment record. Supporters respond that senior officials would not have tolerated inaccurate descriptions of sensitive responsibilities if they were entirely fictitious.
 
@@ -311,7 +311,7 @@ In ordinary language, many people interpret the phrase as meaning “he had noth
 
 The distinction becomes even more important when examining later Pentagon and [AARO]({{ 'aaro-b41c4f/' | relative_url }}) descriptions of AATIP itself.
 
-AARO's 2024 historical report argued that the funded Defence Intelligence Agency programme was AAWSAP, while “AATIP” was never an official Department of Defense programme in the same sense. According to the report, after AAWSAP ended, the AATIP label continued as an informal activity or community of interest rather than a recognised programme with dedicated funding and personnel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>. Department of War
+AARO's 2024 historical report argued that the funded Defence Intelligence Agency programme was AAWSAP, while “AATIP” was never an official Department of Defense programme in the same sense. According to the report, after AAWSAP ended, the AATIP label continued as an informal activity or community of interest rather than a recognised programme with dedicated funding and personnel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>. Department of War
 
 If that interpretation is correct, it creates an unusual problem:
 
@@ -322,14 +322,14 @@ This does not prove Elizondo's account. It does, however, explain why both sides
 
 Critics hear “no assigned responsibilities” and conclude that Elizondo exaggerated his position.
 
-Supporters hear “AATIP was never an official programme” and argue that the Pentagon is denying responsibility for a structure it simultaneously says did not formally exist. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/o6e43j/susan_gough_should_be_held_responsible_for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">le in AATIP, as well as lying to the American people...</span></span></span>
+Supporters hear “AATIP was never an official programme” and argue that the Pentagon is denying responsibility for a structure it simultaneously says did not formally exist.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/o6e43j/susan_gough_should_be_held_responsible_for/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">le in AATIP, as well as lying to the American people...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-2-dark.svg" | relative_url }}" alt="Denials illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Pentagon's Language Changed
 
 Another reason the controversy persists is that public messaging from the Department of Defense did not always sound consistent.
 
-Reporting from the period immediately after the 2017 New York Times revelations often described Elizondo as having led or directed AATIP. Later Pentagon statements became markedly more restrictive and emphasised that he had no assigned responsibilities in the programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">sex lies and ufos pentagons head of counterintelligence and security ousted</span><span class="citation-popover-snippet">The DebriefSex, Lies, and UFOs: Pentagon&#x27;s Head of...Apr 14, 2022 — Elizondo had no responsibilities with regard to the AATIP program wh...</span></span></span>
+Reporting from the period immediately after the 2017 New York Times revelations often described Elizondo as having led or directed AATIP. Later Pentagon statements became markedly more restrictive and emphasised that he had no assigned responsibilities in the programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">sex lies and ufos pentagons head of counterintelligence and security ousted</span><span class="citation-popover-snippet">The DebriefSex, Lies, and UFOs: Pentagon&#x27;s Head of...Apr 14, 2022 — Elizondo had no responsibilities with regard to the AATIP program wh...</span></span></span>
 
 Critics view the later statements as corrections of earlier reporting errors.
 
@@ -341,7 +341,7 @@ The public record does not provide a definitive explanation for the shift. What 
 
 Elizondo has not accepted the Pentagon's characterisation.
 
-In correspondence released through Freedom of Information Act processes, he directly challenged the claim that he had “no assigned duties” in AATIP and argued that people involved with the effort knew he ran the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">21 F 0938 PA Elizondo Emails</span><span class="citation-popover-snippet">Gough, My name is Luis D. Elizondo, and I am a former...and misleading comment that I had &quot;no assigned duties in the AATIP program.&quot; The...</span></span></span>
+In correspondence released through Freedom of Information Act processes, he directly challenged the claim that he had “no assigned duties” in AATIP and argued that people involved with the effort knew he ran the programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-title">21 F 0938 PA Elizondo Emails</span><span class="citation-popover-snippet">Gough, My name is Luis D. Elizondo, and I am a former...and misleading comment that I had &quot;no assigned duties in the AATIP program.&quot; The...</span></span></span>
 
 His position has generally been consistent on the central point: he maintains that he managed or directed the continuing UAP effort after earlier programme structures changed.
 
@@ -362,175 +362,175 @@ The answer significantly influences how readers assess his later claims about cl
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-3-dark.svg" | relative_url }}" alt="Denials illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_pentagon_denials_256769-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Denials Do and Do Not Prove
 
-The strongest sceptical interpretation is that official records outweigh personal testimony. Under that view, Pentagon statements and assignment records indicate that Elizondo's public résumé inflated his actual role. The repeated use of “no assigned responsibilities” is seen as a direct contradiction of the popular claim that he ran a Pentagon UFO programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</span></span></span>
+The strongest sceptical interpretation is that official records outweigh personal testimony. Under that view, Pentagon statements and assignment records indicate that Elizondo's public résumé inflated his actual role. The repeated use of “no assigned responsibilities” is seen as a direct contradiction of the popular claim that he ran a Pentagon UFO programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</span></span></span>
 
-The strongest supportive interpretation is that the denials focus on administrative language rather than practical reality. Under that view, Elizondo was performing UAP-related work inside an ambiguous and evolving structure that lacked conventional programme status, making later personnel descriptions incomplete or misleading. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>. Department of War
+The strongest supportive interpretation is that the denials focus on administrative language rather than practical reality. Under that view, Elizondo was performing UAP-related work inside an ambiguous and evolving structure that lacked conventional programme status, making later personnel descriptions incomplete or misleading.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>. Department of War
 
 A more cautious reading sits between those positions.
 
-The Pentagon denials are significant because they directly challenge the most expansive version of Elizondo's public narrative. They show that at least some Defence Department officials did not accept the claim that he held formally assigned responsibility for AATIP. That is not a trivial discrepancy and should affect how confidently readers treat statements about his exact title and authority. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</span></span></span>
+The Pentagon denials are significant because they directly challenge the most expansive version of Elizondo's public narrative. They show that at least some Defence Department officials did not accept the claim that he held formally assigned responsibility for AATIP. That is not a trivial discrepancy and should affect how confidently readers treat statements about his exact title and authority.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</span></span></span>
 
-At the same time, the denials do not conclusively establish that Elizondo invented his involvement with UAP investigations. The continuing confusion over AAWSAP, AATIP, informal UAP work, internal communities of interest and shifting bureaucratic structures leaves room for genuine disagreement over how his role should be described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>. Department of War
+At the same time, the denials do not conclusively establish that Elizondo invented his involvement with UAP investigations. The continuing confusion over AAWSAP, AATIP, informal UAP work, internal communities of interest and shifting bureaucratic structures leaves room for genuine disagreement over how his role should be described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>. Department of War
 
 The result is not a clean verdict. The Pentagon's statements weaken the simplest claim that Elizondo unquestionably ran a clearly defined official Pentagon programme. They do not, by themselves, prove that he had no meaningful involvement in UAP-related activities inside the national-security system.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/9gLPtRwXgCM" title="Joe Rogan Experience #2194 - Luis Elizondo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer">Joe Rogan Experience #2194 - Luis Elizondo</a></p><p class="youtube-embed-meta">Channel: PowerfulJRE &middot; Views: 3.2M &middot; Uploaded: August 2024 &middot; Length: 2 hours 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=9gLPtRwXgCM">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did the Pentagon Actually Deny?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did the Pentagon Actually Deny?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
-        </h4>
-        <p class="fr-book-author">By Todd Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
+</h4>
+<p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-pentagon-actually-deny-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-the-pentagon-actually-deny-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ The result is not a clean verdict. The Pentagon's statements weaken the simplest
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ The result is not a clean verdict. The Pentagon's statements weaken the simplest
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ The result is not a clean verdict. The Pentagon's statements weaken the simplest
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ The result is not a clean verdict. The Pentagon's statements weaken the simplest
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ The result is not a clean verdict. The Pentagon's statements weaken the simplest
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,204 +736,204 @@ The result is not a clean verdict. The Pentagon's statements weaken the simplest
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon spokesperson Christopher Sherwood confirmed. However, he added: “Elizondo had no responsibilities with regard to the AATIP progr...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon spokesperson Christopher Sherwood confirmed. However, he added: “Elizondo had no responsibilities with regard to the AATIP progr...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/21-F-0946.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Greenewald...24 Nov 2021 — While in OUSD(J), Luis Elizondo did nol have any assigned responsibilities for AA TIP. The. Defense Int...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Pentagon just responded John Greenewald, Jr  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ezsd8d/pentagon_just_responded_john_greenewald_jr_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ezsd8d/pentagon_just_responded_john_greenewald_jr_about/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>about Lue...August 24, 2024 — After publication of this article, Pentagon spokesperson Susan Gough submitted comment by stating, “Luis E...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ezsd8d/pentagon_just_responded_john_greenewald_jr_about/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ezsd8d/pentagon_just_responded_john_greenewald_jr_about/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>about Lue...August 24, 2024 — After publication of this article, Pentagon spokesperson Susan Gough submitted comment by stating, “Luis E...</p></details>
    Published: August 24, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: esd.whs.mil  
    Title: 21 F 0938 PA Elizondo Emails  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Gough, My name is Luis D. Elizondo, and I am a former...and misleading comment that I had &quot;no assigned duties in the AATIP program.&quot; The...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/Public_Affairs/21-F-0938-PA-Elizondo-Emails.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Gough, My name is Luis D. Elizondo, and I am a former...and misleading comment that I had &quot;no assigned duties in the AATIP program.&quot; The...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esd.whs.mil  
    Title: 21 F 0299 UAP The Debrief Emails 12 2020  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — had no assigned responsibilities for AATIP. There was one set of queries v...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) Sent14 Aug 2020 — had no assigned responsibilities for AATIP. There was one set of queries v...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Susan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Susan</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SusanSusan is a feminine given name, the usual English version of Susanna or Susannah. All are versions of the Hebrew name Shoshana.Re...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Susan" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Susan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SusanSusan is a feminine given name, the usual English version of Susanna or Susannah. All are versions of the Hebrew name Shoshana.Re...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>LuisLuis is a given name. It is the Spanish form of the originally Germanic name Hludowig or Chlodovech, which were introduced to the...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Luis" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>LuisLuis is a given name. It is the Spanish form of the originally Germanic name Hludowig or Chlodovech, which were introduced to the...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoLuis Elizondo is an American author, media personality and UFO disclosure activist formerly employed by the United States...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis ElizondoLuis Elizondo is an American author, media personality and UFO disclosure activist formerly employed by the United States...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: The Pentagon  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Pentagon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Pentagon</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The PentagonThe Pentagon is the headquarters of the United States Department of Defense, in Arlington County, Virginia, across the Pot...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Pentagon" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Pentagon</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The PentagonThe Pentagon is the headquarters of the United States Department of Defense, in Arlington County, Virginia, across the Pot...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... AAWSAP, AATIP, U...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... AAWSAP, AATIP, U...</p></details>
    Published: March 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/o6e43j/susan_gough_should_be_held_responsible_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o6e43j/susan_gough_should_be_held_responsible_for/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>le in AATIP, as well as lying to the American people...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/o6e43j/susan_gough_should_be_held_responsible_for/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o6e43j/susan_gough_should_be_held_responsible_for/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>le in AATIP, as well as lying to the American people...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: three weeks before the dodig interviewed elizondo  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2024 — Back in 2021, Luis Elizondo was concerned his security clearances were under review as part of a concerted effort by certai...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c3284r/three_weeks_before_the_dodig_interviewed_elizondo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>13 Apr 2024 — Back in 2021, Luis Elizondo was concerned his security clearances were under review as part of a concerted effort by certai...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wvw98w/pentagon_admits_whistleblowers_claim_he_continues/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wvw98w/pentagon_admits_whistleblowers_claim_he_continues/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>usan Gough that Luis Elizondo&#x27;s claim he continues to work...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wvw98w/pentagon_admits_whistleblowers_claim_he_continues/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wvw98w/pentagon_admits_whistleblowers_claim_he_continues/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>usan Gough that Luis Elizondo&#x27;s claim he continues to work...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9vp3e/we_have_an_exclusive_statement_from_former/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9vp3e/we_have_an_exclusive_statement_from_former/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>today&#x27;s Pentagon AARO UAP report. Please reply to OP&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9vp3e/we_have_an_exclusive_statement_from_former/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9vp3e/we_have_an_exclusive_statement_from_former/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>today&#x27;s Pentagon AARO UAP report. Please reply to OP&#x27;s...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/lexfridman/comments/mhd0za/former_director_of_secret_pentagon_ufo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lexfridman/comments/mhd0za/former_director_of_secret_pentagon_ufo_program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>5 known capabilities of UAP on 3/30/2021...</p></details>
+   Link:<a href="https://www.reddit.com/r/lexfridman/comments/mhd0za/former_director_of_secret_pentagon_ufo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/lexfridman/comments/mhd0za/former_director_of_secret_pentagon_ufo_program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 known capabilities of UAP on 3/30/2021...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fvnub6/elizondo_confirmed_in_2019_to_been_recruited_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fvnub6/elizondo_confirmed_in_2019_to_been_recruited_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP....Elizondo&#x27;s statements about his Pentagon role with AATIP have been contested by Pentagon officials. And yes, I&#x27;m aware of the &quot;...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fvnub6/elizondo_confirmed_in_2019_to_been_recruited_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fvnub6/elizondo_confirmed_in_2019_to_been_recruited_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP....Elizondo&#x27;s statements about his Pentagon role with AATIP have been contested by Pentagon officials. And yes, I&#x27;m aware of the &quot;...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: war.gov  
-   Link: <a href="https://www.war.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al Flag · News | yesterday. Future USS Cleveland...</p></details>
+   Link:<a href="https://www.war.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al Flag · News | yesterday. Future USS Cleveland...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; National Security with Luis Elizondo, Former...8 Jun 2021 — Luis “Lue” Elizondo is the former director of the Advanced Aerospace...</p></details>
+   Link:<a href="https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/washington-post-live/2021/06/08/ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program-aatip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs &amp; National Security with Luis Elizondo, Former...8 Jun 2021 — Luis “Lue” Elizondo is the former director of the Advanced Aerospace...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Ex-UFO program chief: We may not be alone  
-   Link: <a href="https://www.youtube.com/watch?v=-2b4qSoMnKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-2b4qSoMnKE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Joe Rogan Experience #2194...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=-2b4qSoMnKE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=-2b4qSoMnKE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo - Joe Rogan Experience #2194...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
    Title: Luis Elizondo  
-   Link: <a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gLPtRwXgCM</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Insider Discovered About UFOs with Lue Elizondo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=9gLPtRwXgCM" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=9gLPtRwXgCM</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What a Pentagon Insider Discovered About UFOs with Lue Elizondo...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: thedebrief.org  
    Title: sex lies and ufos pentagons head of counterintelligence and security ousted  
-   Link: <a href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSex, Lies, and UFOs: Pentagon&#x27;s Head of...Apr 14, 2022 — Elizondo had no responsibilities with regard to the AATIP program wh...</p></details>
+   Link:<a href="https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/sex-lies-and-ufos-pentagons-head-of-counterintelligence-and-security-ousted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefSex, Lies, and UFOs: Pentagon&#x27;s Head of...Apr 14, 2022 — Elizondo had no responsibilities with regard to the AATIP program wh...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Imminent: Former Counterintelligence Agent&#x27;s New Memoir...22 Aug 2024 — A long-awaited new memoir detailing an insider&#x27;s view of officia...</p></details>
+   Link:<a href="https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Imminent: Former Counterintelligence Agent&#x27;s New Memoir...22 Aug 2024 — A long-awaited new memoir detailing an insider&#x27;s view of officia...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/learner-english/susan" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/learner-english/susan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>meaning - Cambridge Learner&#x27;s Dictionarya female name (Definition of Susan from the Cambridge Learner&#x27;s Dictionary © Cambridge Universi...</p></details>
+   Link:<a href="https://dictionary.cambridge.org/dictionary/learner-english/susan" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/learner-english/susan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>meaning - Cambridge Learner&#x27;s Dictionarya female name (Definition of Susan from the Cambridge Learner&#x27;s Dictionary © Cambridge Universi...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: en.wiktionary.org  
-   Link: <a href="https://en.wiktionary.org/wiki/Susan" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/Susan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>also: susan and SUSAN. English. Etymology 1. English form of the biblical Susanna, from Biblical Hebrew שׁוֹשַׁנָּה (šōšannā, “lily”), ul...</p></details>
+   Link:<a href="https://en.wiktionary.org/wiki/Susan" target="_blank" rel="noopener noreferrer nofollow">https://en.wiktionary.org/wiki/Susan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>also: susan and SUSAN. English. Etymology 1. English form of the biblical Susanna, from Biblical Hebrew שׁוֹשַׁנָּה (šōšannā, “lily”), ul...</p></details>
 
 ### Additional References
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: pfpa.mil  
-   Link: <a href="https://www.pfpa.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.pfpa.mil/</a>  
+   Link:<a href="https://www.pfpa.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.pfpa.mil/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: behindthename.com  
    Title: Meaning, origin and history of the name Susan English variant of Susanna  
-   Link: <a href="https://www.behindthename.com/name/susan" target="_blank" rel="noopener noreferrer nofollow">https://www.behindthename.com/name/susan</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This has been most common spelling since the 18th century. It was especially popular both in the United States and the United...Read more...</p></details>
+   Link:<a href="https://www.behindthename.com/name/susan" target="_blank" rel="noopener noreferrer nofollow">https://www.behindthename.com/name/susan</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This has been most common spelling since the 18th century. It was especially popular both in the United States and the United...Read more...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: caliber.az  
    Title: ex pentagon insider claims us has alien bodies from ufo crashes  
-   Link: <a href="https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon insider claims US has alien bodies from UFO...24 Aug 2024 — Elizondo&#x27;s claims have faced scepticism, and Pentagon spokespers...</p></details>
+   Link:<a href="https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes" target="_blank" rel="noopener noreferrer nofollow">https://caliber.az/en/post/ex-pentagon-insider-claims-us-has-alien-bodies-from-ufo-crashes</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon insider claims US has alien bodies from UFO...24 Aug 2024 — Elizondo&#x27;s claims have faced scepticism, and Pentagon spokespers...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — I refer you to the findings of AARO&#x27;s Historical Record Report Volume I, av...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — I refer you to the findings of AARO&#x27;s Historical Record Report Volume I, av...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
    Title: He's a former Pentagon insider, a veteran and investigator  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/hes-a-former-pentagon-insider-a-veteran-and-investigator-today-hes-quite-possibl/524468589960163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/hes-a-former-pentagon-insider-a-veteran-and-investigator-today-hes-quite-possibl/524468589960163/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis &quot;Lue&quot; Elizondo is the former head of the Pentagon&#x27;s Advanced Aerospace Threat Identification Program (AATIP), which investigated UFO...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/hes-a-former-pentagon-insider-a-veteran-and-investigator-today-hes-quite-possibl/524468589960163/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/hes-a-former-pentagon-insider-a-veteran-and-investigator-today-hes-quite-possibl/524468589960163/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis &quot;Lue&quot; Elizondo is the former head of the Pentagon&#x27;s Advanced Aerospace Threat Identification Program (AATIP), which investigated UFO...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: hiddenforces.io  
    Title: u s government investigations into ufos uap luis elizondo  
-   Link: <a href="https://hiddenforces.io/podcasts/u-s-government-investigations-into-ufos-uap-luis-elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://hiddenforces.io/podcasts/u-s-government-investigations-into-ufos-uap-luis-elizondo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Investigations Into UFOs &amp; UAP | Luis ElizondoSep 7, 2024 — Luis “Lue” Elizondo is the former head of the Advanced Aerospace T...</p></details>
+   Link:<a href="https://hiddenforces.io/podcasts/u-s-government-investigations-into-ufos-uap-luis-elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://hiddenforces.io/podcasts/u-s-government-investigations-into-ufos-uap-luis-elizondo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Investigations Into UFOs &amp; UAP | Luis ElizondoSep 7, 2024 — Luis “Lue” Elizondo is the former head of the Advanced Aerospace T...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: Susan Boyle A collection of the top tracks from Susan Boyle. Susan Boyle  
-   Link: <a href="https://www.youtube.com/susanboyle" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/susanboyle</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Susan BoyleA collection of the top tracks from Susan Boyle. Susan Boyle - I Dreamed a Dream (Audio), Susan Boyle - The Winner Takes It Al...</p></details>
+   Link:<a href="https://www.youtube.com/susanboyle" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/susanboyle</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Susan BoyleA collection of the top tracks from Susan Boyle. Susan Boyle - I Dreamed a Dream (Audio), Susan Boyle - The Winner Takes It Al...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/lue-elizondo-a-former-senior-pentagon-official-turned-whistleblower-joins-newsna/605830978490590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/lue-elizondo-a-former-senior-pentagon-official-turned-whistleblower-joins-newsna/605830978490590/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Identification Program and was not assigned or detailed to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/lue-elizondo-a-former-senior-pentagon-official-turned-whistleblower-joins-newsna/605830978490590/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/lue-elizondo-a-former-senior-pentagon-official-turned-whistleblower-joins-newsna/605830978490590/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Identification Program and was not assigned or detailed to...Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/nbcnightlynews/posts/luis-elizondo-the-former-head-of-the-pentagons-advanced-aerospace-threat-id-prog/10156206212763689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/luis-elizondo-the-former-head-of-the-pentagons-advanced-aerospace-threat-id-prog/10156206212763689/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ram&#x27;, discusses the time he spent investigating UFOs on Earth - MSNBC...</p></details>
+   Link:<a href="https://www.facebook.com/nbcnightlynews/posts/luis-elizondo-the-former-head-of-the-pentagons-advanced-aerospace-threat-id-prog/10156206212763689/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbcnightlynews/posts/luis-elizondo-the-former-head-of-the-pentagons-advanced-aerospace-threat-id-prog/10156206212763689/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ram&#x27;, discusses the time he spent investigating UFOs on Earth - MSNBC...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: vice.com  
    Title: pentagon announces task force to study ufos  
-   Link: <a href="https://www.vice.com/en/article/pentagon-announces-task-force-to-study-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/pentagon-announces-task-force-to-study-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>17 Aug 2020 — Under the moniker Advanced Aerial Threat Identification Program or AATIP, Elizondo directed the program until the Fall of 2...</p></details>
+   Link:<a href="https://www.vice.com/en/article/pentagon-announces-task-force-to-study-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/pentagon-announces-task-force-to-study-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>17 Aug 2020 — Under the moniker Advanced Aerial Threat Identification Program or AATIP, Elizondo directed the program until the Fall of 2...</p></details>

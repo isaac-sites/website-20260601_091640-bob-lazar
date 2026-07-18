@@ -256,28 +256,28 @@ image: /assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_cia_resume_li
 
 ## Introduction
 
-John Ramirez’s CIA résumé is one of the strongest reasons he attracts attention in UFO and UAP discussions. Unlike many public personalities in the field, he presents a career history that broadly matches real intelligence-community structures and technical disciplines. Public biographies consistently describe him as a CIA officer who worked in scientific and technical intelligence, electronic intelligence analysis and counterproliferation-related roles before retiring in 2009. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
+John Ramirez’s CIA résumé is one of the strongest reasons he attracts attention in UFO and UAP discussions. Unlike many public personalities in the field, he presents a career history that broadly matches real intelligence-community structures and technical disciplines. Public biographies consistently describe him as a CIA officer who worked in scientific and technical intelligence, electronic intelligence analysis and counterproliferation-related roles before retiring in 2009.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_cia_resume_limits_38329b-Illustration-1-dark.svg" | relative_url }}" alt="Resume limits illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_cia_resume_limits_38329b-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_cia_career_limits_b27f4f_cia_resume_limits_38329b-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 The key question is not whether a CIA background matters. It does. The harder question is what that background actually proves. A verified or plausible intelligence career can support claims about how classified systems operate, how analysts evaluate data and how information is compartmentalised. It does not automatically prove access to hidden UAP programmes, alien-contact knowledge, crash-retrieval operations or other extraordinary claims that Ramirez has discussed in public appearances. Understanding that boundary is essential to assessing his credibility fairly.
 
 ## Verified public biography and repeated career claims
 
-The broad outline of Ramirez's career has been repeated across multiple public biographies and interviews. Those accounts describe service from 1984 to 2009 in the CIA Directorate of Science and Technology, the Directorate of Intelligence and later the Office of the Director of National Intelligence's National Counterproliferation Center. They also describe work involving ballistic missile defence systems, radar analysis, technical collection operations and electronic intelligence, commonly abbreviated as ELINT. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=1Z6prQVlv_c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube John Ramirez</span><span class="citation-popover-snippet">John Ramirez - CIA &amp; DisclosureJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Int...</span></span></span>
+The broad outline of Ramirez's career has been repeated across multiple public biographies and interviews. Those accounts describe service from 1984 to 2009 in the CIA Directorate of Science and Technology, the Directorate of Intelligence and later the Office of the Director of National Intelligence's National Counterproliferation Center. They also describe work involving ballistic missile defence systems, radar analysis, technical collection operations and electronic intelligence, commonly abbreviated as ELINT.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=1Z6prQVlv_c" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube John Ramirez</span><span class="citation-popover-snippet">John Ramirez - CIA &amp; DisclosureJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Int...</span></span></span>
 
-Importantly, these are not obviously fictional job categories. The CIA does operate science-and-technology and analytical directorates, while the ODNI oversees mission centres dedicated to intelligence integration and counterproliferation. The National Counterproliferation Center itself is a documented intelligence-community organisation focused on weapons of mass destruction, missile threats and related technologies. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">National Counterproliferation and Biosecurity CenterThe core mission of the ODNI is to lead the IC in intelligence integration, forgin...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/ncsc-how-we-work/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">It was founded in 2005 Based on recommendations from the WMD Commission...Read more...</span></span></span>
+Importantly, these are not obviously fictional job categories. The CIA does operate science-and-technology and analytical directorates, while the ODNI oversees mission centres dedicated to intelligence integration and counterproliferation. The National Counterproliferation Center itself is a documented intelligence-community organisation focused on weapons of mass destruction, missile threats and related technologies.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">National Counterproliferation and Biosecurity CenterThe core mission of the ODNI is to lead the IC in intelligence integration, forgin...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/ncsc-how-we-work/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">It was founded in 2005 Based on recommendations from the WMD Commission...Read more...</span></span></span>
 
-That matters because it separates Ramirez from a common problem in UFO culture: people who claim intelligence connections without offering a career history that fits known institutions. Ramirez's stated roles are specific enough to appear plausible within the framework of publicly known US intelligence organisations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.youtube.com/podcast/Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-title">Ku9Gs J94Dt4</span><span class="citation-popover-snippet">ODNI National Counterproliferation Center (NCPC). At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch specializing in...</span></span></span>
+That matters because it separates Ramirez from a common problem in UFO culture: people who claim intelligence connections without offering a career history that fits known institutions. Ramirez's stated roles are specific enough to appear plausible within the framework of publicly known US intelligence organisations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://music.youtube.com/podcast/Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-title">Ku9Gs J94Dt4</span><span class="citation-popover-snippet">ODNI National Counterproliferation Center (NCPC). At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch specializing in...</span></span></span>
 
-At the same time, the public evidence has limits. Most of the commonly cited biographical details come from media appearances, podcast descriptions, conference biographies and repeated secondary summaries rather than released personnel records or official CIA statements about Ramirez himself. The consistency of those biographies strengthens the case that he genuinely held intelligence positions, but it does not independently verify every title, responsibility or level of access described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple Podcasts537. John Ramirez, CIA [ret] PART 221 Dec 2022 — At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch spe...</span></span></span>
+At the same time, the public evidence has limits. Most of the commonly cited biographical details come from media appearances, podcast descriptions, conference biographies and repeated secondary summaries rather than released personnel records or official CIA statements about Ramirez himself. The consistency of those biographies strengthens the case that he genuinely held intelligence positions, but it does not independently verify every title, responsibility or level of access described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-snippet">Apple Podcasts537. John Ramirez, CIA [ret] PART 221 Dec 2022 — At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch spe...</span></span></span>
 
 ## Why technical intelligence experience matters for UAP commentary
 
 A résumé involving ELINT, radar systems and technical collection is more relevant to UAP discussions than many people realise.
 
-Modern UAP controversies often revolve around sensor data rather than eyewitness stories alone. Radar returns, infrared imagery, electronic signatures and intelligence reporting chains are central to debates over what military personnel may have detected. Someone who spent years analysing technical collection systems would likely understand how unusual signals are evaluated, how false positives occur and how intelligence agencies handle uncertain data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
+Modern UAP controversies often revolve around sensor data rather than eyewitness stories alone. Radar returns, infrared imagery, electronic signatures and intelligence reporting chains are central to debates over what military personnel may have detected. Someone who spent years analysing technical collection systems would likely understand how unusual signals are evaluated, how false positives occur and how intelligence agencies handle uncertain data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
 
-Ramirez's reported work in counterproliferation also suggests familiarity with interagency intelligence processes. The ODNI's counterproliferation mission involves coordinating information from different agencies and integrating technical intelligence on complex national-security issues. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">National Counterproliferation and Biosecurity Center Mission</span><span class="citation-popover-snippet">Lead the Intelligence Community and the interagency to counter and halt the proliferation of weapons of mass destruction, their delivery...</span></span></span>
+Ramirez's reported work in counterproliferation also suggests familiarity with interagency intelligence processes. The ODNI's counterproliferation mission involves coordinating information from different agencies and integrating technical intelligence on complex national-security issues.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">National Counterproliferation and Biosecurity Center Mission</span><span class="citation-popover-snippet">Lead the Intelligence Community and the interagency to counter and halt the proliferation of weapons of mass destruction, their delivery...</span></span></span>
 
 That background can reasonably support several narrower conclusions:
 
@@ -329,7 +329,7 @@ Those stronger claims require their own evidence. A résumé cannot substitute f
 
 One reason intelligence backgrounds are frequently over-interpreted is public misunderstanding of compartmentalisation.
 
-The US intelligence system is designed to restrict access to information on a need-to-know basis. Even highly cleared personnel often know little about programmes outside their own mission area. The ODNI itself describes its role as coordinating a large intelligence community composed of multiple agencies and specialised centres. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">ODNIOur mission is to lead intelligence integration and forge an intelligence community that delivers the most insightful intelligence...</span></span></span>
+The US intelligence system is designed to restrict access to information on a need-to-know basis. Even highly cleared personnel often know little about programmes outside their own mission area. The ODNI itself describes its role as coordinating a large intelligence community composed of multiple agencies and specialised centres.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">ODNIOur mission is to lead intelligence integration and forge an intelligence community that delivers the most insightful intelligence...</span></span></span>
 
 As a result, two competing assumptions can both be flawed:
 
@@ -348,9 +348,9 @@ The public record therefore leaves a zone of uncertainty rather than a definitiv
 
 Another credibility issue involves the difference between reporting and interpretation.
 
-When Ramirez discusses intelligence structures, collection systems or bureaucratic processes, he is generally speaking close to his documented professional background. His experience gives those comments a degree of weight, even when outsiders cannot independently verify every detail. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
+When Ramirez discusses intelligence structures, collection systems or bureaucratic processes, he is generally speaking close to his documented professional background. His experience gives those comments a degree of weight, even when outsiders cannot independently verify every detail.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
 
-The evidential situation changes when he discusses broader claims such as extraterrestrial involvement, future disclosure timelines, hybrid theories or large-scale hidden knowledge within government. In many public appearances, these statements are presented as conclusions, interpretations, personal beliefs or information obtained indirectly rather than as documented first-hand observations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.com</span><span class="citation-popover-snippet">Amazon Music484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attend...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
+The evidential situation changes when he discusses broader claims such as extraterrestrial involvement, future disclosure timelines, hybrid theories or large-scale hidden knowledge within government. In many public appearances, these statements are presented as conclusions, interpretations, personal beliefs or information obtained indirectly rather than as documented first-hand observations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.amazon.com">[Amazon Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.amazon.com</span><span class="citation-popover-snippet">Amazon Music484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attend...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Open source on facebook.com.</span></span></span>
 
 That distinction matters because credibility is not an all-or-nothing quality. Someone may be highly credible when describing intelligence procedures while being much less persuasive when discussing claims that depend on hearsay, inference or unverifiable sources.
 
@@ -360,7 +360,7 @@ Readers often miss this middle position. The choice is not between "CIA officer 
 
 ## Why supporters and critics read the same résumé differently
 
-[Supporters]({{ 'supporters-124489/' | relative_url }}) generally see Ramirez's career as evidence that he operated inside environments where unusual information might surface. They argue that his technical background, intelligence experience and apparent familiarity with classified culture make him a more informed witness than most public UFO commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
+[Supporters]({{ 'supporters-124489/' | relative_url }}) generally see Ramirez's career as evidence that he operated inside environments where unusual information might surface. They argue that his technical background, intelligence experience and apparent familiarity with classified culture make him a more informed witness than most public UFO commentators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span>
 
 Critics focus on a different point. They note that no publicly available employment description links Ramirez directly to a known UAP programme. They argue that his résumé demonstrates intelligence experience but not the specific access required to validate many of his most controversial public claims. The lack of released documents, corroborated programme records or independently verified UAP evidence remains a major limitation.
 
@@ -371,159 +371,159 @@ Both perspectives acknowledge the same central fact: the résumé itself is real
 
 A balanced reading of the available record supports several conclusions.
 
-Ramirez's public biography provides reasonable grounds to believe he had a substantial career in US intelligence involving technical and analytical work related to missile systems, radar analysis, electronic intelligence and counterproliferation functions. The career outline broadly aligns with known intelligence-community institutions and missions. DNI <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">al Counterproliferation Center...</span></span></span>
+Ramirez's public biography provides reasonable grounds to believe he had a substantial career in US intelligence involving technical and analytical work related to missile systems, radar analysis, electronic intelligence and counterproliferation functions. The career outline broadly aligns with known intelligence-community institutions and missions. DNI<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: coasttocoastam.com">[Coast to Coast AM]</a><span class="citation-popover" role="note"><span class="citation-popover-source">coasttocoastam.com</span><span class="citation-popover-title">john ramirez</span><span class="citation-popover-snippet">Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">al Counterproliferation Center...</span></span></span>
 
 What it does not establish is direct proof of hidden UAP programmes or the truth of his wider extraterrestrial claims. Those claims stand or fall on separate evidence. A CIA résumé can strengthen the possibility that someone had exposure to unusual information. It cannot, by itself, authenticate extraordinary assertions that remain unsupported by public documentation or independent corroboration.
 
 That distinction is the most reliable way to assess Ramirez's credibility. His career background is a relevant piece of evidence. It is not the final piece.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for How far can a CIA resume go?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for How far can a CIA resume go?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last"><img src="https://i.ebayimg.com/images/g/jT0AAeSw1rlp8Ayp/s-l225.jpg" alt="Listing image for CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last"><img src="https://i.ebayimg.com/images/g/jT0AAeSw1rlp8Ayp/s-l225.jpg" alt="Listing image for CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Global Response Security Team Deluxe Subdued Leather Patch Set - Last</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN"><img src="https://i.ebayimg.com/images/g/pv8AAeSwVwRpXaJS/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN"><img src="https://i.ebayimg.com/images/g/pv8AAeSwVwRpXaJS/s-l225.jpg" alt="Listing image for CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central Intelligence Agency Embroidered Hook and Loop Patch FREE USA SHIPPIN</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited"><img src="https://i.ebayimg.com/images/g/vF8AAOSwdBZan1-M/s-l225.jpg" alt="Listing image for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited"><img src="https://i.ebayimg.com/images/g/vF8AAOSwdBZan1-M/s-l225.jpg" alt="Listing image for CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA SAD Special Activities Division SOG Latebra Factum 5 Inch Patch Limited</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central US Secret Service Hook and loop scratch patch"><img src="https://i.ebayimg.com/images/g/UmAAAeSwPXpp3WX8/s-l225.jpg" alt="Listing image for CIA Central US Secret Service Hook and loop scratch patch" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central US Secret Service Hook and loop scratch patch</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for CIA Central US Secret Service Hook and loop scratch patch"><img src="https://i.ebayimg.com/images/g/UmAAAeSwPXpp3WX8/s-l225.jpg" alt="Listing image for CIA Central US Secret Service Hook and loop scratch patch" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">CIA Central US Secret Service Hook and loop scratch patch</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for CIA patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: CIA patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=CIA+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-far-can-a-cia-resume-go-cia-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="CIA patch" data-ebay-reference="how-far-can-a-cia-resume-go-cia-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -539,7 +539,7 @@ That distinction is the most reliable way to assess Ramirez's credibility. His c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -559,7 +559,7 @@ That distinction is the most reliable way to assess Ramirez's credibility. His c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -591,7 +591,7 @@ That distinction is the most reliable way to assess Ramirez's credibility. His c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -643,7 +643,7 @@ That distinction is the most reliable way to assess Ramirez's credibility. His c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -688,7 +688,7 @@ That distinction is the most reliable way to assess Ramirez's credibility. His c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -729,249 +729,249 @@ That distinction is the most reliable way to assess Ramirez's credibility. His c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: coasttocoastam.com  
    Title: john ramirez  
-   Link: <a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</p></details>
+   Link:<a href="https://www.coasttocoastam.com/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/guest/john-ramirez/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Coast to Coast AMJohn RamirezJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Intel...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
    Title: You Tube John Ramirez  
-   Link: <a href="https://www.youtube.com/watch?v=1Z6prQVlv_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Z6prQVlv_c</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez - CIA &amp; DisclosureJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Int...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1Z6prQVlv_c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1Z6prQVlv_c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez - CIA &amp; DisclosureJohn Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Technology, Directorate of Int...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Podcasts537. John Ramirez, CIA [ret] PART 221 Dec 2022 — At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch spe...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/537-john-ramirez-cia-ret-part-2/id483046074?i=1000590810321</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Apple Podcasts537. John Ramirez, CIA [ret] PART 221 Dec 2022 — At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch spe...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/205-about/organization/national-counterproliferation-and-biosecurity-center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Counterproliferation and Biosecurity CenterThe core mission of the ODNI is to lead the IC in intelligence integration, forgin...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/205-about/organization/national-counterproliferation-and-biosecurity-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Counterproliferation and Biosecurity CenterThe core mission of the ODNI is to lead the IC in intelligence integration, forgin...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/ncsc-how-we-work/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/ncsc-how-we-work/205-about/organization/national-counterproliferation-and-biosecurity-center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>It was founded in 2005 Based on recommendations from the WMD Commission...Read more...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/ncsc-how-we-work/205-about/organization/national-counterproliferation-and-biosecurity-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/ncsc-how-we-work/205-about/organization/national-counterproliferation-and-biosecurity-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It was founded in 2005 Based on recommendations from the WMD Commission...Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dni.gov  
    Title: National Counterproliferation and Biosecurity Center Mission  
-   Link: <a href="https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lead the Intelligence Community and the interagency to counter and halt the proliferation of weapons of mass destruction, their delivery...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/nctc-who-we-are/organization/205-about/organization/national-counterproliferation-center</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lead the Intelligence Community and the interagency to counter and halt the proliferation of weapons of mass destruction, their delivery...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNIOur mission is to lead intelligence integration and forge an intelligence community that delivers the most insightful intelligence...</p></details>
+   Link:<a href="https://www.dni.gov/" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNIOur mission is to lead intelligence integration and forge an intelligence community that delivers the most insightful intelligence...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: odni.gov  
-   Link: <a href="https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence CommunityThe Central Intelligence Agency (CIA) is responsible for providing national security intelligence to senior U.S. po...</p></details>
+   Link:<a href="https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/121-dni/intelligence-community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence CommunityThe Central Intelligence Agency (CIA) is responsible for providing national security intelligence to senior U.S. po...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Music484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attend...</p></details>
+   Link:<a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Amazon Music484. John Ramirez, CIA Retired-Podcast UFOGuest, John Ramirez Retired CIA Officer discusses an unclassified meeting he attend...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
+   Link:<a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&amp;showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&amp;showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins for the first time to disclose information about the projects he...</p></details>
+   Link:<a href="https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&amp;showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/mx/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?l=en&amp;showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins for the first time to disclose information about the projects he...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
+   Link:<a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
+   Link:<a href="https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/au/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersFormer CIA Agent John Ramirez joins Cosmic Disclosure for the first time to disclose information abo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Best of Coast to Coast AM - PodcastThe Best of Coast to Coast AM podcast, hosted by George Noory. A media phenomenon, Coast to Coast AM d...</p></details>
+   Link:<a href="https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ma/podcast/the-best-of-coast-to-coast-am/id1206175991</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Best of Coast to Coast AM - PodcastThe Best of Coast to Coast AM podcast, hosted by George Noory. A media phenomenon, Coast to Coast AM d...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dni.gov  
    Title: ODN I Leadership  
-   Link: <a href="https://www.dni.gov/index.php/who-we-are/leadership" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/who-we-are/leadership</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Leadership - Deputy Director of National IntelligenceDirector of National Intelligence, Principal, Deputy Director of National Intel...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/who-we-are/leadership" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/who-we-are/leadership</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI Leadership - Deputy Director of National IntelligenceDirector of National Intelligence, Principal, Deputy Director of National Intel...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/nctc-who-we-are/mission-vision" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/nctc-who-we-are/mission-vision</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mission/VisionBe the nation&#x27;s indispensable source of CT expertise in a constantly evolving threat environment by leading a unified, agil...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/nctc-who-we-are/mission-vision" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/nctc-who-we-are/mission-vision</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mission/VisionBe the nation&#x27;s indispensable source of CT expertise in a constantly evolving threat environment by leading a unified, agil...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/299-dni/odni-newsroom" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/299-dni/odni-newsroom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI NewsroomThe ODNI is a senior-level agency that provides oversight to the Intelligence Community. ODNI is primarily a staff organizat...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/299-dni/odni-newsroom" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/299-dni/odni-newsroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI NewsroomThe ODNI is a senior-level agency that provides oversight to the Intelligence Community. ODNI is primarily a staff organizat...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dni.gov  
-   Link: <a href="https://www.dni.gov/index.php/ncbc-home" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/ncbc-home</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>NCBC HomeWe promote innovative solutions to counterproliferation and posture the U.S. government and its partners to anticipate emerging...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/ncbc-home" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/ncbc-home</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>NCBC HomeWe promote innovative solutions to counterproliferation and posture the U.S. government and its partners to anticipate emerging...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: odni.gov  
-   Link: <a href="https://www.odni.gov/index.php/carousel-items/1407-dni-clapper-and-cia-director-brennan-discuss-historic-pdb-release-at-nixon-library" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/carousel-items/1407-dni-clapper-and-cia-director-brennan-discuss-historic-pdb-release-at-nixon-library</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Roles &amp; ResponsibilitiesThe core mission of the ODNI is to lead the IC in intelligence integration, forging a community that delivers the...</p></details>
+   Link:<a href="https://www.odni.gov/index.php/carousel-items/1407-dni-clapper-and-cia-director-brennan-discuss-historic-pdb-release-at-nixon-library" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/carousel-items/1407-dni-clapper-and-cia-director-brennan-discuss-historic-pdb-release-at-nixon-library</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roles &amp; ResponsibilitiesThe core mission of the ODNI is to lead the IC in intelligence integration, forging a community that delivers the...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: odni.gov  
    Title: National Counterintelligence and Security Center NCSC works with the U.S  
-   Link: <a href="https://www.odni.gov/index.php/nctc-newsroom/nctc-transparency/203-about/organization/national-counterintelligence-and-security-center?start=80" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/nctc-newsroom/nctc-transparency/203-about/organization/national-counterintelligence-and-security-center?start=80</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government cyber community and the IC, to provide the CI and security perspective on foreign intelligence and other threat actors&#x27;...Rea...</p></details>
+   Link:<a href="https://www.odni.gov/index.php/nctc-newsroom/nctc-transparency/203-about/organization/national-counterintelligence-and-security-center?start=80" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/nctc-newsroom/nctc-transparency/203-about/organization/national-counterintelligence-and-security-center?start=80</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government cyber community and the IC, to provide the CI and security perspective on foreign intelligence and other threat actors&#x27;...Rea...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: odni.gov  
-   Link: <a href="https://www.odni.gov/index.php/ncsc-what-we-do/299-dni/odni-newsroom" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/299-dni/odni-newsroom</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI NewsroomThe ODNI seal incorporates the DNI&#x27;s charge to oversee and coordinate the foreign and domestic activities of the United Stat...</p></details>
+   Link:<a href="https://www.odni.gov/index.php/ncsc-what-we-do/299-dni/odni-newsroom" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/index.php/ncsc-what-we-do/299-dni/odni-newsroom</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI NewsroomThe ODNI seal incorporates the DNI&#x27;s charge to oversee and coordinate the foreign and domestic activities of the United Stat...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, CIA [ret] PART 2-Podcast UFO21 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Techn...</p></details>
+   Link:<a href="https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-cl/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/b8d24c5f-af84-4928-9a51-2827fec9bc2f/podcast-ufo-537-john-ramirez-cia-ret-part-2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, CIA [ret] PART 2-Podcast UFO21 Dec 2022 — John Ramirez served from 1984 to 2009 in the CIA Directorate of Science and Techn...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: music.youtube.com  
    Title: Ku9Gs J94Dt4  
-   Link: <a href="https://music.youtube.com/podcast/Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/Ku9GsJ94Dt4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI National Counterproliferation Center (NCPC). At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch specializing in...</p></details>
+   Link:<a href="https://music.youtube.com/podcast/Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/Ku9GsJ94Dt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI National Counterproliferation Center (NCPC). At CIA he was an intelligence analyst and Chief, ELINT Analysis Branch specializing in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CM33rZbO8E4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>al Counterproliferation Center...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=CM33rZbO8E4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=CM33rZbO8E4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>al Counterproliferation Center...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ligence that isn&#x27;t just &#x27;lizard people.&#x27; They&#x27;ve been here...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/GaiaUnexplained/videos/former-cia-john-ramirez-breaks-down-his-direct-contact-with-non-human-intelligen/1976929996254195/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ligence that isn&#x27;t just &#x27;lizard people.&#x27; They&#x27;ve been here...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/dni.gov/videos/were-closing-out-our-video-series-featuring-odni-mission-centers-meet-the-foreig/1264694470869643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dni.gov/videos/were-closing-out-our-video-series-featuring-odni-mission-centers-meet-the-foreig/1264694470869643/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ional interests from foreign wine influence actors...</p></details>
+   Link:<a href="https://www.facebook.com/dni.gov/videos/were-closing-out-our-video-series-featuring-odni-mission-centers-meet-the-foreig/1264694470869643/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/dni.gov/videos/were-closing-out-our-video-series-featuring-odni-mission-centers-meet-the-foreig/1264694470869643/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ional interests from foreign wine influence actors...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: <a href="https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42 This was taken from Area 52 YouTube channel.Rea...</p></details>
+   Link:<a href="https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SpiritLinkGaia/videos/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42this-was/815178934959846/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezEx-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42 This was taken from Area 52 YouTube channel.Rea...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6wGLH1uSOo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=v6wGLH1uSOo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez - DEBRIEFED ep. 42...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
    Title: Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: <a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA &amp; More...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: youtube.com  
    Title: 12-20-22 PART 2: John Ramirez CIA (Ret), UFOs, the CIA & More  
-   Link: <a href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku9GsJ94Dt4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ku9GsJ94Dt4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ku9GsJ94Dt4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Agent Reveals NEW Details About &#x27;The Age of Disclosure&#x27;...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: youtube.com  
    Title: Former CIA Agent Reveals NEW Details About 'The Age of Disclosure'  
-   Link: <a href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=199bR_vIjzQ</a>  
+   Link:<a href="https://www.youtube.com/watch?v=199bR_vIjzQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=199bR_vIjzQ</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>om 1984 - 2009, serving within the Directorate of Science...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>om 1984 - 2009, serving within the Directorate of Science...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: coasttocoastam.com  
    Title: John Ramirez Past Shows: UFOs and the CIA. Sunday  
-   Link: <a href="https://www.coasttocoastam.com/alternate/amp/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/alternate/amp/guest/john-ramirez/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezPast Shows: UFOs and the CIA. Sunday - January 30 2022 Two veteran CIA officers, Jim Semivan, and John Ramirez joined George...</p></details>
+   Link:<a href="https://www.coasttocoastam.com/alternate/amp/guest/john-ramirez/" target="_blank" rel="noopener noreferrer nofollow">https://www.coasttocoastam.com/alternate/amp/guest/john-ramirez/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John RamirezPast Shows: UFOs and the CIA. Sunday - January 30 2022 Two veteran CIA officers, Jim Semivan, and John Ramirez joined George...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: Wikipedia  
    Title: Director of National Intelligence  
-   Link: <a href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Director_of_National_Intelligence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceThere are five mission centers, each led by a director of that center: National Counterproliferation...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Director_of_National_Intelligence" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Director_of_National_Intelligence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National IntelligenceThere are five mission centers, each led by a director of that center: National Counterproliferation...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtu.be  
    Title: 8ZHWc Mndj KI  
-   Link: <a href="https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets. 31K...Read more...</p></details>
+   Link:<a href="https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi" target="_blank" rel="noopener noreferrer nofollow">https://youtu.be/8ZHWcMndjKI?si=SWscMKk3tWfAL_Qi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez (Ex-CIA) Reveals Shocking UFO Secrets. 31K...Read more...</p></details>
 
 ### Additional References
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureUFO Disclosure Latest Update: 46 Secret Clips of Alien Formations Allegedly Withheld from...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureUFO Disclosure Latest Update: 46 Secret Clips of Alien Formations Allegedly Withheld from...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: linkedin.com  
-   Link: <a href="https://www.linkedin.com/company/odni" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/odni</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the Director of National IntelligenceThe DNI oversees the US Intelligence Community &amp; serves as principal adviser to the Presid...</p></details>
+   Link:<a href="https://www.linkedin.com/company/odni" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/odni</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of the Director of National IntelligenceThe DNI oversees the US Intelligence Community &amp; serves as principal adviser to the Presid...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: gaia.com  
-   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersJohn Ramirez is a Signal Intelligence specialist who served in the Navy as a radar engine...</p></details>
+   Link:<a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersJohn Ramirez is a Signal Intelligence specialist who served in the Navy as a radar engine...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: hypefresh.com  
    Title: retired cia insider exposes the reality of ufos and alien encounters  
-   Link: <a href="https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Insider Exposes the Reality of UFOs and Alien...22 Jul 2025 — From 1984 to 2009, Ramirez worked at the highest levels of the...</p></details>
+   Link:<a href="https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Insider Exposes the Reality of UFOs and Alien...22 Jul 2025 — From 1984 to 2009, Ramirez worked at the highest levels of the...</p></details>
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Becky Little, How the CIA Tried to Quell UFO Panic During the Cold War | HIS...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — Becky Little, How the CIA Tried to Quell UFO Panic During the Cold War | HIS...</p></details>
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: spreaker.com  
    Title: off world ufo s john ramires former c i a 48091565  
-   Link: <a href="https://www.spreaker.com/episode/off-world-ufo-s-john-ramires-former-c-i-a--48091565" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/off-world-ufo-s-john-ramires-former-c-i-a--48091565</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Off-World UFO&#x27;s John Ramires Former C.I.A.John Ramirez served from 1984 to 2009 in the CIA... National Counterproliferation Center. His...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/off-world-ufo-s-john-ramires-former-c-i-a--48091565" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/off-world-ufo-s-john-ramires-former-c-i-a--48091565</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Off-World UFO&#x27;s John Ramires Former C.I.A.John Ramirez served from 1984 to 2009 in the CIA... National Counterproliferation Center. His...</p></details>
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...BIOGRAPHY: John Ramirez served from 1984 to 2009 in the CIA... ODNI National Count...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...BIOGRAPHY: John Ramirez served from 1984 to 2009 in the CIA... ODNI National Count...</p></details>
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensSince 2021, John Ramirez, who spent 25 years in the CIA, has been providing truthful insights...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensSince 2021, John Ramirez, who spent 25 years in the CIA, has been providing truthful insights...</p></details>
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: theothertopic.substack.com  
    Title: the many experiences of john ramirez  
-   Link: <a href="https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez" target="_blank" rel="noopener noreferrer nofollow">https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Many Experiences of John Ramirez - The Other TopicJohn Ramirez is a United States Navy veteran and retired CIA Officer who claims to have...</p></details>
+   Link:<a href="https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez" target="_blank" rel="noopener noreferrer nofollow">https://theothertopic.substack.com/p/the-many-experiences-of-john-ramirez</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Many Experiences of John Ramirez - The Other TopicJohn Ramirez is a United States Navy veteran and retired CIA Officer who claims to have...</p></details>

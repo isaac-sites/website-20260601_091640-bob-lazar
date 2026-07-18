@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-skinwalker/
 description: Focused pages that expand on Skinwalker.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: James_Lacatski_1e11f1_skinwalker_credibili_b0dde2
 parent_title: Skinwalker
@@ -16,7 +16,7 @@ parent_permalink: /skinwalker/
 
 # Explore Topics in Skinwalker
 
-The following pages expand on the main **[Skinwalker]({{ '/skinwalker/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Skinwalker]({{ '/skinwalker/' | relative_url }})** page and cover its key branches in.
 
 - [Bigelow conflict]({{ '/bigelow-conflict/' | relative_url }})
 - [Hitchhiker effect]({{ '/hitchhiker-effect/' | relative_url }})

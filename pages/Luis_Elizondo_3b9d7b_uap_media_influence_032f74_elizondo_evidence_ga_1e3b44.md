@@ -310,194 +310,194 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V6Pc48yXWyI" title="What Luis Elizondo got very wrong about the UFO videos." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V6Pc48yXWyI" target="_blank" rel="noopener noreferrer">What Luis Elizondo got very wrong about the UFO videos.</a></p><p class="youtube-embed-meta">Channel: Mick West &middot; Views: 47.7K &middot; Uploaded: August 2024 &middot; Length: 12 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V6Pc48yXWyI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V6Pc48yXWyI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When Media Amplifies UAP Claims Beyond Verifiable Proof. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When Media Amplifies UAP Claims Beyond Verifiable Proof. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
-        </h4>
-        <p class="fr-book-author">By John Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
+</h4>
+<p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-        </h4>
-        <p class="fr-book-author">By Michèle Ruffat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
+</h4>
+<p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
-        </h4>
-        <p class="fr-book-author">By Fernando de Sousa</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
+</h4>
+<p class="fr-book-author">By Fernando de Sousa</p>
         
-        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="https://i.ebayimg.com/images/g/1dQAAOSwiI5j3Q-f/s-l225.jpg" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show"><img src="https://i.ebayimg.com/images/g/1dQAAOSwiI5j3Q-f/s-l225.jpg" alt="Listing image for SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">SHADO T-Shirt Mens Retro UFO Sci Fi Gerry Anderson TV Show</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="https://i.ebayimg.com/images/g/3CIAAeSwtJZpFEmr/s-l225.jpg" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT"><img src="https://i.ebayimg.com/images/g/3CIAAeSwtJZpFEmr/s-l225.jpg" alt="Listing image for ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO AREA 51 GROOM DRY LAKE TEST FACILITY T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL"><img src="https://i.ebayimg.com/images/g/NJgAAeSwhxRpMHWG/s-l225.jpg" alt="Listing image for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL"><img src="https://i.ebayimg.com/images/g/NJgAAeSwhxRpMHWG/s-l225.jpg" alt="Listing image for Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Ufo Band Vintage 1979 Ufo World Tour Rock Unisex Mens T-Shirt S M L XL 2 3 4 XL</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="https://i.ebayimg.com/images/g/D7UAAOSweAFnrbbm/s-l225.jpg" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours"><img src="https://i.ebayimg.com/images/g/D7UAAOSweAFnrbbm/s-l225.jpg" alt="Listing image for Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Roswell UFO T-Shirt - New Mexico Souvenir, Alien Gift, Various Colours</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="when-media-amplifies-uap-claims-beyond-verifiable-proof-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -513,7 +513,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -533,7 +533,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -565,7 +565,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -617,7 +617,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -662,7 +662,7 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -703,129 +703,129 @@ The gap between media prominence and verifiable proof in Elizondo’s case illus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: ibtimes.co.uk  
    Title: former pentagon official uap files non human technology 1799769  
-   Link: <a href="https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKEx-Pentagon Official: UAP Files Expose &#x27;Non-Human&#x27; Technology and Government Cover-Up Going Back to 1940s...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/former-pentagon-official-uap-files-non-human-technology-1799769</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>International Business Times UKEx-Pentagon Official: UAP Files Expose &#x27;Non-Human&#x27; Technology and Government Cover-Up Going Back to 1940s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ndtv.com  
-   Link: <a href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.comEx-Pentagon Official Claims US Recovered Non-Human Specimens: ReportSeptember 8, 2024...</p></details>
+   Link:<a href="https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187" target="_blank" rel="noopener noreferrer nofollow">https://www.ndtv.com/feature/ex-pentagon-official-claims-us-recovered-non-human-specimens-report-6517187</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>www.ndtv.comEx-Pentagon Official Claims US Recovered Non-Human Specimens: ReportSeptember 8, 2024...</p></details>
    Published: September 8, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: unexplained.ie  
-   Link: <a href="https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Mysteries, Phenomena &amp; DisappearancesMay 3, 2025...</p></details>
+   Link:<a href="https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.ie/article/1226-unverified-ufo-photo-sparks-backlash-elizondo-defends-intent-amid-credibility-concerns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unexplained Mysteries, Phenomena &amp; DisappearancesMay 3, 2025...</p></details>
    Published: May 3, 2025  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: ksl.com  
    Title: Plenty of claims but no proof at latest UFO congressional hearing | KSL.com  
-   Link: <a href="https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Plenty of claims but no proof at latest UFO congressional hearing | KSL.comNovember 15, 2024...</p></details>
+   Link:<a href="https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.ksl.com/article/51190310/plenty-of-claims-but-no-proof-at-latest-ufo-congressional-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Plenty of claims but no proof at latest UFO congressional hearing | KSL.comNovember 15, 2024...</p></details>
    Published: November 15, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: uapmurders.com  
    Title: Murdering UAP Experts Luis Elizondo | Murdering UAP Experts  
-   Link: <a href="https://uapmurders.com/physics/Details/Luis_Elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/physics/Details/Luis_Elizondo/</a>  
+   Link:<a href="https://uapmurders.com/physics/Details/Luis_Elizondo/" target="_blank" rel="noopener noreferrer nofollow">https://uapmurders.com/physics/Details/Luis_Elizondo/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: arstechnica.com  
-   Link: <a href="https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNASA panel: No convincing evidence for extraterrestrial life connected with UAPs - Ars TechnicaJune 1, 2023...</p></details>
+   Link:<a href="https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/" target="_blank" rel="noopener noreferrer nofollow">https://arstechnica.com/science/2023/06/nasa-panel-no-convincing-evidence-for-extraterrestrial-life-connected-with-uaps/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ars TechnicaNASA panel: No convincing evidence for extraterrestrial life connected with UAPs - Ars TechnicaJune 1, 2023...</p></details>
    Published: June 1, 2023  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>government has concealed evidence of unidentified aerial phenomena (UAPs) and extraterrestrial life for decades. Drawing inspiration from...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government has concealed evidence of unidentified aerial phenomena (UAPs) and extraterrestrial life for decades. Drawing inspiration from...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: theguardian.com  
    Title: The Pentagon released its UFO videos – so I went to the US to chase aliens  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I found | Alien life | The GuardianApril 22, 2026 — Image: A night-vision camera shows a silhouette of a man holding a torch...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I found | Alien life | The GuardianApril 22, 2026 — Image: A night-vision camera shows a silhouette of a man holding a torch...</p></details>
    Published: April 22, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>November 13, 2024 — Image: four men in suits stand with their right hands raised [Input] Tim Gallaudet, Luis Elizondo, Michael Shellenber...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/nov/13/house-ufo-hearing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>November 13, 2024 — Image: four men in suits stand with their right hands raised [Input] Tim Gallaudet, Luis Elizondo, Michael Shellenber...</p></details>
    Published: November 13, 2024  
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: gbnews.com  
-   Link: <a href="https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material" target="_blank" rel="noopener noreferrer nofollow">https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO news: Pentagon expert claims ‘non-human material’ has been recovered as he issues warning to humanityAugust 22, 2024 — PENTAGON UFO E...</p></details>
+   Link:<a href="https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material" target="_blank" rel="noopener noreferrer nofollow">https://www.gbnews.com/news/us/ufo-news-pentagon-expert-non-human-material</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO news: Pentagon expert claims ‘non-human material’ has been recovered as he issues warning to humanityAugust 22, 2024 — PENTAGON UFO E...</p></details>
    Published: August 22, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: skeptic.org.uk  
-   Link: <a href="https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJuly 23, 2021 — THE MUCH-HYPED UAP REPORT’S LACK OF SUBSTANCE WILL DO LITTLE TO DETER AVID UFO BELIEVERS By Nigel Watson 23rd...</p></details>
+   Link:<a href="https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.org.uk/2021/07/the-much-hyped-uap-reports-lack-of-substance-will-do-little-to-deter-avid-ufo-believers/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SkepticJuly 23, 2021 — THE MUCH-HYPED UAP REPORT’S LACK OF SUBSTANCE WILL DO LITTLE TO DETER AVID UFO BELIEVERS By Nigel Watson 23rd...</p></details>
    Published: July 23, 2021  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: newsweek.com  
    Title: ufo uap craft found covered whistleblower claims 1804733  
-   Link: <a href="https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Has UFOs of ‘Non-Human Origin’, Ex-Intelligence Officer Claims - NewsweekJune 6, 2023 — U.S. HAS UFOS OF ‘NON-HUMAN ORIGIN’, EX-INTELLIGE...</p></details>
+   Link:<a href="https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733" target="_blank" rel="noopener noreferrer nofollow">https://www.newsweek.com/ufo-uap-craft-found-covered-whistleblower-claims-1804733</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has UFOs of ‘Non-Human Origin’, Ex-Intelligence Officer Claims - NewsweekJune 6, 2023 — U.S. HAS UFOS OF ‘NON-HUMAN ORIGIN’, EX-INTELLIGE...</p></details>
    Published: June 6, 2023  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: paranormalinsight.co.uk  
    Title: Lue Elizondo’s UFO Photos Debunked: Is His Credibility in Question?  
-   Link: <a href="https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lue elizondo uap ufo ufo disclosure May 02, 2025 Image Has Lue Elizondo&#x27;s Credibility Taken a Hit After Recent UFO...</p></details>
+   Link:<a href="https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust" target="_blank" rel="noopener noreferrer nofollow">https://www.paranormalinsight.co.uk/blog/two-debunked-photos-and-a-damaged-reputation-has-lue-elizondo-lost-public-trust</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lue elizondo uap ufo ufo disclosure May 02, 2025 Image Has Lue Elizondo&#x27;s Credibility Taken a Hit After Recent UFO...</p></details>
    Published: May 2, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: disclosurearchives.com  
    Title: government source who has made on-the-record clai  
-   Link: <a href="https://disclosurearchives.com/uap-whistleblower-testimony" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/uap-whistleblower-testimony</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP whistleblower testimony — named officials on the record · Disclosure ArchivesTopical hub · UAP whistleblower testimony UAP WHISTLEBLO...</p></details>
+   Link:<a href="https://disclosurearchives.com/uap-whistleblower-testimony" target="_blank" rel="noopener noreferrer nofollow">https://disclosurearchives.com/uap-whistleblower-testimony</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP whistleblower testimony — named officials on the record · Disclosure ArchivesTopical hub · UAP whistleblower testimony UAP WHISTLEBLO...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: uapedia.ai  
    Title: Non-Human Intelligence (NHI): Lifting the Veil  
-   Link: <a href="https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>On June 2023 broadcast segments, former intelligence officer David Charles Grusch alleged legacy crash‑retrieval and reverse‑engineeri...</p></details>
+   Link:<a href="https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/non-human-intelligence-nhi-lifting-the-veil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>On June 2023 broadcast segments, former intelligence officer David Charles Grusch alleged legacy crash‑retrieval and reverse‑engineeri...</p></details>
    Published: June 2023  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Investigator explains sightings listed in Pentagon UFO report  
-   Link: <a href="https://www.youtube.com/watch?v=PBRtoEKAsl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBRtoEKAsl0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo Mick West UFO evidence verification analysis Discussing the David Grusch UFO Whistleblower Saga with Pete Dominick Mick West...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PBRtoEKAsl0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PBRtoEKAsl0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo Mick West UFO evidence verification analysis Discussing the David Grusch UFO Whistleblower Saga with Pete Dominick Mick West...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: conspirafy.com  
    Title: UAP & the Grusch Whistleblower Claims  
-   Link: <a href="https://conspirafy.com/conspiracies/uap-grusch-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/uap-grusch-whistleblower</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sofia Reyes· May 12, 2026 Reviewed by:Dr. Elena Marsh· May 12, 2026 TL;DR Copy TLDR Grusch is a credentialed IC officer; he filed a prote...</p></details>
+   Link:<a href="https://conspirafy.com/conspiracies/uap-grusch-whistleblower" target="_blank" rel="noopener noreferrer nofollow">https://conspirafy.com/conspiracies/uap-grusch-whistleblower</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sofia Reyes· May 12, 2026 Reviewed by:Dr. Elena Marsh· May 12, 2026 TL;DR Copy TLDR Grusch is a credentialed IC officer; he filed a prote...</p></details>
    Published: May 12, 2026  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: uapedia.ai  
    Title: The Six Observables – Elizondo Model  
-   Link: <a href="https://uapedia.ai/wiki/the-five-observables-elizondo-model/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/the-five-observables-elizondo-model/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2025 — THE SIX OBSERVABLES – ELIZONDO MODEL The “Six Observables” (originally “Five Observables”) are a descriptive fr...</p></details>
+   Link:<a href="https://uapedia.ai/wiki/the-five-observables-elizondo-model/" target="_blank" rel="noopener noreferrer nofollow">https://uapedia.ai/wiki/the-five-observables-elizondo-model/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 28, 2025 — THE SIX OBSERVABLES – ELIZONDO MODEL The “Six Observables” (originally “Five Observables”) are a descriptive fr...</p></details>
    Published: October 28, 2025  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: uapedia.ai  
    Title: roswell 1947 documents and disputes  
-   Link: <a href="https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2023, former intelligence officer David Grusch testified before the House Oversight Committee that he was briefed on long-runnin...</p></details>
+   Link:<a href="https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/" target="_blank" rel="noopener noreferrer nofollow">https://www.uapedia.ai/wiki/roswell-1947-documents-and-disputes/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2023, former intelligence officer David Grusch testified before the House Oversight Committee that he was briefed on long-runnin...</p></details>
    Published: July 2023

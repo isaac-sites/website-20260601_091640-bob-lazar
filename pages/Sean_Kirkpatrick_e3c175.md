@@ -318,30 +318,30 @@ That makes Kirkpatrick unusual in UFO/UAP discourse. His credibility does not re
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175-overview.webp" | relative_url }}" alt="Overview image for Did Sean Kirkpatrick Debunk UFO Disclosure?" loading="eager" decoding="sync" fetchpriority="high">
 ## Who Sean Kirkpatrick is, and why he matters in UAP credibility debates
 
-Kirkpatrick’s public biography is unusually relevant to the UAP topic because AARO’s mission sits at the intersection of physics, [sensor data]({{ 'sensor-data/' | relative_url }}), intelligence collection and classified national-security programmes. The Department of Defense announced AARO in July 2022 and named Kirkpatrick, then chief scientist at the Defense Intelligence Agency’s Missile and Space Intelligence Center, as its director. The office’s mission was not simply “alien hunting”; it was to synchronise US government efforts to detect, identify and attribute anomalous objects in areas such as military installations, operating areas, training ranges, special-use airspace and other national-security locations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
+Kirkpatrick’s public biography is unusually relevant to the UAP topic because AARO’s mission sits at the intersection of physics, [sensor data]({{ 'sensor-data/' | relative_url }}), intelligence collection and classified national-security programmes. The Department of Defense announced AARO in July 2022 and named Kirkpatrick, then chief scientist at the Defense Intelligence Agency’s Missile and Space Intelligence Center, as its director. The office’s mission was not simply “alien hunting”; it was to synchronise US government efforts to detect, identify and attribute anomalous objects in areas such as military installations, operating areas, training ranges, special-use airspace and other national-security locations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
 
-His official biography describes a physicist with a PhD from the University of Georgia and a career across defence and intelligence science-and-technology roles, including work connected to the Naval Research Laboratory, Air Force Research Laboratory, National Reconnaissance Office, CIA, DIA, Office of the Secretary of Defense, US Strategic Command and US Space Command. The same biography says he specialised in space and counterspace mission areas, scientific and technical intelligence, research and development, acquisition and operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+His official biography describes a physicist with a PhD from the University of Georgia and a career across defence and intelligence science-and-technology roles, including work connected to the Naval Research Laboratory, Air Force Research Laboratory, National Reconnaissance Office, CIA, DIA, Office of the Secretary of Defense, US Strategic Command and US Space Command. The same biography says he specialised in space and counterspace mission areas, scientific and technical intelligence, research and development, acquisition and operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
 For credibility purposes, this background cuts both ways. It makes him more qualified than most public commentators to discuss sensor limitations, classified aerospace programmes and intelligence processes. It also means he speaks from inside the national-security system whose secrecy is itself a major source of public suspicion. His authority is strongest when he describes AARO’s process, the kinds of data required to resolve cases, and what his office says it checked. It is weaker as a matter of public proof when the underlying evidence, interviews, special-access programme checks or classified records cannot be independently inspected.
 
 ## What Kirkpatrick actually claimed about UFOs and UAP
 
-Kirkpatrick’s central claim is not that UAP are fake. It is that unresolved cases should not be treated as evidence of extraterrestrial technology without better data. In his April 2023 testimony to the Senate Armed Services Subcommittee on Emerging Threats and Capabilities, he framed UAP as a safety and security problem: unidentified objects in any domain can pose risks to military personnel and capabilities, and the US government should not leave them unexamined. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
+Kirkpatrick’s central claim is not that UAP are fake. It is that unresolved cases should not be treated as evidence of extraterrestrial technology without better data. In his April 2023 testimony to the Senate Armed Services Subcommittee on Emerging Threats and Capabilities, he framed UAP as a safety and security problem: unidentified objects in any domain can pose risks to military personnel and capabilities, and the US government should not leave them unexamined.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
 
-At the same hearing, he said AARO was tracking more than [650 cases]({{ '650-cases/' | relative_url }}), roughly half of which had been prioritised as having “anomalous interesting value”. He also explained why many reports remain unresolved: an operator’s report is a starting point, but AARO needs radar data, electro-optical data, thermal data, overhead data and other information before it can make a strong assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
+At the same hearing, he said AARO was tracking more than [650 cases]({{ '650-cases/' | relative_url }}), roughly half of which had been prioritised as having “anomalous interesting value”. He also explained why many reports remain unresolved: an operator’s report is a starting point, but AARO needs radar data, electro-optical data, thermal data, overhead data and other information before it can make a strong assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
 
-His most quoted position came in the same testimony: AARO had found no credible evidence, at that point, of extraterrestrial activity, off-world technology, or objects that defy known physics. He added that if sufficient scientific data did point to an extraterrestrial origin, AARO would work with NASA and inform US government leadership. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
+His most quoted position came in the same testimony: AARO had found no credible evidence, at that point, of extraterrestrial activity, off-world technology, or objects that defy known physics. He added that if sufficient scientific data did point to an extraterrestrial origin, AARO would work with NASA and inform US government leadership.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
 
 That distinction matters. Kirkpatrick’s public case is not “nothing unusual ever happens”. It is closer to: many reports are unresolved because the data are poor, but unresolved does not equal alien, and extraordinary claims require evidence strong enough to survive scientific and intelligence review.
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175-Illustration-1-dark.svg" | relative_url }}" alt="Did Sean Kirkpatrick Debunk UFO Disclosure? illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The AARO historical report: the strongest evidence for Kirkpatrick’s position
 
-The main public document supporting Kirkpatrick’s view is AARO’s 2024 historical record report. Although released after his announced retirement, it reflects the office and review process he helped lead. The Department of Defense said AARO reviewed official US government investigatory efforts since 1945, researched classified and unclassified archives, conducted dozens of interviews, and worked with intelligence and defence officials responsible for controlled and special-access programme oversight. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF)
+The main public document supporting Kirkpatrick’s view is AARO’s 2024 historical record report. Although released after his announced retirement, it reflects the office and review process he helped lead. The Department of Defense said AARO reviewed official US government investigatory efforts since 1945, researched classified and unclassified archives, conducted dozens of interviews, and worked with intelligence and defence officials responsible for controlled and special-access programme oversight.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF)
 
-The report’s core findings were strongly sceptical of the alien-retrieval narrative. AARO said it found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed that any UAP sighting represented extraterrestrial technology. It also said most sightings investigated across official efforts were ordinary objects or phenomena and the result of misidentification, while many unresolved cases lacked enough actionable data to resolve confidently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)
+The report’s core findings were strongly sceptical of the alien-retrieval narrative. AARO said it found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed that any UAP sighting represented extraterrestrial technology. It also said most sightings investigated across official efforts were ordinary objects or phenomena and the result of misidentification, while many unresolved cases lacked enough actionable data to resolve confidently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)
 
-Most importantly for the whistleblower-era debate, AARO said it found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology. The report said named companies denied possessing or reverse-engineering off-world technology, that a tested sample allegedly from a crashed off-world craft was a manufactured terrestrial alloy, and that alleged hidden reverse-engineering programmes either did not exist, were misidentified sensitive national-security programmes unrelated to extraterrestrial technology, or traced to a disestablished programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3583248/statement-by-deputy-secretary-of-defense-kathleen-hicks-on-the-upcoming-departu/)
+Most importantly for the whistleblower-era debate, AARO said it found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology. The report said named companies denied possessing or reverse-engineering off-world technology, that a tested sample allegedly from a crashed off-world craft was a manufactured terrestrial alloy, and that alleged hidden reverse-engineering programmes either did not exist, were misidentified sensitive national-security programmes unrelated to extraterrestrial technology, or traced to a disestablished programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3583248/statement-by-deputy-secretary-of-defense-kathleen-hicks-on-the-upcoming-departu/)
 
 This is the strongest public evidence in Kirkpatrick’s favour because it is not just a personal opinion. It is an institutional finding, based on a claimed review of classified and unclassified material, interviews and programme checks. But it is also the source of the main limitation: readers must rely heavily on the government’s account of what was reviewed, because much of the underlying classified material is not public.
 
@@ -349,11 +349,11 @@ This is the strongest public evidence in Kirkpatrick’s favour because it is no
 
 Criticism of Kirkpatrick comes from several directions, and not all of it has equal weight. The weakest criticism is simply that his conclusion is unpopular among people who already believe the US government has recovered alien technology. A negative finding is not evidence of bad faith by itself.
 
-The stronger criticism concerns [transparency]({{ 'transparency/' | relative_url }}) and institutional conflict. AARO was embedded in the same defence and intelligence world accused by some whistleblowers and activists of hiding information. If a programme were deeply compartmented, illegally withheld, or hidden behind misleading names, sceptics of AARO argue that a formal review might still miss it, or that the public version of the review might omit crucial details. Kirkpatrick’s response, through AARO’s report, is that the office was given full, unrestricted access by relevant organisations and worked with senior security officials to check the named programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)
+The stronger criticism concerns [transparency]({{ 'transparency/' | relative_url }}) and institutional conflict. AARO was embedded in the same defence and intelligence world accused by some whistleblowers and activists of hiding information. If a programme were deeply compartmented, illegally withheld, or hidden behind misleading names, sceptics of AARO argue that a formal review might still miss it, or that the public version of the review might omit crucial details. Kirkpatrick’s response, through AARO’s report, is that the office was given full, unrestricted access by relevant organisations and worked with senior security officials to check the named programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/)
 
-Another criticism is that AARO appeared publicly dismissive of some whistleblower-linked claims before those claims had been fully aired in public. This became especially visible after David Grusch’s 2023 congressional testimony alleging a long-running crash-retrieval and reverse-engineering programme. Reporting at the time noted that Grusch made dramatic claims about non-human biologics and recovered craft while also declining, in open session, to provide classified details; the Pentagon said it had not verified such programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Another criticism is that AARO appeared publicly dismissive of some whistleblower-linked claims before those claims had been fully aired in public. This became especially visible after David Grusch’s 2023 congressional testimony alleging a long-running crash-retrieval and reverse-engineering programme. Reporting at the time noted that Grusch made dramatic claims about non-human biologics and recovered craft while also declining, in open session, to provide classified details; the Pentagon said it had not verified such programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-Kirkpatrick later argued that people making or amplifying these claims had not provided sufficient evidence to AARO, and he criticised what he saw as circular reporting among a small network of UAP believers. The Guardian reported his argument that many allegations came from a “core group” of people influencing whistleblowers and lawmakers, including claims made without first-hand evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Kirkpatrick later argued that people making or amplifying these claims had not provided sufficient evidence to AARO, and he criticised what he saw as circular reporting among a small network of UAP believers. The Guardian reported his argument that many allegations came from a “core group” of people influencing whistleblowers and lawmakers, including claims made without first-hand evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The unresolved credibility issue is not whether Kirkpatrick has relevant expertise; he clearly does. The issue is whether the public can independently verify AARO’s negative findings to the same standard that believers demand for whistleblower claims. At present, the answer is only partly.
 
@@ -361,7 +361,7 @@ The unresolved credibility issue is not whether Kirkpatrick has relevant experti
 
 ## The David Grusch contrast: first-hand access versus second-hand claims
 
-The clearest way to understand Kirkpatrick’s place in the modern UAP debate is to compare his posture with David Grusch’s. Grusch presented himself as a whistleblower who had investigated alleged hidden programmes and was told of recovered craft and non-human biologics. Kirkpatrick presented AARO as the official channel created to investigate precisely such claims and said the office had not received credible evidence supporting them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The clearest way to understand Kirkpatrick’s place in the modern UAP debate is to compare his posture with David Grusch’s. Grusch presented himself as a whistleblower who had investigated alleged hidden programmes and was told of recovered craft and non-human biologics. Kirkpatrick presented AARO as the official channel created to investigate precisely such claims and said the office had not received credible evidence supporting them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: time.com">[Time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">time.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That contrast creates a credibility puzzle for readers. Grusch’s claims were more dramatic and attracted more public attention, but much of his public testimony was second-hand or constrained by classification. Kirkpatrick’s claims were less sensational and came from an official review process, but the review’s most sensitive details also remain largely inaccessible to the public. The difference is that Kirkpatrick’s account is supported by an institutional report that says AARO checked named programmes, companies, officials, documents and materials. Grusch’s central public claims, by contrast, have not been accompanied by publicly available physical evidence, photographs, documents or named programme records that independently prove recovered non-human craft. [U.S. Department of War+2U.S. Department of War]
 
@@ -369,16 +369,16 @@ This does not make every part of Kirkpatrick’s position automatically final. I
 
 ## The “metallic orbs” and why unresolved cases still matter
 
-Kirkpatrick’s scepticism about extraterrestrial claims should not be confused with indifference to anomalous reports. AARO’s case load included unresolved sightings, and his Senate testimony made clear that some cases were considered interesting enough to prioritise. He also emphasised the practical difficulty of analysis: without multiple sensor streams and reliable context, a case can remain unresolved without becoming evidence of exotic technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
+Kirkpatrick’s scepticism about extraterrestrial claims should not be confused with indifference to anomalous reports. AARO’s case load included unresolved sightings, and his Senate testimony made clear that some cases were considered interesting enough to prioritise. He also emphasised the practical difficulty of analysis: without multiple sensor streams and reliable context, a case can remain unresolved without becoming evidence of exotic technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[armed-services.senate.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">Open source on senate.gov.</span></span></span>
 
 This is one of the most credible parts of his public argument. In UAP discussions, poor data often create a gap that competing narratives rush to fill. Believers may see the gap as evidence of breakthrough technology; sceptics may see it as likely misidentification; intelligence officials may see it as a domain-awareness problem. Kirkpatrick’s approach is to treat the gap as an investigative problem first. That is a more careful standard than either reflexive debunking or reflexive belief.
 
-AARO’s historical report followed the same logic. It did not claim every case had been solved. It said many cases remain unsolved mainly because the available data are limited or poor, while better data would likely allow many to be identified as ordinary objects or phenomena. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
+AARO’s historical report followed the same logic. It did not claim every case had been solved. It said many cases remain unsolved mainly because the available data are limited or poor, while better data would likely allow many to be identified as ordinary objects or phenomena.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/)
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175-Illustration-2-dark.svg" | relative_url }}" alt="Did Sean Kirkpatrick Debunk UFO Disclosure? illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Avi Loeb paper and the “alien mothership” misunderstanding
 
-One episode complicated Kirkpatrick’s public image: his draft paper with Harvard astrophysicist Avi Loeb, “Physical Constraints on Unidentified Aerial Phenomena”. The paper explored what standard physics would imply for highly manoeuvrable UAP moving through air or water, including expected signatures such as fireballs, ionisation and radio effects. Its general thrust was constraint-based: if extreme speeds and manoeuvres are inferred but expected physical signatures are absent, the measurements or interpretations may be wrong. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lweb.cfa.harvard.edu/~loeb/LK1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lweb.cfa.harvard.edu">[lweb.cfa.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lweb.cfa.harvard.edu</span><span class="citation-popover-title">Physical Constraints on Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Physical Constraints on Unidentified Aerial Phenomena</span></span></span>
+One episode complicated Kirkpatrick’s public image: his draft paper with Harvard astrophysicist Avi Loeb, “Physical Constraints on Unidentified Aerial Phenomena”. The paper explored what standard physics would imply for highly manoeuvrable UAP moving through air or water, including expected signatures such as fireballs, ionisation and radio effects. Its general thrust was constraint-based: if extreme speeds and manoeuvres are inferred but expected physical signatures are absent, the measurements or interpretations may be wrong.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lweb.cfa.harvard.edu/~loeb/LK1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lweb.cfa.harvard.edu">[lweb.cfa.harvard.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lweb.cfa.harvard.edu</span><span class="citation-popover-title">Physical Constraints on Unidentified Aerial Phenomena</span><span class="citation-popover-snippet">Physical Constraints on Unidentified Aerial Phenomena</span></span></span>
 
 Some media and online commentary focused on the paper’s discussion of hypothetical interstellar objects and probes, making it sound as if a Pentagon official had endorsed an alien mothership scenario. That reading overstates the paper’s evidential meaning. The paper did not publicly prove an extraterrestrial craft existed; it used physical reasoning to test what would follow if certain extraordinary interpretations were true. In that sense, it is consistent with Kirkpatrick’s broader method: take claims seriously enough to model them, but do not treat them as established without supporting evidence.
 
@@ -388,9 +388,9 @@ The episode still matters for credibility because it shows how easily technical 
 
 The best argument for Kirkpatrick’s credibility is that he pushed the UAP issue away from personality-driven disclosure claims and towards evidence standards. He repeatedly framed UAP as a real national-security and aviation-safety problem while resisting the leap from “unidentified” to “extraterrestrial”. That is a defensible distinction and one often lost in public debate.
 
-His supporters can point to several concrete actions: AARO was stood up under his leadership; the office investigated hundreds of cases; it created a public-facing website; it developed reporting channels for eligible current and former US government personnel; and it pursued a historical review of alleged US government UAP programmes. The Department of Defense credited him with investigating more than 800 UAP cases and leading an extensive search for US government and contractor programmes associated with UAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
+His supporters can point to several concrete actions: AARO was stood up under his leadership; the office investigated hundreds of cases; it created a public-facing website; it developed reporting channels for eligible current and former US government personnel; and it pursued a historical review of alleged US government UAP programmes. The Department of Defense credited him with investigating more than 800 UAP cases and leading an extensive search for US government and contractor programmes associated with UAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF)
 
-AARO also opened a reporting mechanism for current or former US government employees, service members and contractors with direct knowledge of alleged government UAP programmes dating back to 1945. Kirkpatrick described that mechanism as a way to gather information for the historical report and related investigations, while cautioning that the public web form was not for transmitting classified information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF)
+AARO also opened a reporting mechanism for current or former US government employees, service members and contractors with direct knowledge of alleged government UAP programmes dating back to 1945. Kirkpatrick described that mechanism as a way to gather information for the historical report and related investigations, while cautioning that the public web form was not for transmitting classified information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF)
 
 On this reading, Kirkpatrick’s credibility lies less in charisma than in method: collect reports, separate direct knowledge from hearsay, check named programmes, test materials, and avoid conclusions that outrun the evidence.
 
@@ -398,9 +398,9 @@ On this reading, Kirkpatrick’s credibility lies less in charisma than in metho
 
 ## Critics’ case: official denial is not the same as public proof
 
-The best argument against over-crediting Kirkpatrick is that official denial is not the same as public proof. The history of military secrecy, special-access programmes and compartmented intelligence gives reasonable readers grounds to ask whether any office can fully disclose what it found. AARO’s own report says some alleged programmes were actually sensitive national-security programmes misidentified as UAP reverse-engineering efforts. That finding may be true and still leave the public unable to see enough detail to evaluate every step. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)
+The best argument against over-crediting Kirkpatrick is that official denial is not the same as public proof. The history of military secrecy, special-access programmes and compartmented intelligence gives reasonable readers grounds to ask whether any office can fully disclose what it found. AARO’s own report says some alleged programmes were actually sensitive national-security programmes misidentified as UAP reverse-engineering efforts. That finding may be true and still leave the public unable to see enough detail to evaluate every step.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defense.gov</span><span class="citation-popover-snippet">DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release &#124; U.S. Department of War...</span></span></span>(https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/)
 
-Critics also object to Kirkpatrick’s tone towards parts of the UAP community. His public comments about circular reporting, “true believers” and unsupported stories may be justified by his review, but they can also appear dismissive to people who believe witnesses have been stigmatised or ignored. The Guardian reported that he blamed a network of believers and sympathetic lawmakers for keeping unsubstantiated claims alive; those claims may be weak, but the language hardened perceptions that AARO was adversarial rather than neutral. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Critics also object to Kirkpatrick’s tone towards parts of the UAP community. His public comments about circular reporting, “true believers” and unsupported stories may be justified by his review, but they can also appear dismissive to people who believe witnesses have been stigmatised or ignored. The Guardian reported that he blamed a network of believers and sympathetic lawmakers for keeping unsubstantiated claims alive; those claims may be weak, but the language hardened perceptions that AARO was adversarial rather than neutral.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 A fair assessment should separate those two issues. Tone can affect trust, but it does not by itself refute AARO’s findings. Conversely, AARO’s findings are important, but they do not give the public full independent access to every classified basis for the conclusions.
 
@@ -422,152 +422,152 @@ Sean Kirkpatrick’s role in UAP discourse is not that of an experiencer, a whis
 The most careful conclusion is this: Kirkpatrick is credible when he says AARO found no public-verifiable basis for extraterrestrial or reverse-engineering claims, and his professional background makes him a serious source on how such claims were reviewed. His conclusions should still be read as institutional findings rather than independently reproducible proof, because the public cannot inspect all the classified material behind them. For a mainstream reader weighing credibility, that places him well above rumour-driven commentators, but not beyond scrutiny.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Did Sean Kirkpatrick Debunk UFO Disclosure?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Did Sean Kirkpatrick Debunk UFO Disclosure?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="did-sean-kirkpatrick-debunk-ufo-disclosure-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -583,7 +583,7 @@ The most careful conclusion is this: Kirkpatrick is credible when he says AARO f
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -603,7 +603,7 @@ The most careful conclusion is this: Kirkpatrick is credible when he says AARO f
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -635,7 +635,7 @@ The most careful conclusion is this: Kirkpatrick is credible when he says AARO f
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -687,7 +687,7 @@ The most careful conclusion is this: Kirkpatrick is credible when he says AARO f
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -732,7 +732,7 @@ The most careful conclusion is this: Kirkpatrick is credible when he says AARO f
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -773,142 +773,142 @@ The most careful conclusion is this: Kirkpatrick is credible when he says AARO f
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
+   Link:<a href="https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3100053/dod-announces-the-establishment-of-the-all-domain-anomaly-resolution-office/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DoD Announces the Establishment of the All-domain Anomaly Resolution Office &gt; U.S. Department of War &gt; Release | U.S. Department of War...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: armed-services.senate.gov  
-   Link: <a href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/transcript-4-19-2023</a>  
+   Link:<a href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/transcript</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF</a>  
+   Link:<a href="https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2022/Jul/20/2003039076/-1/-1/1/DR-SEAN-M-KIRKPATRICK-BIOGRAPHY.PDF</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by Pentagon Press Secretary Maj. Gen. Pat Ryder on the Historical Record Report on Unidentified Anomalous Phenomena, Volume 1 &gt;...</p></details>
+   Link:<a href="https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3700894/statement-by-pentagon-press-secretary-maj-gen-pat-ryder-on-the-historical-recor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by Pentagon Press Secretary Maj. Gen. Pat Ryder on the Historical Record Report on Unidentified Anomalous Phenomena, Volume 1 &gt;...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: time.com  
-   Link: <a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
+   Link:<a href="https://time.com/6298287/congress-ufo-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://time.com/6298287/congress-ufo-hearing/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: lweb.cfa.harvard.edu  
    Title: Physical Constraints on Unidentified Aerial Phenomena  
-   Link: <a href="https://lweb.cfa.harvard.edu/~loeb/LK1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/LK1.pdf</a>  
+   Link:<a href="https://lweb.cfa.harvard.edu/~loeb/LK1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://lweb.cfa.harvard.edu/~loeb/LK1.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: defense.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.defense.gov/News/Releases/Release/Article/3583248/statement-by-deputy-secretary-of-defense-kathleen-hicks-on-the-upcoming-departu/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3583248/statement-by-deputy-secretary-of-defense-kathleen-hicks-on-the-upcoming-departu/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by Deputy Secretary of Defense Kathleen Hicks on the Upcoming Departure of All-Domain Anomaly Resolution Office (AARO) Director...</p></details>
+   Link:<a href="https://www.defense.gov/News/Releases/Release/Article/3583248/statement-by-deputy-secretary-of-defense-kathleen-hicks-on-the-upcoming-departu/" target="_blank" rel="noopener noreferrer nofollow">https://www.defense.gov/News/Releases/Release/Article/3583248/statement-by-deputy-secretary-of-defense-kathleen-hicks-on-the-upcoming-departu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement by Deputy Secretary of Defense Kathleen Hicks on the Upcoming Departure of All-Domain Anomaly Resolution Office (AARO) Director...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: war.gov  
    Title: U.S. Department of War  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera Media Roundtable &gt; U.S. Department of War &gt; Transcript | U.S. Department of War...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3575588/aaro-director-dr-sean-kirkpatrick-holds-an-off-camera-media-roundtable/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Director Dr. Sean Kirkpatrick Holds an Off-Camera Media Roundtable &gt; U.S. Department of War &gt; Transcript | U.S. Department of War...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: armed-services.senate.gov  
-   Link: <a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office</a>  
+   Link:<a href="https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/hearings/to-receive-testimony-on-the-mission-activities-oversight-and-budget-of-the-all-domain-anomaly-resolution-office</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: science.nasa.gov  
    Title: uap independent study team final report  
-   Link: <a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
+   Link:<a href="https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf" target="_blank" rel="noopener noreferrer nofollow">https://science.nasa.gov/wp-content/uploads/2023/09/uap-independent-study-team-final-report.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: Congressional Press Products  
-   Link: <a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
+   Link:<a href="https://www.aaro.mil/Congressional-Press-Products/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Congressional-Press-Products/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: space.com  
    Title: nasa ufo study group better data needed  
-   Link: <a href="https://www.space.com/nasa-ufo-study-group-better-data-needed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-study-group-better-data-needed</a>  
+   Link:<a href="https://www.space.com/nasa-ufo-study-group-better-data-needed" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/nasa-ufo-study-group-better-data-needed</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
+   Link:<a href="https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2024/jan/27/sean-kirkpatrick-pentagon-ufo-conspiracy-theory-myths</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bkxvpg/the_guardian_just_put_out_an_embarrassing_article/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bkxvpg/the_guardian_just_put_out_an_embarrassing_article/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bkxvpg/the_guardian_just_put_out_an_embarrassing_article/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bkxvpg/the_guardian_just_put_out_an_embarrassing_article/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: theguardian.com  
    Title: ufologists sean kirkpatrick pentagon report uaps  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: westexec.com  
    Title: sean kirkpatrick  
-   Link: <a href="https://www.westexec.com/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.westexec.com/sean-kirkpatrick/</a>  
+   Link:<a href="https://www.westexec.com/sean-kirkpatrick/" target="_blank" rel="noopener noreferrer nofollow">https://www.westexec.com/sean-kirkpatrick/</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: linkedin.com  
    Title: Sean Kirkpatrick  
-   Link: <a href="https://www.linkedin.com/in/sean-kirkpatrick-68485932" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/sean-kirkpatrick-68485932</a>  
+   Link:<a href="https://www.linkedin.com/in/sean-kirkpatrick-68485932" target="_blank" rel="noopener noreferrer nofollow">https://www.linkedin.com/in/sean-kirkpatrick-68485932</a>  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: There's 'no evidence of aliens': Former Pentagon leader | News Nation Live  
-   Link: <a href="https://www.youtube.com/watch?v=qD-5ZXrH6ts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qD-5ZXrH6ts</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=qD-5ZXrH6ts" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=qD-5ZXrH6ts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO investigator: Extraterrestrial &#x27;technical surprise&#x27; is top concern | ABCNL...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Pentagon UFO hunter Sean Kirkpatrick reveals what he knows about aliens  
-   Link: <a href="https://www.youtube.com/watch?v=8UPOma7n3sE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8UPOma7n3sE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s &#x27;no evidence of aliens&#x27;: Former Pentagon leader | NewsNation Live...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=8UPOma7n3sE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=8UPOma7n3sE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>There&#x27;s &#x27;no evidence of aliens&#x27;: Former Pentagon leader | NewsNation Live...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v1" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v1</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
+   Link:<a href="https://arxiv.org/html/2502.06794v2" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/html/2502.06794v2</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTime with Dr. Sean Kirkpatrick...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTime with Dr. Sean Kirkpatrick...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/</a>  
+   Link:<a href="https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fossbytes/posts/a-wall-street-journal-investigation-has-revealed-that-the-us-defense-department-/1147102957457747/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/livescience/posts/a-draft-paper-by-a-harvard-scientist-and-the-head-of-the-pentagons-ufo-office-ha/10158948890951761/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livescience/posts/a-draft-paper-by-a-harvard-scientist-and-the-head-of-the-pentagons-ufo-office-ha/10158948890951761/</a>  
+   Link:<a href="https://www.facebook.com/livescience/posts/a-draft-paper-by-a-harvard-scientist-and-the-head-of-the-pentagons-ufo-office-ha/10158948890951761/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/livescience/posts/a-draft-paper-by-a-harvard-scientist-and-the-head-of-the-pentagons-ufo-office-ha/10158948890951761/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/</a>  
+   Link:<a href="https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/aldotcom/posts/a-former-redstone-arsenal-scientist-helped-expose-how-the-defense-department-has/1097682635739966/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DKu2hwtB2dV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKu2hwtB2dV/</a>  
+   Link:<a href="https://www.instagram.com/reel/DKu2hwtB2dV/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DKu2hwtB2dV/</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>
+   Link:<a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-index/
 description: Focused pages that expand on How Credible Is Kit Green's UAP Story?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Kit_Green_d896bc
 parent_title: How Credible Is Kit Green's UAP Story?
@@ -16,7 +16,7 @@ parent_permalink: /how-credible-is-kit-greens-uap-story/
 
 # Explore Topics in How Credible Is Kit Green's UAP Story?
 
-The following pages expand on the main **[How Credible Is Kit Green's UAP Story?]({{ '/how-credible-is-kit-greens-uap-story/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[How Credible Is Kit Green's UAP Story?]({{ '/how-credible-is-kit-greens-uap-story/' | relative_url }})** page and cover its key branches in.
 
 - [AAWSAP]({{ '/aawsap/' | relative_url }})
 - [Claim Sources]({{ '/claim-sources/' | relative_url }})

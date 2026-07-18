@@ -265,7 +265,7 @@ The available public record points in a different direction. Documents released 
 
 The raid attracted unusual attention because it occurred during renewed public interest in Lazar. Around the same period, he was appearing in interviews and documentaries that revisited his claims about Area 51, S-4, and a supposedly stable form of element 115 that he said powered alien craft. Supporters already viewed Lazar through a retaliation framework: government denials of his background, disputed employment records, and his claims that institutions had attempted to erase evidence of his past.
 
-Against that backdrop, the sight of federal agents and local law enforcement searching United Nuclear looked suspicious to many followers. Lazar had repeatedly implied over the years that he once possessed, or had access to, a sample of the exotic material he claimed came from the S-4 programme. When news of the search became public, some supporters interpreted it as an attempt to recover that material. Reporting later noted that conspiracy-minded interpretations quickly centred on the idea that authorities were looking for Lazar’s alleged element 115 sample rather than conducting an ordinary criminal investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Bob Lazar Says the FBI Raided Him to Seize Area 51&#x27;s...13 Nov 2019 — Lazar has repeatedly hinted that he took a piece of element 115...</span></span></span>
+Against that backdrop, the sight of federal agents and local law enforcement searching United Nuclear looked suspicious to many followers. Lazar had repeatedly implied over the years that he once possessed, or had access to, a sample of the exotic material he claimed came from the S-4 programme. When news of the search became public, some supporters interpreted it as an attempt to recover that material. Reporting later noted that conspiracy-minded interpretations quickly centred on the idea that authorities were looking for Lazar’s alleged element 115 sample rather than conducting an ordinary criminal investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vice.com">[VICE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vice.com</span><span class="citation-popover-snippet">Bob Lazar Says the FBI Raided Him to Seize Area 51&#x27;s...13 Nov 2019 — Lazar has repeatedly hinted that he took a piece of element 115...</span></span></span>
 
 The timing strengthened those suspicions. In UFO circles, coincidences involving law enforcement often become part of broader narratives about intimidation or suppression. Because Lazar’s story already depended on the idea that powerful institutions wanted information hidden, the raid was easily absorbed into an existing pattern that supporters believed they had been observing for decades.
 
@@ -275,11 +275,11 @@ The timing strengthened those suspicions. In UFO circles, coincidences involving
 
 The strongest evidence about the purpose of the search comes from records and reporting connected to the investigation itself.
 
-Publicly discussed police and investigative documents indicate that authorities were examining possible sales of thallium, a highly toxic heavy metal, in connection with the death of a Michigan woman whose poisoning had been classified as a homicide. Records discussed by investigators showed cooperation among local police, Michigan State Police, health authorities and the FBI. Released documents described a homicide investigation focused on identifying potential sources of thallium and tracing purchases of the substance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">documents on 2017 bob lazar united nuclear raid laingsburg police department</span><span class="citation-popover-snippet">The Black VaultDocuments on 2017 Bob Lazar / United Nuclear RaidJul 1, 2019 — Houghton Police classified her death as a homicide, and the...</span></span></span>
+Publicly discussed police and investigative documents indicate that authorities were examining possible sales of thallium, a highly toxic heavy metal, in connection with the death of a Michigan woman whose poisoning had been classified as a homicide. Records discussed by investigators showed cooperation among local police, Michigan State Police, health authorities and the FBI. Released documents described a homicide investigation focused on identifying potential sources of thallium and tracing purchases of the substance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">documents on 2017 bob lazar united nuclear raid laingsburg police department</span><span class="citation-popover-snippet">The Black VaultDocuments on 2017 Bob Lazar / United Nuclear RaidJul 1, 2019 — Houghton Police classified her death as a homicide, and the...</span></span></span>
 
-United Nuclear was relevant because the company sold scientific materials and chemicals, including substances that investigators believed could help establish purchasing histories. Reporting on the case found that investigators were attempting to determine whether suspects in the poisoning inquiry had acquired thallium through suppliers such as United Nuclear. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">bob lazar area 51 the fbi</span><span class="citation-popover-snippet">The Daily GrailBob Lazar, Area 51 &amp; the FBIApr 23, 2019 — The report specifies the reason behind the search was due to an ongoing murder...</span></span></span>
+United Nuclear was relevant because the company sold scientific materials and chemicals, including substances that investigators believed could help establish purchasing histories. Reporting on the case found that investigators were attempting to determine whether suspects in the poisoning inquiry had acquired thallium through suppliers such as United Nuclear.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">bob lazar area 51 the fbi</span><span class="citation-popover-snippet">The Daily GrailBob Lazar, Area 51 &amp; the FBIApr 23, 2019 — The report specifies the reason behind the search was due to an ongoing murder...</span></span></span>
 
-Crucially, publicly available accounts of the investigation did not identify Lazar as a suspect in the homicide. Instead, the business appears to have been treated as a potential source of records and transaction information. Later summaries of the event likewise described the raid as part of an investigation into thallium purchases rather than a UFO-related operation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+Crucially, publicly available accounts of the investigation did not identify Lazar as a suspect in the homicide. Instead, the business appears to have been treated as a potential source of records and transaction information. Later summaries of the event likewise described the raid as part of an investigation into thallium purchases rather than a UFO-related operation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 This distinction matters. A search warrant directed at a business does not automatically imply criminal suspicion toward the owner. In many investigations, authorities obtain records from companies that are merely part of the evidential chain.
 
@@ -302,7 +302,7 @@ One reason the raid remains debated is that unusual timing can genuinely feel su
 
 People naturally notice events that appear to align with a larger narrative. If a prominent UFO figure is discussing hidden materials and then law-enforcement officers arrive at his business, the sequence looks meaningful. Yet criminal investigations often progress according to developments that are invisible to the public: witness interviews, laboratory results, subpoena responses, or newly discovered leads.
 
-The available evidence suggests the search occurred because investigators were tracing possible thallium transactions connected to an existing homicide case, not because officials suddenly revived interest in Lazar’s Area 51 claims. The Black Vault <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">bob lazar area 51 the fbi</span><span class="citation-popover-snippet">The Daily GrailBob Lazar, Area 51 &amp; the FBIApr 23, 2019 — The report specifies the reason behind the search was due to an ongoing murder...</span></span></span>
+The available evidence suggests the search occurred because investigators were tracing possible thallium transactions connected to an existing homicide case, not because officials suddenly revived interest in Lazar’s Area 51 claims. The Black Vault<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">bob lazar area 51 the fbi</span><span class="citation-popover-snippet">The Daily GrailBob Lazar, Area 51 &amp; the FBIApr 23, 2019 — The report specifies the reason behind the search was due to an ongoing murder...</span></span></span>
 
 That does not eliminate every question. Public records do not reveal every investigative decision, and outsiders rarely have access to the full chronology behind search warrants. However, a lack of complete visibility is not itself evidence of a hidden UFO-related motive. For the retaliation theory to become persuasive, independent evidence would be needed showing that the search exceeded or contradicted the stated homicide-investigation purpose. Publicly available documentation has not established that.
 
@@ -311,7 +311,7 @@ That does not eliminate every question. Public records do not reveal every inves
 
 As a credibility test, the United Nuclear raid is weaker than both supporters and critics sometimes suggest.
 
-For supporters, the search does not provide evidence that Lazar possessed element 115, worked on alien technology, or was being targeted because of his Area 51 story. The available records point toward a conventional investigative rationale connected to thallium poisoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">documents on 2017 bob lazar united nuclear raid laingsburg police department</span><span class="citation-popover-snippet">The Black VaultDocuments on 2017 Bob Lazar / United Nuclear RaidJul 1, 2019 — Houghton Police classified her death as a homicide, and the...</span></span></span>
+For supporters, the search does not provide evidence that Lazar possessed element 115, worked on alien technology, or was being targeted because of his Area 51 story. The available records point toward a conventional investigative rationale connected to thallium poisoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">documents on 2017 bob lazar united nuclear raid laingsburg police department</span><span class="citation-popover-snippet">The Black VaultDocuments on 2017 Bob Lazar / United Nuclear RaidJul 1, 2019 — Houghton Police classified her death as a homicide, and the...</span></span></span>
 
 For critics, the raid also does not prove that Lazar fabricated every aspect of his broader narrative. The search mainly demonstrates that his company sold chemicals of interest to investigators and that authorities sought related records. It does not directly resolve questions about his claimed employment, educational history, or alleged experiences near Area 51.
 
@@ -320,152 +320,152 @@ The most balanced reading is that the incident became symbolically important bec
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8YkkoYSqr1o" title="Bob Lazar Drops Bombshell: FBI Used a Woman’s Death to Probe an Area 51 Secret" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8YkkoYSqr1o" target="_blank" rel="noopener noreferrer">Bob Lazar Drops Bombshell: FBI Used a Woman’s Death to Probe an Area 51 Secret</a></p><p class="youtube-embed-meta">Channel: Astra Earth &middot; Views: 485 &middot; Uploaded: May 2026 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8YkkoYSqr1o" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8YkkoYSqr1o">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Was the United Nuclear raid retaliation?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Was the United Nuclear raid retaliation?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO investigation books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">scientific UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP investigation books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor"><img src="https://i.ebayimg.com/images/g/EXoAAeSwm7lp~Zny/s-l225.jpg" alt="Listing image for S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">S4 The Bob Lazar Story Movie Poster UFO Alien Conspiracy Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-united-nuclear-raid-retaliation-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-united-nuclear-raid-retaliation-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -481,7 +481,7 @@ The most balanced reading is that the incident became symbolically important bec
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -501,7 +501,7 @@ The most balanced reading is that the incident became symbolically important bec
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -533,7 +533,7 @@ The most balanced reading is that the incident became symbolically important bec
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -585,7 +585,7 @@ The most balanced reading is that the incident became symbolically important bec
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -630,7 +630,7 @@ The most balanced reading is that the incident became symbolically important bec
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -671,96 +671,96 @@ The most balanced reading is that the incident became symbolically important bec
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: vice.com  
-   Link: <a href="https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Says the FBI Raided Him to Seize Area 51&#x27;s...13 Nov 2019 — Lazar has repeatedly hinted that he took a piece of element 115...</p></details>
+   Link:<a href="https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/" target="_blank" rel="noopener noreferrer nofollow">https://www.vice.com/en/article/bob-lazar-says-the-fbi-raided-him-to-seize-area-51s-alien-fuel-the-truth-is-weirder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Says the FBI Raided Him to Seize Area 51&#x27;s...13 Nov 2019 — Lazar has repeatedly hinted that he took a piece of element 115...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: documents on 2017 bob lazar united nuclear raid laingsburg police department  
-   Link: <a href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultDocuments on 2017 Bob Lazar / United Nuclear RaidJul 1, 2019 — Houghton Police classified her death as a homicide, and the...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/documents-on-2017-bob-lazar-united-nuclear-raid-laingsburg-police-department/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultDocuments on 2017 Bob Lazar / United Nuclear RaidJul 1, 2019 — Houghton Police classified her death as a homicide, and the...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dailygrail.com  
    Title: bob lazar area 51 the fbi  
-   Link: <a href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily GrailBob Lazar, Area 51 &amp; the FBIApr 23, 2019 — The report specifies the reason behind the search was due to an ongoing murder...</p></details>
+   Link:<a href="https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2019/04/bob-lazar-area-51-the-fbi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily GrailBob Lazar, Area 51 &amp; the FBIApr 23, 2019 — The report specifies the reason behind the search was due to an ongoing murder...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice Federal Bureau of Investigation...Mar 29, 2023 — § 552(c). Congress excluded three categories of law enforcement a...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/fbifiles/1422606-001.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Justice Federal Bureau of Investigation...Mar 29, 2023 — § 552(c). Congress excluded three categories of law enforcement a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of extraterrestrial...</p></details>
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar, UFO HoaxsterA scientist named Bob Lazar had come forth to reveal that the US government possesses the remains of extraterrestrial...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nev.fandom.com  
    Title: Bob Lazar  
-   Link: <a href="https://nev.fandom.com/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://nev.fandom.com/wiki/Bob_Lazar</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar | Nihil Ex Vitam Wiki - FandomAmerican conspiracy theorist and self-proclaimed physicist who claims he rat who released classified...</p></details>
+   Link:<a href="https://nev.fandom.com/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://nev.fandom.com/wiki/Bob_Lazar</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar | Nihil Ex Vitam Wiki - FandomAmerican conspiracy theorist and self-proclaimed physicist who claims he rat who released classified...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: internationalflyingsaucerbureau.com  
-   Link: <a href="https://www.internationalflyingsaucerbureau.com/robert-scott-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/robert-scott-lazar/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Scott LazarHis claims brought additional public attention to Area 51 and fueled conspiracy theories surrounding its classified act...</p></details>
+   Link:<a href="https://www.internationalflyingsaucerbureau.com/robert-scott-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.internationalflyingsaucerbureau.com/robert-scott-lazar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Scott LazarHis claims brought additional public attention to Area 51 and fueled conspiracy theories surrounding its classified act...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: goodpods.com  
-   Link: <a href="https://goodpods.com/podcasts/the-tempest-universe-208806/ufo-buster-radio-news-297-spacex-ufos-and-bob-lazar-fbi-raid-27389125" target="_blank" rel="noopener noreferrer nofollow">https://goodpods.com/podcasts/the-tempest-universe-208806/ufo-buster-radio-news-297-spacex-ufos-and-bob-lazar-fbi-raid-27389125</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX UFOs and Bob Lazar FBI Raid | The Tempest UniverseAccording to the Michigan State Police reports and United Nuclear Scientific&#x27;s w...</p></details>
+   Link:<a href="https://goodpods.com/podcasts/the-tempest-universe-208806/ufo-buster-radio-news-297-spacex-ufos-and-bob-lazar-fbi-raid-27389125" target="_blank" rel="noopener noreferrer nofollow">https://goodpods.com/podcasts/the-tempest-universe-208806/ufo-buster-radio-news-297-spacex-ufos-and-bob-lazar-fbi-raid-27389125</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceX UFOs and Bob Lazar FBI Raid | The Tempest UniverseAccording to the Michigan State Police reports and United Nuclear Scientific&#x27;s w...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/2831584017041492/posts/2885064298360130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831584017041492/posts/2885064298360130/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Opened Area 51: The Bob Lazar StoryFor the [propulsion](&amp;#123;&amp;#123; &#x27;propulsion/&#x27; | relative_url &amp;#125;&amp;#125;) of the studied vehicles, Bob Lazar claims that the atomic Element 115 s...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2831584017041492/posts/2885064298360130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2831584017041492/posts/2885064298360130/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Man Who Opened Area 51: The Bob Lazar StoryFor the [propulsion](&amp;#123;&amp;#123; &#x27;propulsion/&#x27; | relative_url &amp;#125;&amp;#125;) of the studied vehicles, Bob Lazar claims that the atomic Element 115 s...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1572893699951268/posts/2098006240773342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2098006240773342/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and alien technology revelations from a former engineerIn a rare and chilling interview, Bob Lazar, the man who first broke the silen...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1572893699951268/posts/2098006240773342/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1572893699951268/posts/2098006240773342/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO and alien technology revelations from a former engineerIn a rare and chilling interview, Bob Lazar, the man who first broke the silen...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/kh35h9/were_any_indictments_ever_issued_for_the_murder/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kh35h9/were_any_indictments_ever_issued_for_the_murder/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Were any indictments ever issued for the murder case that...... Bob Lazar documentary, that being the raid on Lazar&#x27;s company Unit...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/kh35h9/were_any_indictments_ever_issued_for_the_murder/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/kh35h9/were_any_indictments_ever_issued_for_the_murder/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were any indictments ever issued for the murder case that...... Bob Lazar documentary, that being the raid on Lazar&#x27;s company Unit...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: chris swecker a former fbi assistant director and former state department analys  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/chris-swecker-a-former-fbi-assistant-director-and-former-state-department-analys/974819684925049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/chris-swecker-a-former-fbi-assistant-director-and-former-state-department-analys/974819684925049/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Swecker, a former FBI assistant director...1980s – Bob Lazar &amp; Element 115 In 1989, physicist Bob Lazar stepped forward claiming t...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/chris-swecker-a-former-fbi-assistant-director-and-former-state-department-analys/974819684925049/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/chris-swecker-a-former-fbi-assistant-director-and-former-state-department-analys/974819684925049/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Chris Swecker, a former FBI assistant director...1980s – Bob Lazar &amp; Element 115 In 1989, physicist Bob Lazar stepped forward claiming t...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: conspiracy theorists and bob lazar himself have suggested that lazar stole a pie  
-   Link: <a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Conspiracy theorists and [Bob] Lazar himself have...His home was raided by the FBI in 2019, allegedly related to Element 115.... Lazar...</p></details>
+   Link:<a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Conspiracy theorists and [Bob] Lazar himself have...His home was raided by the FBI in 2019, allegedly related to Element 115.... Lazar...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: shocking ufo secrets revealed former head of the us governments advanced aerospa  
-   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>the PENTAGON unit that researched UFOs—Luis Elizondo...1980s – Bob Lazar &amp; Element 115 In 1989, physicist Bob Lazar stepped forward clai...</p></details>
+   Link:<a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>the PENTAGON unit that researched UFOs—Luis Elizondo...1980s – Bob Lazar &amp; Element 115 In 1989, physicist Bob Lazar stepped forward clai...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/chriskmellon/posts/1687003082315743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chriskmellon/posts/1687003082315743/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>his is pretty compelling information, after all government...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/chriskmellon/posts/1687003082315743/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/chriskmellon/posts/1687003082315743/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>his is pretty compelling information, after all government...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s house being raided and searched by the FBI...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s house being raided and searched by the FBI...Read more...</p></details>

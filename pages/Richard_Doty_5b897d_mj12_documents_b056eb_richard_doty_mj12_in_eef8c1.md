@@ -262,16 +262,16 @@ image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj1
 
 ## Introduction
 
-Richard Doty’s influence on MJ-12 researcher perceptions was often less about proving the documents authentic than about shaping the environment in which researchers interpreted them. During the 1980s, Doty, an Air Force Office of Special Investigations (AFOSI) agent linked to several UFO-related information operations, became associated with a network of researchers, intermediaries and journalists who were searching for evidence of a hidden government UFO programme. In that setting, the mere suggestion that intelligence insiders were quietly confirming UFO rumours carried enormous weight. As a result, many researchers approached the Majestic-12 papers through a lens already influenced by insider claims, leaked memoranda, selective disclosures and rumours tied to Doty and his associates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+Richard Doty’s influence on MJ-12 researcher perceptions was often less about proving the documents authentic than about shaping the environment in which researchers interpreted them. During the 1980s, Doty, an Air Force Office of Special Investigations (AFOSI) agent linked to several UFO-related information operations, became associated with a network of researchers, intermediaries and journalists who were searching for evidence of a hidden government UFO programme. In that setting, the mere suggestion that intelligence insiders were quietly confirming UFO rumours carried enormous weight. As a result, many researchers approached the Majestic-12 papers through a lens already influenced by insider claims, leaked memoranda, selective disclosures and rumours tied to Doty and his associates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj12_in_eef8c1-Illustration-1-dark.svg" | relative_url }}" alt="Doty Influence illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj12_in_eef8c1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj12_in_eef8c1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The key credibility issue is not whether Doty personally created the MJ-12 documents. That remains unproven. The more significant question is how his actions affected researcher judgement. Critics argue that his role in earlier disinformation episodes made the MJ-12 papers harder to evaluate objectively because researchers were encouraged to treat dubious material as potentially authentic intelligence leaks. [Supporters]({{ 'supporters/' | relative_url }}) and some UFO researchers counter that intelligence involvement does not automatically mean every document was false and that disinformation campaigns can sometimes hide genuine secrets among fabricated material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span>
+The key credibility issue is not whether Doty personally created the MJ-12 documents. That remains unproven. The more significant question is how his actions affected researcher judgement. Critics argue that his role in earlier disinformation episodes made the MJ-12 papers harder to evaluate objectively because researchers were encouraged to treat dubious material as potentially authentic intelligence leaks. [Supporters]({{ 'supporters/' | relative_url }}) and some UFO researchers counter that intelligence involvement does not automatically mean every document was false and that disinformation campaigns can sometimes hide genuine secrets among fabricated material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span>
 
 ## How Doty Entered the MJ-12 Information Network
 
-By the early 1980s, Bill Moore had become a prominent UFO researcher through his work on Roswell-related claims. After the publication of *The Roswell Incident*, Moore came into contact with Doty and other individuals who presented themselves as intelligence-linked sources with access to classified UFO information. According to later accounts, Moore believed that cooperation with these contacts could provide evidence of government knowledge about UFO crash retrievals. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
+By the early 1980s, Bill Moore had become a prominent UFO researcher through his work on Roswell-related claims. After the publication of *The Roswell Incident*, Moore came into contact with Doty and other individuals who presented themselves as intelligence-linked sources with access to classified UFO information. According to later accounts, Moore believed that cooperation with these contacts could provide evidence of government knowledge about UFO crash retrievals.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
 
-This relationship mattered because the MJ-12 story did not emerge in isolation. Several researchers later noted that concepts associated with MJ-12 appeared within a broader ecosystem of UFO documents, briefings and rumours circulating through networks connected to Moore, Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) and Doty. Critics have pointed out that references to “MJ Twelve” appeared in questionable material before the famous Eisenhower briefing document surfaced publicly, suggesting that the mythology was already being developed within circles touched by alleged disinformation activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stealthskater.com/Documents/Majestic_06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stealthskater.com">[2stealthskater.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stealthskater.com</span><span class="citation-popover-title">The MJ-12 Documents – Who?</span><span class="citation-popover-snippet">Why? How?28 Apr 2020 — 1981 - US Air Force Office of Special Investigations [AFOSI] agent Richard C. Doty provides. Moore with allegedly...</span></span></span>
+This relationship mattered because the MJ-12 story did not emerge in isolation. Several researchers later noted that concepts associated with MJ-12 appeared within a broader ecosystem of UFO documents, briefings and rumours circulating through networks connected to Moore, Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) and Doty. Critics have pointed out that references to “MJ Twelve” appeared in questionable material before the famous Eisenhower briefing document surfaced publicly, suggesting that the mythology was already being developed within circles touched by alleged disinformation activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.stealthskater.com/Documents/Majestic_06.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: stealthskater.com">[2stealthskater.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">stealthskater.com</span><span class="citation-popover-title">The MJ-12 Documents – Who?</span><span class="citation-popover-snippet">Why? How?28 Apr 2020 — 1981 - US Air Force Office of Special Investigations [AFOSI] agent Richard C. Doty provides. Moore with allegedly...</span></span></span>
 
 For many researchers, the apparent involvement of intelligence personnel had a paradoxical effect. Rather than increasing scepticism, it sometimes increased confidence. If government agents appeared willing to discuss UFO secrecy at all, some investigators interpreted that as indirect confirmation that a concealed programme existed. That psychological effect became central to the later reception of the MJ-12 papers.
 
@@ -279,21 +279,21 @@ For many researchers, the apparent involvement of intelligence personnel had a p
 
 ## Connections to Bill Moore and Jaime Shandera
 
-The most important researcher relationship in the MJ-12 story was the Moore–Shandera partnership. Jaime Shandera became famous after receiving the anonymous roll of film that allegedly contained photographs of the MJ-12 briefing papers. The mysterious delivery method immediately created chain-of-custody problems, but it also reinforced the perception that someone inside government was leaking classified information. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
+The most important researcher relationship in the MJ-12 story was the Moore–Shandera partnership. Jaime Shandera became famous after receiving the anonymous roll of film that allegedly contained photographs of the MJ-12 briefing papers. The mysterious delivery method immediately created chain-of-custody problems, but it also reinforced the perception that someone inside government was leaking classified information.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
-Doty's influence on perception entered indirectly through his existing relationship with Moore. Researchers later learned that Moore had interacted extensively with Doty and had become involved in information exchanges connected to AFOSI interests. At the 1989 MUFON conference, Moore publicly acknowledged participating in activities that he described as part of a government disinformation effort directed at UFO researchers, particularly in the Paul Bennewitz affair. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-snippet">Wave AI Podcast Notes610: Majestic 12 &#124; Secret Documents Expose UFO Cover-Up...6 Sept 2025 — Doty would provide Moore with confidential...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">the mj 12 documents who why what where when</span><span class="citation-popover-snippet">The MJ-12 Documents: Who, Why, What, Where, When...15 Jul 2024 — According to Moore, he was recruited to keep tabs on UFO researchers an...</span></span></span>
+Doty's influence on perception entered indirectly through his existing relationship with Moore. Researchers later learned that Moore had interacted extensively with Doty and had become involved in information exchanges connected to AFOSI interests. At the 1989 MUFON conference, Moore publicly acknowledged participating in activities that he described as part of a government disinformation effort directed at UFO researchers, particularly in the Paul Bennewitz affair.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pod.wave.co">[Wave AI Podcast Notes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pod.wave.co</span><span class="citation-popover-snippet">Wave AI Podcast Notes610: Majestic 12 &#124; Secret Documents Expose UFO Cover-Up...6 Sept 2025 — Doty would provide Moore with confidential...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[2podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">the mj 12 documents who why what where when</span><span class="citation-popover-snippet">The MJ-12 Documents: Who, Why, What, Where, When...15 Jul 2024 — According to Moore, he was recruited to keep tabs on UFO researchers an...</span></span></span>
 
-That admission transformed how many people viewed MJ-12. Before Moore's disclosure, some researchers saw the documents as potentially authentic leaks supported by insider contacts. Afterwards, critics argued that any document emerging from the same social network had to be treated with extreme caution. The issue was not simply whether Moore or Doty forged anything. Rather, it was that the information pipeline itself had become contaminated by acknowledged deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://presidentialufoblog.wordpress.com/tag/richard-doty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presidentialufoblog.wordpress.com">[Presidentialufo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presidentialufoblog.wordpress.com</span><span class="citation-popover-snippet">Presidentialuforichard doty – Presidentialufo - WordPress.comThey offered him information that sometimes, in the end, appeared to be a mi...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For supporters of MJ-12 authenticity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>, Moore's confession did not automatically invalidate the papers. Some argued that intelligence agencies often mix truthful and false information and that a disinformation campaign could have been used to obscure genuine leaks. This interpretation preserved belief in MJ-12 while simultaneously accepting that manipulation had occurred. Critics, however, saw the same facts as a warning that the entire document trail had become unreliable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span>
+That admission transformed how many people viewed MJ-12. Before Moore's disclosure, some researchers saw the documents as potentially authentic leaks supported by insider contacts. Afterwards, critics argued that any document emerging from the same social network had to be treated with extreme caution. The issue was not simply whether Moore or Doty forged anything. Rather, it was that the information pipeline itself had become contaminated by acknowledged deception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://presidentialufoblog.wordpress.com/tag/richard-doty/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: presidentialufoblog.wordpress.com">[Presidentialufo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">presidentialufoblog.wordpress.com</span><span class="citation-popover-snippet">Presidentialuforichard doty – Presidentialufo - WordPress.comThey offered him information that sometimes, in the end, appeared to be a mi...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For supporters of MJ-12 authenticity]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>, Moore's confession did not automatically invalidate the papers. Some argued that intelligence agencies often mix truthful and false information and that a disinformation campaign could have been used to obscure genuine leaks. This interpretation preserved belief in MJ-12 while simultaneously accepting that manipulation had occurred. Critics, however, saw the same facts as a warning that the entire document trail had become unreliable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SSTsW_wFn_U" title="The Feds Told Him to Chase Aliens" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer">The Feds Told Him to Chase Aliens</a></p><p class="youtube-embed-meta">Channel: Oki&#x27;s Weird Stories &middot; Views: 410.8K &middot; Uploaded: October 2021 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SSTsW_wFn_U" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SSTsW_wFn_U">Open on YouTube</a></p></div></div></div>
 
 ## Interactions with Linda Moulton Howe
 
-Linda Moulton Howe's encounters with Doty became another influential factor in shaping researcher attitudes. Howe entered UFO investigations as a journalist known for work on cattle mutilation cases. During the early 1980s she reported being shown purported government material by Doty and hearing claims about recovered alien bodies, secret programmes and extraterrestrial origins. According to later accounts, some of the material she was shown resembled themes that would later become associated with MJ-12 narratives. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+Linda Moulton Howe's encounters with Doty became another influential factor in shaping researcher attitudes. Howe entered UFO investigations as a journalist known for work on cattle mutilation cases. During the early 1980s she reported being shown purported government material by Doty and hearing claims about recovered alien bodies, secret programmes and extraterrestrial origins. According to later accounts, some of the material she was shown resembled themes that would later become associated with MJ-12 narratives.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-For many UFO researchers, Howe's involvement provided a degree of credibility because she was viewed as an independent investigator rather than a long-time conspiracy advocate. When she described interactions with an AFOSI source, some readers interpreted that as evidence that classified information was leaking into civilian research circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsDuring a recent telephone conversation, Linda Moulton Howe told m...</span></span></span>
+For many UFO researchers, Howe's involvement provided a degree of credibility because she was viewed as an independent investigator rather than a long-time conspiracy advocate. When she described interactions with an AFOSI source, some readers interpreted that as evidence that classified information was leaking into civilian research circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsDuring a recent telephone conversation, Linda Moulton Howe told m...</span></span></span>
 
-[Sceptics]({{ 'sceptics/' | relative_url }}) drew the opposite conclusion. They argued that Howe's experiences demonstrated how effectively a source claiming official access could shape beliefs without producing verifiable evidence. The fact that dramatic promises, including alleged film footage and further proof, never fully materialised became part of the argument that researchers were being steered toward predetermined conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
+[Sceptics]({{ 'sceptics/' | relative_url }}) drew the opposite conclusion. They argued that Howe's experiences demonstrated how effectively a source claiming official access could shape beliefs without producing verifiable evidence. The fact that dramatic promises, including alleged film footage and further proof, never fully materialised became part of the argument that researchers were being steered toward predetermined conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theories</span></span></span>
 
 The lasting effect was significant. Even researchers who later became doubtful of specific documents often retained a broader belief that secret crash-retrieval programmes existed because they had encountered seemingly corroborating testimony from multiple people influenced by the same information network.
 
@@ -302,147 +302,147 @@ The lasting effect was significant. Even researchers who later became doubtful o
 
 One reason Doty's influence became so consequential is that the MJ-12 documents appeared during a period when many UFO researchers were desperately searching for documentary proof of a cover-up. Roswell stories, military witness accounts and rumours of recovered technology already existed. What was missing was a bureaucratic framework linking them together.
 
-The MJ-12 papers seemed to provide exactly that framework. They offered official-looking names, dates, classification markings and organisational structures. If a researcher already believed that intelligence insiders were quietly validating UFO secrecy, then weaknesses in provenance could appear less important than the apparent confirmation of a larger narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
+The MJ-12 papers seemed to provide exactly that framework. They offered official-looking names, dates, classification markings and organisational structures. If a researcher already believed that intelligence insiders were quietly validating UFO secrecy, then weaknesses in provenance could appear less important than the apparent confirmation of a larger narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
 
 Several mechanisms amplified this effect:
 
 * **Perceived insider access:** Doty's claimed connection to AFOSI made rumours appear closer to official knowledge than ordinary UFO stories.
 * **Selective disclosure:** Researchers often received fragments rather than complete evidence, encouraging speculation about hidden archives.
 * **Cross-confirmation through networks:** Similar claims circulated among multiple researchers, creating an impression of independent corroboration even when information traced back to overlapping sources.
-* **The intelligence mystique:** Some investigators treated signs of manipulation as evidence that authorities were protecting a genuine secret rather than as evidence that the claims themselves might be false. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> Wikipedia This dynamic helped MJ-12 survive criticism longer than many other UFO documents. The debate shifted from document authenticity to questions <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span> about who might be leaking, suppressing or manipulating information.
+* **The intelligence mystique:** Some investigators treated signs of manipulation as evidence that authorities were protecting a genuine secret rather than as evidence that the claims themselves might be false.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> Wikipedia This dynamic helped MJ-12 survive criticism longer than many other UFO documents. The debate shifted from document authenticity to questions<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span> about who might be leaking, suppressing or manipulating information.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj12_in_eef8c1-Illustration-3-dark.svg" | relative_url }}" alt="Doty Influence illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj12_in_eef8c1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_richard_doty_mj12_in_eef8c1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Impact on Narrative Credibility Versus Archival Reality
 
 The most enduring consequence of Doty's influence was the widening gap between narrative credibility and documentary credibility.
 
-Narrative credibility refers to whether a story feels consistent with existing beliefs and expectations. By the mid-1980s, many researchers already believed that the government had recovered UFO technology and concealed the evidence. The MJ-12 papers fit that expectation almost perfectly. Doty-linked rumours, alleged briefings and insider conversations helped reinforce the impression that the documents reflected a hidden reality. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
+Narrative credibility refers to whether a story feels consistent with existing beliefs and expectations. By the mid-1980s, many researchers already believed that the government had recovered UFO technology and concealed the evidence. The MJ-12 papers fit that expectation almost perfectly. Doty-linked rumours, alleged briefings and insider conversations helped reinforce the impression that the documents reflected a hidden reality.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
 
-Archival credibility is different. It depends on provenance, document history, physical evidence and independent verification. On those grounds, the MJ-12 papers faced persistent problems. The anonymous film delivery, missing archival records, disputed signatures and inconsistent formatting generated criticism from historians, document analysts and sceptical investigators. These issues remained regardless of how many intelligence-linked stories circulated around the documents. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">rs Brad Sparks and Barry Greenwood that documentally demolishes the MJ-12...</span></span></span> This distinction explains why MJ-12 became so divisive. Researchers influenced by insider narratives often judged the documents within a larger story about secrecy and disclosure. Researchers focused on provenance judged them according to archival standards. Doty's role was important because he occupied the space between those approaches: an apparent insider whose claims encouraged narrative belief while rarely providing evidence that resolved documentary questions.
+Archival credibility is different. It depends on provenance, document history, physical evidence and independent verification. On those grounds, the MJ-12 papers faced persistent problems. The anonymous film delivery, missing archival records, disputed signatures and inconsistent formatting generated criticism from historians, document analysts and sceptical investigators. These issues remained regardless of how many intelligence-linked stories circulated around the documents.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-snippet">rs Brad Sparks and Barry Greenwood that documentally demolishes the MJ-12...</span></span></span> This distinction explains why MJ-12 became so divisive. Researchers influenced by insider narratives often judged the documents within a larger story about secrecy and disclosure. Researchers focused on provenance judged them according to archival standards. Doty's role was important because he occupied the space between those approaches: an apparent insider whose claims encouraged narrative belief while rarely providing evidence that resolved documentary questions.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/O_FCSff37ZI" title="Paul Bennewitz &amp; Alien Invasion (Dulce Base, Project Beta) - Jimmy Akin&#x27;s Mysterious World" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=O_FCSff37ZI" target="_blank" rel="noopener noreferrer">Paul Bennewitz &amp; Alien Invasion (Dulce Base, Project Beta) - Jimmy Akin&#x27;s Mysterious World</a></p><p class="youtube-embed-meta">Channel: Jimmy Akin &middot; Views: 12.8K &middot; Uploaded: February 2021 &middot; Length: 1 hour 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=O_FCSff37ZI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=O_FCSff37ZI">Open on YouTube</a></p></div></div></div>
 
 ## The Lasting Effect on UFO Research
 
-The controversy surrounding Doty and MJ-12 continues to shape how UFO researchers evaluate new claims. For many sceptics, the episode became a cautionary example of how intelligence-linked information can distort an investigative field. The Bennewitz affair, Moore's later admissions and the unresolved origins of the MJ-12 papers are frequently cited as reasons to demand stronger provenance and independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">the mj 12 documents who why what where when</span><span class="citation-popover-snippet">The MJ-12 Documents: Who, Why, What, Where, When...15 Jul 2024 — According to Moore, he was recruited to keep tabs on UFO researchers an...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> For some believers, however, the same history is interpreted differently. They argue that the presence of disinformation implies the existence of genuine secrets worth protecting and that fabricated material may have been deployed around authentic programmes. Under that view, Doty's actions do not necessarily disprove MJ-12; they merely complicate efforts to separate truth from deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span>
+The controversy surrounding Doty and MJ-12 continues to shape how UFO researchers evaluate new claims. For many sceptics, the episode became a cautionary example of how intelligence-linked information can distort an investigative field. The Bennewitz affair, Moore's later admissions and the unresolved origins of the MJ-12 papers are frequently cited as reasons to demand stronger provenance and independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcastufo.com">[podcastufo.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcastufo.com</span><span class="citation-popover-title">the mj 12 documents who why what where when</span><span class="citation-popover-snippet">The MJ-12 Documents: Who, Why, What, Where, When...15 Jul 2024 — According to Moore, he was recruited to keep tabs on UFO researchers an...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> For some believers, however, the same history is interpreted differently. They argue that the presence of disinformation implies the existence of genuine secrets worth protecting and that fabricated material may have been deployed around authentic programmes. Under that view, Doty's actions do not necessarily disprove MJ-12; they merely complicate efforts to separate truth from deception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: goodreads.com">[Goodreads]</a><span class="citation-popover" role="note"><span class="citation-popover-source">goodreads.com</span><span class="citation-popover-snippet">Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</span></span></span>
 
-What remains clear is that Doty's influence extended beyond any single document. His significance lies in how he affected researcher expectations, trust networks and standards of evidence. The MJ-12 debate became not only a dispute over whether certain papers were genuine, but also a case study in how perceived insiders can shape belief, suspicion and credibility within an investigative community long before documentary proof is established. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
+What remains clear is that Doty's influence extended beyond any single document. His significance lies in how he affected researcher expectations, trust networks and standards of evidence. The MJ-12 debate became not only a dispute over whether certain papers were genuine, but also a case study in how perceived insiders can shape belief, suspicion and credibility within an investigative community long before documentary proof is established.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for How Richard Doty Shaped MJ 12 Beliefs Among Researchers, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for How Richard Doty Shaped MJ 12 Beliefs Among Researchers, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ"><img src="https://i.ebayimg.com/images/g/WBcAAeSwNOtpx3sq/s-l225.jpg" alt="Listing image for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ"><img src="https://i.ebayimg.com/images/g/WBcAAeSwNOtpx3sq/s-l225.jpg" alt="Listing image for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ"><img src="https://i.ebayimg.com/images/g/~dgAAeSwzRxqCrca/s-l225.jpg" alt="Listing image for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ"><img src="https://i.ebayimg.com/images/g/~dgAAeSwzRxqCrca/s-l225.jpg" alt="Listing image for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="how-richard-doty-shaped-mj-12-beliefs-among-researchers-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -458,7 +458,7 @@ What remains clear is that Doty's influence extended beyond any single document.
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -478,7 +478,7 @@ What remains clear is that Doty's influence extended beyond any single document.
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -510,7 +510,7 @@ What remains clear is that Doty's influence extended beyond any single document.
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -562,7 +562,7 @@ What remains clear is that Doty's influence extended beyond any single document.
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -607,7 +607,7 @@ What remains clear is that Doty's influence extended beyond any single document.
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -648,120 +648,120 @@ What remains clear is that Doty's influence extended beyond any single document.
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the [Mirage Men](&amp;#123;&amp;#123; &#x27;mirage-men/&#x27; | relative_url &amp;#125;&amp;#125;) sow e...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the [Mirage Men](&amp;#123;&amp;#123; &#x27;mirage-men/&#x27; | relative_url &amp;#125;&amp;#125;) sow e...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>rs Brad Sparks and Barry Greenwood that documentally demolishes the MJ-12...</p></details>
+   Link:<a href="https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/24214339/The_Secret_Pratt_Tapes_and_the_Origins_of_MJ_12_Brad_Sparks_and_Barry_Greenwood_</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rs Brad Sparks and Barry Greenwood that documentally demolishes the MJ-12...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: podcastufo.com  
    Title: the [mj 12](&#123;&#123; 'mj-12/' | relative_url &#125;&#125;) documents who why what where when  
-   Link: <a href="https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The MJ-12 Documents: Who, Why, What, Where, When...15 Jul 2024 — According to Moore, he was recruited to keep tabs on UFO researchers an...</p></details>
+   Link:<a href="https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/" target="_blank" rel="noopener noreferrer nofollow">https://podcastufo.com/the-mj-12-documents-who-why-what-where-when/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The MJ-12 Documents: Who, Why, What, Where, When...15 Jul 2024 — According to Moore, he was recruited to keep tabs on UFO researchers an...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: stealthskater.com  
    Title: The MJ-12 Documents – Who?  
-   Link: <a href="https://www.stealthskater.com/Documents/Majestic_06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stealthskater.com/Documents/Majestic_06.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why? How?28 Apr 2020 — 1981 - US Air Force Office of Special Investigations [AFOSI] agent Richard C. Doty provides. Moore with allegedly...</p></details>
+   Link:<a href="https://www.stealthskater.com/Documents/Majestic_06.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.stealthskater.com/Documents/Majestic_06.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why? How?28 Apr 2020 — 1981 - US Air Force Office of Special Investigations [AFOSI] agent Richard C. Doty provides. Moore with allegedly...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: pod.wave.co  
-   Link: <a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Wave AI Podcast Notes610: Majestic 12 | Secret Documents Expose UFO Cover-Up...6 Sept 2025 — Doty would provide Moore with confidential...</p></details>
+   Link:<a href="https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1" target="_blank" rel="noopener noreferrer nofollow">https://pod.wave.co/podcast/the-why-files-operation-podcast/610-majestic-12-secret-documents-expose-ufo-cover-up-vol-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wave AI Podcast Notes610: Majestic 12 | Secret Documents Expose UFO Cover-Up...6 Sept 2025 — Doty would provide Moore with confidential...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</p></details>
    Published: September 29, 1927  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: presidentialufoblog.wordpress.com  
-   Link: <a href="https://presidentialufoblog.wordpress.com/tag/richard-doty/" target="_blank" rel="noopener noreferrer nofollow">https://presidentialufoblog.wordpress.com/tag/richard-doty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Presidentialuforichard doty – Presidentialufo - WordPress.comThey offered him information that sometimes, in the end, appeared to be a mi...</p></details>
+   Link:<a href="https://presidentialufoblog.wordpress.com/tag/richard-doty/" target="_blank" rel="noopener noreferrer nofollow">https://presidentialufoblog.wordpress.com/tag/richard-doty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Presidentialuforichard doty – Presidentialufo - WordPress.comThey offered him information that sometimes, in the end, appeared to be a mi...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/hastings.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsDuring a recent telephone conversation, Linda Moulton Howe told m...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/hastings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, CommentsDuring a recent telephone conversation, Linda Moulton Howe told m...</p></details>
 
 ### Additional References
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wcaizd/linda_moultonhowe_promoting_false_information/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wcaizd/linda_moultonhowe_promoting_false_information/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Moulton-Howe promoting false information: r/UFOsAt least Stanton Friedman could admit he might be wrong about something ie: the MJ...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wcaizd/linda_moultonhowe_promoting_false_information/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wcaizd/linda_moultonhowe_promoting_false_information/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Linda Moulton-Howe promoting false information: r/UFOsAt least Stanton Friedman could admit he might be wrong about something ie: the MJ...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: eyeofthepsychic.com  
-   Link: <a href="https://www.eyeofthepsychic.com/majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeofthepsychic.com/majestic12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MJ-12: Majestic, or Incredulous?It has left the MJ-12 documents as one of the best-known and most important “leaked” documents, documents...</p></details>
+   Link:<a href="https://www.eyeofthepsychic.com/majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeofthepsychic.com/majestic12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MJ-12: Majestic, or Incredulous?It has left the MJ-12 documents as one of the best-known and most important “leaked” documents, documents...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1rqpygm/serious_updates_on_majestic12_being_a_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1rqpygm/serious_updates_on_majestic12_being_a_real/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Updates on Majestic-12 being a real...After that the MJ12 files were given to Jaime Shandera a close associate of Bill Moore wh...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1rqpygm/serious_updates_on_majestic12_being_a_real/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1rqpygm/serious_updates_on_majestic12_being_a_real/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Updates on Majestic-12 being a real...After that the MJ12 files were given to Jaime Shandera a close associate of Bill Moore wh...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/pt/list/ls4156234239/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/pt/list/ls4156234239/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO documentaryDireçãoJeremy Kenyon Lockyer CorbellEstrelasLinda Moulton HoweRichard... He reveals a web of disinformation and the urgen...</p></details>
+   Link:<a href="https://www.imdb.com/pt/list/ls4156234239/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/pt/list/ls4156234239/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO documentaryDireçãoJeremy Kenyon Lockyer CorbellEstrelasLinda Moulton HoweRichard... He reveals a web of disinformation and the urgen...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: e-flux.com  
-   Link: <a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
+   Link:<a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic-12: UFO Files That Shook and Divided the World...Allegedly a top-secret panel formed in 1947 by President Harry Truman, MJ-12 w...</p></details>
+   Link:<a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic-12: UFO Files That Shook and Divided the World...Allegedly a top-secret panel formed in 1947 by President Harry Truman, MJ-12 w...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: spreaker.com  
    Title: majestic 12 conspiracy disinformation whistleblowers the war over truth 71193273  
-   Link: <a href="https://www.spreaker.com/episode/majestic-12-conspiracy-disinformation-whistleblowers-the-war-over-truth--71193273" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/majestic-12-conspiracy-disinformation-whistleblowers-the-war-over-truth--71193273</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation, Whistleblowers &amp; the War Over TruthApr 8, 2026 — Host Ava Grey examines the Majestic Twelve documents controversy, focusi...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/majestic-12-conspiracy-disinformation-whistleblowers-the-war-over-truth--71193273" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/majestic-12-conspiracy-disinformation-whistleblowers-the-war-over-truth--71193273</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation, Whistleblowers &amp; the War Over TruthApr 8, 2026 — Host Ava Grey examines the Majestic Twelve documents controversy, focusi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — One of Congress&#x27; most important responsibilities is oversight of the execut...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — One of Congress&#x27; most important responsibilities is oversight of the execut...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
    Title: Source for Original Majestic-12 MJ-12 documents?  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etewlu/source_for_original_majestic12_mj12_documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etewlu/source_for_original_majestic12_mj12_documents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsCan anyone point me to a good source for the first original document leak, the ones sent to the journalist. Or a great video overvi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1etewlu/source_for_original_majestic12_mj12_documents/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etewlu/source_for_original_majestic12_mj12_documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOsCan anyone point me to a good source for the first original document leak, the ones sent to the journalist. Or a great video overvi...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y. Isn&#x27;t it weird that her book isn&#x27;t online? Classic Case.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/scycl0/famous_ufo_author_linda_moulton_howe_was_targeted/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y. Isn&#x27;t it weird that her book isn&#x27;t online? Classic Case.Read more...</p></details>

@@ -256,45 +256,45 @@ image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_
 
 ## Introduction
 
-The Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair at Kirtland Air Force Base is the single most important case used by [sceptics]({{ 'sceptics/' | relative_url }}) who argue that Richard Doty damaged his own credibility through involvement in UFO-related disinformation. The core claim is not simply that Bennewitz believed extraordinary things. It is that a civilian investigator who reported unusual activity near a highly sensitive military installation was allegedly encouraged to interpret what he saw as evidence of extraterrestrial operations rather than being steered away from false conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+The Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair at Kirtland Air Force Base is the single most important case used by [sceptics]({{ 'sceptics/' | relative_url }}) who argue that Richard Doty damaged his own credibility through involvement in UFO-related disinformation. The core claim is not simply that Bennewitz believed extraordinary things. It is that a civilian investigator who reported unusual activity near a highly sensitive military installation was allegedly encouraged to interpret what he saw as evidence of extraterrestrial operations rather than being steered away from false conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-1-dark.svg" | relative_url }}" alt="Bennewitz case illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For critics of Doty, this case matters because it offers a concrete mechanism rather than a vague accusation. It links a real person, a real Air Force base, identifiable intelligence personnel, documented UFO claims, and later admissions about disinformation. Whether one sees the episode as a deliberate psychological operation, a counterintelligence exercise that went too far, or a story later exaggerated by UFO writers, the Bennewitz case remains the strongest evidence cited by those who argue that Doty helped turn security-related confusion into enduring UFO mythology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span>
+For critics of Doty, this case matters because it offers a concrete mechanism rather than a vague accusation. It links a real person, a real Air Force base, identifiable intelligence personnel, documented UFO claims, and later admissions about disinformation. Whether one sees the episode as a deliberate psychological operation, a counterintelligence exercise that went too far, or a story later exaggerated by UFO writers, the Bennewitz case remains the strongest evidence cited by those who argue that Doty helped turn security-related confusion into enduring UFO mythology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span>
 
 ## What Bennewitz reported near Kirtland
 
-Paul Bennewitz was an Albuquerque businessman and electronics specialist whose home and business gave him a view of activity around Kirtland Air Force Base in New Mexico. During the late 1970s and early 1980s he became convinced that unusual lights, aerial movements and electronic transmissions near the base indicated the presence of non-human craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+Paul Bennewitz was an Albuquerque businessman and electronics specialist whose home and business gave him a view of activity around Kirtland Air Force Base in New Mexico. During the late 1970s and early 1980s he became convinced that unusual lights, aerial movements and electronic transmissions near the base indicated the presence of non-human craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-One reason the case remains controversial is that Bennewitz was not merely reporting lights in the sky. He attempted to record signals electronically and believed he was intercepting communications associated with UFO activity. He produced reports, diagrams and analyses that he considered technical evidence rather than eyewitness impressions. [Supporters]({{ 'supporters/' | relative_url }}) sometimes point to this background to argue that he should not be dismissed as a casual enthusiast. Critics respond that technical expertise does not prevent misinterpretation, especially when dealing with classified military systems. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
+One reason the case remains controversial is that Bennewitz was not merely reporting lights in the sky. He attempted to record signals electronically and believed he was intercepting communications associated with UFO activity. He produced reports, diagrams and analyses that he considered technical evidence rather than eyewitness impressions. [Supporters]({{ 'supporters/' | relative_url }}) sometimes point to this background to argue that he should not be dismissed as a casual enthusiast. Critics respond that technical expertise does not prevent misinterpretation, especially when dealing with classified military systems.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
 
-A recurring sceptical explanation is that Bennewitz was observing genuine but secret military activity. Kirtland was connected to highly sensitive defence programmes, and later writers have argued that some of the unusual observations may have involved experimental aircraft, electronic warfare systems or other classified projects. Under that interpretation, the mystery was real, but the extraterrestrial explanation was not. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>
+A recurring sceptical explanation is that Bennewitz was observing genuine but secret military activity. Kirtland was connected to highly sensitive defence programmes, and later writers have argued that some of the unusual observations may have involved experimental aircraft, electronic warfare systems or other classified projects. Under that interpretation, the mystery was real, but the extraterrestrial explanation was not.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>
 
-The crucial turning point came when Bennewitz brought his concerns to military and government-linked figures. At that stage the story moved from a private investigation into a broader network of UFO researchers, intelligence contacts and alleged classified briefings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
+The crucial turning point came when Bennewitz brought his concerns to military and government-linked figures. At that stage the story moved from a private investigation into a broader network of UFO researchers, intelligence contacts and alleged classified briefings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz</span></span></span>
 
 ## Where Doty enters the story
 
-Richard Doty was an agent associated with the Air Force Office of Special Investigations (AFOSI), the Air Force organisation responsible for criminal investigations and counterintelligence work. His official connection gave him a level of institutional [authority]({{ 'authority/' | relative_url }}) that most UFO researchers lacked. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+Richard Doty was an agent associated with the Air Force Office of Special Investigations (AFOSI), the Air Force organisation responsible for criminal investigations and counterintelligence work. His official connection gave him a level of institutional [authority]({{ 'authority/' | relative_url }}) that most UFO researchers lacked.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-According to later accounts from UFO researchers, journalists and authors, Doty became involved after Bennewitz attracted official attention through his investigations around Kirtland. The sceptical narrative holds that Doty and others did not simply monitor Bennewitz. Instead, they allegedly supplied material that reinforced and expanded his UFO beliefs. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> Several claims sit at the centre of this allegation:
+According to later accounts from UFO researchers, journalists and authors, Doty became involved after Bennewitz attracted official attention through his investigations around Kirtland. The sceptical narrative holds that Doty and others did not simply monitor Bennewitz. Instead, they allegedly supplied material that reinforced and expanded his UFO beliefs.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span> Several claims sit at the centre of this allegation:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
 * Bennewitz reportedly received information that appeared to validate his UFO conclusions.
 * He was exposed to stories involving secret alien projects, underground facilities and hidden government knowledge.
-* Material associated with concepts such as Project Aquarius and early references to MJ-12 circulated within the same environment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
+* Material associated with concepts such as Project Aquarius and early references to MJ-12 circulated within the same environment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
 
 </div>
 
-The significance of these claims is that they transformed Bennewitz's interpretation of local anomalies into a much larger narrative involving extraterrestrials, secret treaties and covert government programmes. Many of the themes that later became staples of UFO conspiracy culture can be traced through this period. <span class="citation-chip-wrap"><a class="citation-chip" href="https://projectcamelot.org/bennewitz.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectcamelot.org">[projectcamelot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectcamelot.org</span><span class="citation-popover-title">In Tribute &#124; Paul Bennewitz</span><span class="citation-popover-snippet">Project CamelotHe told Moore that the alien transmissions he had received indicated that two types of aliens had invaded the US: The peac...</span></span></span>
+The significance of these claims is that they transformed Bennewitz's interpretation of local anomalies into a much larger narrative involving extraterrestrials, secret treaties and covert government programmes. Many of the themes that later became staples of UFO conspiracy culture can be traced through this period.<span class="citation-chip-wrap"><a class="citation-chip" href="https://projectcamelot.org/bennewitz.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectcamelot.org">[projectcamelot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectcamelot.org</span><span class="citation-popover-title">In Tribute &#124; Paul Bennewitz</span><span class="citation-popover-snippet">Project CamelotHe told Moore that the alien transmissions he had received indicated that two types of aliens had invaded the US: The peac...</span></span></span>
 
-A major reason the case remains damaging for Doty's reputation is that he has, at various times, acknowledged involvement in providing false information to UFO researchers while working around Kirtland. The precise scope of those activities remains disputed, but sceptics argue that his own [statements]({{ 'statements/' | relative_url }}) undermine later attempts to present him as a reliable source on UFO matters. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
+A major reason the case remains damaging for Doty's reputation is that he has, at various times, acknowledged involvement in providing false information to UFO researchers while working around Kirtland. The precise scope of those activities remains disputed, but sceptics argue that his own [statements]({{ 'statements/' | relative_url }}) undermine later attempts to present him as a reliable source on UFO matters.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-2-dark.svg" | relative_url }}" alt="Bennewitz case illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Did the UFO narrative grow because of official encouragement?
 
 The strongest sceptical argument focuses less on any single document and more on the overall pattern.
 
-If Bennewitz was incorrectly identifying classified military activity as alien activity, there were several possible responses available to officials. They could deny the claims, discourage further speculation, redirect attention, or simply avoid engagement. Critics argue that the reported interactions instead pushed Bennewitz towards increasingly elaborate conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>
+If Bennewitz was incorrectly identifying classified military activity as alien activity, there were several possible responses available to officials. They could deny the claims, discourage further speculation, redirect attention, or simply avoid engagement. Critics argue that the reported interactions instead pushed Bennewitz towards increasingly elaborate conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>
 
 This matters because the resulting story became far more complex than the original observations. Over time, Bennewitz's beliefs reportedly expanded to include:
 
@@ -303,13 +303,13 @@ This matters because the resulting story became far more complex than the origin
 * Underground alien facilities near Dulce, New Mexico.
 * Secret cooperation between extraterrestrials and government agencies.
 * Hostile alien groups operating inside the United States.
-* Encoded communications and infiltration scenarios. <span class="citation-chip-wrap"><a class="citation-chip" href="https://projectcamelot.org/bennewitz.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectcamelot.org">[projectcamelot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectcamelot.org</span><span class="citation-popover-title">In Tribute &#124; Paul Bennewitz</span><span class="citation-popover-snippet">Project CamelotHe told Moore that the alien transmissions he had received indicated that two types of aliens had invaded the US: The peac...</span></span></span>
+* Encoded communications and infiltration scenarios.<span class="citation-chip-wrap"><a class="citation-chip" href="https://projectcamelot.org/bennewitz.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: projectcamelot.org">[projectcamelot.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">projectcamelot.org</span><span class="citation-popover-title">In Tribute &#124; Paul Bennewitz</span><span class="citation-popover-snippet">Project CamelotHe told Moore that the alien transmissions he had received indicated that two types of aliens had invaded the US: The peac...</span></span></span>
 
 </div>
 
-Sceptics see this escalation as evidence that misinformation was being fed into an already vulnerable belief system. In their view, the growth of the narrative is difficult to explain as a simple misunderstanding because the story repeatedly expanded in ways that matched emerging UFO conspiracy themes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span>
+Sceptics see this escalation as evidence that misinformation was being fed into an already vulnerable belief system. In their view, the growth of the narrative is difficult to explain as a simple misunderstanding because the story repeatedly expanded in ways that matched emerging UFO conspiracy themes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</span></span></span>
 
-Supporters of Doty or more cautious observers sometimes raise a different possibility: that later retellings merged multiple events, exaggerated individual roles, or attributed too much influence to one AFOSI officer. In this reading, Bennewitz may have developed many beliefs independently, while later authors turned Doty into the central villain of a more complicated story. The available public record does not fully resolve how much guidance came from officials versus how much came from Bennewitz's own interpretations and interactions with civilian UFO researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
+Supporters of Doty or more cautious observers sometimes raise a different possibility: that later retellings merged multiple events, exaggerated individual roles, or attributed too much influence to one AFOSI officer. In this reading, Bennewitz may have developed many beliefs independently, while later authors turned Doty into the central villain of a more complicated story. The available public record does not fully resolve how much guidance came from officials versus how much came from Bennewitz's own interpretations and interactions with civilian UFO researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback youtube-embed-link-only"><div class="youtube-embed-card"><div class="youtube-embed-link-panel"><span class="youtube-embed-link-kicker">YouTube</span><a href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer">Mirage Men: A Journey into Disinformation,… by Mark Pilkington · Audiobook preview</a></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer">Mirage Men: A Journey into Disinformation,… by Mark Pilkington · Audiobook preview</a></p><p class="youtube-embed-meta">Channel: Google Play Books &middot; Views: 221 &middot; Uploaded: February 2024 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sKV8ybzkUCk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sKV8ybzkUCk">Open on YouTube</a></p></div></div></div>
 
@@ -321,216 +321,216 @@ Several lessons are repeatedly drawn from the case.
 
 ### Official access is not the same as reliable information
 
-The story illustrates how a person connected to intelligence or security institutions can become a powerful source even when the information itself is false. Doty's alleged role mattered because he appeared to have access to classified knowledge. That appearance increased the persuasive force of claims that otherwise might have been dismissed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">men in black ufo sightings mirage makers movie</span><span class="citation-popover-snippet">Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</span></span></span>
+The story illustrates how a person connected to intelligence or security institutions can become a powerful source even when the information itself is false. Doty's alleged role mattered because he appeared to have access to classified knowledge. That appearance increased the persuasive force of claims that otherwise might have been dismissed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">men in black ufo sightings mirage makers movie</span><span class="citation-popover-snippet">Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</span></span></span>
 
 ### UFO mythology can emerge from security secrecy
 
-The Bennewitz case is often cited as an example of how classified military activity can generate UFO narratives. Under this interpretation, secrecy created the initial mystery, while disinformation amplified the extraterrestrial explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>
+The Bennewitz case is often cited as an example of how classified military activity can generate UFO narratives. Under this interpretation, secrecy created the initial mystery, while disinformation amplified the extraterrestrial explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-3-dark.svg" | relative_url }}" alt="Bennewitz case illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_bennewitz_kirtland_c_a27cca-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### False stories can outlive their original purpose
 
-Themes linked to the Bennewitz period did not disappear when the original investigation ended. Elements such as MJ-12, underground bases, alien-government agreements and hidden retrieval programmes became recurring features of later UFO culture. Critics argue that this shows how disinformation, once released, can become effectively permanent. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
+Themes linked to the Bennewitz period did not disappear when the original investigation ended. Elements such as MJ-12, underground bases, alien-government agreements and hidden retrieval programmes became recurring features of later UFO culture. Critics argue that this shows how disinformation, once released, can become effectively permanent.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
 
 ### The human consequences matter
 
-Later accounts describe Bennewitz's mental state deteriorating significantly, culminating in psychiatric treatment during the 1980s. The exact causes of his decline remain debated, but the possibility that official actors may have contributed to that deterioration is one reason the case attracts such strong reactions. Even people who disagree about UFOs often regard this as the most troubling aspect of the story. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
+Later accounts describe Bennewitz's mental state deteriorating significantly, culminating in psychiatric treatment during the 1980s. The exact causes of his decline remain debated, but the possibility that official actors may have contributed to that deterioration is one reason the case attracts such strong reactions. Even people who disagree about UFOs often regard this as the most troubling aspect of the story.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</span></span></span>
 
 ## Why the case still follows Doty
 
 Many controversial UFO figures have made extraordinary claims. The Bennewitz affair stands apart because it is not primarily a dispute about whether aliens exist. It is a dispute about whether misleading information was deliberately introduced into a civilian investigation by people connected to national security institutions.
 
-That distinction explains why the case remains central whenever Richard Doty's credibility is discussed. If sceptics are correct, the episode shows a pattern of intentional manipulation that makes later insider claims difficult to trust. If the sceptical interpretation is overstated, the case still demonstrates how secrecy, rumour, intelligence contacts and UFO belief became entangled around Kirtland Air Force Base in a way that remains difficult to untangle decades later. Either way, the Bennewitz affair is the clearest and most frequently cited example behind the accusation that Doty functioned not merely as a UFO source, but as a channel for disinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">men in black ufo sightings mirage makers movie</span><span class="citation-popover-snippet">Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</span></span></span> [3Wikipedia 3Wikipedia]
+That distinction explains why the case remains central whenever Richard Doty's credibility is discussed. If sceptics are correct, the episode shows a pattern of intentional manipulation that makes later insider claims difficult to trust. If the sceptical interpretation is overstated, the case still demonstrates how secrecy, rumour, intelligence contacts and UFO belief became entangled around Kirtland Air Force Base in a way that remains difficult to untangle decades later. Either way, the Bennewitz affair is the clearest and most frequently cited example behind the accusation that Doty functioned not merely as a UFO source, but as a channel for disinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">men in black ufo sightings mirage makers movie</span><span class="citation-popover-snippet">Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</span></span></span> [3Wikipedia 3Wikipedia]
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Kirtland turn Bennewitz into a UFO warning?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Kirtland turn Bennewitz into a UFO warning?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
-        </h4>
-        <p class="fr-book-author">By BARTY. HARMER</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+</h4>
+<p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
-        </h4>
-        <p class="fr-book-author">By Frank C. Salisbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
+</h4>
+<p class="fr-book-author">By Frank C. Salisbury</p>
         
-        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By James Paton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
+</h4>
+<p class="fr-book-author">By James Paton</p>
         
-        <p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print"><img src="https://i.ebayimg.com/images/g/tTwAAeSw8p9qGxLc/s-l225.jpg" alt="Listing image for I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe UFO Poster A3 – Alien Abduction Space Sci-Fi Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-kirtland-turn-bennewitz-into-a-ufo-warning-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -546,7 +546,7 @@ That distinction explains why the case remains central whenever Richard Doty's c
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -566,7 +566,7 @@ That distinction explains why the case remains central whenever Richard Doty's c
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -598,7 +598,7 @@ That distinction explains why the case remains central whenever Richard Doty's c
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -650,7 +650,7 @@ That distinction explains why the case remains central whenever Richard Doty's c
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -695,7 +695,7 @@ That distinction explains why the case remains central whenever Richard Doty's c
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -736,104 +736,104 @@ That distinction explains why the case remains central whenever Richard Doty's c
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the [Mirage Men](&amp;#123;&amp;#123; &#x27;mirage-men/&#x27; | relative_url &amp;#125;&amp;#125;) sow e...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the [Mirage Men](&amp;#123;&amp;#123; &#x27;mirage-men/&#x27; | relative_url &amp;#125;&amp;#125;) sow e...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skeptoid.com  
    Title: Mirage Men: A New Chapter in UFOlogy  
-   Link: <a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</p></details>
+   Link:<a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2014 —... hand, Doty says the US Air Force wanted to work undisturbed on its actual classified projects, and so engaged in a pro...</p></details>
    Published: May 29, 2014  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: projectcamelot.org  
    Title: In Tribute | Paul Bennewitz  
-   Link: <a href="https://projectcamelot.org/bennewitz.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/bennewitz.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Project CamelotHe told Moore that the alien transmissions he had received indicated that two types of aliens had invaded the US: The peac...</p></details>
+   Link:<a href="https://projectcamelot.org/bennewitz.html" target="_blank" rel="noopener noreferrer nofollow">https://projectcamelot.org/bennewitz.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project CamelotHe told Moore that the alien transmissions he had received indicated that two types of aliens had invaded the US: The peac...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesSome conspiracy theories argue that various governments and politicians globally, in particular the United Stat...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: men in black ufo sightings mirage makers movie  
-   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, who admits to having infiltrated UFO circles. A... Mirage Men are still out there, sowing deception and disinformation.Rea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tubitv.com  
    Title: mirage men  
-   Link: <a href="https://tubitv.com/movies/100021359/mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://tubitv.com/movies/100021359/mirage-men</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Mirage Men (2013) - Free MoviesFormer intelligence agents reveal their part in a government plot during the Cold War to sell UFO co...</p></details>
+   Link:<a href="https://tubitv.com/movies/100021359/mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://tubitv.com/movies/100021359/mirage-men</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Mirage Men (2013) - Free MoviesFormer intelligence agents reveal their part in a government plot during the Cold War to sell UFO co...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bzk3v7/paul_bennewitz_and_the_disinformation_campaign/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bzk3v7/paul_bennewitz_and_the_disinformation_campaign/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz and the Disinformation Campaign: r/UFOsIn the 70s and 80s, a man by the name of Paul Bennewitz was victim of a targeted d...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bzk3v7/paul_bennewitz_and_the_disinformation_campaign/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bzk3v7/paul_bennewitz_and_the_disinformation_campaign/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz and the Disinformation Campaign: r/UFOsIn the 70s and 80s, a man by the name of Paul Bennewitz was victim of a targeted d...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ufouap.com  
-   Link: <a href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/case-files/paul-bennewitz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz – Case FileAlbuquerque physicist who detected signals near Kirtland AFB and was systematically fed disinformation by Air F...</p></details>
+   Link:<a href="https://www.ufouap.com/case-files/paul-bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://www.ufouap.com/case-files/paul-bennewitz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz – Case FileAlbuquerque physicist who detected signals near Kirtland AFB and was systematically fed disinformation by Air F...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The Great Gaslighting. The Real Men in Black?... disinformation? One of the alleged propagandists was Richard Doty. “…an actual man...</p></details>
+   Link:<a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The Great Gaslighting. The Real Men in Black?... disinformation? One of the alleged propagandists was Richard Doty. “…an actual man...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFODoty, a former Air Force Intelligence Officer, and John Greenwald Jr. of The Black Vault di...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFODoty, a former Air Force Intelligence Officer, and John Greenwald Jr. of The Black Vault di...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A Journey into Disinformation, Paranoia and…Misinformation falls into the same category--that would mean it&#x27;s all false...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: A high-ranking retired US Air Force major general who once  
-   Link: <a href="https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 12, 2026 — A high-ranking retired US Air Force major general who once commanded a base long associated with UFO lore has been missi...</p></details>
+   Link:<a href="https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KESQNewsChannel3/posts/a-high-ranking-retired-us-air-force-major-general-who-once-commanded-a-base-long/1361690932652900/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 12, 2026 — A high-ranking retired US Air Force major general who once commanded a base long associated with UFO lore has been missi...</p></details>
    Published: March 12, 2026  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: Maybe the craziest thing in the entire Paul Bennewitz case  
-   Link: <a href="https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force projects—Doty fed him disinformation. The Campaign The NSA reportedly beamed phony &quot;alien&quot; signals into Bennewitz&#x27;s home. Doty...</p></details>
+   Link:<a href="https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychedelicClassWarfare/posts/maybe-the-craziest-thing-in-the-entire-paul-bennewitz-case-isnt-even-anything-wi/1388080166274248/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force projects—Doty fed him disinformation. The Campaign The NSA reportedly beamed phony &quot;alien&quot; signals into Bennewitz&#x27;s home. Doty...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: e-flux.com  
    Title: Society of the Psyop, Part 1: UFOs and the Future of Media  
-   Link: <a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz became ever more paranoid about alien surveillance, accusing his wife of being controlled by aliens and eventually b...</p></details>
+   Link:<a href="https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/journal/147/623330/society-of-the-psyop-part-1-ufos-and-the-future-of-media</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz became ever more paranoid about alien surveillance, accusing his wife of being controlled by aliens and eventually b...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...Feb 28, 2025 — Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower F...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=zh-Hans-CN</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...Feb 28, 2025 — Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower F...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/xl1djn/the_airforce_ufo_cover_up_that_drove_a_man_insane/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xl1djn/the_airforce_ufo_cover_up_that_drove_a_man_insane/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he Disinformation Campaign. 37. 29. Let&#x27;s Talk...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/xl1djn/the_airforce_ufo_cover_up_that_drove_a_man_insane/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/xl1djn/the_airforce_ufo_cover_up_that_drove_a_man_insane/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he Disinformation Campaign. 37. 29. Let&#x27;s Talk...Read more...</p></details>

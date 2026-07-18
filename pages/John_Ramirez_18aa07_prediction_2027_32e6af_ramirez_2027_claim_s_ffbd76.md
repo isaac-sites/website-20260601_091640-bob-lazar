@@ -262,14 +262,14 @@ image: /assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_cl
 
 ## Introduction
 
-John Ramirez’s [2027 claim]({{ '2027-claim/' | relative_url }}) became influential partly because it appeared to evolve over time. Early versions sounded to many listeners like an insider warning: a former CIA officer suggesting that people inside government knew something significant was connected to the year 2027. Later retellings were more qualified, with Ramirez reportedly stressing that the date was not based on secret knowledge and was linked in part to ideas already circulating in UFO and channelling communities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+John Ramirez’s [2027 claim]({{ '2027-claim/' | relative_url }}) became influential partly because it appeared to evolve over time. Early versions sounded to many listeners like an insider warning: a former CIA officer suggesting that people inside government knew something significant was connected to the year 2027. Later retellings were more qualified, with Ramirez reportedly stressing that the date was not based on secret knowledge and was linked in part to ideas already circulating in UFO and channelling communities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-1-dark.svg" | relative_url }}" alt="Date Shift illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That shift matters because the credibility of the claim depends not only on whether 2027 proves meaningful, but on what Ramirez was actually claiming at different points. If the story moved from an implied insider timeline to a discussion of rumours, speculation or cultural narratives, then the evidential weight changes substantially. The controversy is therefore less about the date itself than about how the date was framed.
 
 ## The Viral Version of the 2027 Claim
 
-The version that spread most widely emerged through podcast appearances and later media coverage. In a 2023 article, SYFY summarised Ramirez’s comments by presenting 2027 as a possible moment when a non-human presence would reveal itself more openly. The article highlighted a particularly important phrase: Ramirez said he had heard 2027 “in kind of an official capacity” but could not identify the source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+The version that spread most widely emerged through podcast appearances and later media coverage. In a 2023 article, SYFY summarised Ramirez’s comments by presenting 2027 as a possible moment when a non-human presence would reveal itself more openly. The article highlighted a particularly important phrase: Ramirez said he had heard 2027 “in kind of an official capacity” but could not identify the source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
 That wording had a powerful effect on how audiences interpreted the claim.
 
@@ -284,9 +284,9 @@ For many listeners, the phrase suggested several things at once:
 
 </div>
 
-The claim quickly circulated across UFO forums, social media clips and discussion threads. In many retellings, the nuance became compressed. Instead of “I heard 2027 in an official capacity”, the message often became “a former CIA officer says aliens are coming in 2027”. The distinction is important because the second version sounds far more definite than the first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer John Ramirez On UFOs &amp; Aliens</span><span class="citation-popover-snippet">Ex-CIA Officer John Ramirez On UFOs &amp; AliensFebruary 25, 2023 — Ex-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big I...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
+The claim quickly circulated across UFO forums, social media clips and discussion threads. In many retellings, the nuance became compressed. Instead of “I heard 2027 in an official capacity”, the message often became “a former CIA officer says aliens are coming in 2027”. The distinction is important because the second version sounds far more definite than the first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Ex-CIA Officer John Ramirez On UFOs &amp; Aliens</span><span class="citation-popover-snippet">Ex-CIA Officer John Ramirez On UFOs &amp; AliensFebruary 25, 2023 — Ex-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big I...</span><span class="citation-popover-meta">Published: February 25, 2023</span></span></span>
 
-As the story spread, some online discussions treated Ramirez as an insider passing along advance knowledge of disclosure or contact. Others immediately questioned the lack of supporting evidence and noted the long history of UFO predictions tied to specific future dates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">excia officer john ramirez on ufos aliens warns</span><span class="citation-popover-snippet">Ex-CIA Officer John Ramirez On UFOs &amp; Aliens... UFOs &amp; Aliens: Warns Something Big Is Coming In 2027... r/aliens - Serious US Department...</span></span></span>
+As the story spread, some online discussions treated Ramirez as an insider passing along advance knowledge of disclosure or contact. Others immediately questioned the lack of supporting evidence and noted the long history of UFO predictions tied to specific future dates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">excia officer john ramirez on ufos aliens warns</span><span class="citation-popover-snippet">Ex-CIA Officer John Ramirez On UFOs &amp; Aliens... UFOs &amp; Aliens: Warns Something Big Is Coming In 2027... r/aliens - Serious US Department...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/1ErlrhcEdn4" title="Former CIA officer John Ramirez reveals where his 2027 event comments originated - Psicoactivo #398" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=1ErlrhcEdn4" target="_blank" rel="noopener noreferrer">Former CIA officer John Ramirez reveals where his 2027 event comments originated - Psicoactivo #398</a></p><p class="youtube-embed-meta">Channel: Psicoactivo Podcast &middot; Views: 23.3K &middot; Uploaded: April 2025 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=1ErlrhcEdn4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=1ErlrhcEdn4">Open on YouTube</a></p></div></div></div>
 
@@ -294,7 +294,7 @@ As the story spread, some online discussions treated Ramirez as an insider passi
 
 A significant development came when later discussions appeared to place more distance between Ramirez and the strongest interpretations of the 2027 narrative.
 
-Researchers and forum participants tracking the origin of the 2027 rumour pointed to later comments in which Ramirez reportedly said the date was associated with ideas already circulating in the channelling community and that he was expressing an opinion rather than revealing classified information. A Metabunk discussion summarising a later Area 52 podcast appearance cited Ramirez as denying that the date came from secret government knowledge and instead linking it to pre-existing paranormal and contactee narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Origin of the claim in UFO circles that in 2027 something...1 Mar 2026 — In February 2023, he gave an interview on Podcast UFO...</span><span class="citation-popover-meta">Published: February 2023</span></span></span>
+Researchers and forum participants tracking the origin of the 2027 rumour pointed to later comments in which Ramirez reportedly said the date was associated with ideas already circulating in the channelling community and that he was expressing an opinion rather than revealing classified information. A Metabunk discussion summarising a later Area 52 podcast appearance cited Ramirez as denying that the date came from secret government knowledge and instead linking it to pre-existing paranormal and contactee narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Origin of the claim in UFO circles that in 2027 something...1 Mar 2026 — In February 2023, he gave an interview on Podcast UFO...</span><span class="citation-popover-meta">Published: February 2023</span></span></span>
 
 That does not necessarily mean Ramirez completely retracted the idea. The more important point is that the emphasis appears to have changed.
 
@@ -302,7 +302,7 @@ The contrast looks roughly like this:
 
 Earlier public impressionLater reported framingHeard in an “official capacity”Not presented as secret intelligenceSuggests insider awarenessLinked partly to existing UFO and channelling beliefsCan be interpreted as a warningPresented more as opinion or discussionImplies privileged sourcingMoves closer to community speculation
 
-Because many audiences encountered only short clips or headlines, the later qualifications never achieved the same visibility as the original claim. The viral version continued circulating long after the more cautious framing appeared. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+Because many audiences encountered only short clips or headlines, the later qualifications never achieved the same visibility as the original claim. The viral version continued circulating long after the more cautious framing appeared.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-2-dark.svg" | relative_url }}" alt="Date Shift illustration 2" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the Wording Change Matters
@@ -327,7 +327,7 @@ The second is reporting a community belief.
 
 The third suggests access to information unavailable to the public.
 
-The controversy around Ramirez largely stems from listeners trying to determine which category his comments actually belong in. When a former intelligence officer uses language that sounds official, audiences naturally assign greater significance to it. If later explanations move the claim closer to community rumours or personal interpretation, [sceptics]({{ 'sceptics-70c753/' | relative_url }}) see that as a weakening of the original implication. [Supporters]({{ 'supporters-124489/' | relative_url }}), by contrast, often argue that Ramirez was misunderstood rather than inconsistent. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+The controversy around Ramirez largely stems from listeners trying to determine which category his comments actually belong in. When a former intelligence officer uses language that sounds official, audiences naturally assign greater significance to it. If later explanations move the claim closer to community rumours or personal interpretation, [sceptics]({{ 'sceptics-70c753/' | relative_url }}) see that as a weakening of the original implication. [Supporters]({{ 'supporters-124489/' | relative_url }}), by contrast, often argue that Ramirez was misunderstood rather than inconsistent.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ATF1G3lZvl0" title="THEY&#x27;RE COMING in 2027!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ATF1G3lZvl0" target="_blank" rel="noopener noreferrer">THEY&#x27;RE COMING in 2027!</a></p><p class="youtube-embed-meta">Channel: Christian Homestead &middot; Views: 12.4K &middot; Uploaded: August 2023 &middot; Length: 1 hour 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ATF1G3lZvl0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ATF1G3lZvl0">Open on YouTube</a></p></div></div></div>
 
@@ -346,7 +346,7 @@ Predictions often become stronger as they move through media ecosystems:
 
 </div>
 
-By the time many people encountered the 2027 story, they were not hearing Ramirez's full explanation. They were hearing a shortened version filtered through headlines, clips, reposts and community discussions. Reddit threads, social media posts and secondary articles frequently presented the claim in more dramatic terms than the original context allowed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/183ic3p/the_whole_2027_is_the_year_for_disclosure_thing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the whole 2027 is the year for disclosure thing</span><span class="citation-popover-snippet">r/aliensJust some quick thoughts: In past interviews, ex CIA officer John Ramirez has mentioned 2027 as the year a big UFO event was...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Former CIA officer John Ramirez&#x27;s warming about an...John Ramirez CIA insights on alien invasion... What&#x27;s interesting, though, i...</span></span></span>
+By the time many people encountered the 2027 story, they were not hearing Ramirez's full explanation. They were hearing a shortened version filtered through headlines, clips, reposts and community discussions. Reddit threads, social media posts and secondary articles frequently presented the claim in more dramatic terms than the original context allowed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/183ic3p/the_whole_2027_is_the_year_for_disclosure_thing/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">the whole 2027 is the year for disclosure thing</span><span class="citation-popover-snippet">r/aliensJust some quick thoughts: In past interviews, ex CIA officer John Ramirez has mentioned 2027 as the year a big UFO event was...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Former CIA officer John Ramirez&#x27;s warming about an...John Ramirez CIA insights on alien invasion... What&#x27;s interesting, though, i...</span></span></span>
 
 This amplification process makes it difficult to separate what Ramirez directly asserted from what audiences inferred.
 
@@ -355,9 +355,9 @@ This amplification process makes it difficult to separate what Ramirez directly 
 
 The answer depends on how strictly the statements are interpreted.
 
-A sceptical reading is that the claim softened over time. Under this interpretation, an initially suggestive insider narrative gradually became framed as speculation, opinion or a belief already circulating within paranormal communities. From that perspective, later explanations reduced the apparent strength of the original claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+A sceptical reading is that the claim softened over time. Under this interpretation, an initially suggestive insider narrative gradually became framed as speculation, opinion or a belief already circulating within paranormal communities. From that perspective, later explanations reduced the apparent strength of the original claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
-A more sympathetic reading is that Ramirez never explicitly promised alien arrival, disclosure or contact in 2027. Supporters argue that he discussed a date he had heard mentioned, while audiences and media outlets transformed that into a firmer prediction than he intended. Under this interpretation, the change lies more in public perception than in Ramirez’s own position. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+A more sympathetic reading is that Ramirez never explicitly promised alien arrival, disclosure or contact in 2027. Supporters argue that he discussed a date he had heard mentioned, while audiences and media outlets transformed that into a firmer prediction than he intended. Under this interpretation, the change lies more in public perception than in Ramirez’s own position.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
 The difficulty is that the most widely remembered wording and the later reported qualifications point in different directions. One implies privileged institutional knowledge. The other places the date closer to a circulating belief system.
 
@@ -367,159 +367,159 @@ For evaluating Ramirez as a public UFO figure, the evolution of the 2027 story i
 
 The core issue is not whether 2027 eventually becomes significant. The issue is whether audiences were given a reliable basis for believing that the date originated from genuine insider knowledge.
 
-At present, no public document, government programme, intelligence record or independently verified source has emerged to substantiate the claim. The strongest version of the story relies on Ramirez’s authority as a former intelligence officer and on his suggestion that the date was discussed in an official context. The later reframing, which reportedly linked the idea to channelling-community narratives and personal opinion, weakens the impression that the date came from a verifiable government source. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
+At present, no public document, government programme, intelligence record or independently verified source has emerged to substantiate the claim. The strongest version of the story relies on Ramirez’s authority as a former intelligence officer and on his suggestion that the date was discussed in an official context. The later reframing, which reportedly linked the idea to channelling-community narratives and personal opinion, weakens the impression that the date came from a verifiable government source.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: syfy.com">[SYFY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">syfy.com</span><span class="citation-popover-title">aliens will reveal themselves in 2027 claims former cia agent</span><span class="citation-popover-snippet">Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</span></span></span>
 
 As a result, the changing presentation of 2027 has become part of the evidence problem itself. The story is no longer just about whether a prediction is true. It is about how a prediction was described, how audiences interpreted it, and whether later clarifications narrowed the claim after it had already become a viral disclosure narrative.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/KF1fzxg07p0" title="The Aliens Are Coming in 2027! says Ret. CIA Officer John Ramirez" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=KF1fzxg07p0" target="_blank" rel="noopener noreferrer">The Aliens Are Coming in 2027! says Ret. CIA Officer John Ramirez</a></p><p class="youtube-embed-meta">Channel: Cosmic Road &middot; Views: 14.5K &middot; Uploaded: December 2022 &middot; Length: 9 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=KF1fzxg07p0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=KF1fzxg07p0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Did Ramirez&#x27;s 2027 Claim Change Over Time?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Did Ramirez&#x27;s 2027 Claim Change Over Time?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Raytheon UFO Disclosure Vintage T-Shirt, Sci-fi NHI Alien Tee, UAP Science Shirt"><img src="https://i.ebayimg.com/images/g/FOwAAeSwO91qG3m8/s-l225.jpg" alt="Listing image for Raytheon UFO Disclosure Vintage T-Shirt, Sci-fi NHI Alien Tee, UAP Science Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">Raytheon UFO Disclosure Vintage T-Shirt, Sci-fi NHI Alien Tee, UAP Science Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Raytheon UFO Disclosure Vintage T-Shirt, Sci-fi NHI Alien Tee, UAP Science Shirt"><img src="https://i.ebayimg.com/images/g/FOwAAeSwO91qG3m8/s-l225.jpg" alt="Listing image for Raytheon UFO Disclosure Vintage T-Shirt, Sci-fi NHI Alien Tee, UAP Science Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">Raytheon UFO Disclosure Vintage T-Shirt, Sci-fi NHI Alien Tee, UAP Science Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Is Coming - Grey Alien UFO Funny Quality 100% Cotton T-Shirt"><img src="https://i.ebayimg.com/images/g/6sMAAeSwuAxpvmPs/s-l225.jpg" alt="Listing image for Disclosure Is Coming - Grey Alien UFO Funny Quality 100% Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">Disclosure Is Coming - Grey Alien UFO Funny Quality 100% Cotton T-Shirt</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Is Coming - Grey Alien UFO Funny Quality 100% Cotton T-Shirt"><img src="https://i.ebayimg.com/images/g/6sMAAeSwuAxpvmPs/s-l225.jpg" alt="Listing image for Disclosure Is Coming - Grey Alien UFO Funny Quality 100% Cotton T-Shirt" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">Disclosure Is Coming - Grey Alien UFO Funny Quality 100% Cotton T-Shirt</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Vintage T-Shirt, Sexy Cryptid Sci-fi Shirt, UFO Disclosure Tee"><img src="https://i.ebayimg.com/images/g/2vcAAeSwolFqG3y5/s-l225.jpg" alt="Listing image for ALIEN ABDUCTION Vintage T-Shirt, Sexy Cryptid Sci-fi Shirt, UFO Disclosure Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Vintage T-Shirt, Sexy Cryptid Sci-fi Shirt, UFO Disclosure Tee</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN ABDUCTION Vintage T-Shirt, Sexy Cryptid Sci-fi Shirt, UFO Disclosure Tee"><img src="https://i.ebayimg.com/images/g/2vcAAeSwolFqG3y5/s-l225.jpg" alt="Listing image for ALIEN ABDUCTION Vintage T-Shirt, Sexy Cryptid Sci-fi Shirt, UFO Disclosure Tee" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN ABDUCTION Vintage T-Shirt, Sexy Cryptid Sci-fi Shirt, UFO Disclosure Tee</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO REVOLUTION Shirt, Alien Jellyfish UAP Disclosure Tee, Corbell Knapp Lazar"><img src="https://i.ebayimg.com/images/g/-i4AAeSw3qxohVg-/s-l225.jpg" alt="Listing image for UFO REVOLUTION Shirt, Alien Jellyfish UAP Disclosure Tee, Corbell Knapp Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO REVOLUTION Shirt, Alien Jellyfish UAP Disclosure Tee, Corbell Knapp Lazar</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO REVOLUTION Shirt, Alien Jellyfish UAP Disclosure Tee, Corbell Knapp Lazar"><img src="https://i.ebayimg.com/images/g/-i4AAeSw3qxohVg-/s-l225.jpg" alt="Listing image for UFO REVOLUTION Shirt, Alien Jellyfish UAP Disclosure Tee, Corbell Knapp Lazar" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">UFO REVOLUTION Shirt, Alien Jellyfish UAP Disclosure Tee, Corbell Knapp Lazar</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO disclosure shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO disclosure shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+disclosure+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO disclosure shirt" data-ebay-reference="did-ramirez-s-2027-claim-change-over-time-ufo-disclosure-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -535,7 +535,7 @@ As a result, the changing presentation of 2027 has become part of the evidence p
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -555,7 +555,7 @@ As a result, the changing presentation of 2027 has become part of the evidence p
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -587,7 +587,7 @@ As a result, the changing presentation of 2027 has become part of the evidence p
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -639,7 +639,7 @@ As a result, the changing presentation of 2027 has become part of the evidence p
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -684,7 +684,7 @@ As a result, the changing presentation of 2027 has become part of the evidence p
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -725,107 +725,107 @@ As a result, the changing presentation of 2027 has become part of the evidence p
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: syfy.com  
    Title: aliens will reveal themselves in [2027 claims](&#123;&#123; '2027-claim/' | relative_url &#125;&#125;) former cia agent  
-   Link: <a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</p></details>
+   Link:<a href="https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent" target="_blank" rel="noopener noreferrer nofollow">https://www.syfy.com/syfy-wire/aliens-will-reveal-themselves-in-2027-claims-former-cia-agent</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aliens Will Reveal Themselves in 2027, Claims Former...9 Aug 2023 — Former CIA agent John Ramirez claims aliens will be revealed in...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the claim in UFO circles that in 2027 something...1 Mar 2026 — In February 2023, he gave an interview on Podcast UFO...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/origin-of-the-claim-in-ufo-circles-that-in-2027-something-really-significant-will-happen-like-alien-related.14780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Origin of the claim in UFO circles that in 2027 something...1 Mar 2026 — In February 2023, he gave an interview on Podcast UFO...</p></details>
    Published: February 2023  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer John Ramirez On UFOs & Aliens  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensFebruary 25, 2023 — Ex-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big I...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; AliensFebruary 25, 2023 — Ex-CIA Officer John Ramirez On UFOs &amp; Aliens: Warns Something Big I...</p></details>
    Published: February 25, 2023  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: excia officer john ramirez on ufos aliens warns  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; Aliens... UFOs &amp; Aliens: Warns Something Big Is Coming In 2027... r/aliens - Serious US Department...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer John Ramirez On UFOs &amp; Aliens... UFOs &amp; Aliens: Warns Something Big Is Coming In 2027... r/aliens - Serious US Department...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: the whole 2027 is the year for disclosure thing  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/183ic3p/the_whole_2027_is_the_year_for_disclosure_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/183ic3p/the_whole_2027_is_the_year_for_disclosure_thing/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensJust some quick thoughts: In past interviews, ex CIA officer John Ramirez has mentioned 2027 as the year a big UFO event was...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/183ic3p/the_whole_2027_is_the_year_for_disclosure_thing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/183ic3p/the_whole_2027_is_the_year_for_disclosure_thing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensJust some quick thoughts: In past interviews, ex CIA officer John Ramirez has mentioned 2027 as the year a big UFO event was...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...John Ramirez CIA insights on alien invasion... What&#x27;s interesting, though, i...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA officer John Ramirez&#x27;s warming about an...John Ramirez CIA insights on alien invasion... What&#x27;s interesting, though, i...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
    Title: john ramirez talking about 2027  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensIn 2027, the &quot;major event&quot; will be cancelled and postponed to 2030, and then it will be postponed again. Nothing will happen at a...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/aliensIn 2027, the &quot;major event&quot; will be cancelled and postponed to 2030, and then it will be postponed again. Nothing will happen at a...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureUFO Disclosure Latest Update: 46 Secret Clips of Alien Formations Allegedly Withheld from...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>EX CIA agent John Ramirez gives alien disclosureUFO Disclosure Latest Update: 46 Secret Clips of Alien Formations Allegedly Withheld from...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: medialtern.blogspot.com  
-   Link: <a href="https://medialtern.blogspot.com/search/label/National%20Geographic" target="_blank" rel="noopener noreferrer nofollow">https://medialtern.blogspot.com/search/label/National%20Geographic</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicMetabunk · DOW-UAP-PR059, &quot;NAG UAP 1 JUN 20&quot;. 1 napja. AlternativeRadio · [John Cassidy] AI &amp; the Crisis of Capitalism...</p></details>
+   Link:<a href="https://medialtern.blogspot.com/search/label/National%20Geographic" target="_blank" rel="noopener noreferrer nofollow">https://medialtern.blogspot.com/search/label/National%20Geographic</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National GeographicMetabunk · DOW-UAP-PR059, &quot;NAG UAP 1 JUN 20&quot;. 1 napja. AlternativeRadio · [John Cassidy] AI &amp; the Crisis of Capitalism...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: medialtern.blogspot.com  
-   Link: <a href="https://medialtern.blogspot.com/" target="_blank" rel="noopener noreferrer nofollow">https://medialtern.blogspot.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>médialternNach Mega-Flop, der eine Kultreihe zerstört hat: Wird Jared Leto „versteckt“, um große Sci-Fi-Rückkehr nicht zu gefährden? 30 p...</p></details>
+   Link:<a href="https://medialtern.blogspot.com/" target="_blank" rel="noopener noreferrer nofollow">https://medialtern.blogspot.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>médialternNach Mega-Flop, der eine Kultreihe zerstört hat: Wird Jared Leto „versteckt“, um große Sci-Fi-Rückkehr nicht zu gefährden? 30 p...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: 3iatlas the astrological and spiritual significance of his arrivalin the vast co  
-   Link: <a href="https://www.facebook.com/100050477380184/posts/3iatlas-the-astrological-and-spiritual-significance-of-his-arrivalin-the-vast-co/1384668109892422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050477380184/posts/3iatlas-the-astrological-and-spiritual-significance-of-his-arrivalin-the-vast-co/1384668109892422/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3I/ATLAS – THE ASTROLOGICAL AND SPIRITUAL...￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal.” ￼ ￼ [9] S...</p></details>
+   Link:<a href="https://www.facebook.com/100050477380184/posts/3iatlas-the-astrological-and-spiritual-significance-of-his-arrivalin-the-vast-co/1384668109892422/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100050477380184/posts/3iatlas-the-astrological-and-spiritual-significance-of-his-arrivalin-the-vast-co/1384668109892422/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3I/ATLAS – THE ASTROLOGICAL AND SPIRITUAL...￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal.” ￼ ￼ [9] S...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: prof brian cox explains what he finds remarkable about interstellar object 3iatl  
-   Link: <a href="https://www.facebook.com/IFLScience/posts/prof-brian-cox-explains-what-he-finds-remarkable-about-interstellar-object-3iatl/1374032444387869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/prof-brian-cox-explains-what-he-finds-remarkable-about-interstellar-object-3iatl/1374032444387869/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Prof Brian Cox Explains What He Finds &quot;Remarkable...￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal.” ￼...</p></details>
+   Link:<a href="https://www.facebook.com/IFLScience/posts/prof-brian-cox-explains-what-he-finds-remarkable-about-interstellar-object-3iatl/1374032444387869/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IFLScience/posts/prof-brian-cox-explains-what-he-finds-remarkable-about-interstellar-object-3iatl/1374032444387869/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prof Brian Cox Explains What He Finds &quot;Remarkable...￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal.” ￼...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
    Title: the cosmic world is buzzing with excitement and fear as the mysterious object kn  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/the-cosmic-world-is-buzzing-with-excitement-and-fear-as-the-mysterious-object-kn/836828379115052/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/the-cosmic-world-is-buzzing-with-excitement-and-fear-as-the-mysterious-object-kn/836828379115052/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Universe￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal.” ￼ ￼ [9] Spotify interview: Ramirez on UAP...</p></details>
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/the-cosmic-world-is-buzzing-with-excitement-and-fear-as-the-mysterious-object-kn/836828379115052/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/the-cosmic-world-is-buzzing-with-excitement-and-fear-as-the-mysterious-object-kn/836828379115052/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deep Universe￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal.” ￼ ￼ [9] Spotify interview: Ramirez on UAP...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: icymi professor avi loeb talks with ellen mcnamara exec producer trenton hooker  
-   Link: <a href="https://www.facebook.com/FOX10Phoenix/posts/icymi-professor-avi-loeb-talks-with-ellen-mcnamara-exec-producer-trenton-hooker-/1159440649723393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/icymi-professor-avi-loeb-talks-with-ellen-mcnamara-exec-producer-trenton-hooker-/1159440649723393/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ICYMI: Professor Avi Loeb talks with Ellen McNamara &amp;...￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal...</p></details>
+   Link:<a href="https://www.facebook.com/FOX10Phoenix/posts/icymi-professor-avi-loeb-talks-with-ellen-mcnamara-exec-producer-trenton-hooker-/1159440649723393/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FOX10Phoenix/posts/icymi-professor-avi-loeb-talks-with-ellen-mcnamara-exec-producer-trenton-hooker-/1159440649723393/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ICYMI: Professor Avi Loeb talks with Ellen McNamara &amp;...￼ [8] Yahoo/SYFY coverage of ex-CIA John Ramirez predicting a 2027 alien “reveal...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: ibtimes.co.uk  
    Title: 2027 predicted reveal shocking alien contact ai cracks mystery 1771191  
-   Link: <a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Proponents suggest AI could model how UFOs move, where they come f...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Proponents suggest AI could model how UFOs move, where they come f...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DVSMKBwERzu/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVSMKBwERzu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>h domain names, not ufo.gov. When they reached out, they...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DVSMKBwERzu/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DVSMKBwERzu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>h domain names, not ufo.gov. When they reached out, they...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: spreaker.com  
    Title: 2027 alien invasion or apocalypse 70380903  
-   Link: <a href="https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027: Alien Invasion or Apocalypse2 Mar 2026 — 2027: Alien Invasion or Apocalypse Predicted &quot;Catastrophic Disclosure... UFO is heading t...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/2027-alien-invasion-or-apocalypse--70380903</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027: Alien Invasion or Apocalypse2 Mar 2026 — 2027: Alien Invasion or Apocalypse Predicted &quot;Catastrophic Disclosure... UFO is heading t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>to 2027 — tied to possible UFO or UAP disclosure.Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DXrGs0ajYeg/?hl=pa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>to 2027 — tied to possible UFO or UAP disclosure.Read more...</p></details>

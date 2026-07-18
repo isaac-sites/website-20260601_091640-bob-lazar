@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-insider-books/
 description: Focused pages that expand on Insider Books.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: James_Lacatski_1e11f1_insider_books_eviden_11f60a
 parent_title: Insider Books
@@ -16,7 +16,7 @@ parent_permalink: /insider-books/
 
 # Explore Topics in Insider Books
 
-The following pages expand on the main **[Insider Books]({{ '/insider-books/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Insider Books]({{ '/insider-books/' | relative_url }})** page and cover its key branches in.
 
 - [Author Stakes]({{ '/author-stakes/' | relative_url }})
 - [Clearance Risk]({{ '/clearance-risk/' | relative_url }})

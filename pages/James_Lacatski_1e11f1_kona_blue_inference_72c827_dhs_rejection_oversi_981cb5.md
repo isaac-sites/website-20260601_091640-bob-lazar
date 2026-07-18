@@ -259,40 +259,40 @@ image: /assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejec
 Why did the Department of Homeland Security (DHS) say no to KONA BLUE? The available record suggests that DHS leaders were not rejecting a proven cache of recovered non-human technology. Rather, they were rejecting a proposal that had not yet demonstrated sufficient evidence, staffing plans, budget detail, or governance justification to warrant creation of a highly protected Special Access Program (SAP). That distinction is central to assessing James Lacatski's credibility.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-1-dark.svg" | relative_url }}" alt="DHS Rejection illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-KONA BLUE is often cited as evidence that government officials knew recovered anomalous materials existed. The stronger documented conclusion is narrower: some programme advocates believed such materials existed and sought a formal oversight structure to manage them. DHS leadership reviewed the proposal and decided the case had not been adequately made. The rejection therefore became a test of whether KONA BLUE represented a solution to an oversight problem or an attempt to institutionalise claims that remained insufficiently substantiated. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">History and Origin of KONA BLUE FINAL 508</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE as a Specia...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
+KONA BLUE is often cited as evidence that government officials knew recovered anomalous materials existed. The stronger documented conclusion is narrower: some programme advocates believed such materials existed and sought a formal oversight structure to manage them. DHS leadership reviewed the proposal and decided the case had not been adequately made. The rejection therefore became a test of whether KONA BLUE represented a solution to an oversight problem or an attempt to institutionalise claims that remained insufficiently substantiated.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">History and Origin of KONA BLUE FINAL 508</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE as a Specia...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 
 ## The six-month path from PSAP request to rejection
 
-The KONA BLUE proposal emerged after the cancellation of the Defence Intelligence Agency's AAWSAP/AATIP effort. Supporters of that programme sought to continue related work under DHS through a Prospective Special Access Program (PSAP), an early-stage mechanism used to develop and evaluate a possible SAP before full approval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+The KONA BLUE proposal emerged after the cancellation of the Defence Intelligence Agency's AAWSAP/AATIP effort. Supporters of that programme sought to continue related work under DHS through a Prospective Special Access Program (PSAP), an early-stage mechanism used to develop and evaluate a possible SAP before full approval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
-According to declassified records, the DHS Under Secretary for Science and Technology established KONA BLUE as a PSAP in 2011. The justification cited claims that relevant information and materials existed, congressional interest in the topic, and potential homeland security implications. At that stage, however, KONA BLUE was still a proposal under development rather than an approved operational SAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">History and Origin of KONA BLUE FINAL 508</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE as a Specia...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
+According to declassified records, the DHS Under Secretary for Science and Technology established KONA BLUE as a PSAP in 2011. The justification cited claims that relevant information and materials existed, congressional interest in the topic, and potential homeland security implications. At that stage, however, KONA BLUE was still a proposal under development rather than an approved operational SAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">History and Origin of KONA BLUE FINAL 508</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE as a Specia...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 
-Roughly six months later, the proposal reached senior DHS review. A December 2011 memorandum records a meeting involving Deputy Secretary Jane Holl Lute, legal officials and SAP oversight personnel. Questions were raised about whether the threat assessment and vulnerability analysis justified SAP-level protection and whether the programme's development work had reached an adequate standard. Following that review, the Deputy Secretary ordered immediate termination of the PSAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
+Roughly six months later, the proposal reached senior DHS review. A December 2011 memorandum records a meeting involving Deputy Secretary Jane Holl Lute, legal officials and SAP oversight personnel. Questions were raised about whether the threat assessment and vulnerability analysis justified SAP-level protection and whether the programme's development work had reached an adequate standard. Following that review, the Deputy Secretary ordered immediate termination of the PSAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
 
-The chronology matters because it shows that KONA BLUE was not dismissed casually. It advanced far enough to receive formal consideration by DHS SAP authorities. Yet the same process also demonstrates that senior decision-makers concluded the proposal had not met the threshold required for approval. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+The chronology matters because it shows that KONA BLUE was not dismissed casually. It advanced far enough to receive formal consideration by DHS SAP authorities. Yet the same process also demonstrates that senior decision-makers concluded the proposal had not met the threshold required for approval.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dxyUoDvdGhg" title="Shellenberger: Pentagon&#x27;s UAP program &#x27;Immaculate Constellation&#x27; revealed | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dxyUoDvdGhg" target="_blank" rel="noopener noreferrer">Shellenberger: Pentagon&#x27;s UAP program &#x27;Immaculate Constellation&#x27; revealed | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 294.7K &middot; Uploaded: October 2024 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dxyUoDvdGhg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dxyUoDvdGhg">Open on YouTube</a></p></div></div></div>
 
 ## Staffing, budget and justification problems
 
-The most direct explanation for the rejection appears in the official DHS and AARO records. The Deputy Secretary's decision cited concerns about the adequacy of the programme's justification and the lack of sufficient information regarding key aspects of the proposal, including personnel and budget requirements. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+The most direct explanation for the rejection appears in the official DHS and AARO records. The Deputy Secretary's decision cited concerns about the adequacy of the programme's justification and the lack of sufficient information regarding key aspects of the proposal, including personnel and budget requirements.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
-This is significant because SAPs are not approved merely because a subject is sensitive or unusual. They require clearly defined missions, governance structures, staffing models, funding plans and security rationales. The declassified memoranda suggest that reviewers believed KONA BLUE had not yet provided enough detail in these areas. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
+This is significant because SAPs are not approved merely because a subject is sensitive or unusual. They require clearly defined missions, governance structures, staffing models, funding plans and security rationales. The declassified memoranda suggest that reviewers believed KONA BLUE had not yet provided enough detail in these areas.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
 
-Supporters of KONA BLUE argued that a protected structure was necessary because alleged advanced aerospace technology and related information were scattered across government and contractor channels. The proposal included plans to collect testimony from former officials and locate records, samples and other materials that advocates believed existed. In effect, the programme was partly designed to discover and consolidate evidence that was believed to be hidden elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</span></span></span>
+Supporters of KONA BLUE argued that a protected structure was necessary because alleged advanced aerospace technology and related information were scattered across government and contractor channels. The proposal included plans to collect testimony from former officials and locate records, samples and other materials that advocates believed existed. In effect, the programme was partly designed to discover and consolidate evidence that was believed to be hidden elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</span></span></span>
 
-For sceptics, this creates a critical weakness. A programme justified by the expectation that evidence will later be found is different from a programme justified by evidence already in hand. The rejection suggests that DHS leadership was unconvinced that the proposal had demonstrated the latter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+For sceptics, this creates a critical weakness. A programme justified by the expectation that evidence will later be found is different from a programme justified by evidence already in hand. The rejection suggests that DHS leadership was unconvinced that the proposal had demonstrated the latter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-2-dark.svg" | relative_url }}" alt="DHS Rejection illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the rejection means for oversight claims
 
 One of the most debated aspects of KONA BLUE is whether its existence supports claims that recovered non-human technology was already known to exist inside government channels.
 
-The proposal documents themselves contain language asserting that recovered advanced aerospace vehicle technology existed within SAP structures. This language has been highlighted by supporters as evidence that insiders were reporting the existence of recovered materials. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Smoking Gun? KONA BLUE &quot;Justification for Need&quot; says it</span><span class="citation-popover-snippet">Smoking Gun? KONA BLUE &quot;Justification for Need&quot; says it...April 16, 2024 — KONA BLUE &quot;Justification for Need&quot; says it directly. &quot;R...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
+The proposal documents themselves contain language asserting that recovered advanced aerospace vehicle technology existed within SAP structures. This language has been highlighted by supporters as evidence that insiders were reporting the existence of recovered materials.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Smoking Gun? KONA BLUE &quot;Justification for Need&quot; says it</span><span class="citation-popover-snippet">Smoking Gun? KONA BLUE &quot;Justification for Need&quot; says it...April 16, 2024 — KONA BLUE &quot;Justification for Need&quot; says it directly. &quot;R...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 
-However, the oversight question is more complicated. The fact that a proposal contains such assertions does not establish that DHS independently verified them. The available record instead shows that DHS officials were being asked to create a structure partly because advocates believed those claims were true. The subsequent rejection indicates that senior DHS leadership did not accept the proposal as sufficiently supported to justify a new SAP. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
+However, the oversight question is more complicated. The fact that a proposal contains such assertions does not establish that DHS independently verified them. The available record instead shows that DHS officials were being asked to create a structure partly because advocates believed those claims were true. The subsequent rejection indicates that senior DHS leadership did not accept the proposal as sufficiently supported to justify a new SAP.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
 
-This distinction sits at the centre of the debate over James Lacatski and associated figures. Believers often argue that KONA BLUE demonstrates that insiders were trying to bring hidden programmes under legitimate oversight. Sceptics counter that the rejection shows precisely the opposite: when the claims encountered formal review, decision-makers found the evidential and administrative foundations inadequate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</span></span></span>
+This distinction sits at the centre of the debate over James Lacatski and associated figures. Believers often argue that KONA BLUE demonstrates that insiders were trying to bring hidden programmes under legitimate oversight. Sceptics counter that the rejection shows precisely the opposite: when the claims encountered formal review, decision-makers found the evidential and administrative foundations inadequate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4OtfiAL7ii0" title="&#x27;The truth is out there&#x27;: US Congress holds UFO hearing | ABS-CBN News" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4OtfiAL7ii0" target="_blank" rel="noopener noreferrer">&#x27;The truth is out there&#x27;: US Congress holds UFO hearing | ABS-CBN News</a></p><p class="youtube-embed-meta">Channel: ABS-CBN News &middot; Views: 11.8K &middot; Uploaded: November 2024 &middot; Length: 3 minutes 8 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4OtfiAL7ii0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4OtfiAL7ii0">Open on YouTube</a></p></div></div></div>
 
@@ -300,172 +300,172 @@ This distinction sits at the centre of the debate over James Lacatski and associ
 
 A second interpretation is that KONA BLUE reveals a potential oversight problem even if its core claims were never proven.
 
-The proposal's advocates believed that information about advanced aerospace technology, biological materials and related programmes might exist in fragmented compartments beyond effective congressional visibility. Their proposed solution was to create a new governing structure capable of gathering and monitoring such information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</span></span></span>
+The proposal's advocates believed that information about advanced aerospace technology, biological materials and related programmes might exist in fragmented compartments beyond effective congressional visibility. Their proposed solution was to create a new governing structure capable of gathering and monitoring such information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</span></span></span>
 
-From this perspective, KONA BLUE's rejection does not necessarily prove that the underlying claims were false. It may simply show that DHS concluded the evidence presented at the time was insufficient to justify the requested level of protection and authority. The possibility of hidden programmes therefore remained an allegation rather than a demonstrated fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+From this perspective, KONA BLUE's rejection does not necessarily prove that the underlying claims were false. It may simply show that DHS concluded the evidence presented at the time was insufficient to justify the requested level of protection and authority. The possibility of hidden programmes therefore remained an allegation rather than a demonstrated fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
-The crucial point is that the public record does not show DHS discovering recovered craft, biological samples or exotic materials and then rejecting KONA BLUE anyway. Instead, AARO states that no material or data was ever transferred to DHS under KONA BLUE and that the proposal was terminated before becoming a functioning SAP. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+The crucial point is that the public record does not show DHS discovering recovered craft, biological samples or exotic materials and then rejecting KONA BLUE anyway. Instead, AARO states that no material or data was ever transferred to DHS under KONA BLUE and that the proposal was terminated before becoming a functioning SAP.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-3-dark.svg" | relative_url }}" alt="DHS Rejection illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_kona_blue_inference_72c827_dhs_rejection_oversi_981cb5-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What this episode says about Lacatski's credibility
 
-For assessing James Lacatski, the KONA BLUE rejection cuts in two directions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+For assessing James Lacatski, the KONA BLUE rejection cuts in two directions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
-On one hand, it supports the view that Lacatski and associated officials were operating within real government channels and pursuing formal bureaucratic solutions rather than merely discussing rumours. The proposal reached senior DHS leadership, involved SAP oversight processes and generated substantial documentation. That is evidence of genuine institutional engagement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+On one hand, it supports the view that Lacatski and associated officials were operating within real government channels and pursuing formal bureaucratic solutions rather than merely discussing rumours. The proposal reached senior DHS leadership, involved SAP oversight processes and generated substantial documentation. That is evidence of genuine institutional engagement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 
-On the other hand, the rejection weakens any claim that the existence of KONA BLUE itself validates recovered-material narratives. DHS leaders reviewed the proposal and terminated it, citing deficiencies in justification and programme development. Publicly released records do not show that DHS confirmed the existence of recovered non-human technology before making that decision. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
+On the other hand, the rejection weakens any claim that the existence of KONA BLUE itself validates recovered-material narratives. DHS leaders reviewed the proposal and terminated it, citing deficiencies in justification and programme development. Publicly released records do not show that DHS confirmed the existence of recovered non-human technology before making that decision.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">konablue release1</span><span class="citation-popover-snippet">Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</span></span></span>
 
 The result is an ambiguous but important credibility signal. KONA BLUE demonstrates that Lacatski's network of officials and programme advocates sincerely pursued a government mechanism for handling extraordinary claims. It does not demonstrate that those claims had already been verified. The DHS rejection therefore remains one of the strongest pieces of evidence that bureaucratic interest and bureaucratic validation are not the same thing.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/p_tOpf5QGjg" title="Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=p_tOpf5QGjg" target="_blank" rel="noopener noreferrer">Mystery Wire rewind: George Knapp on UFO interests, Bigfoot claims</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 491.1K &middot; Uploaded: March 2026 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=p_tOpf5QGjg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=p_tOpf5QGjg">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Why did DHS say no to KONA BLUE?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Why did DHS say no to KONA BLUE?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/JxsAAOSwKB9nfBNl/s-l225.jpg" alt="Listing image for Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage LOCKHEED UFO Blueprints Wall Art, Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-did-dhs-say-no-to-kona-blue-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="why-did-dhs-say-no-to-kona-blue-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -481,7 +481,7 @@ The result is an ambiguous but important credibility signal. KONA BLUE demonstra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -501,7 +501,7 @@ The result is an ambiguous but important credibility signal. KONA BLUE demonstra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -533,7 +533,7 @@ The result is an ambiguous but important credibility signal. KONA BLUE demonstra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -585,7 +585,7 @@ The result is an ambiguous but important credibility signal. KONA BLUE demonstra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -630,7 +630,7 @@ The result is an ambiguous but important credibility signal. KONA BLUE demonstra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -671,113 +671,113 @@ The result is an ambiguous but important credibility signal. KONA BLUE demonstra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: History and Origin of KONA BLUE FINAL 508  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEApril 16, 2024 — Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE as a Specia...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEApril 16, 2024 — Six months later, however, the. Deputy Secretary of DHS disapproved KONA BLUE as a Specia...</p></details>
    Published: April 16, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: documents2.theblackvault.com  
    Title: konablue release1  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/konablue-release1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Deputy Secretary of DHS disapproved KONA BLUE as a Special Access Program (SAP), and further directed its...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</p></details>
    Published: February 10, 2012  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 19 Mar 2024 — 115 This proposal, codenamed KONA BLUE, would restart UAP investigations, par...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Smoking Gun? KONA BLUE "Justification for Need" says it  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Smoking Gun? KONA BLUE &quot;Justification for Need&quot; says it...April 16, 2024 — KONA BLUE &quot;Justification for Need&quot; says it directly. &quot;R...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5oxku/smoking_gun_kona_blue_justification_for_need_says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Smoking Gun? KONA BLUE &quot;Justification for Need&quot; says it...April 16, 2024 — KONA BLUE &quot;Justification for Need&quot; says it directly. &quot;R...</p></details>
    Published: April 16, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c5ircv/kona_blue_aaro_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5ircv/kona_blue_aaro_release/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE AARO Release: r/UFOsKONA BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The followi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c5ircv/kona_blue_aaro_release/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c5ircv/kona_blue_aaro_release/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE AARO Release: r/UFOsKONA BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The followi...</p></details>
    Published: February 10, 2012  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cbvdpt/pentagon_acknowledges_kona_blue_secret_reverse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cbvdpt/pentagon_acknowledges_kona_blue_secret_reverse/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cbvdpt/pentagon_acknowledges_kona_blue_secret_reverse/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cbvdpt/pentagon_acknowledges_kona_blue_secret_reverse/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dhs.gov  
    Title: 25 0723 foia dhs st foia log fy2024  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE&quot; was a proposal made to the DHS in the early 2010s. This is an excerpt from this report: &quot;When DIA cancelled this program, its...</p></details>
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE&quot; was a proposal made to the DHS in the early 2010s. This is an excerpt from this report: &quot;When DIA cancelled this program, its...</p></details>
 
 ### Additional References
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — convince DHS to support a new version of this effort dubbed KONA...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 18 Mar 2024 — convince DHS to support a new version of this effort dubbed KONA...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: newparadigminstitute.org  
    Title: kona blue department of homeland security prospective special access program  
-   Link: <a href="https://newparadigminstitute.org/learn/library/kona-blue-department-of-homeland-security-prospective-special-access-program/" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/kona-blue-department-of-homeland-security-prospective-special-access-program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kona Blue – Department of Homeland Security Prospective...17 Apr 2024 — KONA BLUE was a DHS PSAP (Department of Homeland Security Prospe...</p></details>
+   Link:<a href="https://newparadigminstitute.org/learn/library/kona-blue-department-of-homeland-security-prospective-special-access-program/" target="_blank" rel="noopener noreferrer nofollow">https://newparadigminstitute.org/learn/library/kona-blue-department-of-homeland-security-prospective-special-access-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kona Blue – Department of Homeland Security Prospective...17 Apr 2024 — KONA BLUE was a DHS PSAP (Department of Homeland Security Prospe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: rogueplanet.tv  
-   Link: <a href="https://rogueplanet.tv/proposed-kona-blue-ufo-project-detailed-in-released-documents/" target="_blank" rel="noopener noreferrer nofollow">https://rogueplanet.tv/proposed-kona-blue-ufo-project-detailed-in-released-documents/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed &quot;Kona Blue&quot; UFO Project Detailed in Released...18 Apr 2024 — More specifically, Kona Blue was intended to be the continuation o...</p></details>
+   Link:<a href="https://rogueplanet.tv/proposed-kona-blue-ufo-project-detailed-in-released-documents/" target="_blank" rel="noopener noreferrer nofollow">https://rogueplanet.tv/proposed-kona-blue-ufo-project-detailed-in-released-documents/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proposed &quot;Kona Blue&quot; UFO Project Detailed in Released...18 Apr 2024 — More specifically, Kona Blue was intended to be the continuation o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: socialecologies.wordpress.com  
    Title: kona blue and the architecture of invisible power  
-   Link: <a href="https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Blue and the Architecture of Invisible Power6 Dec 2025 — The document explains that recovered materials, advanced vehicles, and anomalous...</p></details>
+   Link:<a href="https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/" target="_blank" rel="noopener noreferrer nofollow">https://socialecologies.wordpress.com/2025/12/06/kona-blue-and-the-architecture-of-invisible-power/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Blue and the Architecture of Invisible Power6 Dec 2025 — The document explains that recovered materials, advanced vehicles, and anomalous...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The [oral history](&amp;#123;&amp;#123; &#x27;oral-history/&#x27; | relative_url &amp;#125;&amp;#125;) project will include gathering all inf...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/356 May 2024 — The [oral history](&amp;#123;&amp;#123; &#x27;oral-history/&#x27; | relative_url &amp;#125;&amp;#125;) project will include gathering all inf...</p></details>
    Published: May 2024  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yahoo.com  
    Title: us once considered program reverse 154306276  
-   Link: <a href="https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US once considered a program to reverse-engineer alien...8 Mar 2024 — AARO investigators discovered the existence of Kona Blue after int...</p></details>
+   Link:<a href="https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US once considered a program to reverse-engineer alien...8 Mar 2024 — AARO investigators discovered the existence of Kona Blue after int...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office... DHS leaders rejected the proposal as &quot;without merit&quot;; AARO&#x27;s report similarly rejected the cla...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution Office... DHS leaders rejected the proposal as &quot;without merit&quot;; AARO&#x27;s report similarly rejected the cla...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Note: Former SSCI Staff Director and former Deputy Assistant Secretary of Defense for.Read more...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Note: Former SSCI Staff Director and former Deputy Assistant Secretary of Defense for.Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Shellenberger: Pentagon's UAP program 'Immaculate Constellation' revealed  
-   Link: <a href="https://www.youtube.com/watch?v=dxyUoDvdGhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dxyUoDvdGhg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truth is out there&#x27;: US Congress holds UFO hearing | ABS-CBN News...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=dxyUoDvdGhg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=dxyUoDvdGhg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The truth is out there&#x27;: US Congress holds UFO hearing | ABS-CBN News...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch, Oak Island curse and Kona Blue | Reality Check  
-   Link: <a href="https://www.youtube.com/watch?v=kNEJaw-Erks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kNEJaw-Erks</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Shellenberger: Pentagon&#x27;s UAP program &#x27;Immaculate Constellation&#x27; revealed...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kNEJaw-Erks" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kNEJaw-Erks</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Shellenberger: Pentagon&#x27;s UAP program &#x27;Immaculate Constellation&#x27; revealed...</p></details>

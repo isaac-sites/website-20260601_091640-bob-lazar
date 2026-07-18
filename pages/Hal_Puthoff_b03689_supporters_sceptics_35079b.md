@@ -298,26 +298,26 @@ image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-overview-soc
 
 ## Introduction
 
-The credibility split over [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) is not a simple fight between “believers” and “debunkers”. It is a dispute over how much weight to give a man with real technical credentials, documented access to unusual government-linked research networks, and a long record of promoting claims that remain far beyond the public evidence. Supporters see Puthoff as a serious physicist-adviser who helped keep UAP investigation alive when institutions avoided the topic. Sceptics see the same record as a warning sign: [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}), Uri Geller-era parapsychology, exotic propulsion, alleged materials and ultraterrestrial speculation all sit close to claims that have repeatedly outrun proof. His credibility is therefore strongest on access and influence, weaker on interpretation, and weakest when extraordinary UAP conclusions depend on private sourcing, inference or unavailable evidence. ResearchGate 3EarthTech <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
+The credibility split over [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}) is not a simple fight between “believers” and “debunkers”. It is a dispute over how much weight to give a man with real technical credentials, documented access to unusual government-linked research networks, and a long record of promoting claims that remain far beyond the public evidence. Supporters see Puthoff as a serious physicist-adviser who helped keep UAP investigation alive when institutions avoided the topic. Sceptics see the same record as a warning sign: [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}), Uri Geller-era parapsychology, exotic propulsion, alleged materials and ultraterrestrial speculation all sit close to claims that have repeatedly outrun proof. His credibility is therefore strongest on access and influence, weaker on interpretation, and weakest when extraordinary UAP conclusions depend on private sourcing, inference or unavailable evidence. ResearchGate 3EarthTech<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-overview.webp" | relative_url }}" alt="Overview image for Credibility Split" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Puthoff divides informed readers
 
-Puthoff is unusually hard to classify because both sides can point to real evidence. His supporters are not wrong that he is more than a fringe commentator. EarthTech identifies him as President, CEO and Chairman of EarthTech International and Director of the Institute for Advanced Studies at Austin, and the public record places him in or near several important nodes in the modern UAP story: Stanford Research Institute remote-viewing work, Bigelow-linked research, AAWSAP/AATIP-era networks and To The Stars Academy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+Puthoff is unusually hard to classify because both sides can point to real evidence. His supporters are not wrong that he is more than a fringe commentator. EarthTech identifies him as President, CEO and Chairman of EarthTech International and Director of the Institute for Advanced Studies at Austin, and the public record places him in or near several important nodes in the modern UAP story: Stanford Research Institute remote-viewing work, Bigelow-linked research, AAWSAP/AATIP-era networks and To The Stars Academy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
-But sceptics are also not wrong that access is not the same as reliability. Puthoff’s career repeatedly crosses the boundary between conventional engineering and highly contested frontier claims. The CIA Reading Room preserves SRI remote-viewing material associated with Puthoff and Russell Targ, but the later official evaluation of the wider remote-viewing programme found a famous split: statistician Jessica Utts thought anomalous effects had been shown, while psychologist Ray Hyman argued that proof of paranormal functioning had not been established and that the findings lacked adequate independent replication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+But sceptics are also not wrong that access is not the same as reliability. Puthoff’s career repeatedly crosses the boundary between conventional engineering and highly contested frontier claims. The CIA Reading Room preserves SRI remote-viewing material associated with Puthoff and Russell Targ, but the later official evaluation of the wider remote-viewing programme found a famous split: statistician Jessica Utts thought anomalous effects had been shown, while psychologist Ray Hyman argued that proof of paranormal functioning had not been established and that the findings lacked adequate independent replication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 That is the basic credibility split. Supporters tend to emphasise Puthoff’s verified roles, technical fluency and proximity to serious insiders. Sceptics tend to emphasise the pattern of extraordinary claims being attached to limited, ambiguous or inaccessible evidence. Both readings contain part of the truth.
 
 ## The strongest supporter case
 
-The strongest case for taking Puthoff seriously begins with institutional reality. He was not merely commenting from outside the system. Declassified material shows that remote viewing was investigated under US intelligence sponsorship, and SRI’s work was part of that history. Whatever one thinks of the results, the programme itself was real, funded and studied, not a later internet myth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
+The strongest case for taking Puthoff seriously begins with institutional reality. He was not merely commenting from outside the system. Declassified material shows that remote viewing was investigated under US intelligence sponsorship, and SRI’s work was part of that history. Whatever one thinks of the results, the programme itself was real, funded and studied, not a later internet myth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
 
-Supporters also point to Puthoff’s durability inside networks that include former defence, intelligence and aerospace figures. The New Yorker’s account of the post-2017 UAP movement describes Luis Elizondo, Christopher Mellon, Jim Semivan and Puthoff joining To The Stars Academy after Elizondo left the Pentagon, following the public emergence of the AATIP story. That matters because Puthoff was not operating alone: he was part of a cluster of people who helped push UAP into mainstream media, congressional discussion and official reporting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
+Supporters also point to Puthoff’s durability inside networks that include former defence, intelligence and aerospace figures. The New Yorker’s account of the post-2017 UAP movement describes Luis Elizondo, Christopher Mellon, Jim Semivan and Puthoff joining To The Stars Academy after Elizondo left the Pentagon, following the public emergence of the AATIP story. That matters because Puthoff was not operating alone: he was part of a cluster of people who helped push UAP into mainstream media, congressional discussion and official reporting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
 
-There is also a technical-supporter argument. Puthoff’s defenders see him as someone willing to ask difficult questions about propulsion, materials, quantum vacuum ideas and anomalous reports without waiting for cultural permission. The AAWSAP-era “Defense Intelligence Reference Documents” included speculative advanced aerospace topics, and open-source lists identify a Puthoff-authored paper on “Advanced Space Propulsion Based on Vacuum Engineering”. Supporters treat this not as proof of alien technology, but as evidence that some government-funded work was willing to explore fringe-adjacent technical possibilities. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">back to those 38 defense intelligence</span><span class="citation-popover-snippet">back to those 38 defense intelligence</span></span></span>
+There is also a technical-supporter argument. Puthoff’s defenders see him as someone willing to ask difficult questions about propulsion, materials, quantum vacuum ideas and anomalous reports without waiting for cultural permission. The AAWSAP-era “Defense Intelligence Reference Documents” included speculative advanced aerospace topics, and open-source lists identify a Puthoff-authored paper on “Advanced Space Propulsion Based on Vacuum Engineering”. Supporters treat this not as proof of alien technology, but as evidence that some government-funded work was willing to explore fringe-adjacent technical possibilities.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[UFOs Scientific Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">back to those 38 defense intelligence</span><span class="citation-popover-snippet">back to those 38 defense intelligence</span></span></span>
 
-A more recent example is the UAP materials issue. To The Stars described a magnesium-zinc-bismuth specimen as being accompanied by documentation claiming a UAP crash-recovery origin, while also acknowledging that the source could not be verified. Later To The Stars commentary on Oak Ridge National Laboratory-related analysis said the material’s purpose remained unclear but that the analysis did not prove an extraterrestrial, ultraterrestrial or interdimensional origin. That is an important distinction: the best supporter case is not that the material proves Puthoff right, but that he helped move a rumoured object into a more testable analytical frame. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
+A more recent example is the UAP materials issue. To The Stars described a magnesium-zinc-bismuth specimen as being accompanied by documentation claiming a UAP crash-recovery origin, while also acknowledging that the source could not be verified. Later To The Stars commentary on Oak Ridge National Laboratory-related analysis said the material’s purpose remained unclear but that the analysis did not prove an extraterrestrial, ultraterrestrial or interdimensional origin. That is an important distinction: the best supporter case is not that the material proves Puthoff right, but that he helped move a rumoured object into a more testable analytical frame.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
 
 For supporters, then, Puthoff’s credibility comes from three linked points:
 
@@ -336,13 +336,13 @@ This is the version of Puthoff that persuades many UAP-minded readers: not an in
 
 The strongest sceptical case is not that Puthoff invented his résumé or had no official contact. It is that his verified access has too often been used to lend weight to claims that remain unproven. That is a sharper and more relevant criticism than simply calling him “fringe”.
 
-Remote viewing is central to this sceptical reading. The programme’s existence is well documented, but existence is not validation. The 1995 evaluation preserved in the CIA Reading Room set out competing expert interpretations, and Hyman’s criticism remains damaging for Puthoff’s credibility because it challenges the leap from unusual statistics or striking anecdotes to a reliable paranormal intelligence method. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+Remote viewing is central to this sceptical reading. The programme’s existence is well documented, but existence is not validation. The 1995 evaluation preserved in the CIA Reading Room set out competing expert interpretations, and Hyman’s criticism remains damaging for Puthoff’s credibility because it challenges the leap from unusual statistics or striking anecdotes to a reliable paranormal intelligence method.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
-The Uri Geller association deepens sceptical concern. Puthoff and Targ’s SRI-era work with Geller became one of the best-known episodes in parapsychology. Sceptics argue that any researcher convinced by Geller’s alleged abilities showed poor fraud control or excessive credulity. Even without litigating every historical detail, the episode affects how sceptics read Puthoff’s later UAP claims: they see a pattern of high openness to extraordinary interpretations before ordinary error, trickery or weak protocol have been fully excluded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Uri Geller association deepens sceptical concern. Puthoff and Targ’s SRI-era work with Geller became one of the best-known episodes in parapsychology. Sceptics argue that any researcher convinced by Geller’s alleged abilities showed poor fraud control or excessive credulity. Even without litigating every historical detail, the episode affects how sceptics read Puthoff’s later UAP claims: they see a pattern of high openness to extraordinary interpretations before ordinary error, trickery or weak protocol have been fully excluded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-7.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skepticalinquirer.org">[Skeptical Inquirer]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skepticalinquirer.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The UAP side presents the same problem in a modern form. Puthoff’s 2022 “Ultraterrestrial Models” paper states that an unidentified phenomenon is interacting with humanity and that it appears highly likely the phenomenon is not made up exclusively of current humans. It then considers possibilities such as extraterrestrials, time travellers, interdimensional beings, hidden advanced humans and other speculative models. That is a bold interpretive move, but the public evidence does not establish those possibilities as facts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">363346030 ULTRATERRESTRIAL MODELS</span><span class="citation-popover-snippet">363346030 ULTRATERRESTRIAL MODELS</span></span></span>
+The UAP side presents the same problem in a modern form. Puthoff’s 2022 “Ultraterrestrial Models” paper states that an unidentified phenomenon is interacting with humanity and that it appears highly likely the phenomenon is not made up exclusively of current humans. It then considers possibilities such as extraterrestrials, time travellers, interdimensional beings, hidden advanced humans and other speculative models. That is a bold interpretive move, but the public evidence does not establish those possibilities as facts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">363346030 ULTRATERRESTRIAL MODELS</span><span class="citation-popover-snippet">363346030 ULTRATERRESTRIAL MODELS</span></span></span>
 
-Official UAP reviews also cut against the strongest crash-retrieval and non-human technology claims circulating in the same ecosystem. AARO’s public position says the Department has found no evidence of extraterrestrial technology, and the 2024 Pentagon historical review, as reported by Reuters, concluded that US investigations since the Second World War had found no evidence of extraterrestrial technology and that many unresolved cases would probably be resolved with better data. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+Official UAP reviews also cut against the strongest crash-retrieval and non-human technology claims circulating in the same ecosystem. AARO’s public position says the Department has found no evidence of extraterrestrial technology, and the 2024 Pentagon historical review, as reported by Reuters, concluded that US investigations since the Second World War had found no evidence of extraterrestrial technology and that many unresolved cases would probably be resolved with better data.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 That does not prove Puthoff is wrong on every point. It does mean that his most dramatic interpretations are not publicly substantiated. The sceptical case is strongest when it insists on a separation between:
 
@@ -362,13 +362,13 @@ This is why sceptics often view Puthoff as a credibility amplifier rather than a
 
 ## Why the same facts produce opposite readings
 
-The disagreement over Puthoff often comes from different standards of evidence. Supporters treat institutional attention as meaningful: if intelligence agencies, defence officials, military witnesses and contractors spent time on these subjects, then the subject cannot be dismissed. Sceptics reply that institutions study many uncertain things, including weak leads, foreign technology possibilities, pilot safety reports and speculative threats, without confirming the most dramatic interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
+The disagreement over Puthoff often comes from different standards of evidence. Supporters treat institutional attention as meaningful: if intelligence agencies, defence officials, military witnesses and contractors spent time on these subjects, then the subject cannot be dismissed. Sceptics reply that institutions study many uncertain things, including weak leads, foreign technology possibilities, pilot safety reports and speculative threats, without confirming the most dramatic interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
 
-The New York Times and New Yorker coverage strengthened the supporter case by showing that UAP was no longer just a fringe conversation. The Pentagon had acknowledged an earlier programme, Navy videos became mainstream evidence in public discussion, and former officials were willing to speak on the record. Puthoff benefited from that legitimacy because he was connected to the same post-2017 disclosure network. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
+The New York Times and New Yorker coverage strengthened the supporter case by showing that UAP was no longer just a fringe conversation. The Pentagon had acknowledged an earlier programme, Navy videos became mainstream evidence in public discussion, and former officials were willing to speak on the record. Puthoff benefited from that legitimacy because he was connected to the same post-2017 disclosure network.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
 
-Yet the same media cycle also sharpened sceptical concerns. Vanity Fair’s reporting on later UAP claims involving David Grusch noted the hesitation of major outlets when physical documentation, photographs or direct access to alleged craft were missing. That problem applies broadly to the Puthoff-adjacent credibility split: impressive sources may exist, but public verification often stops short of the extraordinary conclusion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Yet the same media cycle also sharpened sceptical concerns. Vanity Fair’s reporting on later UAP claims involving David Grusch noted the hesitation of major outlets when physical documentation, photographs or direct access to alleged craft were missing. That problem applies broadly to the Puthoff-adjacent credibility split: impressive sources may exist, but public verification often stops short of the extraordinary conclusion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vanityfair.com">[Vanity Fair]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vanityfair.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The Army-To The Stars materials collaboration is a good example of this double reading. Supporters could reasonably say the US Army would not waste time on a claim it considered automatically worthless. The War Zone reported that the Army entered an agreement to evaluate TTSA’s claims about “novel materials” and possible technology applications. Sceptics could reasonably answer that evaluation is not validation, and later analysis did not establish exotic origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Army-To The Stars materials collaboration is a good example of this double reading. Supporters could reasonably say the US Army would not waste time on a claim it considered automatically worthless. The War Zone reported that the Army entered an agreement to evaluate TTSA’s claims about “novel materials” and possible technology applications. Sceptics could reasonably answer that evaluation is not validation, and later analysis did not establish exotic origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 Puthoff’s credibility therefore depends heavily on what question the reader is asking. If the question is “Was he connected to real people and programmes?”, the answer is yes. If the question is “Has he publicly proved non-human technology, crash retrievals or ultraterrestrial actors?”, the answer is no.
 
@@ -377,25 +377,25 @@ Puthoff’s credibility therefore depends heavily on what question the reader is
 
 ### Where Puthoff scores strongly
 
-Puthoff scores strongly on documented involvement and influence. His EarthTech role is public, his remote-viewing work sits within declassified intelligence history, and his later UAP activity connects to figures who helped bring the issue into mainstream political and media discussion. These are not trivial credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
+Puthoff scores strongly on documented involvement and influence. His EarthTech role is public, his remote-viewing work sits within declassified intelligence history, and his later UAP activity connects to figures who helped bring the issue into mainstream political and media discussion. These are not trivial credentials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: earthtech.org">[EarthTech]</a><span class="citation-popover" role="note"><span class="citation-popover-source">earthtech.org</span><span class="citation-popover-title">Earth Tech Principal Team</span><span class="citation-popover-snippet">Earth Tech Principal Team</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-title">CIA Initiated Remote Viewing At Stanford Research Institute</span><span class="citation-popover-snippet">CIA Initiated Remote Viewing At Stanford Research Institute</span></span></span>
 
-He also scores well as a network figure. Puthoff appears less important as a first-hand UAP witness than as a technical adviser, interpreter and bridge between communities: parapsychology, speculative physics, Bigelow-linked research, To The Stars, and the post-2017 disclosure movement. That makes him useful for understanding how modern UAP ideas travelled from fringe research circles into more official-sounding venues. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
+He also scores well as a network figure. Puthoff appears less important as a first-hand UAP witness than as a technical adviser, interpreter and bridge between communities: parapsychology, speculative physics, Bigelow-linked research, To The Stars, and the post-2017 disclosure movement. That makes him useful for understanding how modern UAP ideas travelled from fringe research circles into more official-sounding venues.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newyorker.com">[The New Yorker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newyorker.com</span><span class="citation-popover-title">how the pentagon started taking ufos seriously</span><span class="citation-popover-snippet">how the pentagon started taking ufos seriously</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mqldQHXofgE" title="CIA Physicist on Ultraterrestrials: The Classified Truth About UFOs? | Dr. Hal Puthoff" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer">CIA Physicist on Ultraterrestrials: The Classified Truth About UFOs? | Dr. Hal Puthoff</a></p><p class="youtube-embed-meta">Channel: THIRD EYE DROPS with Michael Phillip &middot; Views: 177.5K &middot; Uploaded: September 2025 &middot; Length: 44 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mqldQHXofgE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mqldQHXofgE">Open on YouTube</a></p></div></div></div>
 
 ### Where the case is mixed
 
-His technical language is a mixed asset. It can bring discipline to subjects often dominated by rumour, but it can also make speculative claims sound more settled than they are. For example, materials analysis is a legitimate scientific pathway; however, To The Stars’ own later commentary acknowledged that the MgZn/Bi material did not prove exotic origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
+His technical language is a mixed asset. It can bring discipline to subjects often dominated by rumour, but it can also make speculative claims sound more settled than they are. For example, materials analysis is a legitimate scientific pathway; however, To The Stars’ own later commentary acknowledged that the MgZn/Bi material did not prove exotic origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
 
-His remote-viewing history is also mixed. The programme was real, and some analysts argued that statistically unusual results deserved attention. But the same official evaluation preserved deep disagreement over whether the results demonstrated paranormal functioning or produced useful intelligence. For credibility purposes, that is not a clean vindication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
+His remote-viewing history is also mixed. The programme was real, and some analysts argued that statistically unusual results deserved attention. But the same official evaluation preserved deep disagreement over whether the results demonstrated paranormal functioning or produced useful intelligence. For credibility purposes, that is not a clean vindication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">Open source on cia.gov.</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WK85CQiqHSk" title="CIA Physicist WARNS: &quot;They Live Secretly Among Us&quot;" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WK85CQiqHSk" target="_blank" rel="noopener noreferrer">CIA Physicist WARNS: &quot;They Live Secretly Among Us&quot;</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO Clips &middot; Views: 219.0K &middot; Uploaded: May 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WK85CQiqHSk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WK85CQiqHSk">Open on YouTube</a></p></div></div></div>
 
 ### Where Puthoff scores weakly
 
-Puthoff scores weakly when claims move from “this deserves investigation” to “this is probably non-human” without public evidence strong enough to carry that conclusion. His “Ultraterrestrial Models” paper is valuable as a map of hypotheses, but its premise that the phenomenon is probably not exclusively current human activity is far stronger than the public evidence available to ordinary readers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">363346030 ULTRATERRESTRIAL MODELS</span><span class="citation-popover-snippet">363346030 ULTRATERRESTRIAL MODELS</span></span></span>
+Puthoff scores weakly when claims move from “this deserves investigation” to “this is probably non-human” without public evidence strong enough to carry that conclusion. His “Ultraterrestrial Models” paper is valuable as a map of hypotheses, but its premise that the phenomenon is probably not exclusively current human activity is far stronger than the public evidence available to ordinary readers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-title">363346030 ULTRATERRESTRIAL MODELS</span><span class="citation-popover-snippet">363346030 ULTRATERRESTRIAL MODELS</span></span></span>
 
-He also scores weakly on independent confirmation of the most extraordinary claims associated with his milieu. AARO’s public position and major news reporting on the 2024 historical review directly undercut claims that official investigations have confirmed extraterrestrial technology, recovered beings or hidden reverse-engineering programmes. Those findings do not settle every UAP case, but they do raise the evidential bar for anyone making stronger claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
+He also scores weakly on independent confirmation of the most extraordinary claims associated with his milieu. AARO’s public position and major news reporting on the 2024 historical review directly undercut claims that official investigations have confirmed extraterrestrial technology, recovered beings or hidden reverse-engineering programmes. Those findings do not settle every UAP case, but they do raise the evidential bar for anyone making stronger claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">Open source on aaro.mil.</span></span></span>
 
 ## What readers should take from the split
 
@@ -410,194 +410,194 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-Illustration-3-dark.svg" | relative_url }}" alt="Credibility Split illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Why People Disagree About Puthoff. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Why People Disagree About Puthoff. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Balances access, evidence and controversy in the same networks surrounding Puthoff.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Balances access, evidence and controversy in the same networks surrounding Puthoff.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Captures the institutional credibility arguments often used by Puthoff supporters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Captures the institutional credibility arguments often used by Puthoff supporters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a framework for assessing extraordinary claims and evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a framework for assessing extraordinary claims and evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Examines elite networks, belief and credibility in UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines elite networks, belief and credibility in UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for ufo poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: ufo poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=ufo+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-people-disagree-about-puthoff-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="ufo poster -series -television" data-ebay-reference="why-people-disagree-about-puthoff-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,255 +803,255 @@ The split over Puthoff is therefore not a side issue. It is a miniature version 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: earthtech.org  
    Title: Earth Tech Principal Team  
-   Link: <a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
+   Link:<a href="https://earthtech.org/team/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/team/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180006-4</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
    Title: 363346030 ULTRATERRESTRIAL MODELS  
-   Link: <a href="https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS</a>  
+   Link:<a href="https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/363346030_ULTRATERRESTRIAL_MODELS</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00787r000500410001-3</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: earthtech.org  
    Title: Earth Tech Hal Puthoff  
-   Link: <a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
+   Link:<a href="https://earthtech.org/pubs/puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/pubs/puthoff/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000200080037-4.pdf</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00789R002600250001-6.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00787R000500410001-3.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00788R001200300004-3.pdf</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27</a>  
+   Link:<a href="https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/267978941_Evaluation_of_Program_on_%27Anomalous_Mental_Phenomena%27</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: researchgate.net  
    Title: 15945437 Rebuttal of criticisms of remote viewing experiments  
-   Link: <a href="https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments</a>  
+   Link:<a href="https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf</a>  
+   Link:<a href="https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Harold-Puthoff/publication/363346030_ULTRATERRESTRIAL_MODELS/links/6318a625873eca0c006c4d4e/ULTRATERRESTRIAL-MODELS.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98</a>  
+   Link:<a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.com  
    Title: Your Partner in Group Reporting | CPM software & more  
-   Link: <a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
+   Link:<a href="https://aaro.com/en/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.com/en/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: earthtech.org  
-   Link: <a href="https://earthtech.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/about/</a>  
+   Link:<a href="https://earthtech.org/about/" target="_blank" rel="noopener noreferrer nofollow">https://earthtech.org/about/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: war.gov  
    Title: the department of defense launches the all domain anomaly resolution office web  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3513171/the-department-of-defense-launches-the-all-domain-anomaly-resolution-office-web/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: disclosure.org  
    Title: hal puthoff carlos eire  
-   Link: <a href="https://disclosure.org/releases/hal-puthoff-carlos-eire" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/releases/hal-puthoff-carlos-eire</a>  
+   Link:<a href="https://disclosure.org/releases/hal-puthoff-carlos-eire" target="_blank" rel="noopener noreferrer nofollow">https://disclosure.org/releases/hal-puthoff-carlos-eire</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: archive.org  
    Title: cia readingroom document cia rdp96 00792r000600310001 7  
-   Link: <a href="https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7</a>  
+   Link:<a href="https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/cia-readingroom-document-cia-rdp96-00792r000600310001-7</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: newyorker.com  
    Title: how the pentagon started taking ufos seriously  
-   Link: <a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
+   Link:<a href="https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.newyorker.com/magazine/2021/05/10/how-the-pentagon-started-taking-ufos-seriously</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: newdualism.org  
    Title: CIA Initiated Remote Viewing At Stanford Research Institute  
-   Link: <a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
+   Link:<a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: back to those 38 defense intelligence  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html</a>  
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2019/01/back-to-those-38-defense-intelligence.html</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: tothestars.media  
    Title: To The Stars*Material of Interest: Magnesium-Zinc-Bismuth  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOoqIe2ynn9E5TcfYYDSkL30rlUgcMiYUpKRsVry2E8SDRzL_6OaP</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOop7tlLlzkJe1qrpG39me__-JHkuaK_qieD9kc_4Xnx31-Oo7pEK" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOop7tlLlzkJe1qrpG39me__-JHkuaK_qieD9kc_4Xnx31-Oo7pEK</a>  
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOop7tlLlzkJe1qrpG39me__-JHkuaK_qieD9kc_4Xnx31-Oo7pEK" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOop7tlLlzkJe1qrpG39me__-JHkuaK_qieD9kc_4Xnx31-Oo7pEK</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: skepticalinquirer.org  
-   Link: <a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-7.pdf</a>  
+   Link:<a href="https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-7.pdf" target="_blank" rel="noopener noreferrer nofollow">https://skepticalinquirer.org/wp-content/uploads/sites/29/2019/03/Issue-02-7.pdf</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: tothestars.media  
    Title: To The Stars*The New York Times: Glowing Auras and 'Black Money'  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoqII3hrzMRgeGohOBoluoX67SzwY2-Zb-FfMPMMduRZr_MQ8dRw" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoqII3hrzMRgeGohOBoluoX67SzwY2-Zb-FfMPMMduRZr_MQ8dRw</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoqII3hrzMRgeGohOBoluoX67SzwY2-Zb-FfMPMMduRZr_MQ8dRw" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/the-new-york-times-glowing-auras-and-black-money-the-pentagon-s-mysterious-u-f-o-program?srsltid=AfmBOoqII3hrzMRgeGohOBoluoX67SzwY2-Zb-FfMPMMduRZr_MQ8dRw</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: vanityfair.com  
-   Link: <a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
+   Link:<a href="https://www.vanityfair.com/news/2023/06/ufo-report-media" target="_blank" rel="noopener noreferrer nofollow">https://www.vanityfair.com/news/2023/06/ufo-report-media</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
+   Link:<a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company</a>  
+   Link:<a href="https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30481/what-we-know-about-the-army-teaming-up-with-rockstar-tom-delonges-ufo-research-company</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: Wikipedia  
    Title: Jessica Utts  
-   Link: <a href="https://en.wikipedia.org/wiki/Jessica_Utts" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jessica_Utts</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Jessica_Utts" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Jessica_Utts</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/the-new-yorker-how-the-pentagon-started-taking-u-f-o-s-seriously?srsltid=AfmBOoq2Cz5yph62z74ZEG5ywH3WV8g5nVEZmK-eHOqOlvO7gzYIXKPM" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/the-new-yorker-how-the-pentagon-started-taking-u-f-o-s-seriously?srsltid=AfmBOoq2Cz5yph62z74ZEG5ywH3WV8g5nVEZmK-eHOqOlvO7gzYIXKPM</a>  
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/the-new-yorker-how-the-pentagon-started-taking-u-f-o-s-seriously?srsltid=AfmBOoq2Cz5yph62z74ZEG5ywH3WV8g5nVEZmK-eHOqOlvO7gzYIXKPM" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/the-new-yorker-how-the-pentagon-started-taking-u-f-o-s-seriously?srsltid=AfmBOoq2Cz5yph62z74ZEG5ywH3WV8g5nVEZmK-eHOqOlvO7gzYIXKPM</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqFINzngFDIb7QL_S4uWxClT1YTwYtQr4sOFcZazrACuyiRtgKH" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqFINzngFDIb7QL_S4uWxClT1YTwYtQr4sOFcZazrACuyiRtgKH</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqFINzngFDIb7QL_S4uWxClT1YTwYtQr4sOFcZazrACuyiRtgKH" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/elizondo-leaves-pentagon-to-join-to-the-stars-academy-of-arts-science?srsltid=AfmBOoqFINzngFDIb7QL_S4uWxClT1YTwYtQr4sOFcZazrACuyiRtgKH</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/about?srsltid=AfmBOop6Zld2dAUNnLS1xiAXW37_i7qLzvmoXFf7kA7NOb77LB4mhg1t" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/about?srsltid=AfmBOop6Zld2dAUNnLS1xiAXW37_i7qLzvmoXFf7kA7NOb77LB4mhg1t</a>  
+   Link:<a href="https://tothestars.media/pages/about?srsltid=AfmBOop6Zld2dAUNnLS1xiAXW37_i7qLzvmoXFf7kA7NOb77LB4mhg1t" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/about?srsltid=AfmBOop6Zld2dAUNnLS1xiAXW37_i7qLzvmoXFf7kA7NOb77LB4mhg1t</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqPLm0K3FD2SyirEkIXWeuRHD4pjpIjE0wfKXPa3BqMcbEY9REn" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqPLm0K3FD2SyirEkIXWeuRHD4pjpIjE0wfKXPa3BqMcbEY9REn</a>  
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqPLm0K3FD2SyirEkIXWeuRHD4pjpIjE0wfKXPa3BqMcbEY9REn" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOoqPLm0K3FD2SyirEkIXWeuRHD4pjpIjE0wfKXPa3BqMcbEY9REn</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: skeptic.com  
    Title: ufology from fringe to mainstream to fringe  
-   Link: <a href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/</a>  
+   Link:<a href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: us.mensa.org  
    Title: to the stars academy unafraid to investigate the unexplained  
-   Link: <a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
+   Link:<a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
 
 ### Additional References
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: youtube.com  
    Title: How To Scientifically Test & Analyze Potential UAP/UFO Material  
-   Link: <a href="https://www.youtube.com/watch?v=SbAtCzZIIsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbAtCzZIIsk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren&#x27;t human...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SbAtCzZIIsk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SbAtCzZIIsk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>America recovered 4 ALIEN species…&#x27;: Ex-CIA insider drops explosive UFO claim, &#x27;they weren&#x27;t human...</p></details>
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: youtube.com  
    Title: Co-founder Dr. Hal Puthoff is at the forefront of propulsion research  
-   Link: <a href="https://www.youtube.com/watch?v=YuuIZhP3xFI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YuuIZhP3xFI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How To Scientifically Test &amp; Analyze Potential UAP/UFO Material...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=YuuIZhP3xFI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=YuuIZhP3xFI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How To Scientifically Test &amp; Analyze Potential UAP/UFO Material...</p></details>
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: youtube.com  
    Title: CIA Physicist WARNS: "They Live Secretly Among Us"  
-   Link: <a href="https://www.youtube.com/watch?v=WK85CQiqHSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WK85CQiqHSk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Dr. Hal Puthoff is at the forefront of propulsion research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WK85CQiqHSk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WK85CQiqHSk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Co-founder Dr. Hal Puthoff is at the forefront of propulsion research...</p></details>
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/</a>  
+   Link:<a href="https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OmniCoreTM/posts/a-controversial-statement-from-hal-puthoff-is-once-again-stirring-debate-across-/1677006993895915/</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
+   Link:<a href="https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/a-few-days-ago-161-classified-uap-files-were-released-to-the-public-that-include/1531892531652951/</a>  
 
-52. <a id="endnote-52"></a>
+52.<a id="endnote-52"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
+   Link:<a href="https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/a-tiny-pentagon-office-had-spent-months-investigating-conspiracy-theories-about-/1088844496435480/</a>  
 
-53. <a id="endnote-53"></a>
+53.<a id="endnote-53"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOscience/comments/1apwg0s/an_explanation_of_hal_puthoff_that_pseudoskeptics/</a>  
 
-54. <a id="endnote-54"></a>
+54.<a id="endnote-54"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/</a>  
+   Link:<a href="https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OrbitalInsights/posts/claims-about-recovered-extraterrestrial-technology-and-biological-remains-have-o/1319021460430475/</a>  
 
-55. <a id="endnote-55"></a>
+55.<a id="endnote-55"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ft60n3/dr_hal_puthoff_the_program_and_his_links_to_psi/</a>  
 
-56. <a id="endnote-56"></a>
+56.<a id="endnote-56"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/</a>
+   Link:<a href="https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/fox5dc/posts/dr-hal-puthoff-claims-the-us-has-recovered-the-remains-of-four-separate-species-/1463366465827909/</a>

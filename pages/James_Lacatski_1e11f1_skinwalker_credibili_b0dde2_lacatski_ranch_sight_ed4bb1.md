@@ -259,15 +259,15 @@ image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski
 James Lacatski’s reported experience at Skinwalker Ranch is one of the most important and controversial pieces of evidence associated with his public UFO and paranormal claims. Supporters often present it as the moment that convinced a senior Defence Intelligence Agency (DIA) scientist that something genuinely anomalous was occurring at the Utah property. Critics see it very differently: as a single, uncorroborated perception that later became the foundation for a much broader narrative about UFOs, paranormal phenomena and government interest in Skinwalker Ranch.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-1-dark.svg" | relative_url }}" alt="Ranch sighting illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For anyone assessing Lacatski’s credibility, the key question is not whether the story is intriguing. It is whether the reported sighting provides strong evidence of an external phenomenon, or merely evidence that Lacatski believed he experienced something unusual. That distinction is central to evaluating the strength of the claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-phd/15674546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoopladigital.com">[hoopladigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoopladigital.com</span><span class="citation-popover-snippet">Skinwalkers at the PentagonListen to Skinwalkers at the Pentagon audiobook by James T. Lacatski, Ph.D... Skinwalker Ranch. Written by tw...</span></span></span>
+For anyone assessing Lacatski’s credibility, the key question is not whether the story is intriguing. It is whether the reported sighting provides strong evidence of an external phenomenon, or merely evidence that Lacatski believed he experienced something unusual. That distinction is central to evaluating the strength of the claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-phd/15674546" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hoopladigital.com">[hoopladigital.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hoopladigital.com</span><span class="citation-popover-snippet">Skinwalkers at the PentagonListen to Skinwalkers at the Pentagon audiobook by James T. Lacatski, Ph.D... Skinwalker Ranch. Written by tw...</span></span></span>
 
 ## What Lacatski reportedly saw at the ranch
 
-According to accounts published years after the event by Lacatski and his collaborators, he visited Skinwalker Ranch in 2007 after reading *Hunt for the Skinwalker* and becoming interested in reports emerging from the property. During that visit, he allegedly observed what he later described as an “unearthly technological device” inside a ranch building. The object has been described as a complex, semi-opaque, yellowish tubular structure. Subsequent retellings have compared it to the imagery associated with Mike Oldfield’s *Tubular Bells* album cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+According to accounts published years after the event by Lacatski and his collaborators, he visited Skinwalker Ranch in 2007 after reading *Hunt for the Skinwalker* and becoming interested in reports emerging from the property. During that visit, he allegedly observed what he later described as an “unearthly technological device” inside a ranch building. The object has been described as a complex, semi-opaque, yellowish tubular structure. Subsequent retellings have compared it to the imagery associated with Mike Oldfield’s *Tubular Bells* album cover.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
-The sighting occupies an unusual place in the Skinwalker Ranch story because it is presented as a direct personal experience rather than a second-hand report. Many claims associated with the ranch involve stories told by owners, investigators or witnesses. In contrast, Lacatski has been portrayed as someone who arrived with an intelligence and scientific background and then reported experiencing something himself. Supporters argue that this makes the account more significant than folklore surrounding the property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
+The sighting occupies an unusual place in the Skinwalker Ranch story because it is presented as a direct personal experience rather than a second-hand report. Many claims associated with the ranch involve stories told by owners, investigators or witnesses. In contrast, Lacatski has been portrayed as someone who arrived with an intelligence and scientific background and then reported experiencing something himself. Supporters argue that this makes the account more significant than folklore surrounding the property.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
 
-However, the public record contains remarkably little contemporaneous documentation of the event. No photograph of the alleged object has been released. No sensor data, video, instrument readings or physical samples have been made public. Most descriptions of the encounter originate from books, interviews and retrospective accounts produced years after the alleged sighting. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+However, the public record contains remarkably little contemporaneous documentation of the event. No photograph of the alleged object has been released. No sensor data, video, instrument readings or physical samples have been made public. Most descriptions of the encounter originate from books, interviews and retrospective accounts produced years after the alleged sighting.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/wl5xRjR-OJc" title="Mystery Wire with George Knapp and Ron Futrell - more Skinwalker Ranch - Episode 3 - Dec 18, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=wl5xRjR-OJc" target="_blank" rel="noopener noreferrer">Mystery Wire with George Knapp and Ron Futrell - more Skinwalker Ranch - Episode 3 - Dec 18, 2025</a></p><p class="youtube-embed-meta">Channel: Ron Futrell, Vegas Strong Sports &middot; Views: 11.1K &middot; Uploaded: February 2026 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=wl5xRjR-OJc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=wl5xRjR-OJc">Open on YouTube</a></p></div></div></div>
 
@@ -275,18 +275,18 @@ However, the public record contains remarkably little contemporaneous documentat
 
 For supporters of Lacatski, the importance of the event lies less in the object itself than in who reportedly witnessed it.
 
-Lacatski was not a local ranch owner, paranormal enthusiast or television personality. He was a DIA scientist and intelligence official whose professional background included missile defence and advanced technology assessment. Advocates argue that a person with that background would be less likely to misidentify an ordinary object and less likely to embrace extraordinary claims casually. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podme.com">[Podme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podme.com</span><span class="citation-popover-snippet">Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP)...</span></span></span>
+Lacatski was not a local ranch owner, paranormal enthusiast or television personality. He was a DIA scientist and intelligence official whose professional background included missile defence and advanced technology assessment. Advocates argue that a person with that background would be less likely to misidentify an ordinary object and less likely to embrace extraordinary claims casually.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podme.com">[Podme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podme.com</span><span class="citation-popover-snippet">Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP)...</span></span></span>
 
-Supporters also point to the apparent consequences of the experience. Multiple accounts describe the ranch visit as a turning point that helped motivate Lacatski's efforts to examine unusual aerospace and anomaly reports through government channels. The story has become part of the origin narrative surrounding the Advanced Aerospace Weapon System Applications Program (AAWSAP), the DIA-sponsored programme that later became central to public discussions of government UFO investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+Supporters also point to the apparent consequences of the experience. Multiple accounts describe the ranch visit as a turning point that helped motivate Lacatski's efforts to examine unusual aerospace and anomaly reports through government channels. The story has become part of the origin narrative surrounding the Advanced Aerospace Weapon System Applications Program (AAWSAP), the DIA-sponsored programme that later became central to public discussions of government UFO investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
-From this perspective, the sighting matters because it allegedly influenced a government official who subsequently gained access to funding, personnel and investigative resources. Believers therefore view it as a catalyst rather than merely an isolated anecdote. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the origins of aawsap.12484</span><span class="citation-popover-snippet">The Origins of AAWSAPJun 21, 2022 —... Skinwalker Ranch for ~8 years. Afterwards, Kelleher and Knapp wrote a book about. DiA emp...</span></span></span>
+From this perspective, the sighting matters because it allegedly influenced a government official who subsequently gained access to funding, personnel and investigative resources. Believers therefore view it as a catalyst rather than merely an isolated anecdote.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">the origins of aawsap.12484</span><span class="citation-popover-snippet">The Origins of AAWSAPJun 21, 2022 —... Skinwalker Ranch for ~8 years. Afterwards, Kelleher and Knapp wrote a book about. DiA emp...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-2-dark.svg" | relative_url }}" alt="Ranch sighting illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why a single perception is weak public evidence
 
 The strongest sceptical criticism is straightforward: the claim ultimately rests on one person's recollection of what he believed he saw.
 
-Even if Lacatski is assumed to be honest and sincere, honesty alone does not establish that an observation was accurate. Human perception is vulnerable to misinterpretation, expectation effects, memory distortion and environmental factors. The problem becomes greater when the account is reported years after the event and lacks independent documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+Even if Lacatski is assumed to be honest and sincere, honesty alone does not establish that an observation was accurate. Human perception is vulnerable to misinterpretation, expectation effects, memory distortion and environmental factors. The problem becomes greater when the account is reported years after the event and lacks independent documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
 Several specific limitations reduce the evidential value of the reported sighting:
 
@@ -300,7 +300,7 @@ Several specific limitations reduce the evidential value of the reported sightin
 
 </div>
 
-Because of these limitations, the sighting cannot be independently tested by outside researchers. Readers are effectively asked to trust the witness and the later accounts describing the event. That is a much weaker evidential standard than the one normally expected for extraordinary technological or paranormal claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+Because of these limitations, the sighting cannot be independently tested by outside researchers. Readers are effectively asked to trust the witness and the later accounts describing the event. That is a much weaker evidential standard than the one normally expected for extraordinary technological or paranormal claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8VBE_K8kk1E" title="Bigelow/Lacatski Connection" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer">Bigelow/Lacatski Connection</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 139.2K &middot; Uploaded: January 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8VBE_K8kk1E" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8VBE_K8kk1E">Open on YouTube</a></p></div></div></div>
 
@@ -308,170 +308,170 @@ Because of these limitations, the sighting cannot be independently tested by out
 
 Another issue is the route through which the story entered the public domain.
 
-The alleged encounter was not revealed through official DIA reports released at the time. Instead, details emerged years later through books written by Lacatski and close associates involved in the Skinwalker Ranch and AAWSAP story. This creates a chain-of-custody problem for the evidence. Readers largely encounter the event through sources that are simultaneously reporting, interpreting and defending its significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">An Insiders&#x27; Account of the Secret Government UFO ProgramSkinwalkers at the Pentagon: An Insiders&#x27; Account of the Government&#x27;s Secret UFO...</span></span></span>
+The alleged encounter was not revealed through official DIA reports released at the time. Instead, details emerged years later through books written by Lacatski and close associates involved in the Skinwalker Ranch and AAWSAP story. This creates a chain-of-custody problem for the evidence. Readers largely encounter the event through sources that are simultaneously reporting, interpreting and defending its significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dokumen.pub">[dokumen.pub]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dokumen.pub</span><span class="citation-popover-snippet">An Insiders&#x27; Account of the Secret Government UFO ProgramSkinwalkers at the Pentagon: An Insiders&#x27; Account of the Government&#x27;s Secret UFO...</span></span></span>
 
-That does not mean the account is false. It does mean that independent corroboration is limited. Historians and investigators generally place greater weight on records created at the time of an event than on later recollections, especially when those recollections become central to a broader public narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+That does not mean the account is false. It does mean that independent corroboration is limited. Historians and investigators generally place greater weight on records created at the time of an event than on later recollections, especially when those recollections become central to a broader public narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-3-dark.svg" | relative_url }}" alt="Ranch sighting illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_lacatski_ranch_sight_ed4bb1-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the sighting says about Lacatski's credibility
 
 The reported ranch encounter neither conclusively validates nor conclusively discredits James Lacatski.
 
-On one hand, the claim is notable because it is presented as a first-hand experience from a senior intelligence scientist rather than a recycled UFO rumour. It appears to have played a genuine role in shaping Lacatski's later interest in anomalous phenomena and government-sponsored investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podme.com">[Podme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podme.com</span><span class="citation-popover-snippet">Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP)...</span></span></span>
+On one hand, the claim is notable because it is presented as a first-hand experience from a senior intelligence scientist rather than a recycled UFO rumour. It appears to have played a genuine role in shaping Lacatski's later interest in anomalous phenomena and government-sponsored investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podme.com">[Podme]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podme.com</span><span class="citation-popover-snippet">Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP)...</span></span></span>
 
-On the other hand, the evidential basis remains extremely limited. The alleged yellow tubular device has not been publicly documented in a way that allows independent verification. The story relies primarily on witness testimony and later retellings. As a result, it cannot function as strong public proof that an extraordinary object existed at Skinwalker Ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</span></span></span>
+On the other hand, the evidential basis remains extremely limited. The alleged yellow tubular device has not been publicly documented in a way that allows independent verification. The story relies primarily on witness testimony and later retellings. As a result, it cannot function as strong public proof that an extraordinary object existed at Skinwalker Ranch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</span></span></span>
 
-From a credibility standpoint, the sighting is best understood as evidence of what Lacatski reports experiencing, not as independently verified evidence that the reported phenomenon was real. That distinction is crucial when assessing both Skinwalker Ranch claims and Lacatski's broader role in modern UFO and UAP discourse. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
+From a credibility standpoint, the sighting is best understood as evidence of what Lacatski reports experiencing, not as independently verified evidence that the reported phenomenon was real. That distinction is crucial when assessing both Skinwalker Ranch claims and Lacatski's broader role in modern UFO and UAP discourse.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Skinwalker Ranch</span><span class="citation-popover-snippet">Skinwalker Ranch</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8xXGe6NaU4M" title="Researching the Paranormal with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer">Researching the Paranormal with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 42.0K &middot; Uploaded: January 2022 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8xXGe6NaU4M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for How strong is Lacatski&#x27;s ranch sighting?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for How strong is Lacatski&#x27;s ranch sighting?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT"><img src="https://i.ebayimg.com/images/g/woAAAOSwMste3NqA/s-l225.jpg" alt="Listing image for Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Signed Autograph 16x20 Poster Area 51 &amp; Flying Saucers Print SOLD OUT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM"><img src="https://i.ebayimg.com/images/g/iRAAAeSwCrJp3htN/s-l225.jpg" alt="Listing image for They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">They&#x27;re Here S4 Poster (Framed) - Bob Lazar - 24 x 32 CM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/scsAAeSwh5lp2SYZ/s-l225.jpg" alt="Listing image for Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Is My Homeboy Framed Art Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;"><img src="https://i.ebayimg.com/images/g/EqwAAeSwGjRp4sux/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 22x15&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="how-strong-is-lacatski-s-ranch-sighting-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -487,7 +487,7 @@ From a credibility standpoint, the sighting is best understood as evidence of wh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -507,7 +507,7 @@ From a credibility standpoint, the sighting is best understood as evidence of wh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -539,7 +539,7 @@ From a credibility standpoint, the sighting is best understood as evidence of wh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -591,7 +591,7 @@ From a credibility standpoint, the sighting is best understood as evidence of wh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -636,7 +636,7 @@ From a credibility standpoint, the sighting is best understood as evidence of wh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -677,111 +677,111 @@ From a credibility standpoint, the sighting is best understood as evidence of wh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: hoopladigital.com  
-   Link: <a href="https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-phd/15674546" target="_blank" rel="noopener noreferrer nofollow">https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-phd/15674546</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers at the PentagonListen to Skinwalkers at the Pentagon audiobook by James T. Lacatski, Ph.D... Skinwalker Ranch. Written by tw...</p></details>
+   Link:<a href="https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-phd/15674546" target="_blank" rel="noopener noreferrer nofollow">https://www.hoopladigital.com/audiobook/skinwalkers-at-the-pentagon-james-t-lacatski-phd/15674546</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers at the PentagonListen to Skinwalkers at the Pentagon audiobook by James T. Lacatski, Ph.D... Skinwalker Ranch. Written by tw...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Skinwalker_Ranch</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramSkinwalkers at the Pentagon: An Insiders&#x27; Account of the Government&#x27;s Secret UFO...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramSkinwalkers at the Pentagon: An Insiders&#x27; Account of the Government&#x27;s Secret UFO...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: podme.com  
-   Link: <a href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/se/avsnitt/1590197/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP)...</p></details>
+   Link:<a href="https://podme.com/se/avsnitt/1590197/" target="_blank" rel="noopener noreferrer nofollow">https://podme.com/se/avsnitt/1590197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Guests: Dr. James Lacatski &amp; Dr. Colm KelleherThe largest acknowledged UFO investigation ever funded by the US government (AAWSAP)...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: the origins of aawsap.12484  
-   Link: <a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAPJun 21, 2022 —... Skinwalker Ranch for ~8 years. Afterwards, Kelleher and Knapp wrote a book about. DiA emp...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAPJun 21, 2022 —... Skinwalker Ranch for ~8 years. Afterwards, Kelleher and Knapp wrote a book about. DiA emp...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=MiUDl_9v6Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MiUDl_9v6Ag</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=MiUDl_9v6Ag" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=MiUDl_9v6Ag</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. James Lacatski - This Is Ufo Disclosure, As Far As It Can Go...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: theguardian.com  
    Title: The Guardian The Pentagon released its UFO videos  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologySean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (AARO) from 2022 t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/mk/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/mk/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far As It...9 Apr 2026 — The two instigators of AAWSAP came to believe that paranormal event...</p></details>
+   Link:<a href="https://podcasts.apple.com/mk/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/mk/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far As It...9 Apr 2026 — The two instigators of AAWSAP came to believe that paranormal event...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far As It...9 Apr 2026 — The two instigators of AAWSAP came to believe that paranormal event...</p></details>
+   Link:<a href="https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/gb/podcast/dr-james-lacatski-this-is-ufo-disclosure-as-far-as-it-can-go/id1664299388?i=1000760332880</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski - This Is Ufo Disclosure, As Far As It...9 Apr 2026 — The two instigators of AAWSAP came to believe that paranormal event...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/253550249143357/posts/1046372493194458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1046372493194458/</a>  
+   Link:<a href="https://www.facebook.com/groups/253550249143357/posts/1046372493194458/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/253550249143357/posts/1046372493194458/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Wanna know kW what we learned with the largest publicly acknowledged funded Federal UFO Program? Its here...</p></details>
+   Link:<a href="https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/en/book/show/199608691-inside-the-us-government-covert-ufo-program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Wanna know kW what we learned with the largest publicly acknowledged funded Federal UFO Program? Its here...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And Says We&#x27;ve Been Played: Dr. James Lacatski (PART 1) · r/UFOs - He Ran The Pentagon&#x27;s...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1ntplac/james_the_us_has_access_to_interior_of_an_unknown/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And Says We&#x27;ve Been Played: Dr. James Lacatski (PART 1) · r/UFOs - He Ran The Pentagon&#x27;s...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Covert UFO Program goes beyond the rise and fall of AAWSAP and the general.Read more...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government&#x27;s Covert UFO Program goes beyond the rise and fall of AAWSAP and the general.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/15s26cu/how_a_dia_directors_first_vision_on_swr_kickedoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15s26cu/how_a_dia_directors_first_vision_on_swr_kickedoff/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 26, 2007, Program Manager at the Defense Intelligence Agency (DIA), James Lacatski and Robert Bigelow flew to Skinwalker Ranch.Read...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/15s26cu/how_a_dia_directors_first_vision_on_swr_kickedoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15s26cu/how_a_dia_directors_first_vision_on_swr_kickedoff/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 26, 2007, Program Manager at the Defense Intelligence Agency (DIA), James Lacatski and Robert Bigelow flew to Skinwalker Ranch.Read...</p></details>
    Published: July 26, 2007  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
    Title: (PDF) The ultraterrestrial hypothesis: A case for scientific  
-   Link: <a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology_2023_551_43-98</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski (a DIA intelligence officer). The program was based at a 500-acre property in Utah owned at that point by Bigelow called...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/375553282_The_ultraterrestrial_hypothesis_A_case_for_scientific_openness_to_an_interdimensional_explanation_for_Unidentified_Anomalous_Phenomena_The_Journal_of_Transpersonal_Psychology</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>James Lacatski (a DIA intelligence officer). The program was based at a 500-acre property in Utah owned at that point by Bigelow called...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: amazon.co.uk  
-   Link: <a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>gon&quot; which opened the doors for a public look at the US Government&#x27;s UFO (or...Read more...</p></details>
+   Link:<a href="https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR" target="_blank" rel="noopener noreferrer nofollow">https://www.amazon.co.uk/Inside-Government-Covert-UFO-Program-ebook/dp/B0CKLZ2NLR</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>gon&quot; which opened the doors for a public look at the US Government&#x27;s UFO (or...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: abebooks.co.uk  
-   Link: <a href="https://www.abebooks.co.uk/9798989114689/U.S-Government-Covert-UFO-Program/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9798989114689/U.S-Government-Covert-UFO-Program/plp</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>eveals the engineering and scientific details of UFOs overlayed with the...Read more...</p></details>
+   Link:<a href="https://www.abebooks.co.uk/9798989114689/U.S-Government-Covert-UFO-Program/plp" target="_blank" rel="noopener noreferrer nofollow">https://www.abebooks.co.uk/9798989114689/U.S-Government-Covert-UFO-Program/plp</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>eveals the engineering and scientific details of UFOs overlayed with the...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reddit.com  
    Title: Inside the US Government Covert UFO Program: Initial  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lacatski getting spooked by the cross of Jesus Christ at Skinwalker Ranch... 3mo ago. George Knapp describes a portal at Skinwalker Ranc...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/177hbeq/inside_the_us_government_covert_ufo_program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lacatski getting spooked by the cross of Jesus Christ at Skinwalker Ranch... 3mo ago. George Knapp describes a portal at Skinwalker Ranc...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: jimharold.com  
    Title: skinwalkers at the pentagon paranormal podcast 730  
-   Link: <a href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — George Knapp, who, as you mentioned, co-wrote Hunt for the Skinwalker a...</p></details>
+   Link:<a href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon – Paranormal Podcast 73010 May 2022 — George Knapp, who, as you mentioned, co-wrote Hunt for the Skinwalker a...</p></details>
    Published: May 2022

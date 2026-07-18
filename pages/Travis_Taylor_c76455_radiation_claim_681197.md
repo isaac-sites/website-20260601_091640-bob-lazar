@@ -298,18 +298,18 @@ image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197-overview-socia
 
 ## Introduction
 
-[Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s reported radiation incident at [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) is one of the most dramatic claims attached to his public UAP profile, but it is also a good example of why scientific-sounding evidence needs careful handling. The basic televised claim is clear: during the first season of *The Secret of Skinwalker Ranch*, Taylor became unwell after the team uncovered a manhole-like feature at Homestead 2, and the programme framed the episode as an exposure to ionising radiation. Sky History’s own description says Taylor and the team were using ground-penetrating radar, uncovered a “mysterious manhole”, and Taylor then began to feel seriously unwell. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span></span></span>
+[Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s reported radiation incident at [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) is one of the most dramatic claims attached to his public UAP profile, but it is also a good example of why scientific-sounding evidence needs careful handling. The basic televised claim is clear: during the first season of *The Secret of Skinwalker Ranch*, Taylor became unwell after the team uncovered a manhole-like feature at Homestead 2, and the programme framed the episode as an exposure to ionising radiation. Sky History’s own description says Taylor and the team were using ground-penetrating radar, uncovered a “mysterious manhole”, and Taylor then began to feel seriously unwell.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197-overview.webp" | relative_url }}" alt="Overview image for Radiation" loading="eager" decoding="sync" fetchpriority="high">
 The credibility problem is not that radiation measurements are irrelevant. They would be highly relevant if properly recorded, repeated and independently assessed. The problem is that the public version leaves major evidential gaps: the dose, dose rate, detector position, instrument calibration, contamination checks, medical records and chain of custody are not available in a form that lets outsiders test the conclusion.
 
 ## The reported ranch incident
 
-The incident sits within the broader entertainment-investigation format of *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, a History Channel series built around [claims]({{ 'claims/' | relative_url }}) of underground anomalies, UAP activity and unusual physical effects at the Utah property. History’s official series description emphasises that the team is investigating below ground at a ranch long associated with paranormal and UFO reports, which matters because the radiation episode is presented inside a mystery-TV frame rather than as a standalone radiological incident report. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Watch The Secret of Skinwalker Ranch Full Episodes, Video &amp; More &#124; HISTORY</span><span class="citation-popover-snippet">Watch The Secret of Skinwalker Ranch Full Episodes, Video &amp; More &#124; HISTORY</span></span></span>
+The incident sits within the broader entertainment-investigation format of *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, a History Channel series built around [claims]({{ 'claims/' | relative_url }}) of underground anomalies, UAP activity and unusual physical effects at the Utah property. History’s official series description emphasises that the team is investigating below ground at a ranch long associated with paranormal and UFO reports, which matters because the radiation episode is presented inside a mystery-TV frame rather than as a standalone radiological incident report.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Watch The Secret of Skinwalker Ranch Full Episodes, Video &amp; More &#124; HISTORY</span><span class="citation-popover-snippet">Watch The Secret of Skinwalker Ranch Full Episodes, Video &amp; More &#124; HISTORY</span></span></span>
 
-In the public account, Taylor’s exposure is tied to Homestead 2, a location repeatedly treated by the programme as a site of unusual activity. The episode is commonly identified as Season 1, Episode 6, “Poking the Nest”, aired in May 2020. Public episode summaries describe the team beginning to dig, the ranch “reacting” in dangerous ways, and Taylor suffering radiation burns after lifting a sewer grate or similar cover. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channel5.com/curse-of-skinwalker-ranch/season-1/poking-the-nest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channel5.com">[Channel 5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channel5.com</span><span class="citation-popover-title">Channel 5Episode 6 / Poking The Nest</span><span class="citation-popover-snippet">Channel 5Episode 6 / Poking The Nest</span></span></span>
+In the public account, Taylor’s exposure is tied to Homestead 2, a location repeatedly treated by the programme as a site of unusual activity. The episode is commonly identified as Season 1, Episode 6, “Poking the Nest”, aired in May 2020. Public episode summaries describe the team beginning to dig, the ranch “reacting” in dangerous ways, and Taylor suffering radiation burns after lifting a sewer grate or similar cover.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.channel5.com/curse-of-skinwalker-ranch/season-1/poking-the-nest" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: channel5.com">[Channel 5]</a><span class="citation-popover" role="note"><span class="citation-popover-source">channel5.com</span><span class="citation-popover-title">Channel 5Episode 6 / Poking The Nest</span><span class="citation-popover-snippet">Channel 5Episode 6 / Poking The Nest</span></span></span>
 
-That is enough to establish the claim as a real part of Taylor’s public Skinwalker Ranch narrative. It is not enough to establish what actually happened physically. The available public evidence is mainly a television presentation, later interviews, secondary articles and fan analysis. A Monsters & Critics interview article, for example, states that “Travis Taylor got radiation sickness” and that another team member had unusual swelling, but it does not provide the underlying dosimetry, medical documentation or independent radiation-safety review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.monstersandcritics.com/tv/exclusive-interview-travis-taylor-on-the-secret-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monstersandcritics.com">[Monsters and Critics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monstersandcritics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+That is enough to establish the claim as a real part of Taylor’s public Skinwalker Ranch narrative. It is not enough to establish what actually happened physically. The available public evidence is mainly a television presentation, later interviews, secondary articles and fan analysis. A Monsters & Critics interview article, for example, states that “Travis Taylor got radiation sickness” and that another team member had unusual swelling, but it does not provide the underlying dosimetry, medical documentation or independent radiation-safety review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.monstersandcritics.com/tv/exclusive-interview-travis-taylor-on-the-secret-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: monstersandcritics.com">[Monsters and Critics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">monstersandcritics.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For a credibility assessment, the incident should therefore be treated as a reported event with some visible instrumentation and claimed symptoms, not as a verified radiation accident in the technical sense. Taylor may sincerely believe he experienced an anomalous exposure. The public record still does not show enough to move from “something was claimed and dramatised” to “the cause, dose and mechanism are established”.
 
@@ -318,9 +318,9 @@ For a credibility assessment, the incident should therefore be treated as a repo
 
 The central evidential issue is measurement. Radiation incidents are not assessed simply by saying a detector alarmed or a person felt unwell. Investigators need to know what kind of radiation was being measured, where the detector was relative to the body and source, whether the reading was accumulated dose or dose rate, whether the device had been calibrated, whether contamination was present, and whether any independent instruments confirmed the same event.
 
-A commonly discussed device class in the episode is the personal electronic dosimeter. Tracerco’s published specifications for its PED family describe devices designed for X-ray and gamma-ray measurement, with Geiger-Müller detection, dose and dose-rate displays, memory storage and dose-management software. The same data sheet states that these instruments detect X-rays and gamma rays in specified energy ranges, not every possible radiological hazard. <span class="citation-chip-wrap"><a class="citation-chip" href="https://hotrobotics.co.uk/wp-content/uploads/2021/06/PED-Product-Datasheet-LR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hotrobotics.co.uk">[Hot Robotics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hotrobotics.co.uk</span><span class="citation-popover-snippet">Hot Robotics</span></span></span>
+A commonly discussed device class in the episode is the personal electronic dosimeter. Tracerco’s published specifications for its PED family describe devices designed for X-ray and gamma-ray measurement, with Geiger-Müller detection, dose and dose-rate displays, memory storage and dose-management software. The same data sheet states that these instruments detect X-rays and gamma rays in specified energy ranges, not every possible radiological hazard.<span class="citation-chip-wrap"><a class="citation-chip" href="https://hotrobotics.co.uk/wp-content/uploads/2021/06/PED-Product-Datasheet-LR.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hotrobotics.co.uk">[Hot Robotics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hotrobotics.co.uk</span><span class="citation-popover-snippet">Hot Robotics</span></span></span>
 
-That matters because a personal dosimeter is not a complete forensic laboratory. It can show that a wearer’s instrument registered a dose or dose rate within its detection limits, but it does not by itself identify the source, prove directionality, rule out contamination, or reconstruct the dose to Taylor’s hand or face. Radiation Emergency Medical Management, a US government medical resource, stresses that no single radiation detection device is appropriate for every situation; device choice depends on the response zone, exposure rate and monitoring task. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://remm.hhs.gov/civilian.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">Radiation Detection and Survey Devices - Radiation Emergency Medical Management...</span></span></span>
+That matters because a personal dosimeter is not a complete forensic laboratory. It can show that a wearer’s instrument registered a dose or dose rate within its detection limits, but it does not by itself identify the source, prove directionality, rule out contamination, or reconstruct the dose to Taylor’s hand or face. Radiation Emergency Medical Management, a US government medical resource, stresses that no single radiation detection device is appropriate for every situation; device choice depends on the response zone, exposure rate and monitoring task.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://remm.hhs.gov/civilian.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: remm.hhs.gov">[remm.hhs.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">remm.hhs.gov</span><span class="citation-popover-snippet">Radiation Detection and Survey Devices - Radiation Emergency Medical Management...</span></span></span>
 
 The public argument over Taylor’s incident often centres on whether the visible or reported dose was large enough to explain claimed burns or sickness. That debate cannot be settled from fragments alone. A low reading on a dosimeter worn away from the injured skin might understate a highly localised exposure. Conversely, a dramatic symptom claim might be unrelated to ionising radiation if the detector reading was small, misread, contaminated, or affected by instrument limitations. Both possibilities are why proper dose reconstruction matters.
 
@@ -345,11 +345,11 @@ Without these details, the radiation claim remains suggestive but weakly documen
 
 Radiation language can sound precise while hiding a large uncertainty. “Radiation” can refer to alpha particles, beta particles, gamma rays, X-rays, neutrons, electromagnetic fields, or ordinary non-ionising sources depending on context. In health physics, the difference between a small external gamma dose, a hot particle on the skin and inhaled contamination is not a detail; it changes the hazard, symptoms, measurements and response.
 
-For scale, UK government radiation-dose comparisons put average annual UK exposure at about 2.7 millisieverts, a chest X-ray at about 0.014 millisieverts, a transatlantic flight at about 0.08 millisieverts, and a head CT scan at about 1.4 millisieverts. These comparisons are not a diagnosis of Taylor’s case, but they show why units and magnitudes matter. A number that sounds alarming on television may be modest, significant, or dangerous depending on what was measured and over what area of the body. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ionising-radiation-dose-comparisons/ionising-radiation-dose-comparisons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Ionising radiation: dose comparisons</span><span class="citation-popover-snippet">Ionising radiation: dose comparisons</span></span></span>
+For scale, UK government radiation-dose comparisons put average annual UK exposure at about 2.7 millisieverts, a chest X-ray at about 0.014 millisieverts, a transatlantic flight at about 0.08 millisieverts, and a head CT scan at about 1.4 millisieverts. These comparisons are not a diagnosis of Taylor’s case, but they show why units and magnitudes matter. A number that sounds alarming on television may be modest, significant, or dangerous depending on what was measured and over what area of the body.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gov.uk/government/publications/ionising-radiation-dose-comparisons/ionising-radiation-dose-comparisons" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: GOV.UK">[GOV.UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">GOV.UK</span><span class="citation-popover-title">Ionising radiation: dose comparisons</span><span class="citation-popover-snippet">Ionising radiation: dose comparisons</span></span></span>
 
-Skin injury also has threshold behaviour. The US Centers for Disease Control and Prevention lists early transient skin redness as having a threshold of roughly 2 gray, main erythema at roughly 3 gray, dry desquamation at roughly 8 gray, and more severe effects at higher doses. Those are local tissue-dose thresholds, not the same thing as a small whole-body personal dosimeter reading. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
+Skin injury also has threshold behaviour. The US Centers for Disease Control and Prevention lists early transient skin redness as having a threshold of roughly 2 gray, main erythema at roughly 3 gray, dry desquamation at roughly 8 gray, and more severe effects at higher doses. Those are local tissue-dose thresholds, not the same thing as a small whole-body personal dosimeter reading.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span>
 
-This creates a narrow but important possibility. A personal dosimeter might record only part of an event if the exposure was extremely localised, poorly positioned relative to the source, or caused by contamination on a small skin area. The International Atomic Energy Agency notes that skin contamination may be unlikely to be recorded by a personal dosimeter and may require contamination monitors, localisation, activity measurement and dose assessment. It also warns that “[hot particles]({{ 'hot-particles/' | relative_url }})” can cause highly non-uniform skin exposure that is difficult to detect in an ambient radiation field. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaea.org">[IAEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaea.org</span><span class="citation-popover-title">PP Template wide 2</span><span class="citation-popover-snippet">PP Template wide 2</span></span></span>
+This creates a narrow but important possibility. A personal dosimeter might record only part of an event if the exposure was extremely localised, poorly positioned relative to the source, or caused by contamination on a small skin area. The International Atomic Energy Agency notes that skin contamination may be unlikely to be recorded by a personal dosimeter and may require contamination monitors, localisation, activity measurement and dose assessment. It also warns that “[hot particles]({{ 'hot-particles/' | relative_url }})” can cause highly non-uniform skin exposure that is difficult to detect in an ambient radiation field.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iaea.org">[IAEA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iaea.org</span><span class="citation-popover-title">PP Template wide 2</span><span class="citation-popover-snippet">PP Template wide 2</span></span></span>
 
 That possibility helps explain why Taylor’s [supporters]({{ 'supporters-58c2df/' | relative_url }}) do not have to be irrational to ask whether the visible dosimeter data missed something. But it also cuts the other way: if the case depends on localised exposure, then the missing contamination surveys, source identification, geometry and medical-dose reconstruction become even more important. The more unusual the proposed mechanism, the stronger the documentation needs to be.
 
@@ -360,7 +360,7 @@ The radiation incident would be much more credible if it had been documented lik
 
 The most useful evidence would be boring in the best sense. A time-stamped radiation survey before and after the manhole was opened would show whether the area changed. Readings from multiple instruments would reduce the risk of a single-device anomaly. A detector held at the opening, at waist height, at head height and at background control locations would help establish direction and gradient. Surface contamination checks on Taylor’s skin, clothes and the object he handled would test whether a localised skin dose was plausible.
 
-Medical evidence would also matter. “Radiation sickness” is not just a dramatic phrase for feeling unwell after a suspected exposure. The CDC describes acute radiation syndrome as generally requiring a large dose, greater than 0.7 gray, and notes that mild symptoms may occur at lower but still substantial doses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span> If Taylor’s symptoms were nausea, skin changes, fatigue or irritation, doctors would need to distinguish radiation injury from heat, chemical exposure, infection, allergic reaction, stress response, sun exposure, or another environmental cause.
+Medical evidence would also matter. “Radiation sickness” is not just a dramatic phrase for feeling unwell after a suspected exposure. The CDC describes acute radiation syndrome as generally requiring a large dose, greater than 0.7 gray, and notes that mild symptoms may occur at lower but still substantial doses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdc.gov">[CDC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdc.gov</span><span class="citation-popover-snippet">Open source on cdc.gov.</span></span></span> If Taylor’s symptoms were nausea, skin changes, fatigue or irritation, doctors would need to distinguish radiation injury from heat, chemical exposure, infection, allergic reaction, stress response, sun exposure, or another environmental cause.
 
 None of this requires assuming Taylor invented the incident. The point is narrower: the public evidence does not let readers verify the diagnosis. A credible scientist can have a real frightening experience and still not have enough public data to prove its cause.
 
@@ -387,194 +387,194 @@ For now, the radiation incident is most useful as a case study in evidential sta
 <img src="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197-Illustration-3-dark.svg" | relative_url }}" alt="Radiation illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_radiation_claim_681197-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Should Readers Make of the Radiation Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Should Readers Make of the Radiation Claim?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Covers many of the ranch claims that frame later discussions of unusual physical effects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers many of the ranch claims that frame later discussions of unusual physical effects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for evaluating extraordinary claims and evidence standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for evaluating extraordinary claims and evidence standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
-        </h4>
-        <p class="fr-book-author">By Joseph Allen Hynek</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Experience on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=y0hyPgAACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The UFO Experience" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
+</h4>
+<p class="fr-book-author">By Joseph Allen Hynek</p>
         
-        <p class="fr-book-desc">Encourages systematic assessment of anomalous reports and measurements.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Encourages systematic assessment of anomalous reports and measurements.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Examines alleged phenomena and investigative claims associated with the ranch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines alleged phenomena and investigative claims associated with the ranch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Experience</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-should-readers-make-of-the-radiation-claim-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-should-readers-make-of-the-radiation-claim-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -590,7 +590,7 @@ For now, the radiation incident is most useful as a case study in evidential sta
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -610,7 +610,7 @@ For now, the radiation incident is most useful as a case study in evidential sta
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -642,7 +642,7 @@ For now, the radiation incident is most useful as a case study in evidential sta
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -694,7 +694,7 @@ For now, the radiation incident is most useful as a case study in evidential sta
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -739,7 +739,7 @@ For now, the radiation incident is most useful as a case study in evidential sta
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -780,200 +780,200 @@ For now, the radiation incident is most useful as a case study in evidential sta
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: history.com  
    Title: Watch The Secret of Skinwalker Ranch Full Episodes, Video & More | HISTORY  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch</a>  
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: channel5.com  
    Title: Channel 5Episode 6 / Poking The Nest  
-   Link: <a href="https://www.channel5.com/curse-of-skinwalker-ranch/season-1/poking-the-nest" target="_blank" rel="noopener noreferrer nofollow">https://www.channel5.com/curse-of-skinwalker-ranch/season-1/poking-the-nest</a>  
+   Link:<a href="https://www.channel5.com/curse-of-skinwalker-ranch/season-1/poking-the-nest" target="_blank" rel="noopener noreferrer nofollow">https://www.channel5.com/curse-of-skinwalker-ranch/season-1/poking-the-nest</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: hotrobotics.co.uk  
    Title: Hot Robotics  
-   Link: <a href="https://hotrobotics.co.uk/wp-content/uploads/2021/06/PED-Product-Datasheet-LR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hotrobotics.co.uk/wp-content/uploads/2021/06/PED-Product-Datasheet-LR.pdf</a>  
+   Link:<a href="https://hotrobotics.co.uk/wp-content/uploads/2021/06/PED-Product-Datasheet-LR.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hotrobotics.co.uk/wp-content/uploads/2021/06/PED-Product-Datasheet-LR.pdf</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: remm.hhs.gov  
-   Link: <a href="https://remm.hhs.gov/civilian.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/civilian.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Detection and Survey Devices - Radiation Emergency Medical Management...</p></details>
+   Link:<a href="https://remm.hhs.gov/civilian.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/civilian.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Detection and Survey Devices - Radiation Emergency Medical Management...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: GOV.UK  
    Title: Ionising radiation: dose comparisons  
-   Link: <a href="https://www.gov.uk/government/publications/ionising-radiation-dose-comparisons/ionising-radiation-dose-comparisons" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ionising-radiation-dose-comparisons/ionising-radiation-dose-comparisons</a>  
+   Link:<a href="https://www.gov.uk/government/publications/ionising-radiation-dose-comparisons/ionising-radiation-dose-comparisons" target="_blank" rel="noopener noreferrer nofollow">https://www.gov.uk/government/publications/ionising-radiation-dose-comparisons/ionising-radiation-dose-comparisons</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html</a>  
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/cri.html</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: iaea.org  
    Title: PP Template wide 2  
-   Link: <a href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf</a>  
+   Link:<a href="https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/21/12/12_accident-_reformat.pdf</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: cdc.gov  
-   Link: <a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
+   Link:<a href="https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html" target="_blank" rel="noopener noreferrer nofollow">https://www.cdc.gov/radiation-emergencies/hcp/clinical-guidance/ars.html</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: tracerco.com  
-   Link: <a href="https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf</a>  
+   Link:<a href="https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/wp-content/uploads/2023/10/PED-Gen-1-XM1425-PDS.pdf</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tracerco.com  
-   Link: <a href="https://www.tracerco.com/wp-content/uploads/2023/10/Radiation-monitors-and-servicing-XM0455_M-BRO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tracerco.com/wp-content/uploads/2023/10/Radiation-monitors-and-servicing-XM0455_M-BRO.pdf</a>  
+   Link:<a href="https://www.tracerco.com/wp-content/uploads/2023/10/Radiation-monitors-and-servicing-XM0455_M-BRO.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.tracerco.com/wp-content/uploads/2023/10/Radiation-monitors-and-servicing-XM0455_M-BRO.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: tracerco.com  
-   Link: <a href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/</a>  
+   Link:<a href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeter-ped2/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tracerco.com  
-   Link: <a href="https://tracerco.com/wp-content/uploads/2023/11/Tracerco-PED2-User-Manual-MD1328-A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/wp-content/uploads/2023/11/Tracerco-PED2-User-Manual-MD1328-A.pdf</a>  
+   Link:<a href="https://tracerco.com/wp-content/uploads/2023/11/Tracerco-PED2-User-Manual-MD1328-A.pdf" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/wp-content/uploads/2023/11/Tracerco-PED2-User-Manual-MD1328-A.pdf</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: tracerco.com  
-   Link: <a href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/</a>  
+   Link:<a href="https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/" target="_blank" rel="noopener noreferrer nofollow">https://tracerco.com/products/radiation-monitors/personal-electronic-dosimeters/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: www-pub.iaea.org  
    Title: P040 scr  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf</a>  
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/P040_scr.pdf</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iaea.org  
-   Link: <a href="https://www.iaea.org/sites/default/files/22/05/5._corrected_surface_contamination_measurement_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/22/05/5._corrected_surface_contamination_measurement_.pdf</a>  
+   Link:<a href="https://www.iaea.org/sites/default/files/22/05/5._corrected_surface_contamination_measurement_.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/sites/default/files/22/05/5._corrected_surface_contamination_measurement_.pdf</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: www-pub.iaea.org  
    Title: Pub1145 web  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1145_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1145_web.pdf</a>  
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1145_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/Pub1145_web.pdf</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: nucleus.iaea.org  
    Title: Fin Unit3 General Principles LA  
-   Link: <a href="https://nucleus.iaea.org/sites/orpnet/training/InternalDosimetry/Shared%20Documents/Fin_Unit3_GeneralPrinciples_LA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nucleus.iaea.org/sites/orpnet/training/InternalDosimetry/Shared%20Documents/Fin_Unit3_GeneralPrinciples_LA.pdf</a>  
+   Link:<a href="https://nucleus.iaea.org/sites/orpnet/training/InternalDosimetry/Shared%20Documents/Fin_Unit3_GeneralPrinciples_LA.pdf" target="_blank" rel="noopener noreferrer nofollow">https://nucleus.iaea.org/sites/orpnet/training/InternalDosimetry/Shared%20Documents/Fin_Unit3_GeneralPrinciples_LA.pdf</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: www-pub.iaea.org  
    Title: te 1162 prn  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1162_prn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1162_prn.pdf</a>  
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1162_prn.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1162_prn.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: iaea.org  
-   Link: <a href="https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema</a>  
+   Link:<a href="https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema" target="_blank" rel="noopener noreferrer nofollow">https://www.iaea.org/resources/rpop/health-professionals/radiology/erythema</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: www-pub.iaea.org  
    Title: te 1092 web  
-   Link: <a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1092_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1092_web.pdf</a>  
+   Link:<a href="https://www-pub.iaea.org/MTCD/Publications/PDF/te_1092_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www-pub.iaea.org/MTCD/Publications/PDF/te_1092_web.pdf</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: remm.hhs.gov  
-   Link: <a href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/cutaneoussyndrome.htm</a>  
+   Link:<a href="https://remm.hhs.gov/cutaneoussyndrome.htm" target="_blank" rel="noopener noreferrer nofollow">https://remm.hhs.gov/cutaneoussyndrome.htm</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: legislation.gov.uk  
-   Link: <a href="https://www.legislation.gov.uk/uksi/2017/1075/schedule/3" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2017/1075/schedule/3</a>  
+   Link:<a href="https://www.legislation.gov.uk/uksi/2017/1075/schedule/3" target="_blank" rel="noopener noreferrer nofollow">https://www.legislation.gov.uk/uksi/2017/1075/schedule/3</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: assets.publishing.service.gov.uk  
    Title: RCE 10 for web  
-   Link: <a href="https://assets.publishing.service.gov.uk/media/5a7e20d6e5274a2e87dafbaf/RCE-10_for_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e20d6e5274a2e87dafbaf/RCE-10_for_web.pdf</a>  
+   Link:<a href="https://assets.publishing.service.gov.uk/media/5a7e20d6e5274a2e87dafbaf/RCE-10_for_web.pdf" target="_blank" rel="noopener noreferrer nofollow">https://assets.publishing.service.gov.uk/media/5a7e20d6e5274a2e87dafbaf/RCE-10_for_web.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: energy.gov  
-   Link: <a href="https://www.energy.gov/documents/doe-ionizing-radiation-dose-ranges-jan-2018pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/documents/doe-ionizing-radiation-dose-ranges-jan-2018pdf</a>  
+   Link:<a href="https://www.energy.gov/documents/doe-ionizing-radiation-dose-ranges-jan-2018pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.energy.gov/documents/doe-ionizing-radiation-dose-ranges-jan-2018pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: history.co.uk  
    Title: Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2  
-   Link: <a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
+   Link:<a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: monstersandcritics.com  
-   Link: <a href="https://www.monstersandcritics.com/tv/exclusive-interview-travis-taylor-on-the-secret-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.monstersandcritics.com/tv/exclusive-interview-travis-taylor-on-the-secret-of-skinwalker-ranch/</a>  
+   Link:<a href="https://www.monstersandcritics.com/tv/exclusive-interview-travis-taylor-on-the-secret-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.monstersandcritics.com/tv/exclusive-interview-travis-taylor-on-the-secret-of-skinwalker-ranch/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1chaw6c/travis_friend_or_disinformation_agent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1chaw6c/travis_friend_or_disinformation_agent/</a>  
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1chaw6c/travis_friend_or_disinformation_agent/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1chaw6c/travis_friend_or_disinformation_agent/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=SEL10DNXMdY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SEL10DNXMdY</a>  
+   Link:<a href="https://www.youtube.com/watch?v=SEL10DNXMdY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SEL10DNXMdY</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: Wikipedia  
    Title: Acute radiation syndrome  
-   Link: <a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Acute_radiation_syndrome" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Acute_radiation_syndrome</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
+   Link:<a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: history.co.uk  
    Title: Astrophysicist Dr Travis Taylor returns  
-   Link: <a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
+   Link:<a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: regionviidhre.com  
-   Link: <a href="https://www.regionviidhre.com/radiological-resources-acr" target="_blank" rel="noopener noreferrer nofollow">https://www.regionviidhre.com/radiological-resources-acr</a>  
+   Link:<a href="https://www.regionviidhre.com/radiological-resources-acr" target="_blank" rel="noopener noreferrer nofollow">https://www.regionviidhre.com/radiological-resources-acr</a>  
 
 ### Additional References
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: youtube.com  
    Title: The Secret of Skinwalker Ranch: DANGEROUS RADIATION UNCOVERED (Season 1)  
-   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Radiation and UAP Anomalies at Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Investigating Radiation and UAP Anomalies at Skinwalker Ranch...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
    Title: Radiation Detection and Measurement Challenges in Field Research  
-   Link: <a href="https://www.youtube.com/watch?v=l_aK8eZ-Q18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aK8eZ-Q18</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor Discusses UAP Science and Ranch Evidence...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=l_aK8eZ-Q18" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=l_aK8eZ-Q18</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor Discusses UAP Science and Ranch Evidence...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: youtube.com  
    Title: Scientific Critique of Skinwalker Ranch Field Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=7uK3h1l7T7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7uK3h1l7T7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Detection and Measurement Challenges in Field Research...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7uK3h1l7T7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7uK3h1l7T7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation Detection and Measurement Challenges in Field Research...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: youtube.com  
    Title: Investigating Radiation and UAP Anomalies at Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=kY32X7l-L8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY32X7l-L8I</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Critique of Skinwalker Ranch Field Investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kY32X7l-L8I" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kY32X7l-L8I</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Critique of Skinwalker Ranch Field Investigations...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: nrc.gov  
-   Link: <a href="https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/08.pdf</a>  
+   Link:<a href="https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/08.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.nrc.gov/reading-rm/basic-ref/students/for-educators/08.pdf</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt14469558/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt14469558/</a>  
+   Link:<a href="https://www.imdb.com/title/tt14469558/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt14469558/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: icrpaedia.org  
-   Link: <a href="https://icrpaedia.org/Dose_limits" target="_blank" rel="noopener noreferrer nofollow">https://icrpaedia.org/Dose_limits</a>  
+   Link:<a href="https://icrpaedia.org/Dose_limits" target="_blank" rel="noopener noreferrer nofollow">https://icrpaedia.org/Dose_limits</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheUnXplainedZone/videos/the-secret-of-skinwalker-ranch-top-shocking-revelations/1787276715479556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/the-secret-of-skinwalker-ranch-top-shocking-revelations/1787276715479556/</a>  
+   Link:<a href="https://www.facebook.com/TheUnXplainedZone/videos/the-secret-of-skinwalker-ranch-top-shocking-revelations/1787276715479556/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheUnXplainedZone/videos/the-secret-of-skinwalker-ranch-top-shocking-revelations/1787276715479556/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/61556813909285/posts/global-shock-travis-taylor-breaks-down-the-terrifying-evidence-from-skinwalker-r/122272511648227130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61556813909285/posts/global-shock-travis-taylor-breaks-down-the-terrifying-evidence-from-skinwalker-r/122272511648227130/</a>  
+   Link:<a href="https://www.facebook.com/61556813909285/posts/global-shock-travis-taylor-breaks-down-the-terrifying-evidence-from-skinwalker-r/122272511648227130/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/61556813909285/posts/global-shock-travis-taylor-breaks-down-the-terrifying-evidence-from-skinwalker-r/122272511648227130/</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/743206463414773/posts/1421189692283110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/743206463414773/posts/1421189692283110/</a>
+   Link:<a href="https://www.facebook.com/groups/743206463414773/posts/1421189692283110/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/743206463414773/posts/1421189692283110/</a>

@@ -262,14 +262,14 @@ image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_homestead
 
 ## Introduction
 
-The Homestead 2 radiation incident became one of the most discussed moments in *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* because it appeared to offer something stronger than a distant light in the sky or a witness story: a measurable physical event affecting a named scientist. During the episode, [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) reported becoming ill after opening a covered shaft or manhole-like structure near Homestead 2 while the team investigated underground anomalies. The programme framed the event as possible exposure to ionising radiation, and Taylor later described it as one of the incidents that convinced him unusual phenomena at the ranch deserved serious attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</span></span></span>
+The Homestead 2 radiation incident became one of the most discussed moments in *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* because it appeared to offer something stronger than a distant light in the sky or a witness story: a measurable physical event affecting a named scientist. During the episode, [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }}) reported becoming ill after opening a covered shaft or manhole-like structure near Homestead 2 while the team investigated underground anomalies. The programme framed the event as possible exposure to ionising radiation, and Taylor later described it as one of the incidents that convinced him unusual phenomena at the ranch deserved serious attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_homestead_radiation_9f0fbf-Illustration-1-dark.svg" | relative_url }}" alt="The Homestead 2 Radiation Incident illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_homestead_radiation_9f0fbf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_homestead_radiation_9f0fbf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 For viewers trying to assess Taylor's credibility, the incident matters because it sits at the intersection of science, television and missing documentation. If a significant [radiation]({{ 'radiation/' | relative_url }}) exposure genuinely occurred, it should have produced a trail of measurements, medical evaluation and technical records. Yet years later, the public evidence remains fragmentary. The result is not a solved mystery but an unresolved credibility test: the episode is vivid enough to be memorable, yet incomplete enough that neither [supporters]({{ 'supporters-58c2df/' | relative_url }}) nor sceptics can conclusively prove their case from the material released.
 
 ## What viewers were shown at Homestead 2
 
-The incident appeared during the first season investigation of Homestead 2, a location repeatedly presented as a hotspot for unusual activity. The team used ground-penetrating radar and explored a buried structure described on-screen as a hidden shaft, cistern or old sewer-like feature. After opening it, Taylor reported feeling physically unwell and radiation-monitoring equipment reportedly indicated elevated readings. The programme described the event as exposure to ionising radiation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube From a television perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously falls il...</span></span></span>, the sequence had everything needed for a dramatic narrative:
+The incident appeared during the first season investigation of Homestead 2, a location repeatedly presented as a hotspot for unusual activity. The team used ground-penetrating radar and explored a buried structure described on-screen as a hidden shaft, cistern or old sewer-like feature. After opening it, Taylor reported feeling physically unwell and radiation-monitoring equipment reportedly indicated elevated readings. The programme described the event as exposure to ionising radiation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube From a television perspective]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously falls il...</span></span></span>, the sequence had everything needed for a dramatic narrative:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
@@ -281,7 +281,7 @@ The incident appeared during the first season investigation of Homestead 2, a lo
 
 </div>
 
-The show's presentation encouraged viewers to connect the reported illness with the radiation readings and with broader [claims]({{ 'claims/' | relative_url }}) that the ranch produces unusual electromagnetic effects. Taylor later discussed radiation exposure in interviews and podcasts connected to the series, reinforcing the impression that the incident was a genuine turning point in his assessment of the ranch. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Truth About Skinwalker Ranch: Travis Taylor on the...July 18, 2022 — The type of radiation he received is ionizing radiation...</span><span class="citation-popover-meta">Published: July 18, 2022</span></span></span>
+The show's presentation encouraged viewers to connect the reported illness with the radiation readings and with broader [claims]({{ 'claims/' | relative_url }}) that the ranch produces unusual electromagnetic effects. Taylor later discussed radiation exposure in interviews and podcasts connected to the series, reinforcing the impression that the incident was a genuine turning point in his assessment of the ranch.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">The Truth About Skinwalker Ranch: Travis Taylor on the...July 18, 2022 — The type of radiation he received is ionizing radiation...</span><span class="citation-popover-meta">Published: July 18, 2022</span></span></span>
 
 What viewers did not receive was equally important. The programme did not publish a full technical report, a complete dosimetry record, environmental sampling results, or a detailed medical case file. The audience saw selected measurements and reactions, but not the sort of documentation that would normally allow outside specialists to reconstruct exactly what happened.
 
@@ -310,7 +310,7 @@ In a conventional radiation investigation, several pieces of information would n
 
 Without those details, it becomes difficult to determine whether the reading reflected a genuine hazard, instrument error, local contamination, transient interference or simple misinterpretation.
 
-One reason the incident remains controversial is that discussions of the reported dose quickly became disputed. Online critics, including technically minded viewers, argued that some numerical comparisons made on or around the programme appeared exaggerated when compared with ordinary radiation-dose benchmarks. One widely discussed criticism focused on comparisons between the reported reading and airport body scanners, with commenters arguing that the maths presented on-screen did not match standard radiation references. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Travis a bit off about radiation</span><span class="citation-popover-snippet">r/skinwalkerranchMarch 29, 2023 — In the episode where he pulls the lid off what appears to be an old abandoned septic tank from homestea...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
+One reason the incident remains controversial is that discussions of the reported dose quickly became disputed. Online critics, including technically minded viewers, argued that some numerical comparisons made on or around the programme appeared exaggerated when compared with ordinary radiation-dose benchmarks. One widely discussed criticism focused on comparisons between the reported reading and airport body scanners, with commenters arguing that the maths presented on-screen did not match standard radiation references.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Travis a bit off about radiation</span><span class="citation-popover-snippet">r/skinwalkerranchMarch 29, 2023 — In the episode where he pulls the lid off what appears to be an old abandoned septic tank from homestea...</span><span class="citation-popover-meta">Published: March 29, 2023</span></span></span>
 
 That criticism alone does not prove the reading was false. Public discussions frequently confuse units such as rads, rems, grays and sieverts, and television programmes often simplify technical explanations. However, the disagreement illustrates a larger problem: because the underlying data were not released in a form suitable for independent review, debates shifted from evidence to interpretation.
 
@@ -346,7 +346,7 @@ The show's defenders often respond that television viewers are not entitled to e
 
 The Homestead 2 incident is especially relevant because Taylor's public role is different from that of a paranormal storyteller.
 
-The History Channel and associated promotional material repeatedly emphasise his scientific and engineering [credentials]({{ 'credentials/' | relative_url }}), including advanced degrees and work connected to defence and aerospace programmes. He is presented as someone capable of evaluating technical evidence rather than merely reacting to unusual experiences. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</span></span></span>
+The History Channel and associated promotional material repeatedly emphasise his scientific and engineering [credentials]({{ 'credentials/' | relative_url }}), including advanced degrees and work connected to defence and aerospace programmes. He is presented as someone capable of evaluating technical evidence rather than merely reacting to unusual experiences.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</span></span></span>
 
 That raises the evidential standard.
 
@@ -361,7 +361,7 @@ This distinction appears repeatedly in assessments of Taylor's broader UAP and [
 
 Years after the episode aired, the Homestead 2 radiation story occupies an unusual middle ground.
 
-There is enough information to establish that the event was genuinely treated as significant by the programme. The incident was not a fleeting editing trick. It became part of the show's continuing narrative about radiation, electromagnetic anomalies and physical effects experienced by investigators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</span></span></span>, there is still no widely available package of evidence that would allow independent experts to reconstruct the incident from start to finish. No peer-reviewed paper emerged from the event. No detailed radiation survey became a widely cited public reference. No comprehensive technical report settled the question. Critics of Skinwalker Ranch frequently point to exactly this pattern: dramatic incidents followed by limited public data. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecstaticintegration.org">[ecstaticintegration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecstaticintegration.org</span><span class="citation-popover-snippet">Skinwalker Ranch and the rise of UFO political religion17 Apr 2025 — No actual evidence, no peer reviewed articles, no serious public hea...</span></span></span>
+There is enough information to establish that the event was genuinely treated as significant by the programme. The incident was not a fleeting editing trick. It became part of the show's continuing narrative about radiation, electromagnetic anomalies and physical effects experienced by investigators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-title">Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2</span><span class="citation-popover-snippet">Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</span></span></span>, there is still no widely available package of evidence that would allow independent experts to reconstruct the incident from start to finish. No peer-reviewed paper emerged from the event. No detailed radiation survey became a widely cited public reference. No comprehensive technical report settled the question. Critics of Skinwalker Ranch frequently point to exactly this pattern: dramatic incidents followed by limited public data.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ecstaticintegration.org">[ecstaticintegration.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ecstaticintegration.org</span><span class="citation-popover-snippet">Skinwalker Ranch and the rise of UFO political religion17 Apr 2025 — No actual evidence, no peer reviewed articles, no serious public hea...</span></span></span>
 
 That does not mean the radiation event was fabricated. It means the strongest public conclusion remains narrower than either believers or debunkers often claim.
 
@@ -377,199 +377,199 @@ The most defensible assessment is:
 
 </div>
 
-For the wider question of Travis Taylor's credibility, Homestead 2 remains a revealing case study. It demonstrates how some of the most compelling moments in the Skinwalker Ranch story are not disputes over whether something happened on camera. They are disputes over what happened after the cameras stopped rolling, and whether enough evidence was ever released for outsiders to judge the claim on its own merits. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker</span><span class="citation-popover-snippet">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
+For the wider question of Travis Taylor's credibility, Homestead 2 remains a revealing case study. It demonstrates how some of the most compelling moments in the Skinwalker Ranch story are not disputes over whether something happened on camera. They are disputes over what happened after the cameras stopped rolling, and whether enough evidence was ever released for outsiders to judge the claim on its own merits.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker</span><span class="citation-popover-snippet">Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</span><span class="citation-popover-meta">Published: June 16, 2023</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EJY_9M1Kpxw" title="Travis Taylor: Skinwalker Ranch Solved? The Terrifying Truth Behind 1.6 GHz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer">Travis Taylor: Skinwalker Ranch Solved? The Terrifying Truth Behind 1.6 GHz</a></p><p class="youtube-embed-meta">Channel: Pacific &middot; Views: 1.6K &middot; Uploaded: January 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EJY_9M1Kpxw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did the radiation scare prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did the radiation scare prove anything?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Provides background on unusual physical claims and investigative methods at the ranch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background on unusual physical claims and investigative methods at the ranch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on cases where instrument data matters more than testimony.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on cases where instrument data matters more than testimony.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Provides a skeptical framework for assessing extraordinary physical claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides a skeptical framework for assessing extraordinary physical claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Addresses evidence, measurements and controversial anomaly reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidence, measurements and controversial anomaly reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet"><img src="https://i.ebayimg.com/images/g/e0EAAeSwWXpoDlnu/s-l225.jpg" alt="Listing image for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet"><img src="https://i.ebayimg.com/images/g/e0EAAeSwWXpoDlnu/s-l225.jpg" alt="Listing image for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson"><img src="https://i.ebayimg.com/images/g/C1AAAOSwMhBmmAoE/s-l225.jpg" alt="Listing image for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson"><img src="https://i.ebayimg.com/images/g/C1AAAOSwMhBmmAoE/s-l225.jpg" alt="Listing image for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO"><img src="https://i.ebayimg.com/images/g/xDcAAOSwrTBmwm78/s-l225.jpg" alt="Listing image for Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO"><img src="https://i.ebayimg.com/images/g/xDcAAOSwrTBmwm78/s-l225.jpg" alt="Listing image for Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Utah Iron On Patch RARE PARANORMAL UFO</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017"><img src="https://i.ebayimg.com/images/g/7-EAAeSwc8BpDjQ6/s-l225.jpg" alt="Listing image for Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017"><img src="https://i.ebayimg.com/images/g/7-EAAeSwc8BpDjQ6/s-l225.jpg" alt="Listing image for Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skin Walker Garbage Pail Kids Skinwalker Ranch Adam-Geddon 2017</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="did-the-radiation-scare-prove-anything-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -585,7 +585,7 @@ For the wider question of Travis Taylor's credibility, Homestead 2 remains a rev
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -605,7 +605,7 @@ For the wider question of Travis Taylor's credibility, Homestead 2 remains a rev
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -637,7 +637,7 @@ For the wider question of Travis Taylor's credibility, Homestead 2 remains a rev
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -689,7 +689,7 @@ For the wider question of Travis Taylor's credibility, Homestead 2 remains a rev
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -734,7 +734,7 @@ For the wider question of Travis Taylor's credibility, Homestead 2 remains a rev
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -775,197 +775,197 @@ For the wider question of Travis Taylor's credibility, Homestead 2 remains a rev
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously falls il...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously falls il...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor on the...July 18, 2022 — The type of radiation he received is ionizing radiation...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/w25p1g/new_video_the_truth_about_skinwalker_ranch_travis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor on the...July 18, 2022 — The type of radiation he received is ionizing radiation...</p></details>
    Published: July 18, 2022  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor | Ep 129The Truth About Skinwalker Ranch: Travis Taylor | Ep 129. 650K views · 3... The...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor | Ep 129The Truth About Skinwalker Ranch: Travis Taylor | Ep 129. 650K views · 3... The...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Travis a bit off about radiation  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchMarch 29, 2023 — In the episode where he pulls the lid off what appears to be an old abandoned septic tank from homestea...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/125g8vm/travis_a_bit_off_about_radiation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchMarch 29, 2023 — In the episode where he pulls the lid off what appears to be an old abandoned septic tank from homestea...</p></details>
    Published: March 29, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is an engineer and best-selling author who holds PhDs in Optical Science and Engineering, Aerospace Systems Engineering, and master&#x27;s deg...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchAfter a young cow on the ranch was found to have died quite suddenly, invest...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchAfter a young cow on the ranch was found to have died quite suddenly, invest...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ecstaticintegration.org  
-   Link: <a href="https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and the rise of UFO political religion17 Apr 2025 — No actual evidence, no peer reviewed articles, no serious public hea...</p></details>
+   Link:<a href="https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of" target="_blank" rel="noopener noreferrer nofollow">https://www.ecstaticintegration.org/p/skinwalker-ranch-and-the-rise-of</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and the rise of UFO political religion17 Apr 2025 — No actual evidence, no peer reviewed articles, no serious public hea...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: Off The Ranch: "Show Us The Raw Data" with Skinwalker  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/14b9hgu/off_the_ranch_show_us_the_raw_data_with/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker...June 16, 2023 — Off The Ranch: &quot;Show Us The Raw Data&quot; with Skinwalker Ranc...</p></details>
    Published: June 16, 2023  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
+   Link:<a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One that deflects rockets, bends laser beams, and...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One that deflects rockets, bends laser beams, and...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=WYI7VLVxV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WYI7VLVxV2Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>as faced since they began research on the famous ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=WYI7VLVxV2Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=WYI7VLVxV2Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>as faced since they began research on the famous ranch...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>search to find out what&#x27;s really happening at Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>search to find out what&#x27;s really happening at Skinwalker Ranch...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=V95MHgiEApw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V95MHgiEApw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ating in the night. Using tri-field meters they detect...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=V95MHgiEApw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=V95MHgiEApw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ating in the night. Using tri-field meters they detect...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbsx4kDUjvo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Retaliation? Analyzing the Attack on Dr. Travis TaylorIn this episode, we break down the most violent and scientifically signifi...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Gbsx4kDUjvo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Gbsx4kDUjvo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Proof of Retaliation? Analyzing the Attack on Dr. Travis TaylorIn this episode, we break down the most violent and scientifically signifi...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EJY_9M1Kpxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>he Secret Of Skinwalker Ranch #TravisTaylor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EJY_9M1Kpxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>he Secret Of Skinwalker Ranch #TravisTaylor...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Investigating the Homestead 2 [Radiation Claims](&#123;&#123; 'radiation/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.youtube.com/watch?v=s9f8r2YgC7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9f8r2YgC7M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and the Reality of Radiation Anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=s9f8r2YgC7M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=s9f8r2YgC7M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and the Reality of Radiation Anomalies...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Skinwalker Ranch and the Reality of Radiation Anomalies  
-   Link: <a href="https://www.youtube.com/watch?v=zJ2K1j11k8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJ2K1j11k8w</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Science vs. Spectacle: Analyzing the Skinwalker Ranch Findings...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=zJ2K1j11k8w" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=zJ2K1j11k8w</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Science vs. Spectacle: Analyzing the Skinwalker Ranch Findings...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Science vs. Spectacle: Analyzing the Skinwalker Ranch Findings  
-   Link: <a href="https://www.youtube.com/watch?v=kYJqfKz2z_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJqfKz2z_M</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Equipment Failures and Anomalies on Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kYJqfKz2z_M" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kYJqfKz2z_M</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Equipment Failures and Anomalies on Skinwalker Ranch...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Analyzing Equipment Failures and Anomalies on Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=P_Vn2v19z-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_Vn2v19z-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal TV Production: Evidence or Entertainment?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=P_Vn2v19z-U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=P_Vn2v19z-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paranormal TV Production: Evidence or Entertainment?...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
    Title: Paranormal TV Production: Evidence or Entertainment?  
-   Link: <a href="https://www.youtube.com/watch?v=p4v-sYp0v88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p4v-sYp0v88</a>  
+   Link:<a href="https://www.youtube.com/watch?v=p4v-sYp0v88" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=p4v-sYp0v88</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: history.co.uk  
    Title: Sky HISTORY TV channel Travis Exposed to Ionising Radiation at Homestead 2  
-   Link: <a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</p></details>
+   Link:<a href="https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/travis-exposed-to-ionising-radiation-at-homestead-2-curse-of-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sky HISTORY TV channelTravis Exposed to Ionising Radiation at Homestead 2 - Curse...Travis Taylor and the team head to Homestead 2, the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker RanchThe Secret of Skinwalker Ranch is a multi-season reality television series that follows a team investiga...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
    Title: Ionizing Radiation  
-   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation | The Secret of Skinwalker Ranch WikiTravis Taylor is reportedly exposed to &quot;Ionizing radiation&quot; after opening an old sewer or...</p></details>
+   Link:<a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Ionizing_Radiation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Radiation | The Secret of Skinwalker Ranch WikiTravis Taylor is reportedly exposed to &quot;Ionizing radiation&quot; after opening an old sewer or...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: history.co.uk  
    Title: Astrophysicist Dr Travis Taylor returns  
-   Link: <a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Sorry, this video is no longer available to watch.... Skinwalker Ranch and the surrounding...</p></details>
+   Link:<a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sorry, this video is no longer available to watch.... Skinwalker Ranch and the surrounding...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
-   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency Experiments | The Secret of Skinwalker Ranch WikiThe investigation into radio frequencies (RF) and various forms of radiation i...</p></details>
+   Link:<a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Frequency Experiments | The Secret of Skinwalker Ranch WikiThe investigation into radio frequencies (RF) and various forms of radiation i...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1488491729470140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1488491729470140/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch has dangerous radiation levelsIn Episode 4 of SkinWalker Ranch. The measurements taken from the rocket that they launche...</p></details>
+   Link:<a href="https://www.facebook.com/groups/911734917145827/posts/1488491729470140/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1488491729470140/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch has dangerous radiation levelsIn Episode 4 of SkinWalker Ranch. The measurements taken from the rocket that they launche...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1526133812372598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1526133812372598/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor shares behind-the-scenes of Skinwalker RanchTravis himself opened a cistern and developed what appeared to be radiation bur...</p></details>
+   Link:<a href="https://www.facebook.com/groups/911734917145827/posts/1526133812372598/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1526133812372598/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor shares behind-the-scenes of Skinwalker RanchTravis himself opened a cistern and developed what appeared to be radiation bur...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Investigating Localized Electromagnetic...14 Oct 2025 — Skinwalker Ranch: Investigating Localized Electromagnetic and...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/396482451_Skinwalker_Ranch_Investigating_Localized_Electromagnetic_and_Ionizing-Radiation_Anomalies_Observations_Deep_Dive_and_an_Adapted_Test_Protocol_-technical</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Investigating Localized Electromagnetic...14 Oct 2025 — Skinwalker Ranch: Investigating Localized Electromagnetic and...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: facebook.com  
    Title: in july 2019 before drilling could begin the team conducted one last radiation s  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, before drilling could begin, the team...As the Team relaunches their investigation on Skinwalker Ranch, they are surrounde...</p></details>
+   Link:<a href="https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/in-july-2019-before-drilling-could-begin-the-team-conducted-one-last-radiation-s/1380170247009281/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In July 2019, before drilling could begin, the team...As the Team relaunches their investigation on Skinwalker Ranch, they are surrounde...</p></details>
    Published: july 2019  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: iheart.com  
    Title: skinwalker ranch dr travis taylor style scientific 285542192  
-   Link: <a href="https://www.iheart.com/podcast/53-voices-of-disclosure-the-uf-249146351/episode/skinwalker-ranch-dr-travis-taylor-style-scientific-285542192/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/53-voices-of-disclosure-the-uf-249146351/episode/skinwalker-ranch-dr-travis-taylor-style-scientific-285542192/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Dr. Travis Taylor-style Scientific...Jul 13, 2025 — Join a gripping deep-dive into the mysteries of Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.iheart.com/podcast/53-voices-of-disclosure-the-uf-249146351/episode/skinwalker-ranch-dr-travis-taylor-style-scientific-285542192/" target="_blank" rel="noopener noreferrer nofollow">https://www.iheart.com/podcast/53-voices-of-disclosure-the-uf-249146351/episode/skinwalker-ranch-dr-travis-taylor-style-scientific-285542192/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch: Dr. Travis Taylor-style Scientific...Jul 13, 2025 — Join a gripping deep-dive into the mysteries of Skinwalker Ranch...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: facebook.com  
    Title: What is the difference in radiation exposure between Travis  
-   Link: <a href="https://www.facebook.com/groups/2302795486611060/posts/2549088675315072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2302795486611060/posts/2549088675315072/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Homestead 2 and his total accumulated dose was nearly 1000x that of Jim&#x27;s dosage.... Radiation levels from GCRs can range from 0.5-2 mSv...</p></details>
+   Link:<a href="https://www.facebook.com/groups/2302795486611060/posts/2549088675315072/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/2302795486611060/posts/2549088675315072/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Homestead 2 and his total accumulated dose was nearly 1000x that of Jim&#x27;s dosage.... Radiation levels from GCRs can range from 0.5-2 mSv...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>we managed to obtain very little physical evidence of anomalous phenomena, at...Read more...</p></details>
+   Link:<a href="https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/skinwalker-ranch-bastion-for-the-paranormal-or-hoax-69969</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>we managed to obtain very little physical evidence of anomalous phenomena, at...Read more...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tic phenomena reported to occur at the infamous Skinwalker Ranch in Utah, USA.Read more...</p></details>
+   Link:<a href="https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/the-mystique-and-missteps-of-secret-of-skinwalker-ranch-critical-analysis-33f4b54d713</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tic phenomena reported to occur at the infamous Skinwalker Ranch in Utah, USA.Read more...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40osirisuap/investigating-electromagnetic-anomalies-at-skinwalker-ranch-b133d019298d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/investigating-electromagnetic-anomalies-at-skinwalker-ranch-b133d019298d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch to explore the possibility of intelligent communication.Read more...</p></details>
+   Link:<a href="https://medium.com/%40osirisuap/investigating-electromagnetic-anomalies-at-skinwalker-ranch-b133d019298d" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40osirisuap/investigating-electromagnetic-anomalies-at-skinwalker-ranch-b133d019298d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch to explore the possibility of intelligent communication.Read more...</p></details>

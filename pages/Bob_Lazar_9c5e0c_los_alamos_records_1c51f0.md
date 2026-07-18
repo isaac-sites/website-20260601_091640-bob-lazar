@@ -303,28 +303,28 @@ Bob Lazar’s Los Alamos trail is one of the strongest pieces of biographical su
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0-overview.webp" | relative_url }}" alt="Overview image for Los Alamos" loading="eager" decoding="sync" fetchpriority="high">
 ## The newspaper and directory trail
 
-The most often cited Los Alamos evidence begins with a local newspaper story, not a government employment file. On 27 June 1982, the Los Alamos Monitor published a feature by Terry England about Lazar’s jet-powered Honda. The article described Lazar as the builder of the engine and said the car could reach 200 mph. Crucially for the later UFO debate, it also referred to him as “a physicist at the Los Alamos Meson Physics Facility” and connected his technical interest to jet-engine work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Other Hand Bob’s Jetcar article</span><span class="citation-popover-snippet">Other Hand Bob’s Jetcar article</span></span></span>
+The most often cited Los Alamos evidence begins with a local newspaper story, not a government employment file. On 27 June 1982, the Los Alamos Monitor published a feature by Terry England about Lazar’s jet-powered Honda. The article described Lazar as the builder of the engine and said the car could reach 200 mph. Crucially for the later UFO debate, it also referred to him as “a physicist at the Los Alamos Meson Physics Facility” and connected his technical interest to jet-engine work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Other Hand Bob’s Jetcar article</span><span class="citation-popover-snippet">Other Hand Bob’s Jetcar article</span></span></span>
 
 That article matters because it predates Lazar’s public UFO claims by years. It is therefore not an after-the-fact press invention created during the Area 51 media cycle. It shows that Lazar was publicly presenting, or being presented, as a technically capable person in the Los Alamos orbit in 1982. For supporters, this is a useful anchor: it makes it harder to dismiss him as someone who adopted a science persona only after the UFO story began.
 
 But a newspaper description is not the same as a verified credential. Local feature stories often rely on how a subject describes themselves, especially when the article’s focus is a colourful invention rather than a formal employment investigation. The jet-car article is good evidence that Lazar was known around Los Alamos and had impressive practical engineering skills; it is weaker evidence that he was a formally qualified physicist.
 
-The second piece of evidence is the Los Alamos directory listing. Supporters have long pointed to a 1982 Los Alamos National Laboratory phone-book entry for “Robert Lazar” as proof that the laboratory had a record of him, despite later statements that no direct personnel record could be found. Critics respond that the directory is not a staff physicist record. Stanton Friedman, whose sceptical assessment is archived by The Black Vault, argued that the listing included Department of Energy and contractor personnel, and that the “K/M” marker beside Lazar’s name indicated Kirk Meyer, an outside contractor, rather than direct LANL employment. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Black Vault The Bob Lazar Fraud</span></span></span>
+The second piece of evidence is the Los Alamos directory listing. Supporters have long pointed to a 1982 Los Alamos National Laboratory phone-book entry for “Robert Lazar” as proof that the laboratory had a record of him, despite later statements that no direct personnel record could be found. Critics respond that the directory is not a staff physicist record. Stanton Friedman, whose sceptical assessment is archived by The Black Vault, argued that the listing included Department of Energy and contractor personnel, and that the “K/M” marker beside Lazar’s name indicated Kirk Meyer, an outside contractor, rather than direct LANL employment.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Black Vault The Bob Lazar Fraud</span></span></span>
 
 That distinction is central. Being listed in a site directory can show presence in a working environment. It does not, by itself, show who employed the person, what title they held, what security clearance they had, or whether they were involved in high-level research. In Lazar’s case, the directory evidence helps rebut the most simplistic claim that he had no Los Alamos connection at all. It does not establish the more ambitious claim that he was a Los Alamos staff physicist.
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0-Illustration-1-dark.svg" | relative_url }}" alt="Los Alamos illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Contractor, technician, or physicist?
 
-The Los Alamos Meson Physics Facility, usually shortened to LAMPF, was a real and significant scientific environment. Today it is part of the Los Alamos Neutron Science Center. Los Alamos describes the original LAMPF as an 800-million-electron-volt accelerator facility at Technical Area 53, operating from 1972 and hosting around 1,000 users per year for medium-energy physics experiments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://lansce.lanl.gov/about/history.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lansce.lanl.gov">[LANSCE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lansce.lanl.gov</span><span class="citation-popover-title">LANSCELANSCE HIstory</span><span class="citation-popover-snippet">LANSCELANSCE HIstory</span></span></span> The Department of Energy’s OSTI database also records a 1971 technical report on the origins and history of the facility, showing that LAMPF was a major accelerator programme rather than a casual workshop or fringe laboratory. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osti.gov/biblio/4694217" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The Los Alamos Meson Physics Facility, usually shortened to LAMPF, was a real and significant scientific environment. Today it is part of the Los Alamos Neutron Science Center. Los Alamos describes the original LAMPF as an 800-million-electron-volt accelerator facility at Technical Area 53, operating from 1972 and hosting around 1,000 users per year for medium-energy physics experiments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://lansce.lanl.gov/about/history.php" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: lansce.lanl.gov">[LANSCE]</a><span class="citation-popover" role="note"><span class="citation-popover-source">lansce.lanl.gov</span><span class="citation-popover-title">LANSCELANSCE HIstory</span><span class="citation-popover-snippet">LANSCELANSCE HIstory</span></span></span> The Department of Energy’s OSTI database also records a 1971 technical report on the origins and history of the facility, showing that LAMPF was a major accelerator programme rather than a casual workshop or fringe laboratory.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.osti.gov/biblio/4694217" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osti.gov">[OSTI.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osti.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 This context cuts both ways. On one hand, it gives Lazar’s Los Alamos association real weight. A person working around LAMPF could plausibly encounter advanced instrumentation, particle-beam equipment, detectors, radiation-safety procedures and visiting scientific teams. That would fit part of Lazar’s later public image as someone comfortable with technical equipment and exotic-sounding physics concepts.
 
 On the other hand, large user facilities depend on many roles besides physicists. They require technicians, machinists, electronics specialists, contractors, safety staff, maintenance workers, computing support and visiting users. A person could be technically skilled and still not be a research physicist. A contractor could work “at” Los Alamos without working “for” Los Alamos in the direct institutional sense.
 
-That is why the job-title dispute matters. The strongest sceptical version is not that Lazar never entered the Los Alamos world. It is that he had a lower-status technical or contractor role which later became inflated into “physicist” and then into a credentialed route towards S-4. Friedman’s archived critique takes exactly this line: he accepted that Lazar was “bright and talented”, operated a jet-powered car, and apparently helped physics professors at the Los Alamos meson accelerator facility, while rejecting the claim that Lazar was a scientist with the academic record he described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Black Vault The Bob Lazar Fraud</span></span></span>
+That is why the job-title dispute matters. The strongest sceptical version is not that Lazar never entered the Los Alamos world. It is that he had a lower-status technical or contractor role which later became inflated into “physicist” and then into a credentialed route towards S-4. Friedman’s archived critique takes exactly this line: he accepted that Lazar was “bright and talented”, operated a jet-powered car, and apparently helped physics professors at the Los Alamos meson accelerator facility, while rejecting the claim that Lazar was a scientist with the academic record he described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Bob Lazar Fraud</span><span class="citation-popover-snippet">The Black Vault The Bob Lazar Fraud</span></span></span>
 
-Supporters see the same material differently. They argue that Los Alamos officials’ inability or unwillingness to produce a straightforward employment record, combined with the directory and newspaper trail, is consistent with a murky contractor environment. Some also argue that if Lazar had enough access to work in a technical setting at Los Alamos, it becomes more plausible that he could later be recruited into a classified programme. A recent pro-Lazar analysis in Skeptic magazine, for example, argues that the 1982 newspaper reference and the Los Alamos setting narrow the room for portraying Lazar as a complete outsider pretending to have moved in scientific circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">The Strange Case of Bob Lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar</span></span></span>
+Supporters see the same material differently. They argue that Los Alamos officials’ inability or unwillingness to produce a straightforward employment record, combined with the directory and newspaper trail, is consistent with a murky contractor environment. Some also argue that if Lazar had enough access to work in a technical setting at Los Alamos, it becomes more plausible that he could later be recruited into a classified programme. A recent pro-Lazar analysis in Skeptic magazine, for example, argues that the 1982 newspaper reference and the Los Alamos setting narrow the room for portraying Lazar as a complete outsider pretending to have moved in scientific circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">The Strange Case of Bob Lazar</span><span class="citation-popover-snippet">The Strange Case of Bob Lazar</span></span></span>
 
 The weakness in that supportive argument is that it can overreach. A contractor role at a major laboratory can make a later classified-site story feel more plausible, but it does not validate the specific S-4 claim. Classified aerospace and weapons programmes do recruit technically skilled contractors, but the leap from “worked around LAMPF” to “reverse-engineered non-human craft” is enormous. The Los Alamos evidence supports only the first step.
 
@@ -334,13 +334,13 @@ The weakness in that supportive argument is that it can overreach. A contractor 
 
 ## What the technical background really shows
 
-Lazar’s hands-on technical ability is the part of the Los Alamos material that holds up best. The jet-car story is vivid because it is not a vague claim about being clever; it describes a concrete engineering project involving stainless steel, titanium, propane fuel, an afterburner and high-speed dry-lake testing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Other Hand Bob’s Jetcar article</span><span class="citation-popover-snippet">Other Hand Bob’s Jetcar article</span></span></span> Even sceptics rarely deny that Lazar had practical mechanical and electronics talent.
+Lazar’s hands-on technical ability is the part of the Los Alamos material that holds up best. The jet-car story is vivid because it is not a vague claim about being clever; it describes a concrete engineering project involving stainless steel, titanium, propane fuel, an afterburner and high-speed dry-lake testing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Other Hand Bob’s Jetcar article</span><span class="citation-popover-snippet">Other Hand Bob’s Jetcar article</span></span></span> Even sceptics rarely deny that Lazar had practical mechanical and electronics talent.
 
 That matters because Lazar’s later UFO account was presented in technical language. He did not frame himself only as a witness to lights in the sky. He claimed to have been briefed into a compartmented programme, assigned to understand [propulsion]({{ 'propulsion/' | relative_url }}), and exposed to an exotic power source involving [element 115]({{ 'element-115/' | relative_url }}). His Los Alamos-linked background helps explain why some viewers found him more compelling than a purely anecdotal UFO witness.
 
 Yet technical fluency is not the same as technical correctness. One can be inventive, mechanically skilled and comfortable around laboratories while still making exaggerated or unsupported claims about formal education, job title, classified access or physics. The distinction is especially important with Lazar because the most verifiable evidence clusters around practical skill and peripheral laboratory presence, while the least verifiable evidence concerns his highest-status claims.
 
-Element 115 is a useful example of the problem. Lazar’s supporters often note that he talked about element 115 before it was officially recognised. But element 115 was not an impossible idea before discovery; it was a predictable slot in the periodic table. IUPAC formally approved the name moscovium for element 115 in 2016, after verification of the discovery of elements 113, 115, 117 and 118. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iupac.org">[IUPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iupac.org</span><span class="citation-popover-title">Announces the Names of the Elements 113, 115</span><span class="citation-popover-snippet">Announces the Names of the Elements 113, 115</span></span></span> Lawrence Livermore’s account of the discovery describes produced isotopes of element 115 surviving only tens of milliseconds before decaying, which is very different from Lazar’s claim of a stable, usable isotope for a propulsion system. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pls.llnl.gov">[Physical and Life Sciences Directorate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pls.llnl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Element 115 is a useful example of the problem. Lazar’s supporters often note that he talked about element 115 before it was officially recognised. But element 115 was not an impossible idea before discovery; it was a predictable slot in the periodic table. IUPAC formally approved the name moscovium for element 115 in 2016, after verification of the discovery of elements 113, 115, 117 and 118.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iupac.org">[IUPAC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iupac.org</span><span class="citation-popover-title">Announces the Names of the Elements 113, 115</span><span class="citation-popover-snippet">Announces the Names of the Elements 113, 115</span></span></span> Lawrence Livermore’s account of the discovery describes produced isotopes of element 115 surviving only tens of milliseconds before decaying, which is very different from Lazar’s claim of a stable, usable isotope for a propulsion system.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pls.llnl.gov">[Physical and Life Sciences Directorate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pls.llnl.gov</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The point is not that element 115 disproves his Los Alamos connection. It is that his technical background cannot be assessed only by whether he used real scientific vocabulary. A credible technical insider should leave traces not only in anecdotes and directory entries, but in job records, publications, supervisors, collaborators, [degrees]({{ 'degrees/' | relative_url }}), theses, project descriptions or other career markers. In Lazar’s case, those stronger markers have not been produced publicly.
 
@@ -360,152 +360,152 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BoJmd2MIpOk" title="UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer">UFO files: Bob Lazar&#x27;s 1989 interview &amp; what&#x27;s happened since then | UFO Mysteries</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 924.5K &middot; Uploaded: April 2026 &middot; Length: 28 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BoJmd2MIpOk" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BoJmd2MIpOk">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for What Does Los Alamos Really Prove?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for What Does Los Alamos Really Prove?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos Cold War USAF Military Security Police Sandia Tonopah Patch Vintage"><img src="https://i.ebayimg.com/images/g/tW0AAeSwaNZqIJI4/s-l225.jpg" alt="Listing image for Los Alamos Cold War USAF Military Security Police Sandia Tonopah Patch Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos Cold War USAF Military Security Police Sandia Tonopah Patch Vintage</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Los Alamos Cold War USAF Military Security Police Sandia Tonopah Patch Vintage"><img src="https://i.ebayimg.com/images/g/tW0AAeSwaNZqIJI4/s-l225.jpg" alt="Listing image for Los Alamos Cold War USAF Military Security Police Sandia Tonopah Patch Vintage" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Los Alamos Cold War USAF Military Security Police Sandia Tonopah Patch Vintage</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Los Alamos Labs Musketeer Patch YR Snapback Mesh Trucker Hat Cap Midland"><img src="https://i.ebayimg.com/images/g/SG0AAOSwaednrfZG/s-l225.jpg" alt="Listing image for VTG Los Alamos Labs Musketeer Patch YR Snapback Mesh Trucker Hat Cap Midland" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">VTG Los Alamos Labs Musketeer Patch YR Snapback Mesh Trucker Hat Cap Midland</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VTG Los Alamos Labs Musketeer Patch YR Snapback Mesh Trucker Hat Cap Midland"><img src="https://i.ebayimg.com/images/g/SG0AAOSwaednrfZG/s-l225.jpg" alt="Listing image for VTG Los Alamos Labs Musketeer Patch YR Snapback Mesh Trucker Hat Cap Midland" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">VTG Los Alamos Labs Musketeer Patch YR Snapback Mesh Trucker Hat Cap Midland</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG"><img src="https://i.ebayimg.com/images/g/eIUAAeSwyTBp1-Ly/s-l225.jpg" alt="Listing image for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG"><img src="https://i.ebayimg.com/images/g/eIUAAeSwyTBp1-Ly/s-l225.jpg" alt="Listing image for Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">Boy Scouts 1981 District Exposition Los Alamos N.M. Patch Dark Blue &amp; Yellow VTG</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H"><img src="https://i.ebayimg.com/images/g/FdUAAeSwfLxqFbaN/s-l225.jpg" alt="Listing image for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H"><img src="https://i.ebayimg.com/images/g/FdUAAeSwfLxqFbaN/s-l225.jpg" alt="Listing image for LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">LOS ALAMOS NEW MEXICO Police Shoulder Patch ATOMIC NUCLEAR INDIAN ZIA ART 6H</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Los Alamos patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: Los Alamos patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Los+Alamos+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-does-los-alamos-really-prove-los-alamos-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Los Alamos patch" data-ebay-reference="what-does-los-alamos-really-prove-los-alamos-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -521,7 +521,7 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -541,7 +541,7 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -573,7 +573,7 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -625,7 +625,7 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -670,7 +670,7 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -711,190 +711,190 @@ For a credibility assessment, the fairest wording is therefore cautious: Bob Laz
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: otherhand.org  
    Title: Other Hand Bob’s Jetcar article  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/</a>  
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/bobs-jetcar-article/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: lansce.lanl.gov  
    Title: LANSCELANSCE HIstory  
-   Link: <a href="https://lansce.lanl.gov/about/history.php" target="_blank" rel="noopener noreferrer nofollow">https://lansce.lanl.gov/about/history.php</a>  
+   Link:<a href="https://lansce.lanl.gov/about/history.php" target="_blank" rel="noopener noreferrer nofollow">https://lansce.lanl.gov/about/history.php</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: osti.gov  
-   Link: <a href="https://www.osti.gov/biblio/4694217" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/biblio/4694217</a>  
+   Link:<a href="https://www.osti.gov/biblio/4694217" target="_blank" rel="noopener noreferrer nofollow">https://www.osti.gov/biblio/4694217</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: skeptic.com  
    Title: The Strange Case of Bob Lazar  
-   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
+   Link:<a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: iupac.org  
    Title: Announces the Names of the Elements 113, 115  
-   Link: <a href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/</a>  
+   Link:<a href="https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-announces-the-names-of-the-elements-113-115-117-and-118/</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: otherhand.org  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/</a>  
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/los-alamos-interview/</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: otherhand.org  
    Title: the lazar [timeline](&#123;&#123; 'timeline/' | relative_url &#125;&#125;)  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/</a>  
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-timeline/</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: iupac.org  
-   Link: <a href="https://iupac.org/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/</a>  
+   Link:<a href="https://iupac.org/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: iupac.org  
    Title: discovery and assignment of elements with atomic numbers 113 115 117 and 118  
-   Link: <a href="https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/</a>  
+   Link:<a href="https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/discovery-and-assignment-of-elements-with-atomic-numbers-113-115-117-and-118/</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: iupac.org  
-   Link: <a href="https://iupac.org/recommendation/names-and-symbols-of-the-elements-with-atomic-numbers-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/recommendation/names-and-symbols-of-the-elements-with-atomic-numbers-113-115-117-and-118/</a>  
+   Link:<a href="https://iupac.org/recommendation/names-and-symbols-of-the-elements-with-atomic-numbers-113-115-117-and-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/recommendation/names-and-symbols-of-the-elements-with-atomic-numbers-113-115-117-and-118/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: iupac.org  
-   Link: <a href="https://iupac.org/tag/element-115/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/element-115/</a>  
+   Link:<a href="https://iupac.org/tag/element-115/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/element-115/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: iupac.org  
    Title: is naming the four new elements nihonium moscovium tennessine and oganesson  
-   Link: <a href="https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/</a>  
+   Link:<a href="https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/iupac-is-naming-the-four-new-elements-nihonium-moscovium-tennessine-and-oganesson/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: iupac.org  
-   Link: <a href="https://iupac.org/tag/element-117/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/element-117/</a>  
+   Link:<a href="https://iupac.org/tag/element-117/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/element-117/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: iupac.org  
-   Link: <a href="https://iupac.org/tag/element-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/element-118/</a>  
+   Link:<a href="https://iupac.org/tag/element-118/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/element-118/</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iupac.org  
    Title: Recent Releases Archives  
-   Link: <a href="https://iupac.org/category/recent-releases/page/30/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/category/recent-releases/page/30/</a>  
+   Link:<a href="https://iupac.org/category/recent-releases/page/30/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/category/recent-releases/page/30/</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iupac.org  
    Title: periodic table Archives  
-   Link: <a href="https://iupac.org/tag/periodic-table/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/periodic-table/page/3/</a>  
+   Link:<a href="https://iupac.org/tag/periodic-table/page/3/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/tag/periodic-table/page/3/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: iupac.org  
    Title: Announcements Archives  
-   Link: <a href="https://iupac.org/category/announcements/page/18/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/category/announcements/page/18/</a>  
+   Link:<a href="https://iupac.org/category/announcements/page/18/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.org/category/announcements/page/18/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: lanl.gov  
    Title: 1122 accelerating innovation  
-   Link: <a href="https://www.lanl.gov/media/publications/national-security-science/1122-accelerating-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/1122-accelerating-innovation</a>  
+   Link:<a href="https://www.lanl.gov/media/publications/national-security-science/1122-accelerating-innovation" target="_blank" rel="noopener noreferrer nofollow">https://www.lanl.gov/media/publications/national-security-science/1122-accelerating-innovation</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba</a>  
+   Link:<a href="https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/predict/bob-lazars-sport-model-ufo-the-science-and-engineering-claims-fbd7178343ba</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40signalsintelligence/bob-lazar-theres-more-to-the-story-17829c2ff650" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40signalsintelligence/bob-lazar-theres-more-to-the-story-17829c2ff650</a>  
+   Link:<a href="https://medium.com/%40signalsintelligence/bob-lazar-theres-more-to-the-story-17829c2ff650" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40signalsintelligence/bob-lazar-theres-more-to-the-story-17829c2ff650</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac</a>  
+   Link:<a href="https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40mattygh01/element-115-moscovium-from-superheavy-synthesis-to-speculative-antigravity-in-the-dual-sheet-85c406816eac</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: theblackvault.com  
    Title: The Black Vault The Bob Lazar Fraud  
-   Link: <a href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/</a>  
+   Link:<a href="https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/the-bob-lazar-fraud-2/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: pls.llnl.gov  
-   Link: <a href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow">https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115</a>  
+   Link:<a href="https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115" target="_blank" rel="noopener noreferrer nofollow">https://pls.llnl.gov/research-and-development/livermorium/elements-113-and-115</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: Wikipedia  
    Title: Los Alamos Neutron Science Center  
-   Link: <a href="https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Los_Alamos_Neutron_Science_Center</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Moscovium</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: science.howstuffworks.com  
    Title: bob lazar  
-   Link: <a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
+   Link:<a href="https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm" target="_blank" rel="noopener noreferrer nofollow">https://science.howstuffworks.com/space/aliens-ufos/bob-lazar.htm</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: pubchem.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
+   Link:<a href="https://pubchem.ncbi.nlm.nih.gov/element/Moscovium" target="_blank" rel="noopener noreferrer nofollow">https://pubchem.ncbi.nlm.nih.gov/element/Moscovium</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: iupac.qmul.ac.uk  
-   Link: <a href="https://iupac.qmul.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.qmul.ac.uk/</a>  
+   Link:<a href="https://iupac.qmul.ac.uk/" target="_blank" rel="noopener noreferrer nofollow">https://iupac.qmul.ac.uk/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: pitchfork.com  
-   Link: <a href="https://pitchfork.com/artists/los/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/artists/los/</a>  
+   Link:<a href="https://pitchfork.com/artists/los/" target="_blank" rel="noopener noreferrer nofollow">https://pitchfork.com/artists/los/</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: scribd.com  
    Title: Bob Lazar  
-   Link: <a href="https://www.scribd.com/document/582757088/Bob-Lazar-Request-for-Records-Letter-to-Los-Alamos-Lab" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/582757088/Bob-Lazar-Request-for-Records-Letter-to-Los-Alamos-Lab</a>  
+   Link:<a href="https://www.scribd.com/document/582757088/Bob-Lazar-Request-for-Records-Letter-to-Los-Alamos-Lab" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/582757088/Bob-Lazar-Request-for-Records-Letter-to-Los-Alamos-Lab</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: music.apple.com  
-   Link: <a href="https://music.apple.com/us/artist/los/503352615" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/artist/los/503352615</a>  
+   Link:<a href="https://music.apple.com/us/artist/los/503352615" target="_blank" rel="noopener noreferrer nofollow">https://music.apple.com/us/artist/los/503352615</a>  
 
 ### Additional References
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: youtube.com  
    Title: The Story Behind S4, Aliens & Bob Lazar  
-   Link: <a href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XXve4QnlaMo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XXve4QnlaMo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XXve4QnlaMo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
+   Link:<a href="https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/santafenewmexican/posts/conspiracy-theorists-and-bob-lazar-himself-have-suggested-that-lazar-stole-a-pie/10156379137747167/</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/vvjbjc/bob_lazar_los_alamos_details_question/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/qu9yv7/bob_lazar_court_hearing_judge_reads_his_w2_it/</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13015gf/bob_lazars_most_likely_occupation_if_any_at_area/</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/oyxuok/bob_lazars_story_is_it_believable_here_is_some_of/</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nybztg/bob_lazar_physicist_as_los_alamos/</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/</a>  
+   Link:<a href="https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/LarryKing/posts/ever-wonder-what-happened-to-ufo-enthusiast-bob-lazar-well-talk-to-him-along-wit/10157219274254665/</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/</a>  
+   Link:<a href="https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/posts/exploring-bob-lazars-claim-government-and-alien-technologies/1137774208220846/</a>  
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vicenews/videos/exploring-bob-lazars-claim-government-and-alien-technologies/1881814855882892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/videos/exploring-bob-lazars-claim-government-and-alien-technologies/1881814855882892/</a>
+   Link:<a href="https://www.facebook.com/vicenews/videos/exploring-bob-lazars-claim-government-and-alien-technologies/1881814855882892/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicenews/videos/exploring-bob-lazars-claim-government-and-alien-technologies/1881814855882892/</a>

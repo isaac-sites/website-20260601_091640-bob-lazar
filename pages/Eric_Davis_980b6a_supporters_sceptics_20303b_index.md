@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-supporters-sceptics/
 description: Focused pages that expand on Debate.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_supporters_sceptics_20303b
 parent_title: Debate
@@ -16,7 +16,7 @@ parent_permalink: /debate/
 
 # Explore Topics in Debate
 
-The following pages expand on the main **[Debate]({{ '/debate/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Debate]({{ '/debate/' | relative_url }})** page and cover its key branches in.
 
 - [Guarded comments]({{ '/guarded-comments/' | relative_url }})
 - [Insider circles]({{ '/insider-circles/' | relative_url }})

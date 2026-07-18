@@ -298,27 +298,27 @@ image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-overview-so
 
 ## Introduction
 
-[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s exotic-physics work is central to why he has become influential in modern UAP circles. He does not merely say that some aerial reports are unresolved; he has spent decades exploring ideas such as zero-point energy, vacuum engineering, spacetime-metric manipulation, reduced inertia, antigravity-adjacent concepts, and unusual materials. That technical language gives his UAP commentary an air of scientific seriousness. The important distinction is that speculative physics is not the same thing as demonstrated breakthrough technology. Publicly available evidence shows that Puthoff authored and influenced government-linked papers on advanced propulsion and vacuum physics, and that these papers were real products connected to the DIA’s AAWSAP/AATIP-era work. It does not show that anyone has confirmed alien propulsion, operational antigravity, usable zero-point energy, or recovered non-human technology. The fairest reading is that Puthoff has helped keep fringe-adjacent propulsion questions inside parts of the UAP conversation, but the evidential bridge from “interesting conjecture” to “confirmed UAP mechanism” remains missing. arXiv <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">Public Intelligence</span><span class="citation-popover-snippet">Public Intelligence</span></span></span>
+[Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s exotic-physics work is central to why he has become influential in modern UAP circles. He does not merely say that some aerial reports are unresolved; he has spent decades exploring ideas such as zero-point energy, vacuum engineering, spacetime-metric manipulation, reduced inertia, antigravity-adjacent concepts, and unusual materials. That technical language gives his UAP commentary an air of scientific seriousness. The important distinction is that speculative physics is not the same thing as demonstrated breakthrough technology. Publicly available evidence shows that Puthoff authored and influenced government-linked papers on advanced propulsion and vacuum physics, and that these papers were real products connected to the DIA’s AAWSAP/AATIP-era work. It does not show that anyone has confirmed alien propulsion, operational antigravity, usable zero-point energy, or recovered non-human technology. The fairest reading is that Puthoff has helped keep fringe-adjacent propulsion questions inside parts of the UAP conversation, but the evidential bridge from “interesting conjecture” to “confirmed UAP mechanism” remains missing. arXiv<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[2Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">Public Intelligence</span><span class="citation-popover-snippet">Public Intelligence</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-overview.webp" | relative_url }}" alt="Overview image for Exotic Physics" loading="eager" decoding="sync" fetchpriority="high">
 ## Why Puthoff’s physics matters to his UAP credibility
 
 Puthoff’s relevance is not that he is a pilot who personally tracked a craft performing impossible manoeuvres. His importance is that he has functioned as a technical interpreter inside a network where UAP, intelligence interest, private aerospace contractors, anomalous materials, and frontier physics overlap. That makes his exotic-physics record unusually important: it is one of the main reasons supporters see him as more than a UFO enthusiast, and one of the main reasons sceptics treat his judgement with caution.
 
-The strongest public case for taking him seriously is straightforward. Puthoff is a trained physicist and engineer, he has published technical papers, and one of his propulsion papers was not merely a blog post or conference rumination but a Defence Intelligence Reference Document prepared for the Defense Intelligence Agency’s Advanced Aerospace Weapon System Applications programme. The 2010 DIA document “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” names H. E. Puthoff of EarthTech International as author and describes it as part of a series of advanced technology reports produced under AAWSA. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">Public Intelligence</span><span class="citation-popover-snippet">Public Intelligence</span></span></span>
+The strongest public case for taking him seriously is straightforward. Puthoff is a trained physicist and engineer, he has published technical papers, and one of his propulsion papers was not merely a blog post or conference rumination but a Defence Intelligence Reference Document prepared for the Defense Intelligence Agency’s Advanced Aerospace Weapon System Applications programme. The 2010 DIA document “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” names H. E. Puthoff of EarthTech International as author and describes it as part of a series of advanced technology reports produced under AAWSA.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-title">Public Intelligence</span><span class="citation-popover-snippet">Public Intelligence</span></span></span>
 
-The credibility problem is equally clear. Government sponsorship or interest does not mean the physics has been validated. AARO’s 2024 historical review says AAWSAP/AATIP produced exploratory papers across scientific areas in the contract’s statement of work, but also says those papers were “never thoroughly peer reviewed”. It further says AARO had not uncovered other substantive UAP case work conducted by AAWSAP/AATIP beyond reviews, interviews, and unrelated paranormal work. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
+The credibility problem is equally clear. Government sponsorship or interest does not mean the physics has been validated. AARO’s 2024 historical review says AAWSAP/AATIP produced exploratory papers across scientific areas in the contract’s statement of work, but also says those papers were “never thoroughly peer reviewed”. It further says AARO had not uncovered other substantive UAP case work conducted by AAWSAP/AATIP beyond reviews, interviews, and unrelated paranormal work.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 That distinction is the key to this page. Puthoff’s exotic-physics claims help explain why some UAP advocates imagine mechanisms such as field propulsion, inertia control or spacetime manipulation. They do not, on the public record, prove that any UAP uses those mechanisms.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-1-dark.svg" | relative_url }}" alt="Exotic Physics illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Vacuum energy and spacetime themes
 
-Puthoff’s recurring theme is that “empty space” is not truly empty. In quantum theory, the vacuum has fluctuating fields even at the lowest energy state; in general relativity, spacetime geometry is tied to matter and energy. Puthoff’s more ambitious papers ask whether those facts might someday be engineered for propulsion, energy generation, gravity coupling, or inertia reduction. His arXiv-listed paper “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” presents the concept that the quantum vacuum or spacetime metric might be engineered to provide energy or thrust for future spacecraft, while acknowledging the idea is far-reaching. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Puthoff’s recurring theme is that “empty space” is not truly empty. In quantum theory, the vacuum has fluctuating fields even at the lowest energy state; in general relativity, spacetime geometry is tied to matter and energy. Puthoff’s more ambitious papers ask whether those facts might someday be engineered for propulsion, energy generation, gravity coupling, or inertia reduction. His arXiv-listed paper “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” presents the concept that the quantum vacuum or spacetime metric might be engineered to provide energy or thrust for future spacecraft, while acknowledging the idea is far-reaching.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-A closely related paper, “Engineering the Zero-Point Field and Polarizable Vacuum for Interstellar Flight”, co-authored with S. R. Little, is even more explicit about the appeal and the constraint. It says field propulsion might involve manipulating the quantum vacuum or spacetime metric to provide energy or thrust, but also describes the proposal as having a “science-fiction quality” and notes that severe constraints must be acknowledged. In particular, it says the relevant energy densities for spacetime-metric perturbation exceed current engineering capability by many orders of magnitude. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+A closely related paper, “Engineering the Zero-Point Field and Polarizable Vacuum for Interstellar Flight”, co-authored with S. R. Little, is even more explicit about the appeal and the constraint. It says field propulsion might involve manipulating the quantum vacuum or spacetime metric to provide energy or thrust, but also describes the proposal as having a “science-fiction quality” and notes that severe constraints must be acknowledged. In particular, it says the relevant energy densities for spacetime-metric perturbation exceed current engineering capability by many orders of magnitude.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-This is where public discussion often slips. The existence of vacuum fluctuations is real physics. The Casimir effect, quantum field theory and general relativity are not UFO inventions. But moving from “vacuum fields exist” to “a vehicle can exploit them for practical propulsion” is a much larger claim. Puthoff’s own paper recognises conservation-of-momentum constraints and says that any field-propulsion system would have to couple to the external universe or otherwise avoid violating the centre-of-mass constraint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+This is where public discussion often slips. The existence of vacuum fluctuations is real physics. The Casimir effect, quantum field theory and general relativity are not UFO inventions. But moving from “vacuum fields exist” to “a vehicle can exploit them for practical propulsion” is a much larger claim. Puthoff’s own paper recognises conservation-of-momentum constraints and says that any field-propulsion system would have to couple to the external universe or otherwise avoid violating the centre-of-mass constraint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That matters because it prevents a lazy reading in either direction. It is not accurate to say Puthoff simply invented physics terms from nothing. It is also not accurate to say his use of real physics terms establishes a working propulsion technology. His published language mostly inhabits the space between “not logically ruled out in every conceivable future theory” and “nowhere near publicly demonstrated engineering”.
 
@@ -326,26 +326,26 @@ That matters because it prevents a lazy reading in either direction. It is not a
 
 ## The DIA paper list problem
 
-The [DIA paper list]({{ 'dia-paper-list/' | relative_url }}) is one of the most misunderstood pieces of Puthoff’s UAP-era credibility. In 2018, DIA sent Congress a list of 38 reports associated with AATIP/AAWSAP. The letter said the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years. The attachment list includes Puthoff’s “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” alongside topics such as “Traversable Wormholes, Stargates, and Negative Energy”, “Antigravity for Aerospace Applications”, “Concepts for Extracting Energy from the Quantum Vacuum”, “Positron Aerospace Propulsion”, “Space-Communication Implications of Quantum Entanglement and Nonlocality”, and “Aerospace Applications of Programmable Matter”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
+The [DIA paper list]({{ 'dia-paper-list/' | relative_url }}) is one of the most misunderstood pieces of Puthoff’s UAP-era credibility. In 2018, DIA sent Congress a list of 38 reports associated with AATIP/AAWSAP. The letter said the purpose of AATIP was to investigate foreign advanced aerospace weapon threats from the present out to the next 40 years. The attachment list includes Puthoff’s “Advanced Space Propulsion Based on Vacuum (Spacetime Metric) Engineering” alongside topics such as “Traversable Wormholes, Stargates, and Negative Energy”, “Antigravity for Aerospace Applications”, “Concepts for Extracting Energy from the Quantum Vacuum”, “Positron Aerospace Propulsion”, “Space-Communication Implications of Quantum Entanglement and Nonlocality”, and “Aerospace Applications of Programmable Matter”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents.theblackvault.com">[The Black Vault Documents]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents.theblackvault.com</span><span class="citation-popover-snippet">The Black Vault Documents</span></span></span>
 
 For supporters, the list shows that exotic aerospace concepts were taken seriously enough to be commissioned under a defence-intelligence programme. That is a legitimate point. The documents were not imaginary, and Puthoff’s work was part of a real research-product pipeline. The fact that government actors paid for exploratory papers on these themes complicates any claim that the subject was purely internet folklore.
 
 For sceptics, the same list shows something different: speculative topics can be given official document numbers without becoming validated science. A report title such as “Antigravity for Aerospace Applications” is not evidence that antigravity has been achieved. “Traversable Wormholes, Stargates, and Negative Energy” is a theoretical survey topic, not a declassified star-gate programme. The list is best understood as an inventory of horizon-scanning papers, many of them speculative by design, rather than as a catalogue of working technologies.
 
-AARO’s later assessment reinforces that cautious reading. It says AAWSAP/AATIP’s official purpose was to research next-generation aerospace technologies in areas including propulsion, unconventional materials, controls and signature reduction. It also says the selected contractor conducted UFO research and proposed laboratories for recovered materials, even though UFO/UAP investigation was not specifically outlined in the statement of work. Most importantly for this subtopic, AARO says the scientific papers were exploratory and not thoroughly peer reviewed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
+AARO’s later assessment reinforces that cautious reading. It says AAWSAP/AATIP’s official purpose was to research next-generation aerospace technologies in areas including propulsion, unconventional materials, controls and signature reduction. It also says the selected contractor conducted UFO research and proposed laboratories for recovered materials, even though UFO/UAP investigation was not specifically outlined in the statement of work. Most importantly for this subtopic, AARO says the scientific papers were exploratory and not thoroughly peer reviewed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 The “DIA paper list problem” is therefore a problem of evidential inflation. A real contract becomes “the Pentagon studied warp drives”; that becomes “the government knows how UAP propulsion works”; that becomes, in some retellings, “Puthoff’s physics explains alien craft”. The first statement has documentary support. The later claims require evidence the public record does not provide.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-2-dark.svg" | relative_url }}" alt="Exotic Physics illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where the speculative papers are strongest
 
-The strongest part of Puthoff’s exotic-physics record is not proof of UAP technology, but the way he frames testable or at least analysable constraints. His papers do not simply say “anything is possible”. They discuss conservation of momentum, hidden momentum, energy-density limits, general relativity, polarizable-vacuum models, and the difficulty of turning static electromagnetic field momentum into linear thrust. In “Engineering the Zero-Point Field and Polarizable Vacuum”, Puthoff and Little note that a static crossed electric and magnetic field can raise tempting propulsion questions, but then explain that hidden mechanical momentum cancels the linear-thrust possibility under known physics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The strongest part of Puthoff’s exotic-physics record is not proof of UAP technology, but the way he frames testable or at least analysable constraints. His papers do not simply say “anything is possible”. They discuss conservation of momentum, hidden momentum, energy-density limits, general relativity, polarizable-vacuum models, and the difficulty of turning static electromagnetic field momentum into linear thrust. In “Engineering the Zero-Point Field and Polarizable Vacuum”, Puthoff and Little note that a static crossed electric and magnetic field can raise tempting propulsion questions, but then explain that hidden mechanical momentum cancels the linear-thrust possibility under known physics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That is important because it shows a more serious version of fringe-adjacent work than the “free energy machine” caricature. Puthoff’s technical writing often tries to preserve room for radical future developments while admitting that known physics blocks simple shortcuts. In that sense, his papers can be read as speculative boundary-mapping: what would have to change, what constraints would have to be overcome, and what kinds of coupling might be imagined.
 
-His zero-point-energy and inertia work also sits near real scientific debates about whether inertia, gravity and vacuum fields have deeper connections. The published Physical Review A paper by Haisch, Rueda and Puthoff proposed interpreting inertia as electromagnetic resistance arising from distortion of the zero-point field in accelerated frames. That is a genuine published hypothesis, not a UFO-circuit rumour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+His zero-point-energy and inertia work also sits near real scientific debates about whether inertia, gravity and vacuum fields have deeper connections. The published Physical Review A paper by Haisch, Rueda and Puthoff proposed interpreting inertia as electromagnetic resistance arising from distortion of the zero-point field in accelerated frames. That is a genuine published hypothesis, not a UFO-circuit rumour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-The limitation is that a published hypothesis is not the same as a settled mechanism. Later work criticised the Haisch-Rueda-Puthoff inertia theory, arguing that its result relied on incorrect physical and mathematical assumptions in a non-relativistic approach. Similarly, Puthoff’s 1989 “Gravity as a zero-point-fluctuation force” was followed by a Physical Review A comment by Sean Carlip arguing that, when corrected, the resulting force was nongravitational and negligible; Puthoff then published a reply. <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The limitation is that a published hypothesis is not the same as a settled mechanism. Later work criticised the Haisch-Rueda-Puthoff inertia theory, arguing that its result relied on incorrect physical and mathematical assumptions in a non-relativistic approach. Similarly, Puthoff’s 1989 “Gravity as a zero-point-fluctuation force” was followed by a Physical Review A comment by Sean Carlip arguing that, when corrected, the resulting force was nongravitational and negligible; Puthoff then published a reply.<span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: link.aps.org">[APS Link]</a><span class="citation-popover" role="note"><span class="citation-popover-source">link.aps.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 For credibility assessment, that pattern matters. Puthoff’s work is not absent from scientific literature, but some of its most ambitious implications remain contested, peripheral to mainstream physics, or dependent on assumptions that critics argue do not hold.
 
@@ -353,22 +353,22 @@ For credibility assessment, that pattern matters. Puthoff’s work is not absent
 
 ## Why conjectural research is not a breakthrough
 
-The central misconception is that “not ruled out in principle” means “available in practice”. Puthoff’s own wording often leaves a wide gap between those two ideas. His arXiv abstract says matter-vacuum interactions for space-flight applications are “not a priori ruled out”, and his zero-point-field paper says the required energy densities for spacetime perturbation exceed existing engineering by many orders of magnitude. Those phrases are not breakthrough announcements. They are cautious statements about possibility space. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The central misconception is that “not ruled out in principle” means “available in practice”. Puthoff’s own wording often leaves a wide gap between those two ideas. His arXiv abstract says matter-vacuum interactions for space-flight applications are “not a priori ruled out”, and his zero-point-field paper says the required energy densities for spacetime perturbation exceed existing engineering by many orders of magnitude. Those phrases are not breakthrough announcements. They are cautious statements about possibility space.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
-NASA’s Breakthrough Propulsion Physics programme provides a useful comparison because it also entertained radical ideas without treating them as established. NASA’s technical report page describes the programme as an effort to establish metrics and ground rules for credible progress towards goals beyond existing science. That is a responsible posture for speculative propulsion: define constraints, identify measurable questions, and avoid confusing imagination with evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/19970009634" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Breakthrough Propulsion Physics Research Program</span><span class="citation-popover-snippet">Technical Reports Server Breakthrough Propulsion Physics Research Program</span></span></span>
+NASA’s Breakthrough Propulsion Physics programme provides a useful comparison because it also entertained radical ideas without treating them as established. NASA’s technical report page describes the programme as an effort to establish metrics and ground rules for credible progress towards goals beyond existing science. That is a responsible posture for speculative propulsion: define constraints, identify measurable questions, and avoid confusing imagination with evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ntrs.nasa.gov/citations/19970009634" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ntrs.nasa.gov">[nasa]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ntrs.nasa.gov</span><span class="citation-popover-title">Technical Reports Server Breakthrough Propulsion Physics Research Program</span><span class="citation-popover-snippet">Technical Reports Server Breakthrough Propulsion Physics Research Program</span></span></span>
 
-Contemporary reporting on the NASA effort captured the same tension. Wired described debates around warp drives, wormholes and zero-point energy, including Puthoff’s optimism about vacuum energy, but also quoted physicists such as Lawrence Krauss stressing that energy requirements made such ideas impractical on any foreseeable timescale. The article also noted a basic problem with zero-point extraction: even where vacuum effects can be measured, there was no practical way to mine them for usable energy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/1998/07/es-warp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+Contemporary reporting on the NASA effort captured the same tension. Wired described debates around warp drives, wormholes and zero-point energy, including Puthoff’s optimism about vacuum energy, but also quoted physicists such as Lawrence Krauss stressing that energy requirements made such ideas impractical on any foreseeable timescale. The article also noted a basic problem with zero-point extraction: even where vacuum effects can be measured, there was no practical way to mine them for usable energy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/1998/07/es-warp" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 That distinction directly affects UAP interpretation. If a radar track or pilot account seems to suggest extreme acceleration, one can hypothesise exotic propulsion. But the hypothesis does not become evidence for itself. The chain still needs reliable data, independent measurement, exclusion of mundane explanations, and a demonstrated physical mechanism. Without those, exotic physics functions as a narrative amplifier: it makes UAP claims sound technically coherent, but it does not by itself verify them.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-3-dark.svg" | relative_url }}" alt="Exotic Physics illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Materials claims and the missing engineering link
 
-Puthoff’s exotic-physics reputation also intersects with alleged UAP materials. To The Stars discussed a magnesium-zinc-bismuth material and claimed theoretical analysis showed it could act as a terahertz waveguide, while noting unusual layering and unclear fabrication history. That kind of claim matters because it offers a possible bridge from theory to artefact: if an allegedly recovered material had measurable properties tied to advanced propulsion, it would be stronger evidence than speculation alone. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
+Puthoff’s exotic-physics reputation also intersects with alleged UAP materials. To The Stars discussed a magnesium-zinc-bismuth material and claimed theoretical analysis showed it could act as a terahertz waveguide, while noting unusual layering and unclear fabrication history. That kind of claim matters because it offers a possible bridge from theory to artefact: if an allegedly recovered material had measurable properties tied to advanced propulsion, it would be stronger evidence than speculation alone.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
 
-The public evidence has not delivered that bridge. AARO later summarised Oak Ridge National Laboratory work on a magnesium alloy specimen that had been publicly alleged to come from a crashed extraterrestrial vehicle and to have extraordinary properties such as functioning as a terahertz waveguide for antigravity capabilities. AARO’s page says ORNL assessed the material as terrestrial in origin and that it did not meet the theoretical requirements to function as a terahertz waveguide. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
+The public evidence has not delivered that bridge. AARO later summarised Oak Ridge National Laboratory work on a magnesium alloy specimen that had been publicly alleged to come from a crashed extraterrestrial vehicle and to have extraordinary properties such as functioning as a terahertz waveguide for antigravity capabilities. AARO’s page says ORNL assessed the material as terrestrial in origin and that it did not meet the theoretical requirements to function as a terahertz waveguide.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">AARO UAP Records...</span></span></span>
 
-To The Stars did not simply concede that the matter was closed. It argued that the ORNL and Puthoff/Davis analyses answered many structural questions while leaving the material’s purpose uncertain. That is a narrower and more defensible claim than “alien technology confirmed”, but it still leaves the main evidential gap in place: unusual manufacture, unclear provenance, or unresolved purpose is not the same as non-human origin or breakthrough propulsion. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
+To The Stars did not simply concede that the matter was closed. It argued that the ORNL and Puthoff/Davis analyses answered many structural questions while leaving the material’s purpose uncertain. That is a narrower and more defensible claim than “alien technology confirmed”, but it still leaves the main evidential gap in place: unusual manufacture, unclear provenance, or unresolved purpose is not the same as non-human origin or breakthrough propulsion.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span></span></span>
 
 This is one of the clearest examples of how Puthoff’s exotic-physics world can both help and hurt credibility. It helps by encouraging actual laboratory testing rather than pure anecdote. It hurts when theoretical possibilities are allowed to outrun chain of custody, reproducible results and independent confirmation.
 
@@ -376,9 +376,9 @@ This is one of the clearest examples of how Puthoff’s exotic-physics world can
 
 ## What the evidence does and does not support
 
-The public record supports a limited set of claims about Puthoff and exotic physics. He has written and co-written papers about vacuum engineering, zero-point energy, spacetime metrics, gravity and inertia. His “Advanced Space Propulsion” paper became a DIA-linked AAWSAP product. The AAWSAP/AATIP paper list really did include several highly speculative aerospace topics. Supporters are therefore right that Puthoff’s role cannot be dismissed as merely casual UFO commentary. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2arXiv
+The public record supports a limited set of claims about Puthoff and exotic physics. He has written and co-written papers about vacuum engineering, zero-point energy, spacetime metrics, gravity and inertia. His “Advanced Space Propulsion” paper became a DIA-linked AAWSAP product. The AAWSAP/AATIP paper list really did include several highly speculative aerospace topics. Supporters are therefore right that Puthoff’s role cannot be dismissed as merely casual UFO commentary.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span> 2arXiv
 
-The same record does not support the strongest popular leap. It does not show confirmed zero-point energy extraction, a working antigravity device, controllable inertia reduction, alien [metamaterials]({{ 'metamaterials/' | relative_url }}), or a verified propulsion mechanism for UAP. AARO’s historical review found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial technology, and it also found no empirical evidence that government, private or academic investigations had uncovered verifiable information about recovered extraterrestrial craft or beings. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
+The same record does not support the strongest popular leap. It does not show confirmed zero-point energy extraction, a working antigravity device, controllable inertia reduction, alien [metamaterials]({{ 'metamaterials/' | relative_url }}), or a verified propulsion mechanism for UAP. AARO’s historical review found no evidence that any US government investigation, academic-sponsored research or official review panel had confirmed a UAP sighting as extraterrestrial technology, and it also found no empirical evidence that government, private or academic investigations had uncovered verifiable information about recovered extraterrestrial craft or beings.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-3 "Endnote 3")
 
 A balanced credibility judgement should therefore split the issue in two. Puthoff is credible as a documented participant in speculative advanced-propulsion and UAP-adjacent research networks. He is much less persuasive as public proof that exotic physics explains UAP. His papers may help describe what an advanced mechanism would have to overcome, but they do not publicly demonstrate that such a mechanism exists.
 
@@ -389,194 +389,194 @@ When assessing Puthoff’s UAP credibility, the safest rule is to treat his exot
 The most reasonable assessment is neither blanket dismissal nor credulous acceptance. Puthoff’s speculative physics helps explain why a strand of modern UAP discourse sounds more technical than older flying-saucer lore. It also shows how easily scientific possibility can be mistaken for evidential support. Until there is independently verified data showing a device, material or UAP performing in a way that requires these mechanisms, Puthoff’s exotic-physics work remains an influential body of conjecture rather than a confirmed breakthrough.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Physics Ends and Speculation Begins. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Physics Ends and Speculation Begins. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Directly overlaps with zero-point energy and advanced aerospace speculation.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly overlaps with zero-point energy and advanced aerospace speculation.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
-        </h4>
-        <p class="fr-book-author">By Michio Kaku</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Physics of the Impossible on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zmmQMPAVkxgC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Physics of the Impossible" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
+</h4>
+<p class="fr-book-author">By Michio Kaku</p>
         
-        <p class="fr-book-desc">Explores speculative technologies while distinguishing theory from reality.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores speculative technologies while distinguishing theory from reality.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides context for claims that exceed available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for claims that exceed available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
+</h4>
+<p class="fr-book-author">By James Randi</p>
         
-        <p class="fr-book-desc">Highlights the need for evidence beyond speculative frameworks.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Highlights the need for evidence beyond speculative frameworks.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Physics+of+the+Impossible&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Physics of the Impossible</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="https://i.ebayimg.com/images/g/r4AAAOSwsfNg-zxK/s-l225.jpg" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster"><img src="https://i.ebayimg.com/images/g/r4AAAOSwsfNg-zxK/s-l225.jpg" alt="Listing image for Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Educational vintage A3 A4 Mushroom Chart Biology Science Fungi art print poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCIENCE YOU MATTER Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/brEAAeSwS-xp1~Or/s-l225.jpg" alt="Listing image for SCIENCE YOU MATTER Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">SCIENCE YOU MATTER Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for SCIENCE YOU MATTER Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/brEAAeSwS-xp1~Or/s-l225.jpg" alt="Listing image for SCIENCE YOU MATTER Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">SCIENCE YOU MATTER Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="https://i.ebayimg.com/images/g/Pd0AAeSwrIhp5gxF/s-l225.jpg" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd"><img src="https://i.ebayimg.com/images/g/Pd0AAeSwrIhp5gxF/s-l225.jpg" alt="Listing image for Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Funny Science Poster Can I Lick It Periodic Table Print Chemistry Wall Art Nerd</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/rDgAAeSwpzNp2SSl/s-l225.jpg" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search <span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/rDgAAeSwpzNp2SSl/s-l225.jpg" alt="Listing image for Science Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">Science Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for science art print">Search<span data-ebay-domain-label>eBay.co.uk</span>: science art print</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=science+art+print&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-physics-ends-and-speculation-begins-science-art-print&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="science art print" data-ebay-reference="where-physics-ends-and-speculation-begins-science-art-print" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -592,7 +592,7 @@ The most reasonable assessment is neither blanket dismissal nor credulous accept
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -612,7 +612,7 @@ The most reasonable assessment is neither blanket dismissal nor credulous accept
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -644,7 +644,7 @@ The most reasonable assessment is neither blanket dismissal nor credulous accept
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -696,7 +696,7 @@ The most reasonable assessment is neither blanket dismissal nor credulous accept
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -741,7 +741,7 @@ The most reasonable assessment is neither blanket dismissal nor credulous accept
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -782,226 +782,226 @@ The most reasonable assessment is neither blanket dismissal nor credulous accept
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1204.2184</a>  
+   Link:<a href="https://arxiv.org/abs/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1204.2184</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: info.publicintelligence.net  
    Title: Public Intelligence  
-   Link: <a href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf</a>  
+   Link:<a href="https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-AdvancedSpacePropulsion.pdf</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Microsoft Word  
-   Link: <a href="https://arxiv.org/pdf/1012.5264" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1012.5264</a>  
+   Link:<a href="https://arxiv.org/pdf/1012.5264" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1012.5264</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: documents.theblackvault.com  
    Title: The Black Vault Documents  
-   Link: <a href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf</a>  
+   Link:<a href="https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents.theblackvault.com/documents/dia/dia-aatip-reports.pdf</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.49.678</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevA.49.678" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.49.678</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevA.79.012114" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.79.012114</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevA.79.012114" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.79.012114</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevA.47.3452" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.47.3452</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevA.47.3452" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.47.3452</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevA.47.3454" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.47.3454</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevA.47.3454" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.47.3454</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ntrs.nasa.gov  
    Title: Technical Reports Server Breakthrough Propulsion Physics Research Program  
-   Link: <a href="https://ntrs.nasa.gov/citations/19970009634" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19970009634</a>  
+   Link:<a href="https://ntrs.nasa.gov/citations/19970009634" target="_blank" rel="noopener noreferrer nofollow">https://ntrs.nasa.gov/citations/19970009634</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/1998/07/es-warp" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1998/07/es-warp</a>  
+   Link:<a href="https://www.wired.com/1998/07/es-warp" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/1998/07/es-warp</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO UAP Records...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevA.40.4857" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.40.4857</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevA.40.4857" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.40.4857</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/doi/10.1103/PhysRevA.39.2333" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.39.2333</a>  
+   Link:<a href="https://link.aps.org/doi/10.1103/PhysRevA.39.2333" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/doi/10.1103/PhysRevA.39.2333</a>  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: link.aps.org  
-   Link: <a href="https://link.aps.org/pdf/10.1103/PhysRevA.47.3452" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/pdf/10.1103/PhysRevA.47.3452</a>  
+   Link:<a href="https://link.aps.org/pdf/10.1103/PhysRevA.47.3452" target="_blank" rel="noopener noreferrer nofollow">https://link.aps.org/pdf/10.1103/PhysRevA.47.3452</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
+   Link:<a href="https://arxiv.org/pdf/1204.2184" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/1204.2184</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/1012.5264" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1012.5264</a>  
+   Link:<a href="https://arxiv.org/abs/1012.5264" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/1012.5264</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/pdf/gr-qc/9906069" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/gr-qc/9906069</a>  
+   Link:<a href="https://arxiv.org/pdf/gr-qc/9906069" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/pdf/gr-qc/9906069</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
+   Link:<a href="https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: earthtech.org  
    Title: PRAv40 4857  
-   Link: <a href="https://www.earthtech.org/publications/PRAv40_4857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/PRAv40_4857.pdf</a>  
+   Link:<a href="https://www.earthtech.org/publications/PRAv40_4857.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/PRAv40_4857.pdf</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: earthtech.org  
    Title: PRAv39 2333  
-   Link: <a href="https://www.earthtech.org/publications/PRAv39_2333.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/PRAv39_2333.pdf</a>  
+   Link:<a href="https://www.earthtech.org/publications/PRAv39_2333.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.earthtech.org/publications/PRAv39_2333.pdf</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170027/</a>  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170031/</a>  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: tothestars.media  
    Title: To The Stars*Material of Interest: Magnesium-Zinc-Bismuth  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOop9cD5Q_gTB4tLa8rush9vSgYclM1siXlXwCbxG9pmsGQspHtQn</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tothestars.media  
    Title: To The Stars*TTS* Analysis on ORNL Report  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOookeNgztSe33Iakn3NOTzds5YE9nrsTBImobZ7Z1Z_56Ed7je3e" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOookeNgztSe33Iakn3NOTzds5YE9nrsTBImobZ7Z1Z_56Ed7je3e</a>  
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOookeNgztSe33Iakn3NOTzds5YE9nrsTBImobZ7Z1Z_56Ed7je3e" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOookeNgztSe33Iakn3NOTzds5YE9nrsTBImobZ7Z1Z_56Ed7je3e</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoqojPPed_d4hVcYkN_MQ0jjm73IOiPWwu3hqDL1I0301oyx-T3P" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoqojPPed_d4hVcYkN_MQ0jjm73IOiPWwu3hqDL1I0301oyx-T3P</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoqojPPed_d4hVcYkN_MQ0jjm73IOiPWwu3hqDL1I0301oyx-T3P" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoqojPPed_d4hVcYkN_MQ0jjm73IOiPWwu3hqDL1I0301oyx-T3P</a>  
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2012arXiv1204.2184P/abstract</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2005ntrs.rept00022M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2005ntrs.rept00022M/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2005ntrs.rept00022M/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2005ntrs.rept00022M/abstract</a>  
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: ui.adsabs.harvard.edu  
-   Link: <a href="https://ui.adsabs.harvard.edu/abs/2009PhRvA..79a2114L/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2009PhRvA..79a2114L/abstract</a>  
+   Link:<a href="https://ui.adsabs.harvard.edu/abs/2009PhRvA..79a2114L/abstract" target="_blank" rel="noopener noreferrer nofollow">https://ui.adsabs.harvard.edu/abs/2009PhRvA..79a2114L/abstract</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: us.mensa.org  
    Title: to the stars academy unafraid to investigate the unexplained  
-   Link: <a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
+   Link:<a href="https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/" target="_blank" rel="noopener noreferrer nofollow">https://www.us.mensa.org/read/bulletin/features/to-the-stars-academy-unafraid-to-investigate-the-unexplained/</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-metamaterials-to-potential-ufo-material-warns-investigation-could-go-nowhere" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-metamaterials-to-potential-ufo-material-warns-investigation-could-go-nowhere</a>  
+   Link:<a href="https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-metamaterials-to-potential-ufo-material-warns-investigation-could-go-nowhere" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-metamaterials-to-potential-ufo-material-warns-investigation-could-go-nowhere</a>  
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: documents2.theblackvault.com  
-   Link: <a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
+   Link:<a href="https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/osd/20-F-1095.pdf</a>  
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/research?srsltid=AfmBOook4F7W2Xu0RshFCP-Y0a3IZ-Nav42aO-Q6rh-svnNu3Uw50BBd" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOook4F7W2Xu0RshFCP-Y0a3IZ-Nav42aO-Q6rh-svnNu3Uw50BBd</a>  
+   Link:<a href="https://tothestars.media/pages/research?srsltid=AfmBOook4F7W2Xu0RshFCP-Y0a3IZ-Nav42aO-Q6rh-svnNu3Uw50BBd" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOook4F7W2Xu0RshFCP-Y0a3IZ-Nav42aO-Q6rh-svnNu3Uw50BBd</a>  
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/pages/research?srsltid=AfmBOooeDPy67Jkg0r1wsvtUIGq6q-uOhd6_n9cxQbmrUZ_E0Gc1x57A" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOooeDPy67Jkg0r1wsvtUIGq6q-uOhd6_n9cxQbmrUZ_E0Gc1x57A</a>  
+   Link:<a href="https://tothestars.media/pages/research?srsltid=AfmBOooeDPy67Jkg0r1wsvtUIGq6q-uOhd6_n9cxQbmrUZ_E0Gc1x57A" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/pages/research?srsltid=AfmBOooeDPy67Jkg0r1wsvtUIGq6q-uOhd6_n9cxQbmrUZ_E0Gc1x57A</a>  
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOooHnT5PSAk8WIrgjMkZ4qSZ2hNOkmH75Aarb8NdKqnMJf1dPpG3" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOooHnT5PSAk8WIrgjMkZ4qSZ2hNOkmH75Aarb8NdKqnMJf1dPpG3</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOooHnT5PSAk8WIrgjMkZ4qSZ2hNOkmH75Aarb8NdKqnMJf1dPpG3" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOooHnT5PSAk8WIrgjMkZ4qSZ2hNOkmH75Aarb8NdKqnMJf1dPpG3</a>  
 
-41. <a id="endnote-41"></a>
+41.<a id="endnote-41"></a>
    Source: hiroko.or.jp  
    Title: Gravity As AZero Point Fluctuation Force  
-   Link: <a href="https://hiroko.or.jp/wp-content/file/gravity-control/Fundamental%20Research/Mechanism%20of%20gravity%20generation/Harold%20Puthoff/GravityAsAZeroPointFluctuationForce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hiroko.or.jp/wp-content/file/gravity-control/Fundamental%20Research/Mechanism%20of%20gravity%20generation/Harold%20Puthoff/GravityAsAZeroPointFluctuationForce.pdf</a>  
+   Link:<a href="https://hiroko.or.jp/wp-content/file/gravity-control/Fundamental%20Research/Mechanism%20of%20gravity%20generation/Harold%20Puthoff/GravityAsAZeroPointFluctuationForce.pdf" target="_blank" rel="noopener noreferrer nofollow">https://hiroko.or.jp/wp-content/file/gravity-control/Fundamental%20Research/Mechanism%20of%20gravity%20generation/Harold%20Puthoff/GravityAsAZeroPointFluctuationForce.pdf</a>  
 
 ### Additional References
 
-42. <a id="endnote-42"></a>
+42.<a id="endnote-42"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering</a>  
+   Link:<a href="https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/223130116_Advanced_Space_Propulsion_Based_on_Vacuum_Spacetime_Metric_Engineering</a>  
 
-43. <a id="endnote-43"></a>
+43.<a id="endnote-43"></a>
    Source: academia.edu  
-   Link: <a href="https://www.academia.edu/51621244/Gravity_as_a_zero_point_fluctuation_force" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/51621244/Gravity_as_a_zero_point_fluctuation_force</a>  
+   Link:<a href="https://www.academia.edu/51621244/Gravity_as_a_zero_point_fluctuation_force" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/51621244/Gravity_as_a_zero_point_fluctuation_force</a>  
 
-44. <a id="endnote-44"></a>
+44.<a id="endnote-44"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/popularmechanics/posts/a-possible-ufo-metal-went-to-a-national-labheres-what-the-tests-revealed/1321115933208973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/popularmechanics/posts/a-possible-ufo-metal-went-to-a-national-labheres-what-the-tests-revealed/1321115933208973/</a>  
+   Link:<a href="https://www.facebook.com/popularmechanics/posts/a-possible-ufo-metal-went-to-a-national-labheres-what-the-tests-revealed/1321115933208973/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/popularmechanics/posts/a-possible-ufo-metal-went-to-a-national-labheres-what-the-tests-revealed/1321115933208973/</a>  
 
-45. <a id="endnote-45"></a>
+45.<a id="endnote-45"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
 
-46. <a id="endnote-46"></a>
+46.<a id="endnote-46"></a>
    Source: bis-space.com  
-   Link: <a href="https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/</a>  
+   Link:<a href="https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/" target="_blank" rel="noopener noreferrer nofollow">https://bis-space.com/shop/product/advanced-space-propulsion-based-on-vacuum-spacetime-metric-engineering/</a>  
 
-47. <a id="endnote-47"></a>
+47.<a id="endnote-47"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/235588980_Inertia_as_a_zero-point-field_force_Critical_analysis_of_the_Haisch-Rueda-Puthoff_inertia_theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235588980_Inertia_as_a_zero-point-field_force_Critical_analysis_of_the_Haisch-Rueda-Puthoff_inertia_theory</a>  
+   Link:<a href="https://www.researchgate.net/publication/235588980_Inertia_as_a_zero-point-field_force_Critical_analysis_of_the_Haisch-Rueda-Puthoff_inertia_theory" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/235588980_Inertia_as_a_zero-point-field_force_Critical_analysis_of_the_Haisch-Rueda-Puthoff_inertia_theory</a>  
 
-48. <a id="endnote-48"></a>
+48.<a id="endnote-48"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/226358904409311/posts/1812839005761285/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/226358904409311/posts/1812839005761285/</a>  
+   Link:<a href="https://www.facebook.com/groups/226358904409311/posts/1812839005761285/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/226358904409311/posts/1812839005761285/</a>  
 
-49. <a id="endnote-49"></a>
+49.<a id="endnote-49"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/nxzasx/fascinating_lecture_by_hal_puthoff_on_recovered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nxzasx/fascinating_lecture_by_hal_puthoff_on_recovered/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/nxzasx/fascinating_lecture_by_hal_puthoff_on_recovered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/nxzasx/fascinating_lecture_by_hal_puthoff_on_recovered/</a>  
 
-50. <a id="endnote-50"></a>
+50.<a id="endnote-50"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/Gravity-as-a-zero-point-fluctuation-force.-Puthoff/86ed598bb0250f74b56f22b2f4c9e7d3a0a7a5c7" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Gravity-as-a-zero-point-fluctuation-force.-Puthoff/86ed598bb0250f74b56f22b2f4c9e7d3a0a7a5c7</a>  
+   Link:<a href="https://www.semanticscholar.org/paper/Gravity-as-a-zero-point-fluctuation-force.-Puthoff/86ed598bb0250f74b56f22b2f4c9e7d3a0a7a5c7" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/Gravity-as-a-zero-point-fluctuation-force.-Puthoff/86ed598bb0250f74b56f22b2f4c9e7d3a0a7a5c7</a>  
 
-51. <a id="endnote-51"></a>
+51.<a id="endnote-51"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cq55cp/hal_puthoff/</a>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-degree-verification/
 description: Focused pages that expand on Degrees.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_degree_verification_eaee04
 parent_title: Degrees
@@ -16,7 +16,7 @@ parent_permalink: /degrees/
 
 # Explore Topics in Degrees
 
-The following pages expand on the main **[Degrees]({{ '/degrees/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Degrees]({{ '/degrees/' | relative_url }})** page and cover its key branches in.
 
 - [Caltech check]({{ '/caltech-check/' | relative_url }})
 - [MIT records]({{ '/mit-records/' | relative_url }})

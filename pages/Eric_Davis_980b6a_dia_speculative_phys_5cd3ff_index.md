@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-dia-speculative-phys/
 description: Focused pages that expand on DIA Papers.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_dia_speculative_phys_5cd3ff
 parent_title: DIA Papers
@@ -16,7 +16,7 @@ parent_permalink: /dia-papers/
 
 # Explore Topics in DIA Papers
 
-The following pages expand on the main **[DIA Papers]({{ '/dia-papers/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[DIA Papers]({{ '/dia-papers/' | relative_url }})** page and cover its key branches in.
 
 - [FOIA trail]({{ '/foia-trail/' | relative_url }})
 - [Negative energy]({{ '/negative-energy/' | relative_url }})

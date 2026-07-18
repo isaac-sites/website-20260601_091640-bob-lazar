@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-ultraterrestrial/
 description: Focused pages that expand on Ultraterrestrials.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a
 parent_title: Ultraterrestrials
@@ -16,7 +16,7 @@ parent_permalink: /ultraterrestrials/
 
 # Explore Topics in Ultraterrestrials
 
-The following pages expand on the main **[Ultraterrestrials]({{ '/ultraterrestrials/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Ultraterrestrials]({{ '/ultraterrestrials/' | relative_url }})** page and cover its key branches in.
 
 - [Official Reports]({{ '/official-reports/' | relative_url }})
 - [Origin Menu]({{ '/origin-menu/' | relative_url }})

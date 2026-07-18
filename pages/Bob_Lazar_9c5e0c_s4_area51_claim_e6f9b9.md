@@ -298,31 +298,31 @@ image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview-social.jp
 
 ## Introduction
 
-Bob Lazar’s S-4 workplace claim is the hinge of his Area 51 story. The question is not simply whether Area 51 exists — it does — but whether Lazar’s alleged hidden workplace near Papoose Lake can be shown to have existed in the form he described: a camouflaged facility where he says recovered non-human craft were stored and studied. The best evidence supports the broader setting of secret aviation activity around Groom Lake, but it does not independently verify Lazar’s S-4 facility, his claimed role there, or the presence of alien craft. Official records point strongly to classified aircraft testing, radar work, training ranges and foreign aircraft exploitation; Lazar’s specific Papoose Lake workplace remains unproven, disputed and dependent mainly on his own account and secondary retellings. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
+Bob Lazar’s S-4 workplace claim is the hinge of his Area 51 story. The question is not simply whether Area 51 exists — it does — but whether Lazar’s alleged hidden workplace near Papoose Lake can be shown to have existed in the form he described: a camouflaged facility where he says recovered non-human craft were stored and studied. The best evidence supports the broader setting of secret aviation activity around Groom Lake, but it does not independently verify Lazar’s S-4 facility, his claimed role there, or the presence of alien craft. Official records point strongly to classified aircraft testing, radar work, training ranges and foreign aircraft exploitation; Lazar’s specific Papoose Lake workplace remains unproven, disputed and dependent mainly on his own account and secondary retellings.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview.webp" | relative_url }}" alt="Overview image for S 4 Claim" loading="eager" decoding="sync" fetchpriority="high">
 ## What Lazar said about S-4
 
-Lazar’s claim places him not at the main Groom Lake base itself, but at a separate installation he called S-4, near Area 51 and associated in later accounts with Papoose Lake, south-west of Groom Lake. In the usual version of the story, he was flown from Las Vegas to Groom Lake, then taken by bus with covered or blacked-out windows to another site where he worked on a reverse-engineering programme. That distinction matters because a real Area 51 does not automatically validate a separate S-4 facility, and a real secret aviation range does not automatically validate non-human technology. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Pro</span><span class="citation-popover-snippet">Papoose – Pro</span></span></span>
+Lazar’s claim places him not at the main Groom Lake base itself, but at a separate installation he called S-4, near Area 51 and associated in later accounts with Papoose Lake, south-west of Groom Lake. In the usual version of the story, he was flown from Las Vegas to Groom Lake, then taken by bus with covered or blacked-out windows to another site where he worked on a reverse-engineering programme. That distinction matters because a real Area 51 does not automatically validate a separate S-4 facility, and a real secret aviation range does not automatically validate non-human technology.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Pro</span><span class="citation-popover-snippet">Papoose – Pro</span></span></span>
 
-The physical description of S-4 is unusually specific. Lazar and those close to the story have described a facility built into, or pressed against, the side of low hills near the east side of Papoose Lake, with multiple camouflaged hangar doors. One specialist Area 51 researcher summarised the claim as a site on the east side of a dry lake, roughly a 30-minute bus ride from Groom, reached by a decent dirt road, with a hangar side possibly more than 600 feet long if it held nine bays of the sort Lazar described. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Con</span><span class="citation-popover-snippet">Papoose – Con</span></span></span>
+The physical description of S-4 is unusually specific. Lazar and those close to the story have described a facility built into, or pressed against, the side of low hills near the east side of Papoose Lake, with multiple camouflaged hangar doors. One specialist Area 51 researcher summarised the claim as a site on the east side of a dry lake, roughly a 30-minute bus ride from Groom, reached by a decent dirt road, with a hangar side possibly more than 600 feet long if it held nine bays of the sort Lazar described.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Con</span><span class="citation-popover-snippet">Papoose – Con</span></span></span>
 
 The claimed workplace is central to credibility because it is where Lazar says the extraordinary part happened. In his account, S-4 was not just an office, a hangar, or a security checkpoint. It was the place where disc-shaped craft were allegedly stored, where he saw the “[Sport Model]({{ 'sport-model/' | relative_url }})”, and where he says he was assigned to understand a [propulsion]({{ 'propulsion/' | relative_url }}) system beyond known human engineering. Without S-4 as a real, accessible, compartmented workplace, the rest of the story loses its claimed chain of access.
 
-There is also a subtle but important uncertainty in the location story. Some accounts present Papoose Lake as if Lazar named it straightforwardly from the beginning. Other reconstructions note that the exact site was inferred later by Lazar and associates from journey time, terrain clues and the layout he remembered, rather than from a public map label handed to him at the time. That does not disprove the claim, but it weakens the impression that the geography is a simple independently established fact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
+There is also a subtle but important uncertainty in the location story. Some accounts present Papoose Lake as if Lazar named it straightforwardly from the beginning. Other reconstructions note that the exact site was inferred later by Lazar and associates from journey time, terrain clues and the layout he remembered, rather than from a public map label handed to him at the time. That does not disprove the claim, but it weakens the impression that the geography is a simple independently established fact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-1-dark.svg" | relative_url }}" alt="S 4 Claim illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-1-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What Area 51 records actually support
 
-The strongest evidence in the whole setting is that Area 51, Groom Lake and the Nevada Test and Training Range are real, long-used, highly restricted military and intelligence landscapes. The National Security Archive’s publication of declassified CIA material in 2013 showed numerous references to Area 51 and Groom Lake, including a declassified map, in the history of the U-2 and OXCART reconnaissance programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
+The strongest evidence in the whole setting is that Area 51, Groom Lake and the Nevada Test and Training Range are real, long-used, highly restricted military and intelligence landscapes. The National Security Archive’s publication of declassified CIA material in 2013 showed numerous references to Area 51 and Groom Lake, including a declassified map, in the history of the U-2 and OXCART reconnaissance programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
-Those records make the Area 51 backdrop more credible in an ordinary intelligence and aerospace sense. Groom Lake was chosen because it was remote, protected by surrounding terrain, and useful for secret flight testing. Declassified records and later archival summaries show its role in programmes such as the U-2, OXCART/A-12, stealth development, foreign radar testing and covertly obtained Soviet MiG exploitation. That is exactly the kind of environment in which unusual lights, secrecy, restricted access and rumours could flourish. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
+Those records make the Area 51 backdrop more credible in an ordinary intelligence and aerospace sense. Groom Lake was chosen because it was remote, protected by surrounding terrain, and useful for secret flight testing. Declassified records and later archival summaries show its role in programmes such as the U-2, OXCART/A-12, stealth development, foreign radar testing and covertly obtained Soviet MiG exploitation. That is exactly the kind of environment in which unusual lights, secrecy, restricted access and rumours could flourish.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
-The current official description of the wider Nevada Test and Training Range also fits a landscape of secrecy and advanced military activity, even without accepting Lazar’s alien-technology claim. Nellis Air Force Base describes the range as a major test and training environment with 2.9 million acres of land, restricted airspace, electronic combat testing, advanced training, special-access support and security functions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[Nellis Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-snippet">Nevada Test and Training Range &gt; Nellis Air Force Base &gt; Display...</span></span></span>
+The current official description of the wider Nevada Test and Training Range also fits a landscape of secrecy and advanced military activity, even without accepting Lazar’s alien-technology claim. Nellis Air Force Base describes the range as a major test and training environment with 2.9 million acres of land, restricted airspace, electronic combat testing, advanced training, special-access support and security functions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nellis.af.mil">[Nellis Air Force Base]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nellis.af.mil</span><span class="citation-popover-snippet">Nevada Test and Training Range &gt; Nellis Air Force Base &gt; Display...</span></span></span>
 
 That is the part supporters often stress: Lazar placed his story in a real black-project ecosystem before the public had the same level of official acknowledgement now available. The later confirmation of Groom Lake’s role in classified aircraft history helps explain why his account became durable. It shows that the US government really did hide major aerospace programmes in that region.
 
-But the same records also set a limit. Declassified [Area 51 records]({{ 'records-gap/' | relative_url }}) support secret aircraft and intelligence testing, not recovered extraterrestrial craft. The National Security Archive’s own framing says Area 51 is better understood as a government test site for secret aircraft projects including the U-2, OXCART and F-117, along with foreign radar and MiG work. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
+But the same records also set a limit. Declassified [Area 51 records]({{ 'records-gap/' | relative_url }}) support secret aircraft and intelligence testing, not recovered extraterrestrial craft. The National Security Archive’s own framing says Area 51 is better understood as a government test site for secret aircraft projects including the U-2, OXCART and F-117, along with foreign radar and MiG work.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UjqFaQq_7I" title="Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer">Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 7.0M &middot; Uploaded: November 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UjqFaQq_7I">Open on YouTube</a></p></div></div></div>
 
@@ -330,22 +330,22 @@ But the same records also set a limit. Declassified [Area 51 records]({{ 'record
 
 Papoose Lake is the part of the story where the evidence becomes much thinner. It is geographically close enough to Groom Lake to feel plausible to a lay reader, but Lazar’s claimed S-4 was not merely “somewhere in a restricted desert”. It was allegedly a sizeable camouflaged facility with access roads, fencing, personnel movement, hangar doors and operational use of the dry lake bed.
 
-Sceptical Area 51 researchers have argued that such a facility should leave observable traces in imagery and range infrastructure. The Papoose Lake critique points to a 1988 Soviet reconnaissance satellite image, older USGS aerial photographs, roads, terrain marks and expected facility support. In that analysis, the likely location fitting Lazar’s description shows no obvious access road, fenced area, terrain disturbance or facility signature of the kind expected from a large multi-bay installation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Pro</span><span class="citation-popover-snippet">Papoose – Pro</span></span></span>
+Sceptical Area 51 researchers have argued that such a facility should leave observable traces in imagery and range infrastructure. The Papoose Lake critique points to a 1988 Soviet reconnaissance satellite image, older USGS aerial photographs, roads, terrain marks and expected facility support. In that analysis, the likely location fitting Lazar’s description shows no obvious access road, fenced area, terrain disturbance or facility signature of the kind expected from a large multi-bay installation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Pro</span><span class="citation-popover-snippet">Papoose – Pro</span></span></span>
 
 That argument does not prove that nothing classified has ever existed in the broader Papoose area. It does make Lazar’s specific description harder to sustain. A hidden facility of the claimed size would need power, access, security, maintenance, logistics and some form of administrative footprint. Secrecy can conceal purpose, but it does not always erase roads, spoil, drainage changes, vehicle tracks, airspace logic or security routines.
 
-The same specialist critique also raises a bureaucratic point: Papoose Lake is not simply the same as the core Groom Lake base. The argument is that much of Papoose sits outside the most protected Groom parcel and that the range and airspace arrangements do not look like the obvious protective shell one would expect around an active saucer test site. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Con</span><span class="citation-popover-snippet">Papoose – Con</span></span></span>
+The same specialist critique also raises a bureaucratic point: Papoose Lake is not simply the same as the core Groom Lake base. The argument is that much of Papoose sits outside the most protected Groom parcel and that the range and airspace arrangements do not look like the obvious protective shell one would expect around an active saucer test site.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-title">Papoose – Con</span><span class="citation-popover-snippet">Papoose – Con</span></span></span>
 
 Supporters answer that a deeply compartmented programme might deliberately avoid ordinary signatures, use camouflage, exploit natural terrain, and keep even regular Groom personnel away. That is possible in principle, but it turns the site claim into a claim about extraordinary concealment rather than a claim supported by visible or documentary confirmation.
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-2-dark.svg" | relative_url }}" alt="S 4 Claim illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The real secret landscape cuts both ways
 
-Area 51’s real history is a double-edged fact for Lazar. On one side, the region was genuinely used for secret technology, and official secrecy around Groom Lake was not imaginary. The U-2, A-12/OXCART and F-117 histories show that the US could build, test and protect aircraft programmes for years before the public understood what was happening. <span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
+Area 51’s real history is a double-edged fact for Lazar. On one side, the region was genuinely used for secret technology, and official secrecy around Groom Lake was not imaginary. The U-2, A-12/OXCART and F-117 histories show that the US could build, test and protect aircraft programmes for years before the public understood what was happening.<span class="citation-chip-wrap"><a class="citation-chip" href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nsarchive2.gwu.edu">[National Security Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nsarchive2.gwu.edu</span><span class="citation-popover-title">National Security Archive The Secret History of the U-2</span><span class="citation-popover-snippet">National Security Archive The Secret History of the U-2</span></span></span>
 
 On the other side, those same historical examples show what eventually becomes visible when a programme is real: records emerge, aircraft are declassified, budgets and contractors become traceable, crash sites and support infrastructure can be studied, and participants can be cross-checked. The known black-aircraft record has become richer over time. The claimed S-4 alien-craft programme has not followed the same evidential path.
 
-Modern UAP reporting has not filled that gap. The All-domain Anomaly Resolution Office’s 2024 historical report said it found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology, and it said many authentic classified programmes had been mistakenly associated with alien claims. That finding does not specifically “solve” Bob Lazar, but it directly bears on the kind of reverse-engineering claim his S-4 story depends on. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-14 "Endnote 14")
+Modern UAP reporting has not filled that gap. The All-domain Anomaly Resolution Office’s 2024 historical report said it found no empirical evidence that the US government or private companies had been reverse-engineering extraterrestrial technology, and it said many authentic classified programmes had been mistakenly associated with alien claims. That finding does not specifically “solve” Bob Lazar, but it directly bears on the kind of reverse-engineering claim his S-4 story depends on.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">U.S. Department of War AARO Historical Record Report Volume 1</span><span class="citation-popover-snippet">U.S. Department of War AARO Historical Record Report Volume 1</span></span></span>(#endnote-14 "Endnote 14")
 
 This is why a balanced reading separates three propositions. First, Area 51 is real and historically important. Second, secret aircraft and weapons testing in that wider Nevada range is well documented. Third, Lazar’s S-4 facility containing non-human craft remains unverified. The first two points make the story’s setting plausible; they do not prove the central workplace claim.
 
@@ -355,7 +355,7 @@ This is why a balanced reading separates three propositions. First, Area 51 is r
 
 The S-4 claim is unusually testable compared with many UFO stories because it names a type of place, a rough location, a function, a physical layout and a work routine. Stronger evidence would not have to reveal every classified detail. It could include personnel records, contractor paperwork, transport logs, security documents, land-use records, engineering support records, credible first-hand corroboration from independent co-workers, or imagery showing a facility matching the claimed geometry and period.
 
-The current public evidence does not reach that level. The pro-Lazar side relies heavily on his consistency, the reality of Area 51, claims of [erased records]({{ 'erased-records/' | relative_url }}), reported Los Alamos connections, and the intuition that a black programme would leave little public paper trail. The sceptical side relies on missing documentation, problems in Lazar’s wider biography, the absence of a visible Papoose facility matching the claim, and official [UAP reviews]({{ 'uap-reviews/' | relative_url }}) finding no evidence of extraterrestrial reverse-engineering programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
+The current public evidence does not reach that level. The pro-Lazar side relies heavily on his consistency, the reality of Area 51, claims of [erased records]({{ 'erased-records/' | relative_url }}), reported Los Alamos connections, and the intuition that a black programme would leave little public paper trail. The sceptical side relies on missing documentation, problems in Lazar’s wider biography, the absence of a visible Papoose facility matching the claim, and official [UAP reviews]({{ 'uap-reviews/' | relative_url }}) finding no evidence of extraterrestrial reverse-engineering programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[otherhand.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Open source on otherhand.org.</span></span></span>
 
 The most careful conclusion is therefore narrower than either fan or debunker shorthand. S-4 is not disproved merely because it sounds extraordinary, and Area 51’s secrecy makes it understandable that people remain open to hidden compartments. But the known documentary record supports a secret aviation and testing environment, not Lazar’s specific hidden alien-craft workplace.
 
@@ -371,152 +371,152 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/mgGO_O8k2nE" title="Filmmaker says US government worked with Russians at secret Nevada base | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer">Filmmaker says US government worked with Russians at secret Nevada base | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 466.2K &middot; Uploaded: May 2026 &middot; Length: 59 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=mgGO_O8k2nE">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Was S 4 More Than A Story?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Was S 4 More Than A Story?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster"><img src="https://i.ebayimg.com/images/g/bKkAAeSwldZqJ-y7/s-l225.jpg" alt="Listing image for Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster"><img src="https://i.ebayimg.com/images/g/bKkAAeSwldZqJ-y7/s-l225.jpg" alt="Listing image for Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">Area 51 Aliens Poster Print A4 A3 Satin Wall Art Decor Wall Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign"><img src="https://i.ebayimg.com/images/g/AHoAAOSwZd1VY5de/s-l225.jpg" alt="Listing image for AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign"><img src="https://i.ebayimg.com/images/g/AHoAAOSwZd1VY5de/s-l225.jpg" alt="Listing image for AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51 RESTRICTED POSTER 30X21cm Humorous Photo Art Print Home Wall Door Sign</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!"><img src="https://i.ebayimg.com/images/g/1zEAAeSwpZxpr-Dl/s-l225.jpg" alt="Listing image for AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!"><img src="https://i.ebayimg.com/images/g/1zEAAeSwpZxpr-Dl/s-l225.jpg" alt="Listing image for AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51,MAP AREA 51, RARE AUTHENTIC 2000 POSTER, LAST ONE!!!</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 POSTER 11 X 17 IN."><img src="https://i.ebayimg.com/images/g/klwAAeSwSoFp9PqN/s-l225.jpg" alt="Listing image for AREA 51 POSTER 11 X 17 IN." loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51 POSTER 11 X 17 IN.</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for AREA 51 POSTER 11 X 17 IN."><img src="https://i.ebayimg.com/images/g/klwAAeSwSoFp9PqN/s-l225.jpg" alt="Listing image for AREA 51 POSTER 11 X 17 IN." loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">AREA 51 POSTER 11 X 17 IN.</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Area 51 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Area 51 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Area+51+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-s-4-more-than-a-story-area-51-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Area 51 poster" data-ebay-reference="was-s-4-more-than-a-story-area-51-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,118 +722,118 @@ That leaves S-4 as the pressure point in the Bob Lazar narrative. It is the part
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: otherhand.org  
    Title: Papoose – Pro  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/</a>  
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-papoose-lake-primer/papoose-pro/</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nellis.af.mil  
    Title: Nellis Air Force Base  
-   Link: <a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada Test and Training Range &gt; Nellis Air Force Base &gt; Display...</p></details>
+   Link:<a href="https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/" target="_blank" rel="noopener noreferrer nofollow">https://www.nellis.af.mil/About/Fact-Sheets/Display/Article/284170/nevada-test-and-training-range/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nevada Test and Training Range &gt; Nellis Air Force Base &gt; Display...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: otherhand.org  
    Title: Papoose – Con  
-   Link: <a href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow">https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/</a>  
+   Link:<a href="https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/" target="_blank" rel="noopener noreferrer nofollow">https://www.otherhand.org/bluefire-main/bluefire/the-papoose-lake-primer/papoose-con/</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Area 51  
-   Link: <a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Area_51" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Area_51</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Nevada Test and Training Range  
-   Link: <a href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Nevada_Test_and_Training_Range</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Department" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Department</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Department" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Department</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: military.com  
-   Link: <a href="https://www.military.com/base-guide/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/area-51</a>  
+   Link:<a href="https://www.military.com/base-guide/area-51" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/base-guide/area-51</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
+   Link:<a href="https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/Dreamland_201801/Dreamland_djvu.txt</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: ia801800.us.archive.org  
-   Link: <a href="https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf</a>  
+   Link:<a href="https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf" target="_blank" rel="noopener noreferrer nofollow">https://ia801800.us.archive.org/2/items/Dreamland_201801/Dreamland.pdf</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: otherhand.org  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: nsarchive2.gwu.edu  
    Title: National Security Archive The Secret History of the U-2  
-   Link: <a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
+   Link:<a href="https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive2.gwu.edu/NSAEBB/NSAEBB434/</a>  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: nsarchive.gwu.edu  
-   Link: <a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
+   Link:<a href="https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs" target="_blank" rel="noopener noreferrer nofollow">https://nsarchive.gwu.edu/briefing-book/intelligence/2013-10-29/area-51-file-secret-aircraft-soviet-migs</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: media.defense.gov  
    Title: U.S. Department of War AARO Historical Record Report Volume 1  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dictionary.cambridge.org  
-   Link: <a href="https://dictionary.cambridge.org/dictionary/english/department" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/department</a>  
+   Link:<a href="https://dictionary.cambridge.org/dictionary/english/department" target="_blank" rel="noopener noreferrer nofollow">https://dictionary.cambridge.org/dictionary/english/department</a>  
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgGO_O8k2nE</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>S4 The Bob Lazar Story | Forbidden Frontier #134...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mgGO_O8k2nE" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mgGO_O8k2nE</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>S4 The Bob Lazar Story | Forbidden Frontier #134...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Bob Lazar's Strongest Evidence? The Wednesday Night UFO Test  
-   Link: <a href="https://www.youtube.com/watch?v=xOvbGoAir04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xOvbGoAir04</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=xOvbGoAir04" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=xOvbGoAir04</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Filmmaker says US government worked with Russians at secret Nevada base | Reality Check...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: archives.gov  
-   Link: <a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
+   Link:<a href="https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/files/declassification/iscap/pdf/2014-004-doc01.pdf</a>  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: S4 The Bob Lazar Story | Forbidden Frontier #134  
-   Link: <a href="https://www.youtube.com/watch?v=__KMwbMoNPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__KMwbMoNPk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=__KMwbMoNPk" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=__KMwbMoNPk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar Just Found Declassified Photos of Area 51 Previously Hidden From Us...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/</a>  
+   Link:<a href="https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KAKEnews/posts/area-51-is-an-open-training-range-for-the-us-air-force-and-we-would-discourage-a/10157481766253979/</a>  
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-claim-tied-to-bob-lazar-has-reignited-debate-suggesting-that-his-alleged-mit-b/930587426405813/</a>  
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1sb1cf1/a_photo_of_s4_has_been_released_proving_that_bob/</a>  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: alpventures.com  
-   Link: <a href="https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html</a>  
+   Link:<a href="https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html" target="_blank" rel="noopener noreferrer nofollow">https://www.alpventures.com/topsecret/TS_area51_tour_EXHIBIT.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/wk3jwp/bob_lazar_describes_alien_technology_housed_at/</a>  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en</a>
+   Link:<a href="https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DW_hZ1lkmC7/?hl=en</a>

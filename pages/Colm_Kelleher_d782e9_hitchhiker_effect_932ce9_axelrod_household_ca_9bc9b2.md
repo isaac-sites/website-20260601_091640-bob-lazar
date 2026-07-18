@@ -259,11 +259,11 @@ image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_hous
 The “Axelrod” household story is probably the single most important example in Colm Kelleher’s public argument for the hitchhiker effect. It is also the clearest example of the evidence problem surrounding that argument.
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-1-dark.svg" | relative_url }}" alt="Axelrod case illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-According to Kelleher, a Defence Intelligence Agency-linked official using the pseudonym “Jonathan Axelrod” visited [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) during the AAWSAP era and later reported a prolonged wave of anomalous activity affecting his family home. The case is presented as evidence that whatever was allegedly encountered at the ranch did not remain confined to the location itself. Yet almost every element that would allow outside verification remains unavailable to the public. The family is anonymous, the supporting records have not been released, and independent investigators cannot examine the underlying evidence. As a result, the Axelrod case occupies an unusual position in UFO and paranormal debates: it is central to the claim, but difficult to test. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+According to Kelleher, a Defence Intelligence Agency-linked official using the pseudonym “Jonathan Axelrod” visited [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}) during the AAWSAP era and later reported a prolonged wave of anomalous activity affecting his family home. The case is presented as evidence that whatever was allegedly encountered at the ranch did not remain confined to the location itself. Yet almost every element that would allow outside verification remains unavailable to the public. The family is anonymous, the supporting records have not been released, and independent investigators cannot examine the underlying evidence. As a result, the Axelrod case occupies an unusual position in UFO and paranormal debates: it is central to the claim, but difficult to test.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 ## What Kelleher says happened after the ranch visit
 
-Kelleher's most detailed public description appeared in a 2022 *EdgeScience* article discussing the hitchhiker effect. In that account, “Jonathan Axelrod” is described as a naval intelligence-connected official involved with the Pentagon-linked [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch investigations. Kelleher wrote that after a 2009 ranch visit, Axelrod and his family allegedly experienced years of unusual events at their Virginia home. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+Kelleher's most detailed public description appeared in a 2022 *EdgeScience* article discussing the hitchhiker effect. In that account, “Jonathan Axelrod” is described as a naval intelligence-connected official involved with the Pentagon-linked [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch investigations. Kelleher wrote that after a 2009 ranch visit, Axelrod and his family allegedly experienced years of unusual events at their Virginia home.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 The reported incidents included:
 
@@ -272,17 +272,17 @@ The reported incidents included:
 * Loud footsteps with no obvious source.
 * Reports of “dogman” or wolf-like entities in the garden.
 * Experiences allegedly reported not only by Axelrod but by his wife and children.
-* Claims that friends of the children independently reported seeing strange creatures near the property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+* Claims that friends of the children independently reported seeing strange creatures near the property.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
-Within Kelleher's wider framework, the significance of the story is not simply that a family reported paranormal experiences. The key claim is that the experiences allegedly began after exposure to the ranch environment and then appeared to spread through a household network. This is the basis for the “hitchhiker” label: the phenomenon supposedly travelled with witnesses rather than remaining tied to a location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+Within Kelleher's wider framework, the significance of the story is not simply that a family reported paranormal experiences. The key claim is that the experiences allegedly began after exposure to the ranch environment and then appeared to spread through a household network. This is the basis for the “hitchhiker” label: the phenomenon supposedly travelled with witnesses rather than remaining tied to a location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
-Kelleher has also linked the case to broader discussions of human effects, [contagion models]({{ 'contagion-model/' | relative_url }}) and possible health consequences. In some retellings, the Axelrod family is described as having experienced not only anomalous sightings but medical problems that Kelleher considered potentially relevant to the wider phenomenon. However, those [health claims]({{ 'health-claims/' | relative_url }}) have generally been presented in summary form rather than through publicly available medical documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+Kelleher has also linked the case to broader discussions of human effects, [contagion models]({{ 'contagion-model/' | relative_url }}) and possible health consequences. In some retellings, the Axelrod family is described as having experienced not only anomalous sightings but medical problems that Kelleher considered potentially relevant to the wider phenomenon. However, those [health claims]({{ 'health-claims/' | relative_url }}) have generally been presented in summary form rather than through publicly available medical documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 ## Why anonymity and missing records limit the case
 
 The biggest issue for assessing the Axelrod story is not whether the events sound unusual. It is that nearly all potentially decisive evidence remains inaccessible.
 
-Kelleher argues that anonymity is necessary because the individuals involved held sensitive government positions and did not wish to become public UFO witnesses. That explanation is plausible on its face. Intelligence, defence and military personnel often avoid publicity, especially in controversial subject areas. But anonymity comes with a cost: it prevents independent scrutiny. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+Kelleher argues that anonymity is necessary because the individuals involved held sensitive government positions and did not wish to become public UFO witnesses. That explanation is plausible on its face. Intelligence, defence and military personnel often avoid publicity, especially in controversial subject areas. But anonymity comes with a cost: it prevents independent scrutiny.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 Several key questions remain unresolved:
 
@@ -290,7 +290,7 @@ Several key questions remain unresolved:
 
 Outside researchers cannot confirm who “Jonathan Axelrod” is.
 
-Kelleher has indicated that the name is a pseudonym. Public discussions have occasionally speculated about possible identities, but no confirmed identification has emerged. Even supporters generally acknowledge that the public cannot independently verify the witness's [background]({{ 'background-ef59e9/' | relative_url }}), access level, or exact role within government programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Hitchhiker Phenomenon: r/ufo</span><span class="citation-popover-snippet">The Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — Since John Axelrod had three young kids at home when they investigated Skinwalk...</span><span class="citation-popover-meta">Published: January 13, 2022</span></span></span>
+Kelleher has indicated that the name is a pseudonym. Public discussions have occasionally speculated about possible identities, but no confirmed identification has emerged. Even supporters generally acknowledge that the public cannot independently verify the witness's [background]({{ 'background-ef59e9/' | relative_url }}), access level, or exact role within government programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">The Hitchhiker Phenomenon: r/ufo</span><span class="citation-popover-snippet">The Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — Since John Axelrod had three young kids at home when they investigated Skinwalk...</span><span class="citation-popover-meta">Published: January 13, 2022</span></span></span>
 
 This matters because the case is often cited as a high-level intelligence example rather than an ordinary paranormal report. Without knowing who the witness is, readers must largely rely on Kelleher's characterisation of the individual.
 
@@ -308,13 +308,13 @@ No public release has provided:
 * Photographs with documented provenance.
 * Independent investigative files.
 
-That does not prove the events did not occur. But it means outsiders cannot assess the strength of the evidence directly. Instead, they are evaluating Kelleher's summary of the evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+That does not prove the events did not occur. But it means outsiders cannot assess the strength of the evidence directly. Instead, they are evaluating Kelleher's summary of the evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 ### The timeline problem
 
 The publicly available version of the story compresses events that allegedly unfolded across several years.
 
-Without detailed chronology, it is difficult to evaluate causal claims. If the argument is that ranch exposure triggered later experiences, investigators would ideally want precise dates, environmental conditions, prior experiences, medical histories and alternative explanations. Those details have not been released in a form that permits external review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+Without detailed chronology, it is difficult to evaluate causal claims. If the argument is that ranch exposure triggered later experiences, investigators would ideally want precise dates, environmental conditions, prior experiences, medical histories and alternative explanations. Those details have not been released in a form that permits external review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 ### The health evidence problem
 
@@ -322,7 +322,7 @@ This is arguably the most important gap.
 
 Claims involving illness require a much higher evidential standard than claims involving strange perceptions. To establish a meaningful connection between exposure and disease, researchers would normally need diagnostic records, baseline health information, family history, environmental testing and comparison groups.
 
-No peer-reviewed publication has publicly established such a connection in the Axelrod case. Kelleher has suggested possible associations, but the underlying data remain unavailable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+No peer-reviewed publication has publicly established such a connection in the Axelrod case. Kelleher has suggested possible associations, but the underlying data remain unavailable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-2-dark.svg" | relative_url }}" alt="Axelrod case illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The difference between testimony and evidence
@@ -336,13 +336,13 @@ The Axelrod account relies heavily on reported experiences:
 * Family recollections.
 * Descriptions of sightings.
 * Accounts relayed by children and friends.
-* Retrospective narratives assembled years later. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+* Retrospective narratives assembled years later.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 Supporters argue that multiple witnesses strengthen the story. If several people in one household independently describe unusual events, they contend that this deserves attention.
 
 Critics counter that multiple witnesses within a close social environment do not automatically establish an external cause. Shared expectations, family discussion, memory reinforcement and social contagion can all influence how experiences are interpreted and remembered.
 
-The public evidence currently does not allow those competing explanations to be decisively separated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddat Skinwalker that the Hitchhiker Effect was accepted as fact without ever...</span></span></span>
+The public evidence currently does not allow those competing explanations to be decisively separated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddat Skinwalker that the Hitchhiker Effect was accepted as fact without ever...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/MS7lMPdyeJo" title="Remote Viewing the Hitch-hiker effect from the Skinwalker ranch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=MS7lMPdyeJo" target="_blank" rel="noopener noreferrer">Remote Viewing the Hitch-hiker effect from the Skinwalker ranch</a></p><p class="youtube-embed-meta">Channel: RemoteViewed &middot; Views: 7.0K &middot; Uploaded: October 2022 &middot; Length: 23 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=MS7lMPdyeJo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=MS7lMPdyeJo">Open on YouTube</a></p></div></div></div>
 
@@ -355,9 +355,9 @@ Several arguments are commonly made:
 * The alleged witness was connected to government work rather than paranormal entertainment.
 * The reports involved multiple family members.
 * Similar stories have been described by other individuals associated with Skinwalker Ranch.
-* Kelleher's background as a scientist and programme participant gives him direct access to witnesses unavailable to most researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold&#x27;s Podcast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">skinwalkers at the pentagon paranormal podcast 730</span><span class="citation-popover-snippet">hitchhiker effect when researching Skinwalker Ranch. Could you talk... COLM KELLEHER: The Skinwalkers at the Pentagon book can be found...</span></span></span>
+* Kelleher's background as a scientist and programme participant gives him direct access to witnesses unavailable to most researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: jimharold.com">[Jim Harold&#x27;s Podcast]</a><span class="citation-popover" role="note"><span class="citation-popover-source">jimharold.com</span><span class="citation-popover-title">skinwalkers at the pentagon paranormal podcast 730</span><span class="citation-popover-snippet">hitchhiker effect when researching Skinwalker Ranch. Could you talk... COLM KELLEHER: The Skinwalkers at the Pentagon book can be found...</span></span></span>
 
-Supporters often stress that the story fits a recurring pattern rather than standing alone. In their view, the significance lies in repetition across cases. The Axelrod household is presented as the most detailed illustration of a broader phenomenon reported by ranch investigators, security personnel and associated families. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+Supporters often stress that the story fits a recurring pattern rather than standing alone. In their view, the significance lies in repetition across cases. The Axelrod household is presented as the most detailed illustration of a broader phenomenon reported by ranch investigators, security personnel and associated families.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 Under that interpretation, the lack of public records is frustrating but not fatal. Believers argue that classified environments, privacy concerns and career risks naturally restrict disclosure.
 
@@ -372,11 +372,11 @@ Their concerns include:
 * The absence of released primary documentation.
 * The lack of peer-reviewed medical evidence supporting health claims.
 * The difficulty of distinguishing unusual experiences from folklore, expectation effects or psychological influences.
-* The fact that the strongest versions of the story are largely told through books, interviews and articles authored by people already invested in the Skinwalker narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddat Skinwalker that the Hitchhiker Effect was accepted as fact without ever...</span></span></span>
+* The fact that the strongest versions of the story are largely told through books, interviews and articles authored by people already invested in the Skinwalker narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddat Skinwalker that the Hitchhiker Effect was accepted as fact without ever...</span></span></span>
 
 Critics also note that extraordinary claims become harder to evaluate when every potentially decisive piece of evidence remains private. The more dramatic the claim — especially claims involving apparent contagion, biological effects or reality-altering phenomena — the more important independent verification becomes.
 
-From that perspective, the Axelrod case demonstrates a recurring problem in UFO and paranormal research: a narrative can be detailed and internally consistent while still lacking the evidence needed for outsiders to confirm it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddat Skinwalker that the Hitchhiker Effect was accepted as fact without ever...</span></span></span>
+From that perspective, the Axelrod case demonstrates a recurring problem in UFO and paranormal research: a narrative can be detailed and internally consistent while still lacking the evidence needed for outsiders to confirm it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">Journal of Scientific ExplorationGREENWOOD WORKING GALLEY.inddat Skinwalker that the Hitchhiker Effect was accepted as fact without ever...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GrHqTZaMiR8" title="Haunted By Aliens? The Hitchhiker Effect" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer">Haunted By Aliens? The Hitchhiker Effect</a></p><p class="youtube-embed-meta">Channel: Let&#x27;s Get Haunted &middot; Views: 4.0K &middot; Uploaded: March 2025 &middot; Length: 1 hour 53 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GrHqTZaMiR8">Open on YouTube</a></p></div></div></div>
 
@@ -384,203 +384,203 @@ From that perspective, the Axelrod case demonstrates a recurring problem in UFO 
 
 The Axelrod story is significant because it shows exactly where Kelleher's hitchhiker argument becomes strongest as a narrative and weakest as public evidence.
 
-If Kelleher's account is accurate, it represents one of the most striking reported examples of post-investigation effects associated with Skinwalker Ranch. It would suggest that some witnesses experienced long-term consequences extending well beyond the original location. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+If Kelleher's account is accurate, it represents one of the most striking reported examples of post-investigation effects associated with Skinwalker Ranch. It would suggest that some witnesses experienced long-term consequences extending well beyond the original location.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 At the same time, the case cannot currently establish that such effects were objectively paranormal, contagious or medically caused by exposure to a UAP-related phenomenon. The records necessary to demonstrate those conclusions have not been released.
 
-As a result, the Axelrod household remains an important credibility test for Colm Kelleher. The case is not worthless evidence; it is a detailed testimony from a source Kelleher considers reliable. But it is also not independently validated evidence in the scientific sense. The story's influence comes largely from trust in the witnesses and in Kelleher's reporting rather than from publicly inspectable documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
+As a result, the Axelrod household remains an important credibility test for Colm Kelleher. The case is not worthless evidence; it is a detailed testimony from a source Kelleher considers reliable. But it is also not independently validated evidence in the scientific sense. The story's influence comes largely from trust in the witnesses and in Kelleher's reporting rather than from publicly inspectable documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theblackvault.com</span><span class="citation-popover-title">The Black Vault The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect,</span><span class="citation-popover-snippet">The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</span><span class="citation-popover-meta">Published: June 29, 2022</span></span></span>
 
 That tension explains why the Axelrod case continues to sit at the centre of debates over the hitchhiker effect. For supporters, it is a revealing insider account. For sceptics, it is a vivid example of how extraordinary claims can remain permanently difficult to verify when anonymity, missing records and inaccessible evidence become part of the story itself.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What can the Axelrod case really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What can the Axelrod case really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Introduces the investigative setting behind later household-effect reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Introduces the investigative setting behind later household-effect reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how extraordinary narratives are constructed and interpreted.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how extraordinary narratives are constructed and interpreted.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
-        </h4>
-        <p class="fr-book-author">By John A. Keel</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mothman Prophecies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/725969-M.jpg" alt="Cover for The Mothman Prophecies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
+</h4>
+<p class="fr-book-author">By John A. Keel</p>
         
-        <p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Contains the broader framework for the alleged hitchhiker cases.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Contains the broader framework for the alleged hitchhiker cases.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mothman+Prophecies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mothman Prophecies</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor"><img src="https://i.ebayimg.com/images/g/6oAAAeSw1uBqIOd9/s-l225.jpg" alt="Listing image for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor"><img src="https://i.ebayimg.com/images/g/6oAAAeSw1uBqIOd9/s-l225.jpg" alt="Listing image for Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Supernatural Signed Facsimile Clapboard Prop - Paranormal TV Memorabilia Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue"><img src="https://i.ebayimg.com/images/g/6ZwAAeSwgfBqHyqR/s-l225.jpg" alt="Listing image for Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue"><img src="https://i.ebayimg.com/images/g/6ZwAAeSwgfBqHyqR/s-l225.jpg" alt="Listing image for Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Lot of 6 Vintage FATE Magazines 1990-1992 Paranormal UFO Occult 500th Issue</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM"><img src="https://i.ebayimg.com/images/g/xugAAOSwazFlZj~J/s-l225.jpg" alt="Listing image for Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM"><img src="https://i.ebayimg.com/images/g/xugAAOSwazFlZj~J/s-l225.jpg" alt="Listing image for Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Prozak Paranormal Poster 18x24” Strange Music Twiztid Horrorcore Tech N9ne PDM</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror"><img src="https://i.ebayimg.com/images/g/cKkAAOSwyMdm05WG/s-l225.jpg" alt="Listing image for Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search <span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror"><img src="https://i.ebayimg.com/images/g/cKkAAOSwyMdm05WG/s-l225.jpg" alt="Listing image for Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">Event Horizon Signed Script, Autograph Reprints, 130 Pages Plus Cover Horror</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for paranormal memorabilia">Search<span data-ebay-domain-label>eBay.co.uk</span>: paranormal memorabilia</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=paranormal+memorabilia&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-the-axelrod-case-really-prove-paranormal-memorabilia&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="paranormal memorabilia" data-ebay-reference="what-can-the-axelrod-case-really-prove-paranormal-memorabilia" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -596,7 +596,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -616,7 +616,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -648,7 +648,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -700,7 +700,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -745,7 +745,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -786,89 +786,89 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: reddit.com  
    Title: The Hitchhiker Phenomenon: r/ufo  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — Since John Axelrod had three young kids at home when they investigated Skinwalk...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/s2wsya/the_hitchhiker_phenomenon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hitchhiker Phenomenon: r/ufoJanuary 13, 2022 — Since John Axelrod had three young kids at home when they investigated Skinwalk...</p></details>
    Published: January 13, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker effect: Share your thoughts on how this can be...What are the ideas on how hitchhiker effect at skinwalker can be expl...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/18hc2t7/hitchhiker_effect_share_your_thoughts_on_how_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker effect: Share your thoughts on how this can be...What are the ideas on how hitchhiker effect at skinwalker can be expl...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: theblackvault.com  
    Title: The Black Vault The Pentagon's Secret UFO Program, the Hitchhiker Effect,  
-   Link: <a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</p></details>
+   Link:<a href="https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/casefiles/wp-content/uploads/2022/06/colmkelleher-edgescience.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Black VaultThe Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect...June 29, 2022 — Axelrod, accompanied by Jim Costigan and Davi...</p></details>
    Published: June 29, 2022  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: jimharold.com  
    Title: skinwalkers at the pentagon paranormal podcast 730  
-   Link: <a href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>hitchhiker effect when researching Skinwalker Ranch. Could you talk... COLM KELLEHER: The Skinwalkers at the Pentagon book can be found...</p></details>
+   Link:<a href="https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/" target="_blank" rel="noopener noreferrer nofollow">https://jimharold.com/skinwalkers-at-the-pentagon-paranormal-podcast-730/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>hitchhiker effect when researching Skinwalker Ranch. Could you talk... COLM KELLEHER: The Skinwalkers at the Pentagon book can be found...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker Effect - HOLOSKY PODCAST2 Mar 2026 — We break down the Axelrod case, the Witt family experiences, and the Kelleher household r...</p></details>
+   Link:<a href="https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/4Om0SpAE8DucMP9CdUADDB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hitchhiker Effect - HOLOSKY PODCAST2 Mar 2026 — We break down the Axelrod case, the Witt family experiences, and the Kelleher household r...</p></details>
 
 ### Additional References
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/654704250/colmkelleher-edgescience-1</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Axelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter paran...</p></details>
+   Link:<a href="https://www.scribd.com/document/654704250/colmkelleher-edgescience-1" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/654704250/colmkelleher-edgescience-1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Axelrod Family&#x27;s Paranormal Encounter | PDF | InfectionThe Hitchhiker Effect refers to a phenomenon where individuals who encounter paran...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: experiencer-studies.com  
-   Link: <a href="https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher Hitchhiker Effect ArticleThe Axelrod family also suffered health effects with the wife suffering... home following trips t...</p></details>
+   Link:<a href="https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article" target="_blank" rel="noopener noreferrer nofollow">https://www.experiencer-studies.com/colm-kelleher-hitchhiker-effect-article</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher Hitchhiker Effect ArticleThe Axelrod family also suffered health effects with the wife suffering... home following trips t...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramThus, an eerie cause-and-effect lineage exists beginning in 1996 with NIDS&#x27;s res...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramThus, an eerie cause-and-effect lineage exists beginning in 1996 with NIDS&#x27;s res...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GrHqTZaMiR8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted By Aliens? The Hitchhiker EffectWelcome to Episode 213: The Hitchhiker Effect! When billionaire Robert Bigelow purchased Skinwalk...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=GrHqTZaMiR8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=GrHqTZaMiR8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Haunted By Aliens? The Hitchhiker EffectWelcome to Episode 213: The Hitchhiker Effect! When billionaire Robert Bigelow purchased Skinwalk...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/TheBlackVault/posts/the-pentagons-secret-ufo-program-the-hitchhiker-effect-and-models-of-contagion-b/7690604287681081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/the-pentagons-secret-ufo-program-the-hitchhiker-effect-and-models-of-contagion-b/7690604287681081/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect, and...&quot;The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect, and Models o...</p></details>
+   Link:<a href="https://www.facebook.com/TheBlackVault/posts/the-pentagons-secret-ufo-program-the-hitchhiker-effect-and-models-of-contagion-b/7690604287681081/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheBlackVault/posts/the-pentagons-secret-ufo-program-the-hitchhiker-effect-and-models-of-contagion-b/7690604287681081/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect, and...&quot;The Pentagon&#x27;s Secret UFO Program, the Hitchhiker Effect, and Models o...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
    Title: In the book "Skinwalker at the Pentagon", the authors (Dr  
-   Link: <a href="https://www.facebook.com/groups/389397835593066/posts/636784877521026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/389397835593066/posts/636784877521026/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Skinwalkers at the Pentagon&quot; Unmasks the massive scope of the Pentagon&#x27;s landmark UFO study that ran from the Defense Intelligence Agenc...</p></details>
+   Link:<a href="https://www.facebook.com/groups/389397835593066/posts/636784877521026/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/389397835593066/posts/636784877521026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Skinwalkers at the Pentagon&quot; Unmasks the massive scope of the Pentagon&#x27;s landmark UFO study that ran from the Defense Intelligence Agenc...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: raw.githubusercontent.com  
-   Link: <a href="https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_info.tsv" target="_blank" rel="noopener noreferrer nofollow">https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_info.tsv</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Dark Side of Nowhere neal shusterman The Country Justice michael dalton Beowulf: A Translation and Commentary anonymous (beowulf) j...</p></details>
+   Link:<a href="https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_info.tsv" target="_blank" rel="noopener noreferrer nofollow">https://raw.githubusercontent.com/WillKoehrsen/wikipedia-data-science/master/embeddings/book_info.tsv</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Dark Side of Nowhere neal shusterman The Country Justice michael dalton Beowulf: A Translation and Commentary anonymous (beowulf) j...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/660772901/daz-smith-hitchhiker-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/660772901/daz-smith-hitchhiker-effect</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;hitched&quot; to them. Specifically, Axelrod&#x27;s family...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/660772901/daz-smith-hitchhiker-effect" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/660772901/daz-smith-hitchhiker-effect</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;hitched&quot; to them. Specifically, Axelrod&#x27;s family...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>kinwalkers at the Pentagon”, revealing that AAWSAP documented...</p></details>
+   Link:<a href="https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40thegaijin.wolfenstein/the-watchers-observers-monitoring-humanity-at-the-threshold-616f080846ae</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>kinwalkers at the Pentagon”, revealing that AAWSAP documented...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: lairofsecrets.com  
-   Link: <a href="https://lairofsecrets.com/feed/podcast/" target="_blank" rel="noopener noreferrer nofollow">https://lairofsecrets.com/feed/podcast/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>y resource. Characters succeed unless...Read more...</p></details>
+   Link:<a href="https://lairofsecrets.com/feed/podcast/" target="_blank" rel="noopener noreferrer nofollow">https://lairofsecrets.com/feed/podcast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>y resource. Characters succeed unless...Read more...</p></details>

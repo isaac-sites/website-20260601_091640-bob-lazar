@@ -259,7 +259,7 @@ image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_missing_corrobor
 One of the strongest sceptical questions surrounding John Ramirez is simple: where are the other people who can independently confirm what he says he learned, saw or was told?
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_missing_corroborator_d0267c-Illustration-1-dark.svg" | relative_url }}" alt="Corroborators illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_missing_corroborator_d0267c-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_missing_corroborator_d0267c-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Ramirez's public UAP and alien-related claims often rely heavily on his status as a retired CIA officer and on his own descriptions of conversations, institutional knowledge and personal experiences. Critics argue that this creates an evidential gap. The more extraordinary the claim becomes — alien hybrids, hidden reverse-engineering efforts, insider awareness of future disclosure events or specialised knowledge about non-human intelligence — the more important independent corroboration becomes. Yet many of Ramirez's most discussed claims have not been accompanied by named former colleagues, supervisors, programme participants or documentary witnesses who publicly verify the same information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
+Ramirez's public UAP and alien-related claims often rely heavily on his status as a retired CIA officer and on his own descriptions of conversations, institutional knowledge and personal experiences. Critics argue that this creates an evidential gap. The more extraordinary the claim becomes — alien hybrids, hidden reverse-engineering efforts, insider awareness of future disclosure events or specialised knowledge about non-human intelligence — the more important independent corroboration becomes. Yet many of Ramirez's most discussed claims have not been accompanied by named former colleagues, supervisors, programme participants or documentary witnesses who publicly verify the same information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
 
 That absence does not automatically prove the claims are false. Intelligence work is often compartmentalised, and genuine witnesses may remain silent. However, from a credibility standpoint, the lack of identifiable corroborators leaves the public largely dependent on Ramirez's own account.
 
@@ -281,7 +281,7 @@ In credibility assessments, corroboration matters because it helps separate seve
 
 If multiple identifiable former officials independently described the same programme, briefing, document or event, [sceptics]({{ 'sceptics-70c753/' | relative_url }}) would have a harder time dismissing the claims as personal interpretation.
 
-For example, when Ramirez discusses alleged alien hybrid programmes, reverse-engineering efforts, hidden government knowledge or information he says he was "[read into]({{ 'read-into/' | relative_url }})", the evidential value would increase substantially if another named participant with comparable access confirmed the same account. At present, many of these stories appear in interviews and podcasts as stand-alone narratives associated primarily with Ramirez himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
+For example, when Ramirez discusses alleged alien hybrid programmes, reverse-engineering efforts, hidden government knowledge or information he says he was "[read into]({{ 'read-into/' | relative_url }})", the evidential value would increase substantially if another named participant with comparable access confirmed the same account. At present, many of these stories appear in interviews and podcasts as stand-alone narratives associated primarily with Ramirez himself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
 
 The distinction is important because intelligence agencies contain thousands of employees with different responsibilities and levels of access. A former employee's existence within that system does not by itself verify every claim made after retirement.
 
@@ -289,7 +289,7 @@ The distinction is important because intelligence agencies contain thousands of 
 
 A recurring feature of Ramirez's public profile is that his claims are widely repeated in UFO media, podcasts, forums and social-media discussions. That repetition can create the appearance of confirmation even when no new evidence has emerged.
 
-For example, discussions of his statements about alien hybrids, disclosure timelines and a possible 2027 milestone circulate extensively online. Numerous podcast summaries, reposts and community discussions repeat the claims or debate them. Reddit <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spreaker.com">[spreaker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spreaker.com</span><span class="citation-popover-title">April 23/25</span><span class="citation-popover-snippet">The CIA and UFOs with John Ramirez23 Apr 2025 — John Ramirez is a former CIA agent who, the last couple of years, has weighed in on the U...</span></span></span> Sceptics point out that repetition is not corroboration.
+For example, discussions of his statements about alien hybrids, disclosure timelines and a possible 2027 milestone circulate extensively online. Numerous podcast summaries, reposts and community discussions repeat the claims or debate them. Reddit<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: spreaker.com">[spreaker]</a><span class="citation-popover" role="note"><span class="citation-popover-source">spreaker.com</span><span class="citation-popover-title">April 23/25</span><span class="citation-popover-snippet">The CIA and UFOs with John Ramirez23 Apr 2025 — John Ramirez is a former CIA agent who, the last couple of years, has weighed in on the U...</span></span></span> Sceptics point out that repetition is not corroboration.
 
 A claim becomes corroborated when another source independently verifies it, ideally with direct knowledge, documents or first-hand testimony. A hundred people discussing Ramirez's statements still trace back to the same originating source if none of them possess independent evidence.
 
@@ -317,7 +317,7 @@ A reader cannot determine:
 
 </div>
 
-This becomes particularly relevant when Ramirez discusses broad themes such as alien-human hybrids, classified UFO programmes or hidden government knowledge. Publicly available discussions of these subjects generally feature Ramirez describing information rather than presenting identifiable witnesses who can be questioned separately. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
+This becomes particularly relevant when Ramirez discusses broad themes such as alien-human hybrids, classified UFO programmes or hidden government knowledge. Publicly available discussions of these subjects generally feature Ramirez describing information rather than presenting identifiable witnesses who can be questioned separately.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
 
 From a sceptical perspective, unnamed supporters may explain why evidence is scarce, but they do not solve the evidential problem.
 
@@ -331,11 +331,11 @@ The question is not whether hundreds of people must come forward. Even a small n
 
 Critics note that Ramirez has publicly discussed subjects including:
 
-* Alleged alien hybrid activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[podscan.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
+* Alleged alien hybrid activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[podscan.fm]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span>
 * Claims of classified UFO knowledge.
 * Reverse-engineering narratives.
 * Predictions or expectations connected to future disclosure.
-* Personal experiences involving non-human intelligence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
+* Personal experiences involving non-human intelligence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
 
 Yet public discussion of these claims rarely includes former CIA colleagues stepping forward to say they shared the same meetings, saw the same materials or received the same briefings.
 
@@ -376,9 +376,9 @@ Several factors reinforce their doubts.
 
 First, Ramirez speaks openly and in considerable detail about many subjects. Critics ask why such detailed public discussion would be possible while every potentially confirming witness remains absent.
 
-Second, some of his most controversial statements involve topics that extend well beyond conventional UAP reporting, including alien hybrids, human genetic connections and disclosure timelines. These are precisely the kinds of claims for which sceptics would expect especially strong corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
+Second, some of his most controversial statements involve topics that extend well beyond conventional UAP reporting, including alien hybrids, human genetic connections and disclosure timelines. These are precisely the kinds of claims for which sceptics would expect especially strong corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
 
-Third, online reactions frequently reveal that even people interested in UFOs remain unconvinced. Discussions on UFO and alien-related forums often contain requests for sources, demands for evidence and complaints that dramatic claims are not accompanied by verifiable proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Retired Air Force major general with most sensitive secrets of the United States in his head, most of which covers UFOs and alien who wen...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</span></span></span>
+Third, online reactions frequently reveal that even people interested in UFOs remain unconvinced. Discussions on UFO and alien-related forums often contain requests for sources, demands for evidence and complaints that dramatic claims are not accompanied by verifiable proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Retired Air Force major general with most sensitive secrets of the United States in his head, most of which covers UFOs and alien who wen...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</span></span></span>
 
 For sceptics, the absence of named supporting witnesses is not merely a missing detail. It is one of the central reasons the claims remain unverified.
 
@@ -411,155 +411,155 @@ Supporters see a retired intelligence officer discussing information that may or
 
 Sceptics see a public figure making increasingly ambitious claims without producing independently verifiable witnesses who shared the same access or experiences. In that interpretation, the lack of corroborators is itself an important piece of evidence.
 
-At present, the public record largely consists of Ramirez's own testimony, interviews and presentations rather than a growing body of named insiders confirming the same stories. For readers trying to assess credibility, that leaves many of his strongest claims in a category that is difficult to verify, difficult to falsify and heavily dependent on trust in the individual making them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
+At present, the public record largely consists of Ramirez's own testimony, interviews and presentations rather than a growing body of named insiders confirming the same stories. For readers trying to assess credibility, that leaves many of his strongest claims in a category that is difficult to verify, difficult to falsify and heavily dependent on trust in the individual making them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podscan.fm">[Podscan]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podscan.fm</span><span class="citation-popover-snippet">Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: alienresearch.com.au">[Alien Research]</a><span class="citation-popover" role="note"><span class="citation-popover-source">alienresearch.com.au</span><span class="citation-popover-snippet">Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Where are the corroborating witnesses?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Where are the corroborating witnesses?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO investigation books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">scientific UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP investigation books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-are-the-corroborating-witnesses-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="where-are-the-corroborating-witnesses-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -575,7 +575,7 @@ At present, the public record largely consists of Ramirez's own testimony, inter
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -595,7 +595,7 @@ At present, the public record largely consists of Ramirez's own testimony, inter
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -627,7 +627,7 @@ At present, the public record largely consists of Ramirez's own testimony, inter
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -679,7 +679,7 @@ At present, the public record largely consists of Ramirez's own testimony, inter
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -724,7 +724,7 @@ At present, the public record largely consists of Ramirez's own testimony, inter
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -765,110 +765,110 @@ At present, the public record largely consists of Ramirez's own testimony, inter
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: podscan.fm  
-   Link: <a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</p></details>
+   Link:<a href="https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42" target="_blank" rel="noopener noreferrer nofollow">https://www.podscan.fm/podcasts/area52-debriefed-with-chris-ramsay/episodes/former-cia-officer-confirms-alien-hybrids-are-real-john-ramirez-debriefed-ep-42</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Officer Confirms Alien Hybrids are Real - John...20 Jun 2025 — We get into alleged human-alien hybrid programs, alien...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: spreaker.com  
    Title: April 23/25  
-   Link: <a href="https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA and UFOs with John Ramirez23 Apr 2025 — John Ramirez is a former CIA agent who, the last couple of years, has weighed in on the U...</p></details>
+   Link:<a href="https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549" target="_blank" rel="noopener noreferrer nofollow">https://www.spreaker.com/episode/april-23-25-the-cia-and-ufos-with-john-ramirez--65696549</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA and UFOs with John Ramirez23 Apr 2025 — John Ramirez is a former CIA agent who, the last couple of years, has weighed in on the U...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general with most sensitive secrets of the United States in his head, most of which covers UFOs and alien who wen...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15jm20n/former_cia_officer_john_ramirezs_warming_about_an/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired Air Force major general with most sensitive secrets of the United States in his head, most of which covers UFOs and alien who wen...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: john ramirez talking about 2027  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez talking about 2027: r/aliens - RedditJohn Ramirez was asked about 2027 on an episode of That UFO... John Ramirez, ex...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fkjvok/john_ramirez_talking_about_2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez talking about 2027: r/aliens - RedditJohn Ramirez was asked about 2027 on an episode of That UFO... John Ramirez, ex...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/16c4x48/former_cia_signal_specialist_john_ramirez_shares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
    Title: Former CIA Signal Specialist John Ramirez shares  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>So this ex CIA guy can go on record and disclose that the aliens are coming in 2027 and that he knows who they are...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/16brmmv/former_cia_signal_specialist_john_ramirez_shares/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So this ex CIA guy can go on record and disclose that the aliens are coming in 2027 and that he knows who they are...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Why are most government insiders and UFO researchers connecting the. 1.9K. 1.3K...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1etrmqj/retired_cia_officer_john_ramirez_on_the_phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Seriously, Why are most government insiders and UFO researchers connecting the. 1.9K. 1.3K...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/rhncou/ex_cia_agent_john_ramirez_gives_alien_disclosure/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hybrids...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...Ex-CIA officer John Ramirez joins a podcast to reveal insights on alien hybrids...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/11bv9b4/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: Back Engineered Alien Propulsion?  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1lgduom/back_engineered_alien_propulsion_cia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Whistleblower...John Ramirez confirming that um alien hybrids are among us i want you guys to hear this because he says a lot more t...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1fmu48r/2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fmu48r/2027/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027: r/aliensThis subreddit is primarily for the discussion of extraterrestrial life, but since this topic is intertwined with UFOs/UAP...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1fmu48r/2027/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1fmu48r/2027/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027: r/aliensThis subreddit is primarily for the discussion of extraterrestrial life, but since this topic is intertwined with UFOs/UAP...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
    Title: Ex-CIA Officer John Ramirez On UFOs & Aliensr/aliens  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/11brb0y/excia_officer_john_ramirez_on_ufos_aliens_warns/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serious US Department of War releases UFO and potential alien life files. 4. 51.Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Military generals have confirmed what many long suspected alien bodies were recovered. 6:27. 1.4K.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fhr4o0/did_retired_cia_officer_john_ramirez_gs15/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Military generals have confirmed what many long suspected alien bodies were recovered. 6:27. 1.4K.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - John Ramirez, ex-CIA officer, on a podcast discussing.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/15st4st/former_cia_officer_john_ramirez_on_why_all_this/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/UFOs - John Ramirez, ex-CIA officer, on a podcast discussing.Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking (GS-15) ex-CIA agent John Ramirez says...NGA is likely to be the intelligence agency that might have collected uaps in flig...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1epy8xo/high_ranking_gs15_excia_agent_john_ramirez_says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>High ranking (GS-15) ex-CIA agent John Ramirez says...NGA is likely to be the intelligence agency that might have collected uaps in flig...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>️Former CIA Officer John Ramirez claims that government...Whatever strange occurrences happen on Earth, you can find them here...</p></details>
+   Link:<a href="https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/StrangeEarth/comments/1lgzs8i/former_cia_officer_john_ramirez_claims_that/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>️Former CIA Officer John Ramirez claims that government...Whatever strange occurrences happen on Earth, you can find them here...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>same thing about Roswell over the years...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/17deklu/ret_cia_officer_john_ramirez_i_give_credence_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>same thing about Roswell over the years...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: alienresearch.com.au  
-   Link: <a href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</p></details>
+   Link:<a href="https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienresearch.com.au/ex-cia-officer-confirms-alien-hybrids-exist-john-ramirez-debriefed-ep-42/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien ResearchEx-CIA Officer Confirms Alien Hybrids Exist – John Ramirez27 Jun 2025 — We get into alleged human-alien hybrid programs, al...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: music.amazon.com  
-   Link: <a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com...</p></details>
+   Link:<a href="https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired" target="_blank" rel="noopener noreferrer nofollow">https://music.amazon.com/es-co/podcasts/ca30bd10-ef47-4552-bc46-9f530176d37c/episodes/e7b7b3a5-b5a6-49b3-b8a6-31a07d320673/podcast-ufo-484-john-ramirez-cia-retired</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>amazon.com...</p></details>
 
 4
 
@@ -876,55 +876,55 @@ At present, the public record largely consists of Ramirez's own testimony, inter
 
 4. John Ramirez, CIA Retired-Podcast UFOLeave Us a Voicemail: [https://podcastufo.com/ufo-sightings/ufo-encounter-voicemail](https://podcastufo.com/ufo-sightings/ufo-encounter-voicemail) Po
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=10iB9C9szTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10iB9C9szTo</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Officer FINALLY Breaks Silence on UFO &amp; Alien...... JOHN RAMIREZ, a former CIA Officer, has come forward with... CIA Officer FINALL...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=10iB9C9szTo" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=10iB9C9szTo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA Officer FINALLY Breaks Silence on UFO &amp; Alien...... JOHN RAMIREZ, a former CIA Officer, has come forward with... CIA Officer FINALL...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ibtimes.co.uk  
    Title: 2027 predicted reveal shocking alien contact ai cracks mystery 1771191  
-   Link: <a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Growing claims from UFO insiders suggest 2027 could be the year ar...</p></details>
+   Link:<a href="https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191" target="_blank" rel="noopener noreferrer nofollow">https://www.ibtimes.co.uk/2027-predicted-reveal-shocking-alien-contact-ai-cracks-mystery-1771191</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2027 Predicted to Reveal Shocking Alien Contact as AI...15 Jan 2026 — Growing claims from UFO insiders suggest 2027 could be the year ar...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: hypefresh.com  
    Title: retired cia insider exposes the reality of ufos and alien encounters  
-   Link: <a href="https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Insider Exposes the Reality of UFOs and Alien...22 Jul 2025 — Now, he&#x27;s breaking decades of silence to shed light on humanit...</p></details>
+   Link:<a href="https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/" target="_blank" rel="noopener noreferrer nofollow">https://www.hypefresh.com/retired-cia-insider-exposes-the-reality-of-ufos-and-alien-encounters/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Retired CIA Insider Exposes the Reality of UFOs and Alien...22 Jul 2025 — Now, he&#x27;s breaking decades of silence to shed light on humanit...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>aliens at Area 51 | The. Independent, September 19, 2024. 15. ”Trump Claims He Has Access To UFO Files. Here&#x27;s What Experts Say,” Newswee...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>aliens at Area 51 | The. Independent, September 19, 2024. 15. ”Trump Claims He Has Access To UFO Files. Here&#x27;s What Experts Say,” Newswee...</p></details>
    Published: September 19, 2024  
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DWpYLinCYkr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWpYLinCYkr/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>freedom_faction on April 2, 2026: &quot;Former CIA Officer John Ramirez: Government Tracked Alien DNA — &#x27;Above Manhattan...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DWpYLinCYkr/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DWpYLinCYkr/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>freedom_faction on April 2, 2026: &quot;Former CIA Officer John Ramirez: Government Tracked Alien DNA — &#x27;Above Manhattan...</p></details>
    Published: April 2, 2026  
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: grunge.com  
    Title: government alien document disclosure is a prelude  
-   Link: <a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens - GrungeAugust 14, 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the...</p></details>
+   Link:<a href="https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/" target="_blank" rel="noopener noreferrer nofollow">https://www.grunge.com/1365367/cia-agent-who-made-startling-claims-about-aliens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The CIA Agent Who Made Startling Claims About Aliens - GrungeAugust 14, 2023 — SyFy explains the short of Ramirez&#x27; story is this: All the...</p></details>
    Published: August 14, 2023  
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: storytel.com  
    Title: 537 john ramirez cia ret part 2 4797383  
-   Link: <a href="https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Ramirez, CIA [ret] PART 2 - Podcast UFO21 Dec 2022 — Did you have a UFO/UAP Encounter? Leave Us a Voicemail: [https://podcastufo.com/...&quot;](https://podcastufo.com/...&quot;)...</p></details>
+   Link:<a href="https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383" target="_blank" rel="noopener noreferrer nofollow">https://www.storytel.com/tv/podcasts/podcast-ufo-120423/537-john-ramirez-cia-ret-part-2-4797383</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;John Ramirez, CIA [ret] PART 2 - Podcast UFO21 Dec 2022 — Did you have a UFO/UAP Encounter? Leave Us a Voicemail: [https://podcastufo.com/...&quot;](https://podcastufo.com/...&quot;)...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s from the Space Age that have crash landed after nearly...</p></details>
+   Link:<a href="https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SYFY/posts/hurry-up-already-former-cia-agent-john-ramirez-claims-aliens-will-be-revealed-in/675023667823264/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s from the Space Age that have crash landed after nearly...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Former CIA Agent J...</p></details>
+   Link:<a href="https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/gb/episode/john-ramirez-cia-agents-close-encounters/umc.cmc.5b54axrys1szfszmikw8dh0r3?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ramirez: CIA Agent&#x27;s Close EncountersDoes the next stage of ET disclosure involve government officials coming forward? Former CIA Agent J...</p></details>

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-supporter/
 description: Focused pages that expand on Supporters.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: John_Ramirez_18aa07_supporter_arguments_2e8636
 parent_title: Supporters
@@ -16,7 +16,7 @@ parent_permalink: /supporters-124489/
 
 # Explore Topics in Supporters
 
-The following pages expand on the main **[Supporters]({{ '/supporters-124489/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Supporters]({{ '/supporters-124489/' | relative_url }})** page and cover its key branches in.
 
 - [Threat work]({{ '/threat-work/' | relative_url }})
 - [FOIA media]({{ '/foia-media/' | relative_url }})

@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-index/
 description: Focused pages that expand on How Credible Is John Ramirez?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: John_Ramirez_18aa07
 parent_title: How Credible Is John Ramirez?
@@ -16,7 +16,7 @@ parent_permalink: /how-credible-is-john-ramirez/
 
 # Explore Topics in How Credible Is John Ramirez?
 
-The following pages expand on the main **[How Credible Is John Ramirez?]({{ '/how-credible-is-john-ramirez/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[How Credible Is John Ramirez?]({{ '/how-credible-is-john-ramirez/' | relative_url }})** page and cover its key branches in.
 
 - [CIA Career]({{ '/cia-career/' | relative_url }})
 - [Claim Types]({{ '/claim-types/' | relative_url }})

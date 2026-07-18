@@ -256,250 +256,250 @@ image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_p
 
 ## Introduction
 
-Luis Elizondo’s public disclosures about unidentified anomalous phenomena (UAPs) generated one of the most polarising debates in modern UFO history. Since helping bring Pentagon UAP programmes and military encounter videos into mainstream discussion in 2017, he has been praised by supporters as a credible insider who helped remove the stigma surrounding UAP reporting. Critics, however, argue that his public [influence]({{ 'influence-20a41a/' | relative_url }}) has often exceeded the strength of the evidence available to the public. The debate around Elizondo is therefore not simply about whether unusual aerial incidents occur; it is also about how much trust should be placed in government insiders, whistleblower claims, and media-driven disclosure narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span>
+Luis Elizondo’s public disclosures about unidentified anomalous phenomena (UAPs) generated one of the most polarising debates in modern UFO history. Since helping bring Pentagon UAP programmes and military encounter videos into mainstream discussion in 2017, he has been praised by supporters as a credible insider who helped remove the stigma surrounding UAP reporting. Critics, however, argue that his public [influence]({{ 'influence-20a41a/' | relative_url }}) has often exceeded the strength of the evidence available to the public. The debate around Elizondo is therefore not simply about whether unusual aerial incidents occur; it is also about how much trust should be placed in government insiders, whistleblower claims, and media-driven disclosure narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-1-dark.svg" | relative_url }}" alt="Public Debate illustration 1" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-His reception has become a case study in the broader disclosure culture that emerged after the release of military UAP footage. Supporters see him as an advocate for transparency and aviation safety, while sceptics view him as a prominent promoter of extraordinary claims that remain largely unverified. The resulting divide has shaped public perceptions of both UAP reporting and government credibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
+His reception has become a case study in the broader disclosure culture that emerged after the release of military UAP footage. Supporters see him as an advocate for transparency and aviation safety, while sceptics view him as a prominent promoter of extraordinary claims that remain largely unverified. The resulting divide has shaped public perceptions of both UAP reporting and government credibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
 ## Proponents and Advocacy Voices
 
-Among supporters, Elizondo is often credited with helping move UAP discussion from the fringes into mainstream political and national-security conversations. His involvement in publicising Navy encounter videos and discussing Pentagon interest in unexplained aerial events convinced many observers that the subject deserved serious investigation rather than automatic dismissal. The subsequent growth of congressional hearings, government reporting requirements, and media coverage reinforced the belief among supporters that disclosure efforts were producing tangible institutional change. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">unidentified anomalous phenomena exposing the truth</span><span class="citation-popover-snippet">Author, and Former Department of Defense Official Document. Michael Gold. Former NASA Associate Administrator of Space Policy...Read more...</span></span></span>
+Among supporters, Elizondo is often credited with helping move UAP discussion from the fringes into mainstream political and national-security conversations. His involvement in publicising Navy encounter videos and discussing Pentagon interest in unexplained aerial events convinced many observers that the subject deserved serious investigation rather than automatic dismissal. The subsequent growth of congressional hearings, government reporting requirements, and media coverage reinforced the belief among supporters that disclosure efforts were producing tangible institutional change.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">unidentified anomalous phenomena exposing the truth</span><span class="citation-popover-snippet">Author, and Former Department of Defense Official Document. Michael Gold. Former NASA Associate Administrator of Space Policy...Read more...</span></span></span>
 
-For advocates of greater transparency, Elizondo's significance lies less in proving extraterrestrial explanations and more in demonstrating that trained military personnel repeatedly reported encounters that officials considered worthy of investigation. Many supporters argue that pilots, radar operators and intelligence personnel should be able to report unusual incidents without career repercussions. In this interpretation, Elizondo helped normalise reporting and encouraged lawmakers to treat UAPs as a legitimate oversight issue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement</span></span></span>
+For advocates of greater transparency, Elizondo's significance lies less in proving extraterrestrial explanations and more in demonstrating that trained military personnel repeatedly reported encounters that officials considered worthy of investigation. Many supporters argue that pilots, radar operators and intelligence personnel should be able to report unusual incidents without career repercussions. In this interpretation, Elizondo helped normalise reporting and encouraged lawmakers to treat UAPs as a legitimate oversight issue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement</span></span></span>
 
-Supporters also point to the institutional attention that followed his disclosures. Congressional hearings, public testimony from military witnesses, and legislative proposals related to UAP transparency are often cited as evidence that concerns raised by Elizondo and similar figures were not dismissed by policymakers. To advocates, this progression suggests that his disclosures contributed to a broader cultural shift in how unexplained aerial incidents are discussed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">unidentified anomalous phenomena exposing the truth</span><span class="citation-popover-snippet">Author, and Former Department of Defense Official Document. Michael Gold. Former NASA Associate Administrator of Space Policy...Read more...</span></span></span>
+Supporters also point to the institutional attention that followed his disclosures. Congressional hearings, public testimony from military witnesses, and legislative proposals related to UAP transparency are often cited as evidence that concerns raised by Elizondo and similar figures were not dismissed by policymakers. To advocates, this progression suggests that his disclosures contributed to a broader cultural shift in how unexplained aerial incidents are discussed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: oversight.house.gov">[House Oversight Committee]</a><span class="citation-popover" role="note"><span class="citation-popover-source">oversight.house.gov</span><span class="citation-popover-title">unidentified anomalous phenomena exposing the truth</span><span class="citation-popover-snippet">Author, and Former Department of Defense Official Document. Michael Gold. Former NASA Associate Administrator of Space Policy...Read more...</span></span></span>
 
-Another factor strengthening support is the perception that Elizondo faced official resistance after speaking publicly. His complaint alleging efforts to discredit him within the Pentagon reinforced a narrative common among disclosure advocates: that bureaucratic secrecy and institutional self-protection impede public understanding of the issue. For supporters, conflicting official statements about his role strengthened suspicions that internal disagreements existed over how much information should be released. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo whistleblower pentagon complaint</span><span class="citation-popover-snippet">The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Another factor strengthening support is the perception that Elizondo faced official resistance after speaking publicly. His complaint alleging efforts to discredit him within the Pentagon reinforced a narrative common among disclosure advocates: that bureaucratic secrecy and institutional self-protection impede public understanding of the issue. For supporters, conflicting official statements about his role strengthened suspicions that internal disagreements existed over how much information should be released.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo whistleblower pentagon complaint</span><span class="citation-popover-snippet">The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/pxchTuDScok" title="Ex-Pentagon Insider on How UFO&#x27;s Work and Why the Government is Disclosing Information" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=pxchTuDScok" target="_blank" rel="noopener noreferrer">Ex-Pentagon Insider on How UFO&#x27;s Work and Why the Government is Disclosing Information</a></p><p class="youtube-embed-meta">Channel: JRE Clips &middot; Views: 1.6M &middot; Uploaded: August 2024 &middot; Length: 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=pxchTuDScok" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=pxchTuDScok">Open on YouTube</a></p></div></div></div>
 
 ## Critics and Evidence Challenges
 
-The sceptical response has focused less on whether unusual sightings occur and more on whether Elizondo has provided sufficient evidence for his broader implications. Critics argue that public interest has often been driven by testimony, authority and speculation rather than by independently verifiable data. They note that many of the most dramatic claims associated with modern disclosure narratives remain supported primarily by witness accounts, classified information, or second-hand reports rather than publicly available physical evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">Support the show.Read more</span><span class="citation-popover-snippet">Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</span><span class="citation-popover-meta">Published: August 30, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?</span><span class="citation-popover-snippet">The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</span></span></span>
+The sceptical response has focused less on whether unusual sightings occur and more on whether Elizondo has provided sufficient evidence for his broader implications. Critics argue that public interest has often been driven by testimony, authority and speculation rather than by independently verifiable data. They note that many of the most dramatic claims associated with modern disclosure narratives remain supported primarily by witness accounts, classified information, or second-hand reports rather than publicly available physical evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">Support the show.Read more</span><span class="citation-popover-snippet">Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</span><span class="citation-popover-meta">Published: August 30, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?</span><span class="citation-popover-snippet">The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</span></span></span>
 
-One recurring criticism concerns the distinction between confirmed unidentified objects and claims about non-human intelligence. Sceptics generally accept that some military observations remain unexplained but argue that this does not automatically support extraterrestrial, interdimensional or other extraordinary explanations. They contend that ambiguity should not be treated as proof. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">Support the show.Read more</span><span class="citation-popover-snippet">Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</span><span class="citation-popover-meta">Published: August 30, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span> Questions surrounding Elizondo's exact role in the Advanced Aerospace Threat Identification Program(AATIP) have also fuelled public debate. Over the years, different Pentagon officials have issued statements that appeared to conflict regarding his responsibilities. While some officials and supporters have affirmed his involvement and leadership role, others have disputed aspects of his description of that role. These disagreements have become a central issue because Elizondo's credibility is closely tied to claims of insider access and institutional knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
+One recurring criticism concerns the distinction between confirmed unidentified objects and claims about non-human intelligence. Sceptics generally accept that some military observations remain unexplained but argue that this does not automatically support extraterrestrial, interdimensional or other extraordinary explanations. They contend that ambiguity should not be treated as proof.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">Support the show.Read more</span><span class="citation-popover-snippet">Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</span><span class="citation-popover-meta">Published: August 30, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span> Questions surrounding Elizondo's exact role in the Advanced Aerospace Threat Identification Program(AATIP) have also fuelled public debate. Over the years, different Pentagon officials have issued statements that appeared to conflict regarding his responsibilities. While some officials and supporters have affirmed his involvement and leadership role, others have disputed aspects of his description of that role. These disagreements have become a central issue because Elizondo's credibility is closely tied to claims of insider access and institutional knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
-Critics further argue that some public statements associated with Elizondo have ventured beyond what the available evidence can support. Cases where purported UAP imagery or interpretations later faced challenges have reinforced concerns among sceptics that the disclosure movement sometimes promotes conclusions ahead of verification. This has led some observers to argue that media attention can amplify claims before rigorous examination occurs. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Ex-Pentagon Official Luis Elizondo says UFOs are very...... Elizondo&#x27;s claim that a UFO was casting a shadow. Elizondo has faced...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo whistleblower pentagon complaint</span><span class="citation-popover-snippet">The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+Critics further argue that some public statements associated with Elizondo have ventured beyond what the available evidence can support. Cases where purported UAP imagery or interpretations later faced challenges have reinforced concerns among sceptics that the disclosure movement sometimes promotes conclusions ahead of verification. This has led some observers to argue that media attention can amplify claims before rigorous examination occurs.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Ex-Pentagon Official Luis Elizondo says UFOs are very...... Elizondo&#x27;s claim that a UFO was casting a shadow. Elizondo has faced...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo whistleblower pentagon complaint</span><span class="citation-popover-snippet">The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-2-dark.svg" | relative_url }}" alt="Public Debate illustration 2" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Public Opinion Became So Polarised
 
 The unusually sharp divide over Elizondo reflects a broader clash between two competing interpretations of uncertainty.
 
-One side argues that the absence of public evidence is precisely what should be expected if sensitive military or intelligence information remains classified. From this perspective, insider testimony deserves serious consideration because the most relevant data may not be publicly accessible. Supporters therefore view scepticism as sometimes setting an unrealistically high evidentiary bar for [whistleblowers]({{ 'whistleblowers/' | relative_url }}) operating under secrecy constraints. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo whistleblower pentagon complaint</span><span class="citation-popover-snippet">The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
+One side argues that the absence of public evidence is precisely what should be expected if sensitive military or intelligence information remains classified. From this perspective, insider testimony deserves serious consideration because the most relevant data may not be publicly accessible. Supporters therefore view scepticism as sometimes setting an unrealistically high evidentiary bar for [whistleblowers]({{ 'whistleblowers/' | relative_url }}) operating under secrecy constraints.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">ufo whistleblower pentagon complaint</span><span class="citation-popover-snippet">The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</span><span class="citation-popover-meta">Published: May 2021</span></span></span>
 
-The opposing view is that secrecy cannot substitute for evidence. Sceptics argue that claims should be judged primarily on publicly available facts rather than on credentials, security clearances or assertions that proof exists but cannot yet be shown. For this group, the repeated reliance on classified information, unnamed sources or future disclosures weakens rather than strengthens credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">Support the show.Read more</span><span class="citation-popover-snippet">Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</span><span class="citation-popover-meta">Published: August 30, 2024</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?</span><span class="citation-popover-snippet">The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</span></span></span>
+The opposing view is that secrecy cannot substitute for evidence. Sceptics argue that claims should be judged primarily on publicly available facts rather than on credentials, security clearances or assertions that proof exists but cannot yet be shown. For this group, the repeated reliance on classified information, unnamed sources or future disclosures weakens rather than strengthens credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">Support the show.Read more</span><span class="citation-popover-snippet">Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</span><span class="citation-popover-meta">Published: August 30, 2024</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wsj.com">[The Wall Street Journal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wsj.com</span><span class="citation-popover-title">The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?</span><span class="citation-popover-snippet">The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</span></span></span>
 
-Social media amplified these differences. Online communities dedicated to disclosure often embraced Elizondo as a key figure, while sceptical forums increasingly scrutinised his statements and public appearances. The resulting debates frequently became arguments over trust itself: trust in government insiders, trust in institutions, trust in witnesses, and trust in scientific scepticism. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gj0adz/can_we_tone_down_the_utter_disdain_for_luis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can We Tone Down the Utter Disdain for Luis Elizondo...Not sure if Congress will pass the UAP Disclosure Act sponsored by Leader S...</span></span></span>
+Social media amplified these differences. Online communities dedicated to disclosure often embraced Elizondo as a key figure, while sceptical forums increasingly scrutinised his statements and public appearances. The resulting debates frequently became arguments over trust itself: trust in government insiders, trust in institutions, trust in witnesses, and trust in scientific scepticism.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1gj0adz/can_we_tone_down_the_utter_disdain_for_luis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Can We Tone Down the Utter Disdain for Luis Elizondo...Not sure if Congress will pass the UAP Disclosure Act sponsored by Leader S...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sjmJmwsjdGI" title="Top 10 Shocking Revelations From The Age Of Disclosure Documentary" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sjmJmwsjdGI" target="_blank" rel="noopener noreferrer">Top 10 Shocking Revelations From The Age Of Disclosure Documentary</a></p><p class="youtube-embed-meta">Channel: WatchMojo.com &middot; Views: 449.0K &middot; Uploaded: November 2025 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sjmJmwsjdGI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sjmJmwsjdGI">Open on YouTube</a></p></div></div></div>
 
 ## Effects on Public Trust and Disclosure Culture
 
-Regardless of whether one accepts Elizondo's interpretations, his disclosures helped reshape the cultural landscape surrounding UAPs. Before 2017, discussions of UFOs were often confined to specialist communities and entertainment media. Afterwards, the topic increasingly appeared in mainstream newspapers, congressional proceedings, defence reporting and national-security discussions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span>
+Regardless of whether one accepts Elizondo's interpretations, his disclosures helped reshape the cultural landscape surrounding UAPs. Before 2017, discussions of UFOs were often confined to specialist communities and entertainment media. Afterwards, the topic increasingly appeared in mainstream newspapers, congressional proceedings, defence reporting and national-security discussions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-title">What Is Up With Those Pentagon UFO Videos?</span><span class="citation-popover-snippet">The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</span></span></span>
 
-This shift produced both positive and negative consequences for public trust. On one hand, many observers welcomed a more open discussion of military encounters and believed that reducing stigma would improve reporting quality. On the other hand, critics worried that intense media attention around extraordinary possibilities encouraged speculation faster than evidence could accumulate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">government cover-up of unidentified anomalous phenomena (UAPs), commonly known as UFOs. Directed by Dan Farah, the film features intervie...</span></span></span>
+This shift produced both positive and negative consequences for public trust. On one hand, many observers welcomed a more open discussion of military encounters and believed that reducing stigma would improve reporting quality. On the other hand, critics worried that intense media attention around extraordinary possibilities encouraged speculation faster than evidence could accumulate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">government cover-up of unidentified anomalous phenomena (UAPs), commonly known as UFOs. Directed by Dan Farah, the film features intervie...</span></span></span>
 
-The debate surrounding Elizondo also influenced expectations about disclosure itself. Supporters often viewed each hearing, report or testimony as part of a gradual process leading towards greater transparency. Sceptics increasingly questioned whether years of disclosures had produced corresponding increases in publicly verifiable evidence. As a result, assessments of Elizondo's credibility frequently became intertwined with broader judgments about the success or failure of the disclosure movement. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</span></span></span>
+The debate surrounding Elizondo also influenced expectations about disclosure itself. Supporters often viewed each hearing, report or testimony as part of a gradual process leading towards greater transparency. Sceptics increasingly questioned whether years of disclosures had produced corresponding increases in publicly verifiable evidence. As a result, assessments of Elizondo's credibility frequently became intertwined with broader judgments about the success or failure of the disclosure movement.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: forbes.com">[Forbes]</a><span class="citation-popover" role="note"><span class="citation-popover-source">forbes.com</span><span class="citation-popover-snippet">Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-3-dark.svg" | relative_url }}" alt="Public Debate illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Debate Reveals About Credibility
 
-Public reactions to Elizondo's disclosures reveal that credibility in the UAP field is rarely judged on a single factor. Supporters emphasise his intelligence background, access to military reporting channels, and role in bringing attention to previously obscure government investigations. Critics focus on unresolved disputes over evidence, the limitations of witness testimony, and the gap between extraordinary claims and publicly available proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
+Public reactions to Elizondo's disclosures reveal that credibility in the UAP field is rarely judged on a single factor. Supporters emphasise his intelligence background, access to military reporting channels, and role in bringing attention to previously obscure government investigations. Critics focus on unresolved disputes over evidence, the limitations of witness testimony, and the gap between extraordinary claims and publicly available proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian The Pentagon released its UFO videos</span><span class="citation-popover-snippet">This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</span></span></span>
 
-As a result, Elizondo occupies a distinctive position in modern UAP culture. He is viewed by supporters as a catalyst for transparency and by sceptics as an example of how compelling narratives can outrun demonstrable evidence. The continuing debate over his disclosures has become one of the defining arguments in contemporary discussions about UAPs, government secrecy and the standards required for extraordinary claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">age of disclosure documentary aliens</span><span class="citation-popover-snippet">The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high-ranking gove...</span></span></span>
+As a result, Elizondo occupies a distinctive position in modern UAP culture. He is viewed by supporters as a catalyst for transparency and by sceptics as an example of how compelling narratives can outrun demonstrable evidence. The continuing debate over his disclosures has become one of the defining arguments in contemporary discussions about UAPs, government secrecy and the standards required for extraordinary claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Disclosure movement</span><span class="citation-popover-snippet">Disclosure movement</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">age of disclosure documentary aliens</span><span class="citation-popover-snippet">The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high-ranking gove...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ZkNVSju99HY" title="Ex-Pentagon Official: The U.S Isn&#x27;t Telling The Truth! Top-Secret UFO Encounters Finally Uncovered!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ZkNVSju99HY" target="_blank" rel="noopener noreferrer">Ex-Pentagon Official: The U.S Isn&#x27;t Telling The Truth! Top-Secret UFO Encounters Finally Uncovered!</a></p><p class="youtube-embed-meta">Channel: The Diary Of A CEO &middot; Views: 6.3M &middot; Uploaded: October 2024 &middot; Length: 1 hour 34 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ZkNVSju99HY" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ZkNVSju99HY">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Supporters vs Sceptics Public Reactions to Elizondo&#x27;s UAP Claims. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Supporters vs Sceptics Public Reactions to Elizondo&#x27;s UAP Claims. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
-        </h4>
-        <p class="fr-book-author">By John Williams</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
+</h4>
+<p class="fr-book-author">By John Williams</p>
         
-        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
-        </h4>
-        <p class="fr-book-author">By Patrick Gunn</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
+</h4>
+<p class="fr-book-author">By Patrick Gunn</p>
         
-        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-        </h4>
-        <p class="fr-book-author">By Michèle Ruffat</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
+</h4>
+<p class="fr-book-author">By Michèle Ruffat</p>
         
-        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT"><img src="https://i.ebayimg.com/images/g/NVcAAOSw6mdhhoZT/s-l225.jpg" alt="Listing image for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT"><img src="https://i.ebayimg.com/images/g/NVcAAOSw6mdhhoZT/s-l225.jpg" alt="Listing image for FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">FUNNY UFO ALIEN &quot;AREA 51 LOGO&quot; T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT"><img src="https://i.ebayimg.com/images/g/UkkAAOSwiHxkNSPp/s-l225.jpg" alt="Listing image for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT"><img src="https://i.ebayimg.com/images/g/UkkAAOSwiHxkNSPp/s-l225.jpg" alt="Listing image for ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">ALIEN UFO MAJESTIC 12 CLASSIFIED OPERATIONS T-SHIRT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="https://i.ebayimg.com/images/g/kUsAAOSwFfdlPqVM/s-l225.jpg" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51"><img src="https://i.ebayimg.com/images/g/kUsAAOSwFfdlPqVM/s-l225.jpg" alt="Listing image for Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">Evolution - Alien Abduction Mens T-Shirt - UFO Invasion Beam Me Up Space Area 51</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art"><img src="https://i.ebayimg.com/images/g/yWwAAeSwKo5qHKWD/s-l225.jpg" alt="Listing image for X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art"><img src="https://i.ebayimg.com/images/g/yWwAAeSwKo5qHKWD/s-l225.jpg" alt="Listing image for X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">X-Files I Want To Believe T-Shirt, UFO Sci-Fi Mystery, Mulder Fan Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO t shirt">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO t shirt</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+t+shirt&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO t shirt" data-ebay-reference="supporters-vs-sceptics-public-reactions-to-elizondo-s-uap-claims-ufo-t-shirt" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -515,7 +515,7 @@ As a result, Elizondo occupies a distinctive position in modern UAP culture. He 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -535,7 +535,7 @@ As a result, Elizondo occupies a distinctive position in modern UAP culture. He 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -567,7 +567,7 @@ As a result, Elizondo occupies a distinctive position in modern UAP culture. He 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -619,7 +619,7 @@ As a result, Elizondo occupies a distinctive position in modern UAP culture. He 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -664,7 +664,7 @@ As a result, Elizondo occupies a distinctive position in modern UAP culture. He 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -705,165 +705,165 @@ As a result, Elizondo occupies a distinctive position in modern UAP culture. He 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: wired.com  
    Title: What Is Up With Those Pentagon UFO Videos?  
-   Link: <a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</p></details>
+   Link:<a href="https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/what-is-up-with-those-pentagon-ufo-videos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The article included videos of UAPs and featured accounts from Navy pilots. The program, Advanced Aviation Threat Identification Program...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Disclosure movement  
-   Link: <a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Disclosure_movement" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Disclosure_movement</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: oversight.house.gov  
    Title: unidentified anomalous phenomena exposing the truth  
-   Link: <a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Author, and Former Department of Defense Official Document. Michael Gold. Former NASA Associate Administrator of Space Policy...Read more...</p></details>
+   Link:<a href="https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/hearing/unidentified-anomalous-phenomena-exposing-the-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Author, and Former Department of Defense Official Document. Michael Gold. Former NASA Associate Administrator of Space Policy...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: forbes.com  
-   Link: <a href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</p></details>
+   Link:<a href="https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.forbes.com/sites/amandakooser/2024/11/14/congressional-ufo-hearing-features-eye-opening-uap-claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressional UFO Hearing Features Eye-Opening UAP...14 Nov 2024 — Tim Gallaudet, Luis Elizondo, Michael Shellenberger and Michael...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skeptic.com  
    Title: Support the show.Read more  
-   Link: <a href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</p></details>
+   Link:<a href="https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/michael-shermer-show/michael-shermer-reacts-to-lue-elizondos-uap-claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Michael Shermer Reacts to Lue Elizondo&#x27;s UAP ClaimsAugust 30, 2024 — 30 Aug 2024 — In this solo episode, Michael Shermer discusses...</p></details>
    Published: August 30, 2024  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official Luis Elizondo says UFOs are very...... Elizondo&#x27;s claim that a UFO was casting a shadow. Elizondo has faced...</p></details>
+   Link:<a href="https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/ex-pentagon-official-luis-elizondo-says-ufos-are-very-much-real-/1107713424070866/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official Luis Elizondo says UFOs are very...... Elizondo&#x27;s claim that a UFO was casting a shadow. Elizondo has faced...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1gj0adz/can_we_tone_down_the_utter_disdain_for_luis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gj0adz/can_we_tone_down_the_utter_disdain_for_luis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Can We Tone Down the Utter Disdain for Luis Elizondo...Not sure if [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;) will pass the UAP Disclosure Act sponsored by Leader S...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1gj0adz/can_we_tone_down_the_utter_disdain_for_luis/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1gj0adz/can_we_tone_down_the_utter_disdain_for_luis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Can We Tone Down the Utter Disdain for Luis Elizondo...Not sure if [Congress](&amp;#123;&amp;#123; &#x27;congress/&#x27; | relative_url &amp;#125;&amp;#125;) will pass the UAP Disclosure Act sponsored by Leader S...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
    Title: The Rise and Fall of Luis Elizondo!  
-   Link: <a href="https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>From UAP &#x27;Expert&#x27; to &#x27;...The biggest thing about Elizondo is that he still has a very cultish following of people who work to harass, th...</p></details>
+   Link:<a href="https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skeptic/comments/1l1tmpa/the_rise_and_fall_of_luis_elizondo_from_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>From UAP &#x27;Expert&#x27; to &#x27;...The biggest thing about Elizondo is that he still has a very cultish following of people who work to harass, th...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>evidence of unexplained aerial phenomena, yet details about...</p></details>
+   Link:<a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>evidence of unexplained aerial phenomena, yet details about...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-age-of-disclosure-reveals-an-alleged-80-year-cover-up-by-the-government-that/833285075745178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-age-of-disclosure-reveals-an-alleged-80-year-cover-up-by-the-government-that/833285075745178/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>media&#x27;s reception remains steeped in bias, treating UFOs as a matter...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/the-age-of-disclosure-reveals-an-alleged-80-year-cover-up-by-the-government-that/833285075745178/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-age-of-disclosure-reveals-an-alleged-80-year-cover-up-by-the-government-that/833285075745178/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>media&#x27;s reception remains steeped in bias, treating UFOs as a matter...Read more...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/former-pentagon-insider-luis-elizondo-who-has-investigated-unidentified-anomalou/980807640992920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/former-pentagon-insider-luis-elizondo-who-has-investigated-unidentified-anomalou/980807640992920/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>tells “CUOMO” the so-called list of U.S...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/former-pentagon-insider-luis-elizondo-who-has-investigated-unidentified-anomalou/980807640992920/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/former-pentagon-insider-luis-elizondo-who-has-investigated-unidentified-anomalou/980807640992920/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>tells “CUOMO” the so-called list of U.S...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/a-documentary-that-releases-friday-about-ufos-the-age-of-disclosure-accuses-the-/861231349617217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-documentary-that-releases-friday-about-ufos-the-age-of-disclosure-accuses-the-/861231349617217/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ied footage of tic-tac-shaped objects defying physics—clips...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/a-documentary-that-releases-friday-about-ufos-the-age-of-disclosure-accuses-the-/861231349617217/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/a-documentary-that-releases-friday-about-ufos-the-age-of-disclosure-accuses-the-/861231349617217/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ied footage of tic-tac-shaped objects defying physics—clips...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/luis-elizondo-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582546587485696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/luis-elizondo-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582546587485696/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, the former head of a government agency...UFO whistleblower Luis Elizondo, a former Pentagon official, joins #CUOMO to dis...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/luis-elizondo-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582546587485696/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/luis-elizondo-the-former-head-of-a-government-agency-that-studied-ufos-said-wedn/582546587485696/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, the former head of a government agency...UFO whistleblower Luis Elizondo, a former Pentagon official, joins #CUOMO to dis...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: theguardian.com  
    Title: ufo whistleblower pentagon complaint  
-   Link: <a href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</p></details>
+   Link:<a href="https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/world/2021/may/28/ufo-whistleblower-pentagon-complaint</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianWhistleblower who spoke out on UFOs claims Pentagon...28 May 2021 — Luis Elizondo lodges complaint with defense department i...</p></details>
    Published: May 2021  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: wsj.com  
    Title: The Wall Street Journal Was It Scrap Metal or an Alien Spacecraft?  
-   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Army Asked an Elite Defense Lab to InvestigateIn 2022, the Pentagon assigned Sean Kirkpatrick to investigate claims of a secret U.S...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government cover-up of unidentified anomalous phenomena (UAPs), commonly known as UFOs. Directed by Dan Farah, the film features intervie...</p></details>
+   Link:<a href="https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/entertainment/movies/2025/03/11/ufos-aliens-age-of-disclosure/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government cover-up of unidentified anomalous phenomena (UAPs), commonly known as UFOs. Directed by Dan Farah, the film features intervie...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: theguardian.com  
    Title: The Guardian The Pentagon released its UFO videos  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is what I foundIn &quot;The Pentagon released its UFO videos – so I went to the US to chase aliens,&quot; author Daniel Lavelle recounts his j...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theguardian.com  
    Title: age of disclosure documentary aliens  
-   Link: <a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high-ranking gove...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2025/nov/22/age-of-disclosure-documentary-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;The public has been lied to&#x27;: secretly made documentary...22 Nov 2025 — The Age of Disclosure is a new film featuring high-ranking gove...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: english.elpais.com  
    Title: secrets ufos and smokescreens why washington is obsessed with extraterrestrials  
-   Link: <a href="https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comSecrets, UFOs, and smokescreens: Why Washington is...6 hours ago — None of this would likely have been possible without Luis E...</p></details>
+   Link:<a href="https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html" target="_blank" rel="noopener noreferrer nofollow">https://english.elpais.com/usa/2026-05-31/secrets-ufos-and-smokescreens-why-washington-is-obsessed-with-extraterrestrials.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>elpais.comSecrets, UFOs, and smokescreens: Why Washington is...6 hours ago — None of this would likely have been possible without Luis E...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pQfkWfzo39c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pQfkWfzo39c</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman Shows Never-before-seen Video At Military...UFO whistleblower Luis Elizondo, a former Pentagon official, said... Whistleblo...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pQfkWfzo39c" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pQfkWfzo39c</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Congressman Shows Never-before-seen Video At Military...UFO whistleblower Luis Elizondo, a former Pentagon official, said... Whistleblo...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ZkNVSju99HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZkNVSju99HY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official: The U.S Isn&#x27;t Telling The Truth! Top-...UFO secrets that the Pentagon has hidden for years. Luis Elizondo is the f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZkNVSju99HY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZkNVSju99HY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-Pentagon Official: The U.S Isn&#x27;t Telling The Truth! Top-...UFO secrets that the Pentagon has hidden for years. Luis Elizondo is the f...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: rev.com  
    Title: house hearing on unidentified anomalous phenomena  
-   Link: <a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — The U.S. House of Representatives holds a joint subcommittee hearing on reports of Unidentified Anomalous Phenomena...</p></details>
+   Link:<a href="https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.rev.com/transcripts/house-hearing-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Jan 2026 — The U.S. House of Representatives holds a joint subcommittee hearing on reports of Unidentified Anomalous Phenomena...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: youtube.com  
    Title: Top 10 Shocking Revelations From The Age Of Disclosure Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=sjmJmwsjdGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sjmJmwsjdGI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo UFO debate public reception sceptics supporters Would You Watch a Debate Between Dr. Steven Greer and Luis Elizondo?...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sjmJmwsjdGI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sjmJmwsjdGI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo UFO debate public reception sceptics supporters Would You Watch a Debate Between Dr. Steven Greer and Luis Elizondo?...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: popularmechanics.com  
    Title: lue elizondo ufo secret truth  
-   Link: <a href="https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran the Pentagon&#x27;s UFO Unit—and Says the...3 Dec 2025 — In 2019, for example, The Intercept quoted a Pentagon spokesman who said that...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He Ran the Pentagon&#x27;s UFO Unit—and Says the...3 Dec 2025 — In 2019, for example, The Intercept quoted a Pentagon spokesman who said that...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: gq-magazine.co.uk  
    Title: luis elizondo interview 2021  
-   Link: <a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This man ran the Pentagon&#x27;s secretive UFO programme for...9 Nov 2021 — Luis Elizondo, the former Pentagon intelligence officer in charge...</p></details>
+   Link:<a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This man ran the Pentagon&#x27;s secretive UFO programme for...9 Nov 2021 — Luis Elizondo, the former Pentagon intelligence officer in charge...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: youtube.com  
    Title: 'Underwhelming' first UFO file dump: Ross Coulthart, Luis Elizondo | CUOMO  
-   Link: <a href="https://www.youtube.com/watch?v=U0sNjxgy2Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U0sNjxgy2Kg</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ex-Pentagon Insider on How UFO&#x27;s Work and Why the Government is Disclosing Information...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=U0sNjxgy2Kg" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=U0sNjxgy2Kg</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3 Ex-Pentagon Insider on How UFO&#x27;s Work and Why the Government is Disclosing Information...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=pxchTuDScok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxchTuDScok</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>4 TFTRH #52 - Luis Elizondo: UFOs, UAPs, AATIP, and TTSA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=pxchTuDScok" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=pxchTuDScok</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>4 TFTRH #52 - Luis Elizondo: UFOs, UAPs, AATIP, and TTSA...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3r6SmrCUM0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>story of the Department of Defense&#x27;s Advanced...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D3r6SmrCUM0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D3r6SmrCUM0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>story of the Department of Defense&#x27;s Advanced...</p></details>

@@ -262,16 +262,16 @@ image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_
 
 ## Introduction
 
-Richard Doty’s credibility problem is not only that he has admitted involvement in UFO-related disinformation. It is that the boundaries inside his story often move. Across interviews, documentaries, podcasts and conference appearances, Doty has alternated between describing events he says he directly participated in, actions he says were ordered by superiors, information he claims came from other officials, and conclusions he now personally believes. Those categories do not always remain separate. As a result, readers are often left asking a basic question: when Doty speaks about UFOs, is he recalling verified events, repeating intelligence rumours, defending past operations, or expressing personal belief? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>
+Richard Doty’s credibility problem is not only that he has admitted involvement in UFO-related disinformation. It is that the boundaries inside his story often move. Across interviews, documentaries, podcasts and conference appearances, Doty has alternated between describing events he says he directly participated in, actions he says were ordered by superiors, information he claims came from other officials, and conclusions he now personally believes. Those categories do not always remain separate. As a result, readers are often left asking a basic question: when Doty speaks about UFOs, is he recalling verified events, repeating intelligence rumours, defending past operations, or expressing personal belief?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-dark.svg" | relative_url }}" alt="Claim boundaries illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That distinction matters because insider testimony becomes much harder to evaluate once memory, hearsay, official secrecy and later interpretation begin to merge. In Doty’s case, [sceptics]({{ 'sceptics/' | relative_url }}) argue that this blurring is itself the central credibility issue. [Supporters]({{ 'supporters/' | relative_url }}) often counter that intelligence work is inherently compartmentalised and that a participant may only understand the meaning of past events years later. The dispute is less about one specific claim than about whether Doty consistently marks where first-hand knowledge ends and later belief begins. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
+That distinction matters because insider testimony becomes much harder to evaluate once memory, hearsay, official secrecy and later interpretation begin to merge. In Doty’s case, [sceptics]({{ 'sceptics/' | relative_url }}) argue that this blurring is itself the central credibility issue. [Supporters]({{ 'supporters/' | relative_url }}) often counter that intelligence work is inherently compartmentalised and that a participant may only understand the meaning of past events years later. The dispute is less about one specific claim than about whether Doty consistently marks where first-hand knowledge ends and later belief begins.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
 
 ## Where Does Doty's Story Change Shape?
 
-The strongest and most widely documented part of Doty’s public narrative concerns the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair. In that area, Doty has often described himself not as an independent UFO witness but as someone involved in managing a security problem around Kirtland Air Force Base. Multiple accounts, including later interviews and the documentary *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, present him as a participant in efforts to feed misleading information to UFO researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
+The strongest and most widely documented part of Doty’s public narrative concerns the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair. In that area, Doty has often described himself not as an independent UFO witness but as someone involved in managing a security problem around Kirtland Air Force Base. Multiple accounts, including later interviews and the documentary *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, present him as a participant in efforts to feed misleading information to UFO researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
 
-The difficulty begins when the narrative expands beyond that core episode. Doty has also been linked over the years to stories involving Majestic-12 documents, underground alien facilities, recovered craft programmes and Project [Serpo]({{ 'serpo/' | relative_url }}). In those areas, the line between what he claims to have personally done and what he says he learned from others becomes far less clear. Critics argue that the certainty of presentation often exceeds the available evidence. Supporters argue that his access to intelligence circles may have exposed him to genuine classified information. The problem is that the audience frequently receives both types of material through the same narrator. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
+The difficulty begins when the narrative expands beyond that core episode. Doty has also been linked over the years to stories involving Majestic-12 documents, underground alien facilities, recovered craft programmes and Project [Serpo]({{ 'serpo/' | relative_url }}). In those areas, the line between what he claims to have personally done and what he says he learned from others becomes far less clear. Critics argue that the certainty of presentation often exceeds the available evidence. Supporters argue that his access to intelligence circles may have exposed him to genuine classified information. The problem is that the audience frequently receives both types of material through the same narrator.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
 
 ### First-hand acts versus second-hand claims
 
@@ -280,9 +280,9 @@ A useful way to evaluate Doty is to separate [statements]({{ 'statements/' | rel
 **Relatively direct claims:**
 
 * His association with Air Force Office of Special Investigations activity around Kirtland Air Force Base.
-* His interactions with Paul Bennewitz. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[gaia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</span></span></span>
+* His interactions with Paul Bennewitz.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[gaia.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</span></span></span>
 * His later descriptions of providing or facilitating misleading UFO information during that period.
-* His claims that disinformation operations existed to protect classified programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</span></span></span>
+* His claims that disinformation operations existed to protect classified programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gaia.com">[Gaia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gaia.com</span><span class="citation-popover-snippet">Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</span></span></span>
 
 These claims remain controversial but at least involve actions Doty says he personally witnessed or participated in.
 
@@ -290,9 +290,9 @@ These claims remain controversial but at least involve actions Doty says he pers
 
 * Assertions about secret alien programmes.
 * Stories connected to Majestic-12.
-* Project Serpo narratives. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol project SERPO07</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</span></span></span>
+* Project Serpo narratives.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol project SERPO07</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</span></span></span>
 * Alleged knowledge of recovered non-human technology.
-* Descriptions of compartmented programmes that depend largely on unnamed sources or inaccessible records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol project SERPO07</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">December 29, 2025 —... Richard Doty, are responsible for a disinformation campaign against Bennewitz. In 1990, the Bennewitz story was f...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</span></span></span>
+* Descriptions of compartmented programmes that depend largely on unnamed sources or inaccessible records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol project SERPO07</span><span class="citation-popover-snippet">Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">December 29, 2025 —... Richard Doty, are responsible for a disinformation campaign against Bennewitz. In 1990, the Bennewitz story was f...</span><span class="citation-popover-meta">Published: December 29, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</span></span></span>
 
 In these cases, the chain of evidence is often weaker. The audience is no longer evaluating Doty as a participant in a known disinformation episode. Instead, it is being asked to trust him as a transmitter of information from other people or other compartments.
 
@@ -306,7 +306,7 @@ One recurring feature of Doty’s public statements is the movement between thre
 
 **Level one: orders.**
 
-Doty has frequently described actions taken under instructions from military or intelligence authorities. In this framing, responsibility is partly shifted upward. The argument becomes that misleading UFO researchers was not a personal initiative but a security operation intended to protect sensitive programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mislead the Public&#x27; Ep. 3 Official Clip &#124; UFOAfter Paul Bennewitz, an Engineer in the U.S. Coast Guard, tapped into a highly clas...</span></span></span>
+Doty has frequently described actions taken under instructions from military or intelligence authorities. In this framing, responsibility is partly shifted upward. The argument becomes that misleading UFO researchers was not a personal initiative but a security operation intended to protect sensitive programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Mislead the Public&#x27; Ep. 3 Official Clip &#124; UFOAfter Paul Bennewitz, an Engineer in the U.S. Coast Guard, tapped into a highly clas...</span></span></span>
 
 **Level two: inference.**
 
@@ -314,7 +314,7 @@ At other times, Doty discusses what he believes particular operations were inten
 
 **Level three: belief.**
 
-In many later interviews, Doty appears not only as a former counter-intelligence participant but also as someone who accepts substantial parts of UFO secrecy narratives. Once that happens, it becomes difficult to distinguish between information acquired during official service and conclusions reached afterwards through personal conviction, media exposure or conversations within UFO circles. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
+In many later interviews, Doty appears not only as a former counter-intelligence participant but also as someone who accepts substantial parts of UFO secrecy narratives. Once that happens, it becomes difficult to distinguish between information acquired during official service and conclusions reached afterwards through personal conviction, media exposure or conversations within UFO circles.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</span></span></span>
 
 The challenge for readers is that these three levels are not always labelled. A listener may hear a statement delivered confidently without being told whether it comes from direct observation, an operational briefing, a rumour passed through intelligence channels, or a belief formed decades later.
 
@@ -323,9 +323,9 @@ The challenge for readers is that these three levels are not always labelled. A 
 
 The Bennewitz affair demonstrates why these shifting boundaries matter.
 
-The narrow version of the story is comparatively straightforward. Bennewitz observed unusual activity near sensitive military facilities. Doty and others became involved. Misleading information was allegedly provided to steer attention away from classified projects. This broad outline has been repeated by numerous researchers and has been discussed by Doty himself. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-snippet">Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</span></span></span>
+The narrow version of the story is comparatively straightforward. Bennewitz observed unusual activity near sensitive military facilities. Doty and others became involved. Misleading information was allegedly provided to steer attention away from classified projects. This broad outline has been repeated by numerous researchers and has been discussed by Doty himself.<span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-snippet">Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</span></span></span>
 
-The wider version is much less stable. Over time, the story becomes connected to underground alien bases, extraterrestrial infiltration, secret government factions and other elements of UFO mythology. Once those additions enter the narrative, determining which elements originated as deliberate deception and which were later accepted as true becomes extremely difficult. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
+The wider version is much less stable. Over time, the story becomes connected to underground alien bases, extraterrestrial infiltration, secret government factions and other elements of UFO mythology. Once those additions enter the narrative, determining which elements originated as deliberate deception and which were later accepted as true becomes extremely difficult.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</span></span></span>
 
 This is the core credibility risk. If a person acknowledges participation in manufacturing false narratives, later claims require especially careful sourcing. The burden shifts from proving that disinformation occurred to proving that a particular new claim is not another layer of disinformation, misunderstanding or myth-making.
 
@@ -333,9 +333,9 @@ This is the core credibility risk. If a person acknowledges participation in man
 
 The Project Serpo controversy illustrates how blurred boundaries can damage credibility long after an original operation ends.
 
-Serpo was promoted as a secret exchange programme between humans and extraterrestrials. Doty became associated with the story through claims that he had access to supporting information or records. Yet the narrative changed repeatedly, attracted accusations of fabrication and developed multiple conflicting versions. Even some people involved in promoting aspects of the story later acknowledged the presence of disinformation within the releases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol projectserpo08</span><span class="citation-popover-snippet">Richard Doty and Project SerpoFeb 18, 2006 — In February 2006, UFO Magazine released an edition that focused on the Project Serpo, an all...</span><span class="citation-popover-meta">Published: February 2006</span></span></span>
+Serpo was promoted as a secret exchange programme between humans and extraterrestrials. Doty became associated with the story through claims that he had access to supporting information or records. Yet the narrative changed repeatedly, attracted accusations of fabrication and developed multiple conflicting versions. Even some people involved in promoting aspects of the story later acknowledged the presence of disinformation within the releases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: bibliotecapleyades.net">[bibliotecapleyades.net]</a><span class="citation-popover" role="note"><span class="citation-popover-source">bibliotecapleyades.net</span><span class="citation-popover-title">sociopol projectserpo08</span><span class="citation-popover-snippet">Richard Doty and Project SerpoFeb 18, 2006 — In February 2006, UFO Magazine released an edition that focused on the Project Serpo, an all...</span><span class="citation-popover-meta">Published: February 2006</span></span></span>
 
-For critics, Serpo reinforced a pattern. Doty was no longer merely discussing a documented historical disinformation case. He was connected to another extraordinary claim whose evidential basis remained weak. The result was a collapse of confidence in his ability to separate operational history from speculative narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+For critics, Serpo reinforced a pattern. Doty was no longer merely discussing a documented historical disinformation case. He was connected to another extraordinary claim whose evidential basis remained weak. The result was a collapse of confidence in his ability to separate operational history from speculative narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
 Supporters sometimes respond that intelligence environments routinely mix truth, cover stories and compartmented information. From that perspective, contradictions do not necessarily prove fabrication. However, that defence also creates a problem: if every inconsistency can be explained by secrecy, then almost no claim becomes falsifiable.
 
@@ -356,203 +356,203 @@ Insider testimony is strongest when the source clearly identifies four separate 
 
 </div>
 
-Doty's public record often contains all four categories, but not always with clear dividing lines. That does not automatically make every statement false. It does, however, reduce the ability of outsiders to test individual claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</span></span></span>
+Doty's public record often contains all four categories, but not always with clear dividing lines. That does not automatically make every statement false. It does, however, reduce the ability of outsiders to test individual claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</span></span></span>
 
 This creates a paradox. Doty's credibility rests partly on his admission that deception occurred. Yet that same admission makes later claims harder to verify because audiences know he once operated in an environment where misleading narratives were intentionally created. The more his stories move between memory, orders, inference and belief without explicit separation, the harder it becomes to determine which parts deserve evidential weight.
 
-For many researchers, that is the lasting lesson of the Doty case. The central question is no longer whether disinformation existed. It is whether the person describing it can reliably distinguish between the operation itself, the stories built around it and the beliefs that emerged afterwards. On that question, the public record remains unsettled. <span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-snippet">Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
+For many researchers, that is the lasting lesson of the Doty case. The central question is no longer whether disinformation existed. It is whether the person describing it can reliably distinguish between the operation itself, the stories built around it and the beliefs that emerged afterwards. On that question, the public record remains unsettled.<span class="citation-chip-wrap"><a class="citation-chip" href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: issues.org">[Issues in Science and Technology]</a><span class="citation-popover" role="note"><span class="citation-popover-source">issues.org</span><span class="citation-popover-snippet">Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span><span class="citation-popover-snippet">Planetary objects proposed in religion, astrology, ufology and pseudoscience</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-3-dark.svg" | relative_url }}" alt="Claim boundaries illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Where Does Doty&#x27;s Story Change Shape?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Where Does Doty&#x27;s Story Change Shape?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Henry Hughes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
+</h4>
+<p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
-        </h4>
-        <p class="fr-book-author">By Von Axle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
+</h4>
+<p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Charles River Charles River Editors</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
-        </h4>
-        <p class="fr-book-author">By BARTY. HARMER</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+</h4>
+<p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=where-does-doty-s-story-change-shape-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="where-does-doty-s-story-change-shape-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For many researchers, that is the lasting lesson of the Doty case. The central q
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For many researchers, that is the lasting lesson of the Doty case. The central q
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For many researchers, that is the lasting lesson of the Doty case. The central q
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For many researchers, that is the lasting lesson of the Doty case. The central q
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For many researchers, that is the lasting lesson of the Doty case. The central q
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,191 +758,191 @@ For many researchers, that is the lasting lesson of the Doty case. The central q
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: issues.org  
-   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</p></details>
+   Link:<a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Issues in Science and TechnologyUFOs Won&#x27;t Go AwayFake news, misinformation, and disinformation have become bywords for... Doty fed his...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Bi-S3Ks7Z8</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7Bi-S3Ks7Z8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7Bi-S3Ks7Z8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty on Disinformation, Paul Bennewitz, and UAP...In our interview, Richard Doty reflects on his past... Richard Doty on...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFOAfter Paul Bennewitz, an Engineer in the U.S. Coast Guard, tapped into a highly clas...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mislead the Public&#x27; Ep. 3 Official Clip | UFOAfter Paul Bennewitz, an Engineer in the U.S. Coast Guard, tapped into a highly clas...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesAztec &quot;alien bodies&quot; hoax. edit. Main article: Aztec, New Mexico UFO hoax · Three men demonstrate the Aztec hoa...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Planetary objects proposed in religion, astrology, ufology and pseudoscience  
-   Link: <a href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Planetary_objects_proposed_in_religion%2C_astrology%2C_ufology_and_pseudoscience</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: gaia.com  
-   Link: <a href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/targeted-disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</p></details>
+   Link:<a href="https://www.gaia.com/video/targeted-disinformation" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/targeted-disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Targeted DisinformationStream Targeted Disinformation free with 7 day trial - Richard Doty talks about a remarkable case that invol...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: bibliotecapleyades.net  
    Title: sociopol project SERPO07  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectSERPO07.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Statement on Project SerpoMy personal analysis of the Serpo information, which describes an exchange program in 1965 betwe...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2025 —... Richard Doty, are responsible for a disinformation campaign against Bennewitz. In 1990, the Bennewitz story was f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2025 —... Richard Doty, are responsible for a disinformation campaign against Bennewitz. In 1990, the Bennewitz story was f...</p></details>
    Published: December 29, 2025  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: bibliotecapleyades.net  
    Title: sociopol projectserpo08  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty and Project SerpoFeb 18, 2006 — In February 2006, UFO Magazine released an edition that focused on the Project Serpo, an all...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty and Project SerpoFeb 18, 2006 — In February 2006, UFO Magazine released an edition that focused on the Project Serpo, an all...</p></details>
    Published: February 2006  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richard</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Richard" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richard</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>RichardRichard is a masculine given name. It originates, via Old French, from Old Frankish and is a compound of the words descending f...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO Mythology... Bennewitz, Rick Doty Year: 2013 Full documentary Original...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How the US Government Shaped the UFO Mythology... Bennewitz, Rick Doty Year: 2013 Full documentary Original...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ENunHX1WpyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ENunHX1WpyI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz in the 1980s about UFOs in New Mexico...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ENunHX1WpyI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ENunHX1WpyI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz in the 1980s about UFOs in New Mexico...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: music.youtube.com  
    Title: gt TBK30ux Vk  
-   Link: <a href="https://music.youtube.com/podcast/gtTBK30uxVk" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/gtTBK30uxVk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo—an alleged government exchange program with extraterrestrials. Is it real, or a disinformation campaign? 00:00 The Mysterio...</p></details>
+   Link:<a href="https://music.youtube.com/podcast/gtTBK30uxVk" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/gtTBK30uxVk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo—an alleged government exchange program with extraterrestrials. Is it real, or a disinformation campaign? 00:00 The Mysterio...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=awsv66J31S8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AGE MEN | FilmIsNow...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=awsv66J31S8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AGE MEN | FilmIsNow...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PuMuD4i_6ZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz in the 1980s about UFOs in New Mexico...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PuMuD4i_6ZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bennewitz in the 1980s about UFOs in New Mexico...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Former Area 51 Employee Reveals Secrets from the Base  
-   Link: <a href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwTCwebi-6Q</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 Alien and UFO Cover Ups | Full Movie | Documentary - Richard Doty...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwTCwebi-6Q</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Top 20 Alien and UFO Cover Ups | Full Movie | Documentary - Richard Doty...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
    Title: Top 20 Alien and UFO Cover Ups | Full Movie | Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=b578RetPArw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b578RetPArw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=b578RetPArw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=b578RetPArw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Why We Traded 12 Aliens For 12 Humans | Project Serpo | Full Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=rwFbS95M2Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rwFbS95M2Ms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The How the US Government Shaped the UFO Mythology documentary is highly relevant as it captures Richard Doty directly discussing the ope...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=rwFbS95M2Ms" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=rwFbS95M2Ms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The How the US Government Shaped the UFO Mythology documentary is highly relevant as it captures Richard Doty directly discussing the ope...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...14 Aug 2014 — Rather than covering up the existence of aliens, co...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/au/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/au/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who... Targeted Disinformation...</p></details>
+   Link:<a href="https://tv.apple.com/au/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/au/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who... Targeted Disinformation...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: tv.apple.com  
-   Link: <a href="https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who intercepted classified tran...</p></details>
+   Link:<a href="https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/targeted-disinformation/umc.cmc.1pztyppy4brfcg8m2qbaq1no5?showId=umc.cmc.1x2bm02ytlchtsd6042dmkesi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Disinformation - Cosmic DisclosureRichard Doty talks about a remarkable case that involved Paul Bennewitz who intercepted classified tran...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: e-flux.com  
-   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-fluxRichard Doty is a former Air Force Intelligence operative whose job at Kirtland AFB in New Mexico involved creating and diss...</p></details>
+   Link:<a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-fluxRichard Doty is a former Air Force Intelligence operative whose job at Kirtland AFB in New Mexico involved creating and diss...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: wired.com  
    Title: mirage men  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — W: Doty argues that all the deception is a way of preparing people for the tr...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — W: Doty argues that all the deception is a way of preparing people for the tr...</p></details>
 
 ### Additional References
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: hybridsrising.com  
-   Link: <a href="https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html" target="_blank" rel="noopener noreferrer nofollow">https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project SERPO-The Gift That Keeps on GivingSERPO is suspected to have originally been a disinformation campaign to cover up a UAV, unmann...</p></details>
+   Link:<a href="https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html" target="_blank" rel="noopener noreferrer nofollow">https://hybridsrising.com/Articles/SERPO-The-Gift-That-Keeps-on-Giving.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project SERPO-The Gift That Keeps on GivingSERPO is suspected to have originally been a disinformation campaign to cover up a UAV, unmann...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/futurism/project-serpo-the-secret-space-program-a-true-sci-fi-story" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/project-serpo-the-secret-space-program-a-true-sci-fi-story</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo: The Secret Space Program, A True Sci-Fi StoryDoty, a former United States Air Force sergeant, who claimed to have provided...</p></details>
+   Link:<a href="https://vocal.media/futurism/project-serpo-the-secret-space-program-a-true-sci-fi-story" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/project-serpo-the-secret-space-program-a-true-sci-fi-story</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Serpo: The Secret Space Program, A True Sci-Fi StoryDoty, a former United States Air Force sergeant, who claimed to have provided...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoRichard Doty was a USAF Office of Special Investigation agent. His job was to spread disinformation and...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoRichard Doty was a USAF Office of Special Investigation agent. His job was to spread disinformation and...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: rosettasister.wordpress.com  
-   Link: <a href="https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Serpo hoax. (Rick Doty is commonly regarded within the UFO community as the author, or at least a co-author, of the hoaxed Serpo material...</p></details>
+   Link:<a href="https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/" target="_blank" rel="noopener noreferrer nofollow">https://rosettasister.wordpress.com/2019/09/04/chapter-4-and-a-little-bit-more-richard-doty-air-force-office-of-special-investigations-afosi-counter-intelligence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Serpo hoax. (Rick Doty is commonly regarded within the UFO community as the author, or at least a co-author, of the hoaxed Serpo material...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: latest-ufo-sightings.net  
-   Link: <a href="https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Even Doty acknowledges the possibility that Project Serpo may have been an elaborate disinformation campaign...Read more...</p></details>
+   Link:<a href="https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html" target="_blank" rel="noopener noreferrer nofollow">https://www.latest-ufo-sightings.net/2026/05/the-serpo-mission-inside-one-of-the-most-controversial-ufo-conspiracy-stories-ever-told.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Even Doty acknowledges the possibility that Project Serpo may have been an elaborate disinformation campaign...Read more...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — And is it possible that whistleblowers are fabricating parts or all of thei...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty answering a question on his knowledge of disinformation campaigns in.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/14lgql8/who_is_richard_doty_and_why_is_everyone_saying/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty answering a question on his knowledge of disinformation campaigns in.Read more...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: tv.apple.com  
    Title: But is Doty himself a pawn in an even bigger disinformation scheme?Read more  
-   Link: <a href="https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Project Seven Lambs - Alien Files: Re-Opened (Season 1...Military officials send counterintelligence officer Richard Doty to...</p></details>
+   Link:<a href="https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s" target="_blank" rel="noopener noreferrer nofollow">https://tv.apple.com/us/episode/project-seven-lambs/umc.cmc.7h4w5dsuazn9qursaq43dk6ht?showId=umc.cmc.1wymxhy0dv16z97z2qh58x16s</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>apple.com‎Project Seven Lambs - Alien Files: Re-Opened (Season 1...Military officials send counterintelligence officer Richard Doty to...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: open.spotify.com  
-   Link: <a href="https://open.spotify.com/embed/episode/5OCSrLDTVRyBnirzi3NyVT?si=WmAvQo7bTCGMTsqPswCOAA" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/embed/episode/5OCSrLDTVRyBnirzi3NyVT?si=WmAvQo7bTCGMTsqPswCOAA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower Fallout | RC 80...</p></details>
+   Link:<a href="https://open.spotify.com/embed/episode/5OCSrLDTVRyBnirzi3NyVT?si=WmAvQo7bTCGMTsqPswCOAA" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/embed/episode/5OCSrLDTVRyBnirzi3NyVT?si=WmAvQo7bTCGMTsqPswCOAA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Doty on Disinformation, Paul Bennewitz, and UAP...Richard Doty on Disinformation, Paul Bennewitz, and UAP Whistleblower Fallout | RC 80...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/100084193171166/posts/heres-an-old-conspiracy-theory-for-youproject-serpo-is-an-alleged-top-secret-exc/632513859565048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100084193171166/posts/heres-an-old-conspiracy-theory-for-youproject-serpo-is-an-alleged-top-secret-exc/632513859565048/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mpaign, possibly orchestrated by intelligence agencies to...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/100084193171166/posts/heres-an-old-conspiracy-theory-for-youproject-serpo-is-an-alleged-top-secret-exc/632513859565048/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100084193171166/posts/heres-an-old-conspiracy-theory-for-youproject-serpo-is-an-alleged-top-secret-exc/632513859565048/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mpaign, possibly orchestrated by intelligence agencies to...Read more...</p></details>

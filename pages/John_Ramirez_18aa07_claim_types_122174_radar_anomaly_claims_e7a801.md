@@ -256,16 +256,16 @@ image: /assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claim
 
 ## Introduction
 
-John Ramirez’s most defensible UFO-related claims are not the ones about alien hybrids or future disclosure timelines. They are the narrower claims that, during his intelligence and signals-analysis career, he encountered unusual radar or missile-tracking data that he could not easily explain. Even here, however, the evidence remains incomplete. Ramirez has publicly described anomalous signatures appearing during systems involved in Soviet missile monitoring and radar analysis, but he has not released the underlying sensor records, technical reports, track files, classified assessments or corroborating documentation that would allow independent verification. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</span></span></span>
+John Ramirez’s most defensible UFO-related claims are not the ones about alien hybrids or future disclosure timelines. They are the narrower claims that, during his intelligence and signals-analysis career, he encountered unusual radar or missile-tracking data that he could not easily explain. Even here, however, the evidence remains incomplete. Ramirez has publicly described anomalous signatures appearing during systems involved in Soviet missile monitoring and radar analysis, but he has not released the underlying sensor records, technical reports, track files, classified assessments or corroborating documentation that would allow independent verification.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claims_e7a801-Illustration-1-dark.svg" | relative_url }}" alt="Radar claims illustration 1" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claims_e7a801-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claims_e7a801-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That leaves an important credibility question. Unlike some UFO personalities who rely almost entirely on stories they heard from others, Ramirez presents these radar-related accounts as being closer to his own professional experience. Yet the public is still being asked to evaluate a technical claim without access to the technical evidence.
 
 ## What Ramirez says he personally worked on
 
-Across interviews and podcast appearances, Ramirez has repeatedly described himself as an electronic intelligence (ELINT) and signals-analysis specialist whose work involved ballistic missile defence systems, radar signals and weapons-system tracking. Public biographies associated with his appearances place him in intelligence roles connected to radar analysis and missile-warning environments. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...11 May 2025 — His expertise spans ballistic missile defence system...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+Across interviews and podcast appearances, Ramirez has repeatedly described himself as an electronic intelligence (ELINT) and signals-analysis specialist whose work involved ballistic missile defence systems, radar signals and weapons-system tracking. Public biographies associated with his appearances place him in intelligence roles connected to radar analysis and missile-warning environments.<span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...11 May 2025 — His expertise spans ballistic missile defence system...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
-The most relevant claims concern anomalous returns or signatures detected during monitoring associated with Soviet missile activities. Ramirez has described situations in which tracking systems reportedly detected unusual objects, signals or radar events that did not fit expected missile-test profiles. In some retellings, he frames these as anomalies encountered by systems he worked with rather than as direct visual observations of unidentified craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</span></span></span>
+The most relevant claims concern anomalous returns or signatures detected during monitoring associated with Soviet missile activities. Ramirez has described situations in which tracking systems reportedly detected unusual objects, signals or radar events that did not fit expected missile-test profiles. In some retellings, he frames these as anomalies encountered by systems he worked with rather than as direct visual observations of unidentified craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</span></span></span>
 
 This distinction matters because it places his strongest first-hand claims in a technical rather than eyewitness category.
 
@@ -288,7 +288,7 @@ That is a narrower and more defensible position than claiming direct knowledge o
 
 One reason Ramirez's radar accounts attract more attention than some of his other statements is that they broadly align with the type of work described in his public career history.
 
-Cold War missile-warning and missile-tracking systems were designed to detect, classify and follow fast-moving objects at long range. Such systems routinely had to distinguish between missiles, satellites, debris, atmospheric effects, electronic interference and equipment faults. The challenge was substantial enough that both the United States and the Soviet Union experienced false alarms and ambiguous detections during the Cold War. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballistic_Missile_Early_Warning_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballistic Missile Early Warning System</span><span class="citation-popover-snippet">Ballistic Missile Early Warning System</span></span></span>
+Cold War missile-warning and missile-tracking systems were designed to detect, classify and follow fast-moving objects at long range. Such systems routinely had to distinguish between missiles, satellites, debris, atmospheric effects, electronic interference and equipment faults. The challenge was substantial enough that both the United States and the Soviet Union experienced false alarms and ambiguous detections during the Cold War.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Ballistic_Missile_Early_Warning_System" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Ballistic Missile Early Warning System</span><span class="citation-popover-snippet">Ballistic Missile Early Warning System</span></span></span>
 
 Ramirez's claimed background in ELINT and radar analysis therefore gives him a plausible basis for discussing anomalous sensor behaviour. Someone working with missile-tracking systems would be expected to encounter:
 
@@ -304,7 +304,7 @@ Ramirez's claimed background in ELINT and radar analysis therefore gives him a p
 
 None of that automatically implies non-human technology. It does mean that unusual radar events are not inherently implausible within the professional environment Ramirez describes.
 
-[Supporters]({{ 'supporters-124489/' | relative_url }}) often point to this as the strongest part of his credibility profile. They argue that a specialist in missile-warning and signals analysis would have a better understanding of anomalous sensor events than most civilian commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...11 May 2025 — His expertise spans ballistic missile defence system...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
+[Supporters]({{ 'supporters-124489/' | relative_url }}) often point to this as the strongest part of his credibility profile. They argue that a specialist in missile-warning and signals analysis would have a better understanding of anomalous sensor events than most civilian commentators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://music.youtube.com/podcast/v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: music.youtube.com">[YouTube Music]</a><span class="citation-popover" role="note"><span class="citation-popover-source">music.youtube.com</span><span class="citation-popover-snippet">UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...11 May 2025 — His expertise spans ballistic missile defence system...</span><span class="citation-popover-meta">Published: May 2025</span></span></span>
 
 [Sceptics]({{ 'sceptics-70c753/' | relative_url }}) generally accept the possibility that Ramirez worked around such systems while questioning the leap from anomalous radar behaviour to extraordinary UFO conclusions.
 
@@ -312,7 +312,7 @@ None of that automatically implies non-human technology. It does mean that unusu
 
 The central evidential weakness is not whether radar anomalies occur. They unquestionably do.
 
-Modern radar operators regularly confront false tracks, sensor glitches, propagation effects, atmospheric distortions, software errors and classification problems. Even highly sophisticated strategic-warning systems have generated misleading detections. The 1983 Soviet nuclear false alarm incident is a famous example in which warning systems incorrectly indicated missile launches. Subsequent investigation attributed the alerts to environmental and sensor effects rather than an actual attack. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1983 Soviet nuclear false alarm incident</span><span class="citation-popover-snippet">1983 Soviet nuclear false alarm incident</span></span></span>
+Modern radar operators regularly confront false tracks, sensor glitches, propagation effects, atmospheric distortions, software errors and classification problems. Even highly sophisticated strategic-warning systems have generated misleading detections. The 1983 Soviet nuclear false alarm incident is a famous example in which warning systems incorrectly indicated missile launches. Subsequent investigation attributed the alerts to environmental and sensor effects rather than an actual attack.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">1983 Soviet nuclear false alarm incident</span><span class="citation-popover-snippet">1983 Soviet nuclear false alarm incident</span></span></span>
 
 That broader history creates a challenge for evaluating Ramirez's accounts.
 
@@ -352,7 +352,7 @@ If Ramirez's accounts are based on actual missile-tracking or radar incidents, i
 
 </div>
 
-In missile-warning systems, a single radar return is rarely considered sufficient evidence by itself. Analysts normally seek confirmation from multiple sensors, platforms or independent reporting streams. Modern UAP research proposals similarly emphasise multimodal collection, combining radar, infrared, optical and telemetry data rather than relying on a single instrument. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
+In missile-warning systems, a single radar return is rarely considered sufficient evidence by itself. Analysts normally seek confirmation from multiple sensors, platforms or independent reporting streams. Modern UAP research proposals similarly emphasise multimodal collection, combining radar, infrared, optical and telemetry data rather than relying on a single instrument.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-snippet">The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</span><span class="citation-popover-meta">Published: May 29, 2023</span></span></span>
 
 This is where Ramirez's story becomes difficult to evaluate.
 
@@ -380,7 +380,7 @@ Critics respond that:
 * Technical expertise does not automatically validate later conclusions.
 * Radar anomalies are common enough that extraordinary explanations require extraordinary evidence.
 * Ramirez has publicly promoted claims extending far beyond radar analysis, including theories about hybrids and non-human intelligence.
-* No independently released dataset currently demonstrates that the radar events he references involved exotic technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">John Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</span><span class="citation-popover-meta">Published: June 25, 2025</span></span></span> YouTube The disagreement is therefore less about whether anomalous sensor events happen and more about what conclusions should be drawn from them. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</span></span></span>
+* No independently released dataset currently demonstrates that the radar events he references involved exotic technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">John Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</span><span class="citation-popover-meta">Published: June 25, 2025</span></span></span> YouTube The disagreement is therefore less about whether anomalous sensor events happen and more about what conclusions should be drawn from them.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-title">You Tube Ex-CIA Officer Confirms Alien Hybrids Exist</span><span class="citation-popover-snippet">Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</span></span></span>
 
 <img src="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claims_e7a801-Illustration-3-dark.svg" | relative_url }}" alt="Radar claims illustration 3" data-theme-src-dark="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claims_e7a801-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/John_Ramirez_18aa07_claim_types_122174_radar_anomaly_claims_e7a801-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Where these claims sit in Ramirez's overall credibility picture
@@ -396,152 +396,152 @@ That distinction is important. A former intelligence officer reporting unusual r
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/eK5v9vByigw" title="&quot;Humans Among Us That Might be More ET Than Human&quot; - Former CIA Agent" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=eK5v9vByigw" target="_blank" rel="noopener noreferrer">&quot;Humans Among Us That Might be More ET Than Human&quot; - Former CIA Agent</a></p><p class="youtube-embed-meta">Channel: Gaia &middot; Views: 38.3K &middot; Uploaded: October 2024 &middot; Length: 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=eK5v9vByigw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=eK5v9vByigw">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for How strong are Ramirez&#x27;s radar anomaly claims?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for How strong are Ramirez&#x27;s radar anomaly claims?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)"><img src="https://i.ebayimg.com/images/g/8ocAAeSwWtdpzlUu/s-l225.jpg" alt="Listing image for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)"><img src="https://i.ebayimg.com/images/g/8ocAAeSwWtdpzlUu/s-l225.jpg" alt="Listing image for YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">YACHTS WITHOUT RADAR POSTER SIZED original music press advert from 1980 (aged)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094"><img src="https://i.ebayimg.com/images/g/lCYAAeSwutNpuG3q/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094"><img src="https://i.ebayimg.com/images/g/lCYAAeSwutNpuG3q/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #7, The Losers Fold Out Poster #W1094</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734"><img src="https://i.ebayimg.com/images/g/HgoAAOSw6lRi6~Aj/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734"><img src="https://i.ebayimg.com/images/g/HgoAAOSw6lRi6~Aj/s-l225.jpg" alt="Listing image for Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Radar Optimum Home Entertainment Catalogue #8, The Tourist Fold Out Poster #W734</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/DmoAAeSwKh9p2SMf/s-l225.jpg" alt="Listing image for Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/DmoAAeSwKh9p2SMf/s-l225.jpg" alt="Listing image for Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">Matt the radar technician Framed Ar Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for radar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: radar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=radar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="radar poster" data-ebay-reference="how-strong-are-ramirez-s-radar-anomaly-claims-radar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -557,7 +557,7 @@ That distinction is important. A former intelligence officer reporting unusual r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -577,7 +577,7 @@ That distinction is important. A former intelligence officer reporting unusual r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -609,7 +609,7 @@ That distinction is important. A former intelligence officer reporting unusual r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -661,7 +661,7 @@ That distinction is important. A former intelligence officer reporting unusual r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -706,7 +706,7 @@ That distinction is important. A former intelligence officer reporting unusual r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -747,126 +747,126 @@ That distinction is important. A former intelligence officer reporting unusual r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: youtube.com  
    Title: You Tube Ex-CIA Officer Confirms Alien Hybrids Exist  
-   Link: <a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nS_Insp7i_Y" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nS_Insp7i_Y</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ex-CIA Officer Confirms Alien Hybrids Exist - John Ramirez... Missile Tests 7:58 Soviet Radar and Anomalous Signals 10:46 Orb Work...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=nJiS7p98x-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJiS7p98x-E</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Mr. John Ramirez On - UFORevealing Interview! - Former CIA Mr. John Ramirez On: CIA - Aliens - Hybrids - UFO - UAP. 3.7K views...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=nJiS7p98x-E" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=nJiS7p98x-E</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former CIA Mr. John Ramirez On - UFORevealing Interview! - Former CIA Mr. John Ramirez On: CIA - Aliens - Hybrids - UFO - UAP. 3.7K views...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: music.youtube.com  
-   Link: <a href="https://music.youtube.com/podcast/v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/v6wGLH1uSOo</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...11 May 2025 — His expertise spans ballistic missile defence system...</p></details>
+   Link:<a href="https://music.youtube.com/podcast/v6wGLH1uSOo" target="_blank" rel="noopener noreferrer nofollow">https://music.youtube.com/podcast/v6wGLH1uSOo</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...11 May 2025 — His expertise spans ballistic missile defence system...</p></details>
    Published: May 2025  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Ballistic Missile Early Warning System  
-   Link: <a href="https://en.wikipedia.org/wiki/Ballistic_Missile_Early_Warning_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ballistic_Missile_Early_Warning_System</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Ballistic_Missile_Early_Warning_System" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Ballistic_Missile_Early_Warning_System</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: 1983 Soviet nuclear false alarm incident  
-   Link: <a href="https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/1983_Soviet_nuclear_false_alarm_incident</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
+   Link:<a href="https://arxiv.org/abs/2305.18566" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2305.18566</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Scientific Investigation of Unidentified Aerial Phenomena (UAP) Using Multimodal Ground-Based ObservatoriesMay 29, 2023...</p></details>
    Published: May 29, 2023  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1lke8jt/john_ramirez_excia_officer_on_a_podcast/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>John Ramirez, ex-CIA officer, on a podcast discussing...June 25, 2025 — Ex-CIA officer John Ramirez joins a podcast to reveal insi...</p></details>
    Published: June 25, 2025  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1d7Mmss5TVI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>out &#x27;modern human origins&#x27;, his personal thoughts on...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=1d7Mmss5TVI" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=1d7Mmss5TVI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>out &#x27;modern human origins&#x27;, his personal thoughts on...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: youtube.com  
    Title: John Ramirez: The CIA is Tracking Humans that are Alien/Human Hybrids  
-   Link: <a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=SGK1fpUx84g" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=SGK1fpUx84g</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GS-15 CIA Officer John Ramirez | Navigating the US Intelligence Community for UFOlogists...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQfySY_2BLc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Humans Among Us That Might be More ET Than Human&quot; - Former CIA Agent...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=cQfySY_2BLc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=cQfySY_2BLc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Humans Among Us That Might be More ET Than Human&quot; - Former CIA Agent...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
    Title: "Humans Among Us That Might be More ET Than Human"  
-   Link: <a href="https://www.youtube.com/watch?v=eK5v9vByigw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eK5v9vByigw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH RANKING Ex-Warlock Exposes the Demonic Realm...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=eK5v9vByigw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=eK5v9vByigw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>HIGH RANKING Ex-Warlock Exposes the Demonic Realm...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
    Title: HIGH RANKING Ex-Warlock Exposes the Demonic Realm  
-   Link: <a href="https://www.youtube.com/watch?v=Ax226mvsokA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ax226mvsokA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Former Satanist - John Ramirez (part 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Ax226mvsokA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Ax226mvsokA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Former Satanist - John Ramirez (part 2)...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
    Title: Former Satanist  
-   Link: <a href="https://www.youtube.com/watch?v=ZjVsH9zjbjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZjVsH9zjbjU</a>  
+   Link:<a href="https://www.youtube.com/watch?v=ZjVsH9zjbjU" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZjVsH9zjbjU</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/e/electromagnetic%2Bpulses%2Bgpr-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/e/electromagnetic%2Bpulses%2Bgpr-ground</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>electromagnetic pulses gpr-groundFinally, electric conductivity anomalies lead to anomalous GPR signal attenuation. The conductivity anom...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/e/electromagnetic%2Bpulses%2Bgpr-ground" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/e/electromagnetic%2Bpulses%2Bgpr-ground</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>electromagnetic pulses gpr-groundFinally, electric conductivity anomalies lead to anomalous GPR signal attenuation. The conductivity anom...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ChemtrailsUK/posts/10161611206873348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ChemtrailsUK/posts/10161611206873348/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>USNS ship tracks electromagnetic surveillance and...Because we are witnessing unnatural cloud formations, anomalous auroras, frequency-l...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ChemtrailsUK/posts/10161611206873348/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ChemtrailsUK/posts/10161611206873348/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>USNS ship tracks electromagnetic surveillance and...Because we are witnessing unnatural cloud formations, anomalous auroras, frequency-l...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: gaia.com  
-   Link: <a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersJohn Ramirez is a Signal Intelligence specialist who served in the Navy as a radar engine...</p></details>
+   Link:<a href="https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/john-ramirez-cia-agents-close-encounters</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch John Ramirez: CIA Agent&#x27;s Close EncountersJohn Ramirez is a Signal Intelligence specialist who served in the Navy as a radar engine...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: science.gov  
-   Link: <a href="https://www.science.gov/topicpages/m/magnetic%2Bdetail%2Bsurvey" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/m/magnetic%2Bdetail%2Bsurvey</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ity anomalies trend east-northeast and overlap in large part...Read more...</p></details>
+   Link:<a href="https://www.science.gov/topicpages/m/magnetic%2Bdetail%2Bsurvey" target="_blank" rel="noopener noreferrer nofollow">https://www.science.gov/topicpages/m/magnetic%2Bdetail%2Bsurvey</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ity anomalies trend east-northeast and overlap in large part...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ran of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/pulptastic/posts/an-ex-cia-researcher-says-recovered-ufo-crash-sites-didnt-yield-just-one-kind-of/1415764217264197/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ran of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ABC15/posts/two-retired-police-officers-are-putting-their-years-of-experience-to-work-in-a-n/1399752788863780/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of the CIA, specializing in ballistic missile defense systems.Read more...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SteveBartlettShow/posts/they-can-see-all-of-your-messagesthats-not-a-conspiracy-theory-its-something-tod/1439067917602080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/they-can-see-all-of-your-messagesthats-not-a-conspiracy-theory-its-something-tod/1439067917602080/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>lizing in ballistic missile defense systems.Read more...</p></details>
+   Link:<a href="https://www.facebook.com/SteveBartlettShow/posts/they-can-see-all-of-your-messagesthats-not-a-conspiracy-theory-its-something-tod/1439067917602080/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SteveBartlettShow/posts/they-can-see-all-of-your-messagesthats-not-a-conspiracy-theory-its-something-tod/1439067917602080/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>lizing in ballistic missile defense systems.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This Man who worked for CIA claimed that he saw a being...Former CIA analyst John Ramirez claims the government secretly studied “alien...</p></details>
+   Link:<a href="https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/UnexplainedMysteriousUniverse/posts/this-man-who-worked-for-cia-claimed-that-he-saw-a-being-described-by-many-as-a-r/1591966739601414/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Man who worked for CIA claimed that he saw a being...Former CIA analyst John Ramirez claims the government secretly studied “alien...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: open.spotify.com  
    Title: intelligence.Read more  
-   Link: <a href="https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comUFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...12 May 2025 — The following is a conversation with John Ramirez, a f...</p></details>
+   Link:<a href="https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu" target="_blank" rel="noopener noreferrer nofollow">https://open.spotify.com/episode/35q9THkumJ13Nv682dLsOu</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>spotify.comUFOs, UAPs &amp; 2027: Former CIA Agent John Ramirez Tells...12 May 2025 — The following is a conversation with John Ramirez, a f...</p></details>
    Published: May 2025  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/224352143_Infrared_Thermography_for_Buried_Landmine_Detection_Inverse_Problem_Setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224352143_Infrared_Thermography_for_Buried_Landmine_Detection_Inverse_Problem_Setting</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared Thermography for Buried Landmine DetectionThey are widely utilized for tasks like pinpointing heat sources during firefighting o...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/224352143_Infrared_Thermography_for_Buried_Landmine_Detection_Inverse_Problem_Setting" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/224352143_Infrared_Thermography_for_Buried_Landmine_Detection_Inverse_Problem_Setting</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Infrared Thermography for Buried Landmine DetectionThey are widely utilized for tasks like pinpointing heat sources during firefighting o...</p></details>

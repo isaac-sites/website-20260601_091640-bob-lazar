@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-index/
 description: Focused pages that expand on How Credible Is Colm Kelleher?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Colm_Kelleher_d782e9
 parent_title: How Credible Is Colm Kelleher?
@@ -16,7 +16,7 @@ parent_permalink: /how-credible-is-colm-kelleher/
 
 # Explore Topics in How Credible Is Colm Kelleher?
 
-The following pages expand on the main **[How Credible Is Colm Kelleher?]({{ '/how-credible-is-colm-kelleher/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[How Credible Is Colm Kelleher?]({{ '/how-credible-is-colm-kelleher/' | relative_url }})** page and cover its key branches in.
 
 - [AATIP Confusion]({{ '/aatip-confusion-b857ff/' | relative_url }})
 - [AAWSAP Role]({{ '/aawsap-role/' | relative_url }})

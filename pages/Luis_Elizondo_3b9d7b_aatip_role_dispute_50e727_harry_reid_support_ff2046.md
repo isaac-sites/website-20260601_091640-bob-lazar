@@ -265,13 +265,13 @@ At the same time, Reid’s support does not completely resolve the dispute. His 
 
 The most frequently cited piece of evidence is a 2021 letter from Reid written after Pentagon spokespersons publicly questioned Elizondo’s claimed role. In that letter, Reid stated:
 
-> “As one of the original sponsors of AATIP, I can state as a matter of record” that Elizondo had an involvement and leadership role in the programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/GadiNBC/status/1386872125835812864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-title">“As one of the original sponsors of AATIP,</span><span class="citation-popover-snippet">X (formerly Twitter)UPDATE: Former Senator Harry Reid has sent us a letter confirming...April 27, 2021 — UPDATE: Former Senator Harry Re...</span><span class="citation-popover-meta">Published: April 27, 2021</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+> “As one of the original sponsors of AATIP, I can state as a matter of record” that Elizondo had an involvement and leadership role in the programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://x.com/GadiNBC/status/1386872125835812864" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: x.com">[X (formerly Twitter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">x.com</span><span class="citation-popover-title">“As one of the original sponsors of AATIP,</span><span class="citation-popover-snippet">X (formerly Twitter)UPDATE: Former Senator Harry Reid has sent us a letter confirming...April 27, 2021 — UPDATE: Former Senator Harry Re...</span><span class="citation-popover-meta">Published: April 27, 2021</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
-That wording matters because Reid was not merely praising Elizondo personally. He was making a factual claim about programme involvement and leadership. The letter appeared after years of debate over whether Elizondo had exaggerated his position. Reid was effectively siding with Elizondo in a dispute that had become central to the former intelligence officer’s credibility. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+That wording matters because Reid was not merely praising Elizondo personally. He was making a factual claim about programme involvement and leadership. The letter appeared after years of debate over whether Elizondo had exaggerated his position. Reid was effectively siding with Elizondo in a dispute that had become central to the former intelligence officer’s credibility.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
-Reid had already been publicly associated with the original Pentagon effort long before the letter. Reporting on AATIP repeatedly identified him as one of the senators who pushed for funding and helped create the programme environment from which the later controversy emerged. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
+Reid had already been publicly associated with the original Pentagon effort long before the letter. Reporting on AATIP repeatedly identified him as one of the senators who pushed for funding and helped create the programme environment from which the later controversy emerged.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
-The timing is also important. Reid's statement was not issued during the initial excitement of the 2017 New York Times revelations. It came after Pentagon representatives had publicly disputed Elizondo’s role, making it an explicit intervention in an ongoing credibility battle. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+The timing is also important. Reid's statement was not issued during the initial excitement of the 2017 New York Times revelations. It came after Pentagon representatives had publicly disputed Elizondo’s role, making it an explicit intervention in an ongoing credibility battle.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/j0NJRXBLhB0" title="I-Team: Former Sen. Reid calls for congressional hearings into UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=j0NJRXBLhB0" target="_blank" rel="noopener noreferrer">I-Team: Former Sen. Reid calls for congressional hearings into UFOs</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 6.3K &middot; Uploaded: February 2019 &middot; Length: 4 minutes 55 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=j0NJRXBLhB0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=j0NJRXBLhB0">Open on YouTube</a></p></div></div></div>
 
@@ -279,11 +279,11 @@ The timing is also important. Reid's statement was not issued during the initial
 
 Many people have publicly defended Elizondo, but Reid occupies a different category.
 
-First, Reid was one of the senior political figures connected to the programme's origin. He was not commenting from outside government. His office had direct involvement in obtaining support for the broader effort that later became associated with AATIP and AAWSAP, the Advanced Aerospace Weapons System Applications Program. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>
+First, Reid was one of the senior political figures connected to the programme's origin. He was not commenting from outside government. His office had direct involvement in obtaining support for the broader effort that later became associated with AATIP and AAWSAP, the Advanced Aerospace Weapons System Applications Program.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>
 
-Second, Reid had little obvious need to protect Elizondo’s reputation for personal gain. By the time he issued his supportive letter, Reid had left office and was not seeking political advantage from the UFO issue. That does not automatically make him correct, but it reduces one common sceptical explanation that he was defending an active administration policy. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+Second, Reid had little obvious need to protect Elizondo’s reputation for personal gain. By the time he issued his supportive letter, Reid had left office and was not seeking political advantage from the UFO issue. That does not automatically make him correct, but it reduces one common sceptical explanation that he was defending an active administration policy.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
-Third, Reid's support came from someone who would reasonably be expected to know who had been entrusted with significant responsibilities. Readers do not have to assume Reid knew every detail of day-to-day management, but it would be surprising if a programme sponsor could not identify a major participant. That is why supporters often treat his letter as one of the strongest available pieces of corroboration. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+Third, Reid's support came from someone who would reasonably be expected to know who had been entrusted with significant responsibilities. Readers do not have to assume Reid knew every detail of day-to-day management, but it would be surprising if a programme sponsor could not identify a major participant. That is why supporters often treat his letter as one of the strongest available pieces of corroboration.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
 For credibility assessment, Reid's statement is therefore more valuable than television interviews, conference appearances or repeated media descriptions. It is a direct statement from a senior official who was involved in the programme's political creation.
 
@@ -296,11 +296,11 @@ Reid's statements support three points:
 
 * Elizondo was not simply inventing a connection to the Pentagon UFO effort.
 * Reid believed Elizondo held a meaningful role within the programme.
-* At least one senior figure associated with AATIP considered Elizondo's leadership claims legitimate. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+* At least one senior figure associated with AATIP considered Elizondo's leadership claims legitimate.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
 Those points are important because they directly challenge the idea that Elizondo was merely a peripheral observer attaching himself to a famous programme after leaving government service.
 
-Reid's support also weakens the argument that every description of Elizondo as an AATIP leader was the result of media error. Multiple major outlets referred to him in leadership terms, and Reid later endorsed that characterisation explicitly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostTranscript: UFOs &amp; National Security with Luis Elizondo...Jun 8, 2021 — Our guest, Lue Elizondo, the former director...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+Reid's support also weakens the argument that every description of Elizondo as an AATIP leader was the result of media error. Multiple major outlets referred to him in leadership terms, and Reid later endorsed that characterisation explicitly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: washingtonpost.com">[The Washington Post]</a><span class="citation-popover" role="note"><span class="citation-popover-source">washingtonpost.com</span><span class="citation-popover-snippet">The Washington PostTranscript: UFOs &amp; National Security with Luis Elizondo...Jun 8, 2021 — Our guest, Lue Elizondo, the former director...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
 For a reader evaluating credibility, that means the burden shifts somewhat. After Reid's intervention, the question is no longer whether Elizondo had any genuine connection to AATIP. The more precise question becomes what kind of leadership role he held and how formally that role was recognised inside the Department of Defense.
 
@@ -310,187 +310,187 @@ For a reader evaluating credibility, that means the burden shifts somewhat. Afte
 
 The problem is that Reid's letter does not provide detailed organisational evidence.
 
-It does not include a formal job description, reporting chain, appointment order, programme charter or internal Pentagon documentation showing exactly what authority Elizondo possessed. Reid affirmed a leadership role, but he did not define the scope of that leadership. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+It does not include a formal job description, reporting chain, appointment order, programme charter or internal Pentagon documentation showing exactly what authority Elizondo possessed. Reid affirmed a leadership role, but he did not define the scope of that leadership.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
-That limitation became important because Pentagon-linked statements pointed in the opposite direction. In 2019, Department of Defense spokesperson Christopher Sherwood stated that Elizondo had “no responsibilities” regarding AATIP while serving in the Office of the Under Secretary of Defense for Intelligence. Similar claims later appeared in internal records and discussions surrounding the controversy. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Prince Harry, Duke of Sussex</span><span class="citation-popover-snippet">Prince Harry, Duke of Sussex6 hours ago — Prince Harry, Duke of Sussex [fn 2] is a member of the British royal family. He is the young...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
+That limitation became important because Pentagon-linked statements pointed in the opposite direction. In 2019, Department of Defense spokesperson Christopher Sherwood stated that Elizondo had “no responsibilities” regarding AATIP while serving in the Office of the Under Secretary of Defense for Intelligence. Similar claims later appeared in internal records and discussions surrounding the controversy.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Prince Harry, Duke of Sussex</span><span class="citation-popover-snippet">Prince Harry, Duke of Sussex6 hours ago — Prince Harry, Duke of Sussex [fn 2] is a member of the British royal family. He is the young...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Luis Elizondo</span><span class="citation-popover-snippet">Luis Elizondo</span></span></span>
 
-The later [AARO]({{ 'aaro-b41c4f/' | relative_url }}) historical report added another complication. AARO argued that the labels AAWSAP and AATIP were used inconsistently and that what many people later called AATIP did not necessarily correspond to a formally recognised programme with dedicated personnel and budget after the original structure ended. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>
+The later [AARO]({{ 'aaro-b41c4f/' | relative_url }}) historical report added another complication. AARO argued that the labels AAWSAP and AATIP were used inconsistently and that what many people later called AATIP did not necessarily correspond to a formally recognised programme with dedicated personnel and budget after the original structure ended.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>
 
 That bureaucratic ambiguity creates room for both sides:
 
 * Supporters can point to Reid's letter as confirmation that Elizondo genuinely led aspects of the continuing UAP effort.
 * Critics can argue that Reid was describing [influence]({{ 'influence-20a41a/' | relative_url }}) or practical leadership rather than command of a formally defined programme.
 
-The available record does not fully resolve that distinction. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>
+The available record does not fully resolve that distinction.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</span></span></span>
 
 <img src="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_harry_reid_support_ff2046-Illustration-3-dark.svg" | relative_url }}" alt="Reid Support illustration 3" data-theme-src-dark="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_harry_reid_support_ff2046-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727_harry_reid_support_ff2046-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Most Reasonable Reading
 
 The strongest evidence-based interpretation sits between two extremes.
 
-Reid's support makes it difficult to dismiss Elizondo as someone who fabricated his association with AATIP. A former Senate majority leader closely connected to the programme publicly vouched for his involvement and leadership. That is significant corroboration and remains one of the most important facts in Elizondo's favour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
+Reid's support makes it difficult to dismiss Elizondo as someone who fabricated his association with AATIP. A former Senate majority leader closely connected to the programme publicly vouched for his involvement and leadership. That is significant corroboration and remains one of the most important facts in Elizondo's favour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gq-magazine.co.uk">[British GQ]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gq-magazine.co.uk</span><span class="citation-popover-title">luis elizondo interview 2021</span><span class="citation-popover-snippet">Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</span></span></span>
 
-However, Reid's endorsement is not the same thing as a complete organisational history. It cannot by itself answer every question about programme structure, official duties, budget authority, or how AATIP evolved after its original funding period. Those questions remain tied to contradictory Pentagon statements and later historical reviews. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[2esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">PDF] Garry Reid, Director for Defense InThe AATIP was terminated in 2012. An information paper on the program is at. Tab A. • (Uh=1 On O...</span></span></span>
+However, Reid's endorsement is not the same thing as a complete organisational history. It cannot by itself answer every question about programme structure, official duties, budget authority, or how AATIP evolved after its original funding period. Those questions remain tied to contradictory Pentagon statements and later historical reviews. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: esd.whs.mil">[2esd.whs.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">esd.whs.mil</span><span class="citation-popover-snippet">PDF] Garry Reid, Director for Defense InThe AATIP was terminated in 2012. An information paper on the program is at. Tab A. • (Uh=1 On O...</span></span></span>
 
 As a result, Reid's backing substantially strengthens Elizondo's credibility on the narrow issue of genuine programme involvement. It does not fully settle the broader dispute over exactly what his title, authority and institutional position were at every stage of AATIP's existence.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4ZZeW0uBll4" title="2021-04-26: Reid Confirms Elizondo&#x27;s AATIP Role" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4ZZeW0uBll4" target="_blank" rel="noopener noreferrer">2021-04-26: Reid Confirms Elizondo&#x27;s AATIP Role</a></p><p class="youtube-embed-meta">Channel: Tom Owens UAP &middot; Views: 250 &middot; Uploaded: May 2021 &middot; Length: 3 minutes 15 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4ZZeW0uBll4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4ZZeW0uBll4">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How Much Does Harry Reid Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How Much Does Harry Reid Prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
-        </h4>
-        <p class="fr-book-author">By Todd Davis</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
+</h4>
+<p class="fr-book-author">By Todd Davis</p>
         
-        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">2023 UFO/UAP Calendar</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-does-harry-reid-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-much-does-harry-reid-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -506,7 +506,7 @@ As a result, Reid's backing substantially strengthens Elizondo's credibility on 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -526,7 +526,7 @@ As a result, Reid's backing substantially strengthens Elizondo's credibility on 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -558,7 +558,7 @@ As a result, Reid's backing substantially strengthens Elizondo's credibility on 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -610,7 +610,7 @@ As a result, Reid's backing substantially strengthens Elizondo's credibility on 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -655,7 +655,7 @@ As a result, Reid's backing substantially strengthens Elizondo's credibility on 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -696,118 +696,118 @@ As a result, Reid's backing substantially strengthens Elizondo's credibility on 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: x.com  
    Title: “As one of the original sponsors of AATIP,  
-   Link: <a href="https://x.com/GadiNBC/status/1386872125835812864" target="_blank" rel="noopener noreferrer nofollow">https://x.com/GadiNBC/status/1386872125835812864</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)UPDATE: Former Senator Harry Reid has sent us a letter confirming...April 27, 2021 — UPDATE: Former Senator Harry Re...</p></details>
+   Link:<a href="https://x.com/GadiNBC/status/1386872125835812864" target="_blank" rel="noopener noreferrer nofollow">https://x.com/GadiNBC/status/1386872125835812864</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>X (formerly Twitter)UPDATE: Former Senator Harry Reid has sent us a letter confirming...April 27, 2021 — UPDATE: Former Senator Harry Re...</p></details>
    Published: April 27, 2021  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: gq-magazine.co.uk  
    Title: luis elizondo interview 2021  
-   Link: <a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</p></details>
+   Link:<a href="https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021" target="_blank" rel="noopener noreferrer nofollow">https://www.gq-magazine.co.uk/politics/article/luis-elizondo-interview-2021</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid sent a letter to NBC News vouching for Elizondo&#x27;s story. “As one of the original sponsors of AATIP, I can state as a matter of...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Luis Elizondo  
-   Link: <a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Luis_Elizondo" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Luis_Elizondo</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — This report represents Volume I of the All-domain Anomaly Resolution...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: esd.whs.mil  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Garry Reid, Director for Defense InThe AATIP was terminated in 2012. An information paper on the program is at. Tab A. • (Uh=1 On O...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/18-F-0324_Docs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>[PDF] Garry Reid, Director for Defense InThe AATIP was terminated in 2012. An information paper on the program is at. Tab A. • (Uh=1 On O...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Prince Harry, Duke of Sussex  
-   Link: <a href="https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Prince Harry, Duke of Sussex6 hours ago — Prince Harry, Duke of Sussex [fn 2] is a member of the British royal family. He is the young...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Prince_Harry%2C_Duke_of_Sussex</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Prince Harry, Duke of Sussex6 hours ago — Prince Harry, Duke of Sussex [fn 2] is a member of the British royal family. He is the young...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeOur team of experts leads the U.S. government&#x27;s efforts to address Unidentified Anomalous Phenomena (UAP) using a rigorous scien...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: washingtonpost.com  
-   Link: <a href="https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostTranscript: UFOs &amp; National Security with Luis Elizondo...Jun 8, 2021 — Our guest, Lue Elizondo, the former director...</p></details>
+   Link:<a href="https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/" target="_blank" rel="noopener noreferrer nofollow">https://www.washingtonpost.com/washington-post-live/2021/06/08/transcript-ufos-national-security-with-luis-elizondo-former-director-advanced-aerospace-threat-identification-program/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Washington PostTranscript: UFOs &amp; National Security with Luis Elizondo...Jun 8, 2021 — Our guest, Lue Elizondo, the former director...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f2dn96/luis_elizondos_role_in_aatip/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo&#x27;s role in AATIP: r/UFOsAccording to a Politico report, Elizondo alleged that after he disclosed his involvement in AATIP a...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Imminent: Former Counterintelligence Agent&#x27;s New Memoir...22 Aug 2024 — A long-awaited new memoir detailing an insider&#x27;s view of officia...</p></details>
+   Link:<a href="https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/imminent-former-counterintelligence-agents-new-memoir-reveals-an-insiders-look-at-ufos/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Imminent: Former Counterintelligence Agent&#x27;s New Memoir...22 Aug 2024 — A long-awaited new memoir detailing an insider&#x27;s view of officia...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
    Title: The quest for extraterrestrial life shouldn't be scoffed at7 days ago —  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(AATIP) is directly contradicted by a 2021 letter from the late senator Harry Reid, who confirmed Elizondo&#x27;s leadership as a “matter of r...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/28/the-quest-for-extraterrestrial-life-shouldnt-be-scoffed-at</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(AATIP) is directly contradicted by a 2021 letter from the late senator Harry Reid, who confirmed Elizondo&#x27;s leadership as a “matter of r...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: commons.wikimedia.org  
    Title: File:(Attachment 19) 20210426 Senator.Reid Lue.Elizondo.AATIP  
-   Link: <a href="https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:(Attachment 19) 20210426 Senator.Reid Lue.Elizondo.AATIP.pdfReid Lue.Elizondo.AATIP.pdf. English: Letter from Office of...</p></details>
+   Link:<a href="https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://commons.wikimedia.org/wiki/File%3A%28Attachment_19%29_20210426_Senator.Reid_Lue.Elizondo.AATIP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikimedia.orgFile:(Attachment 19) 20210426 Senator.Reid Lue.Elizondo.AATIP.pdfReid Lue.Elizondo.AATIP.pdf. English: Letter from Office of...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: facebook.com  
    Title: the PENTAGON unit that researched UFOs—Luis Elizondo explains  
-   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 8, 2024 — At the time, former Senate Majority Leader Harry Reid (D-Nev.) took credit for arranging $22 million in annual funding...</p></details>
+   Link:<a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128262801995203/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 8, 2024 — At the time, former Senate Majority Leader Harry Reid (D-Nev.) took credit for arranging $22 million in annual funding...</p></details>
    Published: October 8, 2024  
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: the PENTAGON unit that researched UFOs—Luis Elizondo explains  
-   Link: <a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2024 — At the time, former Senate Majority Leader Harry Reid (D-Nev.) took credit for arranging $22 million in annual funding...</p></details>
+   Link:<a href="https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/MissMayim/posts/shocking-ufo-secrets-revealed-former-head-of-the-us-governments-advanced-aerospa/1128988121922671/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>October 9, 2024 — At the time, former Senate Majority Leader Harry Reid (D-Nev.) took credit for arranging $22 million in annual funding...</p></details>
    Published: October 9, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: popularmechanics.com  
    Title: He Ran the Pentagon's UFO Unit—and Says the Government Is  
-   Link: <a href="https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2025 — Some issues resolved quickly; Senator Harry Reid wrote an open letter affirming “as a matter of record Lue Elizondo&#x27;s...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a69624035/lue-elizondo-ufo-secret-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 3, 2025 — Some issues resolved quickly; Senator Harry Reid wrote an open letter affirming “as a matter of record Lue Elizondo&#x27;s...</p></details>
    Published: December 3, 2025  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: thenews.com.pk  
-   Link: <a href="https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Duke of Sussex, who wrote about his time in the British Army in his...Read more...</p></details>
+   Link:<a href="https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer" target="_blank" rel="noopener noreferrer nofollow">https://www.thenews.com.pk/latest/1403845-prince-harry-labelled-cringeworthy-by-veteran-army-officer</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Duke of Sussex, who wrote about his time in the British Army in his...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: theblackvault.com  
    Title: harry reid and his aatip letter the mystery deepens  
-   Link: <a href="https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid And His AATIP Letter: The Mystery Deepens28 Apr 2021 — The Black Vault had already compiled ample evidence that Reid&#x27;s AATIP l...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/harry-reid-and-his-aatip-letter-the-mystery-deepens/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harry Reid And His AATIP Letter: The Mystery Deepens28 Apr 2021 — The Black Vault had already compiled ample evidence that Reid&#x27;s AATIP l...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/luis-elizondo-a-former-pentagon-official-and-ufo-disclosure-activist-praises-pre/728465639560456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/luis-elizondo-a-former-pentagon-official-and-ufo-disclosure-activist-praises-pre/728465639560456/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>dent Trump&#x27;s executive order creating a task force to study...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/luis-elizondo-a-former-pentagon-official-and-ufo-disclosure-activist-praises-pre/728465639560456/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/luis-elizondo-a-former-pentagon-official-and-ufo-disclosure-activist-praises-pre/728465639560456/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>dent Trump&#x27;s executive order creating a task force to study...Read more...</p></details>

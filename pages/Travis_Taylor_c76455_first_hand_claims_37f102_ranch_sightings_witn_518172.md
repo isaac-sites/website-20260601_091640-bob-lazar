@@ -265,11 +265,11 @@ image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sighti
 The most important credibility question around [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s work at [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }}) is not whether unusual events happened on camera. It is whether viewers can clearly separate what Taylor personally witnessed from what the television programme implied those events might mean.
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sightings_witn_518172-Illustration-1-dark.svg" | relative_url }}" alt="Ranch sightings illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sightings_witn_518172-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sightings_witn_518172-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Across multiple seasons of *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, Taylor has been physically present for rocket launches, balloon experiments, aerial observations, equipment failures, [radiation]({{ 'radiation/' | relative_url }}) alerts and reported unidentified lights in the sky. Those are first-hand experiences. The larger claims that sometimes grow around those moments — suggestions of portals, non-human intelligence, hidden craft, underground structures or intentional communication — are often interpretations layered on top of limited public evidence. The distinction matters because Taylor’s credibility rests more strongly on what he directly observed than on conclusions drawn through editing, narration, dramatic framing or incomplete datasets. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span>
+Across multiple seasons of *The Secret of [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch*, Taylor has been physically present for rocket launches, balloon experiments, aerial observations, equipment failures, [radiation]({{ 'radiation/' | relative_url }}) alerts and reported unidentified lights in the sky. Those are first-hand experiences. The larger claims that sometimes grow around those moments — suggestions of portals, non-human intelligence, hidden craft, underground structures or intentional communication — are often interpretations layered on top of limited public evidence. The distinction matters because Taylor’s credibility rests more strongly on what he directly observed than on conclusions drawn through editing, narration, dramatic framing or incomplete datasets.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span>
 
 ## Reported Sky Events Taylor Was Present For
 
-Taylor’s role on the ranch differs from that of earlier Skinwalker Ranch storytellers because he is not merely recounting local folklore. He participated in field experiments and was present during many of the incidents later featured on television. The University of Alabama in Huntsville described Taylor and colleagues launching balloons and instrument payloads to investigate reported electromagnetic anomalies at the property. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span>
+Taylor’s role on the ranch differs from that of earlier Skinwalker Ranch storytellers because he is not merely recounting local folklore. He participated in field experiments and was present during many of the incidents later featured on television. The University of Alabama in Huntsville described Taylor and colleagues launching balloons and instrument payloads to investigate reported electromagnetic anomalies at the property.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span>
 
 Several categories of sightings repeatedly appear in episodes and interviews:
 
@@ -285,7 +285,7 @@ Several categories of sightings repeatedly appear in episodes and interviews:
 
 In these cases, the strongest factual statement is usually that Taylor and other team members observed something they considered unusual while conducting a test. The weaker statement is that the observation demonstrated a specific cause.
 
-For example, the programme has repeatedly linked rocket launches with apparent aerial activity. Taylor has publicly described seeing events that he could not immediately explain. However, viewers generally receive only edited footage rather than complete sensor logs, full tracking data, calibration records or independent peer review. That means outsiders can verify that an event was reported, but cannot always independently verify the interpretation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span> YouTube A recurring pattern throughout the series is that Taylor speaks cautiously about the observation itself while narration <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>, editing or episode structure encourages broader speculation. He often states that something is unexplained rather than definitively extraterrestrial. Yet many viewers understandably remember the more dramatic implication rather than the narrower claim. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-snippet">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...31 Mar 2020 — Dr. Travis Taylor, who helped study the site, doesn&#x27;t li...</span></span></span>
+For example, the programme has repeatedly linked rocket launches with apparent aerial activity. Taylor has publicly described seeing events that he could not immediately explain. However, viewers generally receive only edited footage rather than complete sensor logs, full tracking data, calibration records or independent peer review. That means outsiders can verify that an event was reported, but cannot always independently verify the interpretation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span> YouTube A recurring pattern throughout the series is that Taylor speaks cautiously about the observation itself while narration<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>, editing or episode structure encourages broader speculation. He often states that something is unexplained rather than definitively extraterrestrial. Yet many viewers understandably remember the more dramatic implication rather than the narrower claim.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-snippet">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...31 Mar 2020 — Dr. Travis Taylor, who helped study the site, doesn&#x27;t li...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/lJBiyrGZC7k" title="Why Dr. Travis Taylor Can’t Explain the New Skinwalker Ranch Discovery" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=lJBiyrGZC7k" target="_blank" rel="noopener noreferrer">Why Dr. Travis Taylor Can’t Explain the New Skinwalker Ranch Discovery</a></p><p class="youtube-embed-meta">Channel: Evolvin &middot; Views: 11.6K &middot; Uploaded: May 2026 &middot; Length: 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=lJBiyrGZC7k" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=lJBiyrGZC7k">Open on YouTube</a></p></div></div></div>
 
@@ -308,11 +308,11 @@ The programme has shown:
 
 </div>
 
-Taylor’s credibility is strongest when discussing these recorded observations because they at least provide a visible reference point. The audience can see that an instrument displayed a reading or that a camera captured an unusual light. The question then shifts from “Did anything happen?” to “What does it mean?” <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span>
+Taylor’s credibility is strongest when discussing these recorded observations because they at least provide a visible reference point. The audience can see that an instrument displayed a reading or that a camera captured an unusual light. The question then shifts from “Did anything happen?” to “What does it mean?”<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span>
 
-The distinction becomes particularly important in episodes involving the ranch’s so-called “triangle area”, where rockets, drones and aerial sensors are frequently used. Public footage often shows rockets deviating, instruments malfunctioning or unexpected signals appearing. What remains unavailable is the complete technical package that would allow outside specialists to determine whether the anomaly resulted from equipment limitations, environmental conditions, human error, signal interference or something genuinely unknown. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
+The distinction becomes particularly important in episodes involving the ranch’s so-called “triangle area”, where rockets, drones and aerial sensors are frequently used. Public footage often shows rockets deviating, instruments malfunctioning or unexpected signals appearing. What remains unavailable is the complete technical package that would allow outside specialists to determine whether the anomaly resulted from equipment limitations, environmental conditions, human error, signal interference or something genuinely unknown.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
-The same issue appears in episodes involving radiation alerts. Viewers can see instruments reporting elevated readings and can see Taylor reacting to them. That is evidence that an instrument displayed a particular value at a particular moment. It is not automatically evidence of an exotic source for the reading. The leap from measurement to explanation remains the central point of dispute. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
+The same issue appears in episodes involving radiation alerts. Viewers can see instruments reporting elevated readings and can see Taylor reacting to them. That is evidence that an instrument displayed a particular value at a particular moment. It is not automatically evidence of an exotic source for the reading. The leap from measurement to explanation remains the central point of dispute.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/EJY_9M1Kpxw" title="Travis Taylor: Skinwalker Ranch Solved? The Terrifying Truth Behind 1.6 GHz" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer">Travis Taylor: Skinwalker Ranch Solved? The Terrifying Truth Behind 1.6 GHz</a></p><p class="youtube-embed-meta">Channel: Pacific &middot; Views: 1.6K &middot; Uploaded: January 2026 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=EJY_9M1Kpxw">Open on YouTube</a></p></div></div></div>
 
@@ -338,9 +338,9 @@ The team proposes possible explanations, often involving an anomaly that is not 
 
 Music, editing, narration, cliff-hangers and episode structure connect separate events into a larger mystery narrative.
 
-The first two layers are generally the most defensible. The fourth layer is where [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) argue the programme frequently exceeds the available evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
+The first two layers are generally the most defensible. The fourth layer is where [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) argue the programme frequently exceeds the available evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
-A common example involves references to a “portal”, hidden object or intelligent response. In several episodes, unusual instrument readings are followed by speculation that the ranch may contain something extraordinary beneath the mesa or above the triangle area. Yet viewers typically do not receive enough publicly released data to independently establish those conclusions. What remains visible is the anomaly itself, not definitive proof of the proposed explanation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
+A common example involves references to a “portal”, hidden object or intelligent response. In several episodes, unusual instrument readings are followed by speculation that the ranch may contain something extraordinary beneath the mesa or above the triangle area. Yet viewers typically do not receive enough publicly released data to independently establish those conclusions. What remains visible is the anomaly itself, not definitive proof of the proposed explanation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
 This distinction also affects how Taylor’s comments are perceived. When he says he cannot explain an event, that statement can be accurate and sincere. Television framing may then encourage audiences to treat the lack of explanation as positive evidence for a particular extraordinary theory. Those are not the same claim.
 
@@ -349,7 +349,7 @@ This distinction also affects how Taylor’s comments are perceived. When he say
 
 One of the most discussed incidents involved Taylor reporting symptoms after investigating an area known as Homestead 2.
 
-The programme presented radiation measurements, physical discomfort and concern among team members. Promotional material later described Taylor becoming ill after exposure to dangerous radiation levels during an investigation of a buried structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
+The programme presented radiation measurements, physical discomfort and concern among team members. Promotional material later described Taylor becoming ill after exposure to dangerous radiation levels during an investigation of a buried structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
 
 What can reasonably be treated as first-hand?
 
@@ -373,13 +373,13 @@ What remains uncertain?
 
 </div>
 
-The event therefore illustrates the broader Skinwalker Ranch pattern. Something occurred. The cause remains disputed. The television narrative often pushes further than the publicly available evidence can conclusively support. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
+The event therefore illustrates the broader Skinwalker Ranch pattern. Something occurred. The cause remains disputed. The television narrative often pushes further than the publicly available evidence can conclusively support.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[YouTube]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/D4CrhcYXk_4" title="The SkinWalker Ranch reality check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer">The SkinWalker Ranch reality check</a></p><p class="youtube-embed-meta">Channel: Neptunium &middot; Views: 11.8K &middot; Uploaded: July 2023 &middot; Length: 19 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=D4CrhcYXk_4">Open on YouTube</a></p></div></div></div>
 
 ## Why Supporters and Critics Read the Same Footage Differently
 
-[Supporters]({{ 'supporters-58c2df/' | relative_url }}) of Taylor argue that he has repeatedly placed himself in situations where anomalies were documented with instruments rather than relying solely on stories. They point to his scientific background, his involvement in experimental design and his willingness to acknowledge uncertainty. From that perspective, the repeated appearance of unusual signals, aerial lights and equipment disruptions justifies continued investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span> HISTORY Critics focus on a different issue. They argue that reality television is designed to maintain suspense and audience interest. Because raw da <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch CastTravis Taylor stars in The HISTORY Channel&#x27;s series The Secret of Skinwalker Ranch. Find out more abou...</span></span></span> tasets are rarely released in full, critics contend that viewers are effectively being asked to trust edited interpretations. Some sceptical commentators have argued that the programme presents ordinary ambiguities as evidence of extraordinary phenomena without meeting normal scientific standards of replication and independent review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
+[Supporters]({{ 'supporters-58c2df/' | relative_url }}) of Taylor argue that he has repeatedly placed himself in situations where anomalies were documented with instruments rather than relying solely on stories. They point to his scientific background, his involvement in experimental design and his willingness to acknowledge uncertainty. From that perspective, the repeated appearance of unusual signals, aerial lights and equipment disruptions justifies continued investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span> HISTORY Critics focus on a different issue. They argue that reality television is designed to maintain suspense and audience interest. Because raw da<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[history.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch CastTravis Taylor stars in The HISTORY Channel&#x27;s series The Secret of Skinwalker Ranch. Find out more abou...</span></span></span> tasets are rarely released in full, critics contend that viewers are effectively being asked to trust edited interpretations. Some sceptical commentators have argued that the programme presents ordinary ambiguities as evidence of extraordinary phenomena without meeting normal scientific standards of replication and independent review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
 The disagreement is therefore less about whether Taylor was physically present and more about what presence proves. Both sides generally accept that he witnessed unusual events. The dispute concerns whether those events justify the stronger conclusions sometimes associated with the ranch.
 
@@ -393,7 +393,7 @@ Taylor appears to have genuinely witnessed:
 * Unexpected instrument readings.
 * Radio-frequency anomalies.
 * Rocket and balloon test irregularities.
-* Radiation alerts and equipment malfunctions reported during fieldwork. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span> YouTube What remains far less established is whether those events demonstrate: <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
+* Radiation alerts and equipment malfunctions reported during fieldwork.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</span></span></span> YouTube What remains far less established is whether those events demonstrate:<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: youtube.com">[youtube.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">youtube.com</span><span class="citation-popover-snippet">What&#x27;s Really Happening at Skinwalker Ranch &#124; Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</span></span></span>
 
 <div class="content-enhancement content-enhancement--phrase-pills" markdown="1">
 
@@ -405,199 +405,199 @@ Taylor appears to have genuinely witnessed:
 
 </div>
 
-Those larger conclusions are where witness testimony gives way to interpretation, and where interpretation often becomes television inference. For assessing Travis Taylor’s credibility, that boundary is more important than any single sighting. His strongest evidential position comes from reporting what he personally observed. His weakest position emerges when unexplained observations are treated as proof of a specific extraordinary explanation without publicly available evidence sufficient to verify the claim independently. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-snippet">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...31 Mar 2020 — Dr. Travis Taylor, who helped study the site, doesn&#x27;t li...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
+Those larger conclusions are where witness testimony gives way to interpretation, and where interpretation often becomes television inference. For assessing Travis Taylor’s credibility, that boundary is more important than any single sighting. His strongest evidential position comes from reporting what he personally observed. His weakest position emerges when unexplained observations are treated as proof of a specific extraordinary explanation without publicly available evidence sufficient to verify the claim independently.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cinemablend.com">[Cinemablend]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cinemablend.com</span><span class="citation-popover-snippet">Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...31 Mar 2020 — Dr. Travis Taylor, who helped study the site, doesn&#x27;t li...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">The Secret of Skinwalker Ranch</span><span class="citation-popover-snippet">The Secret of Skinwalker Ranch</span></span></span>
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sightings_witn_518172-Illustration-3-dark.svg" | relative_url }}" alt="Ranch sightings illustration 3" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sightings_witn_518172-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_ranch_sightings_witn_518172-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did Taylor Actually See at the Ranch?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did Taylor Actually See at the Ranch?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Directly tied to ranch sightings, witness reports and anomalous events.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly tied to ranch sightings, witness reports and anomalous events.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zqIrc7GvRbIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Utah UFO Display" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display">The Utah UFO Display</a>
-        </h4>
-        <p class="fr-book-author">By Frank B. Salisbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=zqIrc7GvRbIC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Utah UFO Display" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display">The Utah UFO Display</a>
+</h4>
+<p class="fr-book-author">By Frank B. Salisbury</p>
         
-        <p class="fr-book-desc">Provides regional context for reported sightings similar to those discussed on the ranch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides regional context for reported sightings similar to those discussed on the ranch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display+by+Frank+B.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight: an Investigation Into UFOs and Impossible Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UcFnzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight: an Investigation Into UFOs and Impossible Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Helps readers compare ranch sightings with wider UAP reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Helps readers compare ranch sightings with wider UAP reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Expands on the investigative legacy associated with the ranch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Expands on the investigative legacy associated with the ranch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight: an Investigation Into UFOs and Impossible Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints"><img src="https://i.ebayimg.com/images/g/x3EAAeSwpZlqGxe7/s-l225.jpg" alt="Listing image for Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Disclosure Day Alien UFO Poster Set A3 - Set of 3 – Space Sci-Fi Wall Art Prints</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191"><img src="https://i.ebayimg.com/images/g/YNAAAOSwsXFZF~mn/s-l225.jpg" alt="Listing image for I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I WANT TO BELIEVE UFO POSTER TV SERIES POSTER A0-A1-A2-A3-A4-A5-A6-MAXI 191</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed"><img src="https://i.ebayimg.com/images/g/e9wAAeSwNOtpxn3c/s-l225.jpg" alt="Listing image for The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">The X Files Ufo Minimal Movie Art Print | Film Poster | Canvas &amp; Framed</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-taylor-actually-see-at-the-ranch-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-taylor-actually-see-at-the-ranch-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -613,7 +613,7 @@ Those larger conclusions are where witness testimony gives way to interpretation
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -633,7 +633,7 @@ Those larger conclusions are where witness testimony gives way to interpretation
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -665,7 +665,7 @@ Those larger conclusions are where witness testimony gives way to interpretation
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -717,7 +717,7 @@ Those larger conclusions are where witness testimony gives way to interpretation
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -762,7 +762,7 @@ Those larger conclusions are where witness testimony gives way to interpretation
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -803,145 +803,145 @@ Those larger conclusions are where witness testimony gives way to interpretation
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uah.edu  
-   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</p></details>
+   Link:<a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAH scientists brave curses, spooky anomalies to unravel...Travis Taylor, Dr. Jim Segala, and Dr. Matt Turner prepare a balloon to la...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: The Secret of Skinwalker Ranch  
-   Link: <a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/The_Secret_of_Skinwalker_Ranch</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Happening at Skinwalker Ranch | Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=5lTT0GYzkao" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=5lTT0GYzkao</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s Really Happening at Skinwalker Ranch | Dr. Travis...Dr. Travis Taylor returns to Rick &amp; Bubba University to discuss his co...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor | Ep 129The Truth About Skinwalker Ranch: Travis Taylor | Ep 129. 650K views · 3 y...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G_rEi2CUBv0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G_rEi2CUBv0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Truth About Skinwalker Ranch: Travis Taylor | Ep 129The Truth About Skinwalker Ranch: Travis Taylor | Ep 129. 650K views · 3 y...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: cinemablend.com  
-   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...31 Mar 2020 — Dr. Travis Taylor, who helped study the site, doesn&#x27;t li...</p></details>
+   Link:<a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why One Secret Of Skinwalker Ranch Scientist Doesn&#x27;t...31 Mar 2020 — Dr. Travis Taylor, who helped study the site, doesn&#x27;t li...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uBabYbbhSgc</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE SECRET OF SKINWALKER RANCH ReturnsWatch our interview with Dr. Travis Taylor, aerospace engineer, optical scientist, author, and lead...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=uBabYbbhSgc" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=uBabYbbhSgc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE SECRET OF SKINWALKER RANCH ReturnsWatch our interview with Dr. Travis Taylor, aerospace engineer, optical scientist, author, and lead...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously f...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=W8FhrtaEQz4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=W8FhrtaEQz4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch: DANGEROUS RADIATION...While the team explores a hidden hole at Homestead 2, Travis mysteriously f...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4CrhcYXk_4</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The SkinWalker Ranch reality checkIn this video, Neptunium is reviewing the Skinwalker [Ranch TV](&amp;#123;&amp;#123; &#x27;ranch-tv/&#x27; | relative_url &amp;#125;&amp;#125;) show for a scientific reality check, Most...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=D4CrhcYXk_4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=D4CrhcYXk_4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The SkinWalker Ranch reality checkIn this video, Neptunium is reviewing the Skinwalker [Ranch TV](&amp;#123;&amp;#123; &#x27;ranch-tv/&#x27; | relative_url &amp;#125;&amp;#125;) show for a scientific reality check, Most...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch CastTravis Taylor stars in The HISTORY Channel&#x27;s series The Secret of Skinwalker Ranch. Find out more abou...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Secret of Skinwalker Ranch CastTravis Taylor stars in The HISTORY Channel&#x27;s series The Secret of Skinwalker Ranch. Find out more abou...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EJY_9M1Kpxw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hz | The Secret Of Skinwalker Ranch #TravisTaylor...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=EJY_9M1Kpxw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=EJY_9M1Kpxw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hz | The Secret Of Skinwalker Ranch #TravisTaylor...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=lJBiyrGZC7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJBiyrGZC7k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>robed the property&#x27;s subterranean anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=lJBiyrGZC7k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=lJBiyrGZC7k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>robed the property&#x27;s subterranean anomalies...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=Oxi-1cGf2qw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oxi-1cGf2qw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>et of Skinwalker Ranch has documented unexplained phenomena...Read more...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Oxi-1cGf2qw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Oxi-1cGf2qw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>et of Skinwalker Ranch has documented unexplained phenomena...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchThe surveillance camera aimed where the cow died showed a black, oval-shaped dot in...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>7 of the Most Mind-Bending Moments on Skinwalker RanchThe surveillance camera aimed where the cow died showed a black, oval-shaped dot in...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: The Science and Spectacle of Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=0e6-x0vJv1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6-x0vJv1k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Field Data and Television Framing at Skinwalker Ranch...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=0e6-x0vJv1k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=0e6-x0vJv1k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Analyzing Field Data and Television Framing at Skinwalker Ranch...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Analyzing Field Data and Television Framing at Skinwalker Ranch  
-   Link: <a href="https://www.youtube.com/watch?v=7uK3h1l7T7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7uK3h1l7T7U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor on Investigating Aerial Anomalies...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=7uK3h1l7T7U" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=7uK3h1l7T7U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor on Investigating Aerial Anomalies...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: Dr. Travis Taylor on Investigating Aerial Anomalies  
-   Link: <a href="https://www.youtube.com/watch?v=ZfWl9Y1Q0G8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZfWl9Y1Q0G8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Methods vs. Entertainment in UAP Investigations...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ZfWl9Y1Q0G8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ZfWl9Y1Q0G8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Methods vs. Entertainment in UAP Investigations...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Scientific Methods vs. Entertainment in UAP Investigations  
-   Link: <a href="https://www.youtube.com/watch?v=G2_V7e8574k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G2_V7e8574k</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Credibility and Evidence in Modern UAP Narratives...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=G2_V7e8574k" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=G2_V7e8574k</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Credibility and Evidence in Modern UAP Narratives...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DiscoveryFugal ▻ The Secret of Skinwalker Ranch. 4y · Public · Last night we... We went on to document in vivid detail numerous electrom...</p></details>
+   Link:<a href="https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DiscoveryFugal ▻ The Secret of Skinwalker Ranch. 4y · Public · Last night we... We went on to document in vivid detail numerous electrom...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddTravis Taylor, an engineer and lead investigator for the TV show “The Secret of Skinwalker Ranch” on the His...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddTravis Taylor, an engineer and lead investigator for the TV show “The Secret of Skinwalker Ranch” on the His...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker-RanchSkinwalker Ranch stands as a contradiction record: folklore converging with Pentagon investigation, anomalies that defy b...</p></details>
+   Link:<a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker-RanchSkinwalker Ranch stands as a contradiction record: folklore converging with Pentagon investigation, anomalies that defy b...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army as the...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sdzyq/travis_revelation_about_the_uap_task_force/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis&#x27; revelation about the UAP Task ForceI remember him stating last year in an interview he was tapped to represent the US Army as the...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1511602300492416/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1511602300492416/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO researcher experiences anomalies at homeDr. Travis S. Taylor Studied UFOs for the Pentagon. Then the Anomalies... Skinwalke...</p></details>
+   Link:<a href="https://www.facebook.com/groups/911734917145827/posts/1511602300492416/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1511602300492416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO researcher experiences anomalies at homeDr. Travis S. Taylor Studied UFOs for the Pentagon. Then the Anomalies... Skinwalke...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: equip.org  
    Title: strange happenings in utah the phenomenon of skinwalker ranch  
-   Link: <a href="https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Skinwalker Ranch10 Oct 2024 — Skinwalker Ranch, a plot of 512 acres on the southern edge of Navajo Nation, has had repo...</p></details>
+   Link:<a href="https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/" target="_blank" rel="noopener noreferrer nofollow">https://www.equip.org/articles/strange-happenings-in-utah-the-phenomenon-of-skinwalker-ranch/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Phenomenon of Skinwalker Ranch10 Oct 2024 — Skinwalker Ranch, a plot of 512 acres on the southern edge of Navajo Nation, has had repo...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: zombiesinmyblog.com  
    Title: beyond skinwalker ranch explores even more unusual phenomena  
-   Link: <a href="https://zombiesinmyblog.com/beyond-skinwalker-ranch-explores-even-more-unusual-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://zombiesinmyblog.com/beyond-skinwalker-ranch-explores-even-more-unusual-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Skinwalker Ranch Explores Even More Unusual...11 Jun 2023 — Then there&#x27;s the two separate cameras picking up multiple unknown air...</p></details>
+   Link:<a href="https://zombiesinmyblog.com/beyond-skinwalker-ranch-explores-even-more-unusual-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://zombiesinmyblog.com/beyond-skinwalker-ranch-explores-even-more-unusual-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Beyond Skinwalker Ranch Explores Even More Unusual...11 Jun 2023 — Then there&#x27;s the two separate cameras picking up multiple unknown air...</p></details>

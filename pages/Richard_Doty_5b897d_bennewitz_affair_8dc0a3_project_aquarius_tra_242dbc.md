@@ -265,21 +265,21 @@ The core artefact usually referenced is an alleged **AFOSI telex** mentioning **
 
 > Official U.S. government policy and results of Project Aquarius are still classified TOP SECRET with restricted access to “MJ‑Twelve.”
 
-This passage is widely regarded as **the first widely circulated reference to “MJ‑12”** in UFO literature — a name that would quickly become central to later Majestic‑12 document claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufopedia.it">[ufopedia.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufopedia.it</span><span class="citation-popover-title">Progetto Aquarius</span><span class="citation-popover-snippet">January 22, 2012...</span><span class="citation-popover-meta">Published: January 22, 2012</span></span></span>
+This passage is widely regarded as **the first widely circulated reference to “MJ‑12”** in UFO literature — a name that would quickly become central to later Majestic‑12 document claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufopedia.it">[ufopedia.it]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufopedia.it</span><span class="citation-popover-title">Progetto Aquarius</span><span class="citation-popover-snippet">January 22, 2012...</span><span class="citation-popover-meta">Published: January 22, 2012</span></span></span>
 
-Investigators who have examined the telex note that its contents were **cryptic, informal in style**, and included entries inconsistent with standard military message formats. Versions that circulated in ufology differed from what AFOSI later acknowledged as real teletype traffic, leading researchers to characterise the widely known version as a **retyped or altered artefact rather than an unedited official communication**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://newtotse.com/oldtotse/en/fringe/flying_saucers_from_andromeda/2457ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtotse.com">[newtotse.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtotse.com</span><span class="citation-popover-snippet">The UFO phenomenon in the 1980&#x27;s...</span></span></span>
+Investigators who have examined the telex note that its contents were **cryptic, informal in style**, and included entries inconsistent with standard military message formats. Versions that circulated in ufology differed from what AFOSI later acknowledged as real teletype traffic, leading researchers to characterise the widely known version as a **retyped or altered artefact rather than an unedited official communication**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://newtotse.com/oldtotse/en/fringe/flying_saucers_from_andromeda/2457ufo.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newtotse.com">[newtotse.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newtotse.com</span><span class="citation-popover-snippet">The UFO phenomenon in the 1980&#x27;s...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/409SD8MJL7A" title="How the US Government Shaped the UFO Mythology" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer">How the US Government Shaped the UFO Mythology</a></p><p class="youtube-embed-meta">Channel: Best Documentary &middot; Views: 33.7K &middot; Uploaded: August 2024 &middot; Length: 1 hour 27 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=409SD8MJL7A">Open on YouTube</a></p></div></div></div>
 
 ## How Doty is Linked to Its Circulation
 
-Richard Doty’s involvement with the Project Aquarius material stems from his role in early meetings between UFO researchers, AFOSI personnel, and Paul Bennewitz. According to multiple retrospective accounts, Doty personally showed or provided copies of the telex—or something like it—to UFOlogists, including the prominent researcher **William L. (Bill) Moore**, who then further disseminated it within the UFO community. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">Pursuit of Project Aquarius</span></span></span>
+Richard Doty’s involvement with the Project Aquarius material stems from his role in early meetings between UFO researchers, AFOSI personnel, and Paul Bennewitz. According to multiple retrospective accounts, Doty personally showed or provided copies of the telex—or something like it—to UFOlogists, including the prominent researcher **William L. (Bill) Moore**, who then further disseminated it within the UFO community.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">Pursuit of Project Aquarius</span></span></span>
 
 The specific **chain of custody** is disputed:
 
-* Some researchers have described the circulated telex as a **retyped** version of an AFOSI message, with additions that bolstered UFO narratives — notably the reference to “MJ‑12.” According to this view, Bill Moore acknowledged later that he had typed and stamped the version shared publicly. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, Comments &#124; Internet Sacred Text ArchiveMarch 1, 1989...</span><span class="citation-popover-meta">Published: March 1, 1989</span></span></span>
-* AFOSI headquarters denies transmitting the widely circulated version of the telex, characterising the document as not an official authorised message. <span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, Comments &#124; Internet Sacred Text ArchiveMarch 1, 1989...</span><span class="citation-popover-meta">Published: March 1, 1989</span></span></span>
-* Neither the Air Force nor other agencies have publicly authenticated the specific circulated version; FOIA responses indicate the term *Project Aquarius* may correspond to unrelated classified material (for example a surveillance or database project) but not UFO analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufon.org/cufon/presconf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">The Ice Documents Press Conference</span><span class="citation-popover-snippet">Press Conference, National Press Club Closing Statements on Project Aquarius and Incidents at Kirtland AFB It was in June of 1985 that we...</span></span></span>
+* Some researchers have described the circulated telex as a **retyped** version of an AFOSI message, with additions that bolstered UFO narratives — notably the reference to “MJ‑12.” According to this view, Bill Moore acknowledged later that he had typed and stamped the version shared publicly.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, Comments &#124; Internet Sacred Text ArchiveMarch 1, 1989...</span><span class="citation-popover-meta">Published: March 1, 1989</span></span></span>
+* AFOSI headquarters denies transmitting the widely circulated version of the telex, characterising the document as not an official authorised message.<span class="citation-chip-wrap"><a class="citation-chip" href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: sacred-texts.com">[Internet Sacred Text Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">sacred-texts.com</span><span class="citation-popover-snippet">Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, Comments &#124; Internet Sacred Text ArchiveMarch 1, 1989...</span><span class="citation-popover-meta">Published: March 1, 1989</span></span></span>
+* Neither the Air Force nor other agencies have publicly authenticated the specific circulated version; FOIA responses indicate the term *Project Aquarius* may correspond to unrelated classified material (for example a surveillance or database project) but not UFO analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://cufon.org/cufon/presconf.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">The Ice Documents Press Conference</span><span class="citation-popover-snippet">Press Conference, National Press Club Closing Statements on Project Aquarius and Incidents at Kirtland AFB It was in June of 1985 that we...</span></span></span>
 
 These provenance uncertainties are central: rather than presenting a traceable military record, the telex and related artefacts appear to have **morphology and distribution paths common to UFO document controversies** — circulating through intermediaries, undergoing editorial alterations, and lacking independent archival verification.
 
@@ -292,11 +292,11 @@ These provenance uncertainties are central: rather than presenting a traceable m
 
 The doubts about the “Aquarius” material’s origins have several implications for assessing Doty’s role and credibility within UFO discourse:
 
-**1. Lack of Verifiable Government Record:** The widely cited version of the Project Aquarius telex does not appear in authenticated AFOSI archives, and agencies have not confirmed its text as an official message. Its **appearance through civilian intermediaries, retyping, and editorial framing** weakens claims it was a genuine classified communication. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">Pursuit of Project Aquarius</span></span></span>
+**1. Lack of Verifiable Government Record:** The widely cited version of the Project Aquarius telex does not appear in authenticated AFOSI archives, and agencies have not confirmed its text as an official message. Its **appearance through civilian intermediaries, retyping, and editorial framing** weakens claims it was a genuine classified communication.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cufon.org">[cufon.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cufon.org</span><span class="citation-popover-title">Pursuit of Project Aquarius</span><span class="citation-popover-snippet">Pursuit of Project Aquarius</span></span></span>
 
-**2. Connection with Larger Hoaxes:** The “Aquarius” material is interwoven with broader UFO document controversies, especially the **Majestic‑12 (MJ‑12) documents** — a set of purported government records that the **FBI publicly declared bogus** and many researchers consider fabricated. The Aquarius telex was the first widely circulated source to link MJ‑12 terminology to UFO secrecy lore, a link that would later fuel further disputed document claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+**2. Connection with Larger Hoaxes:** The “Aquarius” material is interwoven with broader UFO document controversies, especially the **Majestic‑12 (MJ‑12) documents** — a set of purported government records that the **FBI publicly declared bogus** and many researchers consider fabricated. The Aquarius telex was the first widely circulated source to link MJ‑12 terminology to UFO secrecy lore, a link that would later fuel further disputed document claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-**3. Disinformation Campaign Narrative:** Within discussions of the Bennewitz affair, some ufologists and historians interpret Doty’s actions — including distribution of the telex or similar messages — as part of a **deliberate psychological or counter‑intelligence campaign** aimed at steering Bennewitz away from uncovering classified military aerospace activity. Even within this narrative, the documents (including Project Aquarius references) are seen not as reproducing authentic classified content but as **tools of misdirection**. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicalblindness.com">[Historical Blindness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicalblindness.com</span><span class="citation-popover-title">Historical Blindness UFO Disinfo: Part Three</span><span class="citation-popover-snippet">Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</span><span class="citation-popover-meta">Published: August 16, 2021</span></span></span>
+**3. Disinformation Campaign Narrative:** Within discussions of the Bennewitz affair, some ufologists and historians interpret Doty’s actions — including distribution of the telex or similar messages — as part of a **deliberate psychological or counter‑intelligence campaign** aimed at steering Bennewitz away from uncovering classified military aerospace activity. Even within this narrative, the documents (including Project Aquarius references) are seen not as reproducing authentic classified content but as **tools of misdirection**.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: historicalblindness.com">[Historical Blindness]</a><span class="citation-popover" role="note"><span class="citation-popover-source">historicalblindness.com</span><span class="citation-popover-title">Historical Blindness UFO Disinfo: Part Three</span><span class="citation-popover-snippet">Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</span><span class="citation-popover-meta">Published: August 16, 2021</span></span></span>
 
 **4. Amplification Through UFO Community Channels:** The way the Aquarius material entered and spread through UFO networks — via Bill Moore, public reports, and later compilations — highlights how **community transmission, editorial decisions, and lack of archival anchors** can elevate questionable artefacts into central lore. The credibility of materials tied to Doty is thus entangled with the credibility of the networks that propagated them.
 
@@ -305,194 +305,194 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2cD5WETr_DA" title="Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer">Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind</a></p><p class="youtube-embed-meta">Channel: Behind the Bastards &middot; Views: 96 &middot; Uploaded: February 2026 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2cD5WETr_DA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Project Aquarius make the hoax feel official?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Project Aquarius make the hoax feel official?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
-        </h4>
-        <p class="fr-book-author">By BARTY. HARMER</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+</h4>
+<p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
-        </h4>
-        <p class="fr-book-author">By Frank C. Salisbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
+</h4>
+<p class="fr-book-author">By Frank C. Salisbury</p>
         
-        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By James Paton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
+</h4>
+<p class="fr-book-author">By James Paton</p>
         
-        <p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
-        </h4>
-        <p class="fr-book-author">By Ron Halliday</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
+</h4>
+<p class="fr-book-author">By Ron Halliday</p>
         
-        <p class="fr-book-desc">First published 1998. Subjects: Sightings and encounters, Unidentified flying objects.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1998. Subjects: Sightings and encounters, Unidentified flying objects.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Ghosts, UFO&#x27;s and the Unexplained</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Ghosts, UFO&#x27;s and the Unexplained</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A4 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="did-project-aquarius-make-the-hoax-feel-official-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -508,7 +508,7 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -528,7 +528,7 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -560,7 +560,7 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -612,7 +612,7 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -657,7 +657,7 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -698,119 +698,119 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: ufopedia.it  
    Title: Progetto Aquarius  
-   Link: <a href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Progetto_Aquarius.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2012...</p></details>
+   Link:<a href="https://www.ufopedia.it/Progetto_Aquarius.html" target="_blank" rel="noopener noreferrer nofollow">https://www.ufopedia.it/Progetto_Aquarius.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>January 22, 2012...</p></details>
    Published: January 22, 2012  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: newtotse.com  
-   Link: <a href="https://newtotse.com/oldtotse/en/fringe/flying_saucers_from_andromeda/2457ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://newtotse.com/oldtotse/en/fringe/flying_saucers_from_andromeda/2457ufo.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO phenomenon in the 1980&#x27;s...</p></details>
+   Link:<a href="https://newtotse.com/oldtotse/en/fringe/flying_saucers_from_andromeda/2457ufo.html" target="_blank" rel="noopener noreferrer nofollow">https://newtotse.com/oldtotse/en/fringe/flying_saucers_from_andromeda/2457ufo.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO phenomenon in the 1980&#x27;s...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cufon.org  
    Title: Pursuit of Project Aquarius  
-   Link: <a href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/Aquarius/aquarius.htm</a>  
+   Link:<a href="https://www.cufon.org/cufon/Aquarius/aquarius.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.cufon.org/cufon/Aquarius/aquarius.htm</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cufon.org  
    Title: The Ice Documents Press Conference  
-   Link: <a href="https://cufon.org/cufon/presconf.htm" target="_blank" rel="noopener noreferrer nofollow">https://cufon.org/cufon/presconf.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Press Conference, National Press Club Closing [Statements](&amp;#123;&amp;#123; &#x27;statements/&#x27; | relative_url &amp;#125;&amp;#125;) on Project Aquarius and Incidents at Kirtland AFB It was in June of 1985 that we...</p></details>
+   Link:<a href="https://cufon.org/cufon/presconf.htm" target="_blank" rel="noopener noreferrer nofollow">https://cufon.org/cufon/presconf.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Press Conference, National Press Club Closing [Statements](&amp;#123;&amp;#123; &#x27;statements/&#x27; | relative_url &amp;#125;&amp;#125;) on Project Aquarius and Incidents at Kirtland AFB It was in June of 1985 that we...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/hastings.htm</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, Comments | Internet Sacred Text ArchiveMarch 1, 1989...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/hastings.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/hastings.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet Sacred Text ArchiveThe MJ-12 Affair: Facts, Questions, Comments | Internet Sacred Text ArchiveMarch 1, 1989...</p></details>
    Published: March 1, 1989  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: historicalblindness.com  
    Title: Historical Blindness UFO Disinfo: Part Three  
-   Link: <a href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow">https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</p></details>
+   Link:<a href="https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception" target="_blank" rel="noopener noreferrer nofollow">https://www.historicalblindness.com/episodes//ufo-disinfo-part-three-the-bennewitz-deception</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical BlindnessUFO Disinfo: Part Three - The Bennewitz Deception — Historical BlindnessAugust 16, 2021...</p></details>
    Published: August 16, 2021  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: bibliotecapleyades.net  
    Title: Project Aquarius  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mj12_3n.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mj12_3n.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The process, in his opinion, started &#x27;originally from the National Security Agency (NSA) and high levels of the AFOSI. &gt; &quot;According...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mj12_3n.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_mj12_3n.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The process, in his opinion, started &#x27;originally from the National Security Agency (NSA) and high levels of the AFOSI. &gt; &quot;According...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: silverland.info  
    Title: Project Aquarius  
-   Link: <a href="https://www.silverland.info/documenti/project-aquarius/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/project-aquarius/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Il mondo degli UFOPROJECT AQUARIUS Image: Dan BurischDan Burisch Open Minds ha recentemente documentato, con dovizia di particolari, il &quot;...</p></details>
+   Link:<a href="https://www.silverland.info/documenti/project-aquarius/" target="_blank" rel="noopener noreferrer nofollow">https://www.silverland.info/documenti/project-aquarius/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Il mondo degli UFOPROJECT AQUARIUS Image: Dan BurischDan Burisch Open Minds ha recentemente documentato, con dovizia di particolari, il &quot;...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: bibliotecapleyades.net  
    Title: Richard Doty and Project [Serpo](&#123;&#123; 'serpo/' | relative_url &#125;&#125;): "Public Acclimation" or "Deception Program"?  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Negative #1: Depicting C-5A aircraft on approach and streaking unidentified aerial object in lower right portion of film. Film found to b...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/sociopol_projectserpo08.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Negative #1: Depicting C-5A aircraft on approach and streaking unidentified aerial object in lower right portion of film. Film found to b...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: rr0.org  
    Title: Aquarius est réputé pour être partie intégrante d'une campagne de désinfor  
-   Link: <a href="https://rr0.org/science/crypto/ufo/enquete/dossier/ProjetAquarius/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/ProjetAquarius/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Le projet AquariusOctober 28, 2025 — LE PROJET AQUARIUS (&quot;Verseau&quot; en français) Projet américain, supposément consécutif au projet Gleem...</p></details>
+   Link:<a href="https://rr0.org/science/crypto/ufo/enquete/dossier/ProjetAquarius/" target="_blank" rel="noopener noreferrer nofollow">https://rr0.org/science/crypto/ufo/enquete/dossier/ProjetAquarius/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Le projet AquariusOctober 28, 2025 — LE PROJET AQUARIUS (&quot;Verseau&quot; en français) Projet américain, supposément consécutif au projet Gleem...</p></details>
    Published: October 28, 2025  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: wikidisc.org  
    Title: Document:Project Aquarius Executive Briefing | Wiki Disc  
-   Link: <a href="https://www.wikidisc.org/wiki/Document%3AProject_Aquarius_Executive_Briefing" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/Document%3AProject_Aquarius_Executive_Briefing</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Document:Project Aquarius Executive Briefing | WikiDiscDecember 9, 2025 — DOCUMENT:PROJECT AQUARIUS EXECUTIVE BRIEFING [Input] Add langua...</p></details>
+   Link:<a href="https://www.wikidisc.org/wiki/Document%3AProject_Aquarius_Executive_Briefing" target="_blank" rel="noopener noreferrer nofollow">https://www.wikidisc.org/wiki/Document%3AProject_Aquarius_Executive_Briefing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Document:Project Aquarius Executive Briefing | WikiDiscDecember 9, 2025 — DOCUMENT:PROJECT AQUARIUS EXECUTIVE BRIEFING [Input] Add langua...</p></details>
    Published: December 9, 2025  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: sacred-texts.com  
    Title: Extraterrestrial Biological Entities | Internet Sacred Text Archive  
-   Link: <a href="https://sacred-texts.com/ufo/ebe.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ebe.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>But COL Purvine told me that Kirtland AFB, AFOSI District 17 has a special secret detachment that investigate...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/ebe.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ebe.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>But COL Purvine told me that Kirtland AFB, AFOSI District 17 has a special secret detachment that investigate...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
    Title: 'Mislead the Public' Ep. 3 Official Clip | UFO | SHOWTIME Documentary Series  
-   Link: <a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=kOT39FXstho" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=kOT39FXstho</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: youtube.com  
    Title: Part Two: How The U.S. Government Used Aliens To Destroy a Man's Mind  
-   Link: <a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cD5WETr_DA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=2cD5WETr_DA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Officer FINALLY Comes Clean About UFO&#x27;s | UFO Whistleblower #1...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: How the US Government Shaped the UFO Mythology  
-   Link: <a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=409SD8MJL7A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=409SD8MJL7A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty&#x27;s Shocking UFO Revelations! (Paul Bennewitz) - Jimmy Akin&#x27;s Mysterious World...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thelivingmoon.com  
    Title: Project Gleem  
-   Link: <a href="https://www.thelivingmoon.com/45jack_files/03files/Project_Gleem_001.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thelivingmoon.com/45jack_files/03files/Project_Gleem_001.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project AquariusProject Gleem (1953-1966) Project Aquarius Project Gleem started in 1953 on order of President Eisenhower, who was convin...</p></details>
+   Link:<a href="https://www.thelivingmoon.com/45jack_files/03files/Project_Gleem_001.html" target="_blank" rel="noopener noreferrer nofollow">https://www.thelivingmoon.com/45jack_files/03files/Project_Gleem_001.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project AquariusProject Gleem (1953-1966) Project Aquarius Project Gleem started in 1953 on order of President Eisenhower, who was convin...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufohastings.com  
    Title: UF Os & Nukes  
-   Link: <a href="https://www.ufohastings.com/articles/the-mj-12-affair-facts-questions-comments" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/the-mj-12-affair-facts-questions-comments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>I agree with Bill Moore it would be premature at this time to draw conclusions. It would not, however, be premature to carefully consider...</p></details>
+   Link:<a href="https://www.ufohastings.com/articles/the-mj-12-affair-facts-questions-comments" target="_blank" rel="noopener noreferrer nofollow">https://www.ufohastings.com/articles/the-mj-12-affair-facts-questions-comments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I agree with Bill Moore it would be premature at this time to draw conclusions. It would not, however, be premature to carefully consider...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: krauseufo.fyi  
-   Link: <a href="https://www.krauseufo.fyi/" target="_blank" rel="noopener noreferrer nofollow">https://www.krauseufo.fyi/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>FILE 8017D93-0/29 // BENNEWITZ DOSSIERMay 20, 2026 — FOR OFFICIAL USE ONLY CONTESTED MATERIAL FLAGGED FILE 8017D93-0/29 DET 1700 / DIST 1...</p></details>
+   Link:<a href="https://www.krauseufo.fyi/" target="_blank" rel="noopener noreferrer nofollow">https://www.krauseufo.fyi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FILE 8017D93-0/29 // BENNEWITZ DOSSIERMay 20, 2026 — FOR OFFICIAL USE ONLY CONTESTED MATERIAL FLAGGED FILE 8017D93-0/29 DET 1700 / DIST 1...</p></details>
    Published: May 20, 2026

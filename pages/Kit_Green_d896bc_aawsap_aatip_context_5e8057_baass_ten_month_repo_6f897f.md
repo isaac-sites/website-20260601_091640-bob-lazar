@@ -262,14 +262,14 @@ image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057_baass_ten_mon
 
 ## Introduction
 
-The BAASS Ten Month Report has become one of the most important documents in arguments over what the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})) actually was in practice. Official descriptions often framed AAWSAP as a Defence Intelligence Agency effort to examine future aerospace threats and advanced technologies. The Ten Month Report, however, suggests that the contractor, Bigelow Aerospace Advanced Space Studies (BAASS), was devoting substantial effort to unidentified aerial phenomena (UAP), paranormal claims, witness investigations, medical effects, data collection, and Skinwalker Ranch-related material. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — AAWSAP and AATIP research focused on the potential use of fa...</span></span></span>
+The BAASS Ten Month Report has become one of the most important documents in arguments over what the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})) actually was in practice. Official descriptions often framed AAWSAP as a Defence Intelligence Agency effort to examine future aerospace threats and advanced technologies. The Ten Month Report, however, suggests that the contractor, Bigelow Aerospace Advanced Space Studies (BAASS), was devoting substantial effort to unidentified aerial phenomena (UAP), paranormal claims, witness investigations, medical effects, data collection, and Skinwalker Ranch-related material. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — AAWSAP and AATIP research focused on the potential use of fa...</span></span></span>
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057_baass_ten_month_repo_6f897f-Illustration-1-dark.svg" | relative_url }}" alt="BAASS Report illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057_baass_ten_month_repo_6f897f-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057_baass_ten_month_repo_6f897f-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers assessing figures connected to the AAWSAP ecosystem, including Kit Green, the report matters because it provides a rare glimpse into operational priorities rather than public descriptions. It does not prove extraterrestrial claims. It does not establish that all programme participants shared the same beliefs. But it is one of the strongest pieces of documentary evidence indicating that BAASS treated UFO and anomaly investigations as a central activity rather than a peripheral curiosity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span>
+For readers assessing figures connected to the AAWSAP ecosystem, including Kit Green, the report matters because it provides a rare glimpse into operational priorities rather than public descriptions. It does not prove extraterrestrial claims. It does not establish that all programme participants shared the same beliefs. But it is one of the strongest pieces of documentary evidence indicating that BAASS treated UFO and anomaly investigations as a central activity rather than a peripheral curiosity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span>
 
 ## What Did BAASS Actually Deliver?
 
-The report is generally described as a July 2009 progress document covering roughly the first ten months of BAASS work under the DIA contract. Public discussion of the document intensified after copies circulated online years later, allowing researchers and critics to examine its contents directly rather than relying on second-hand descriptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span> Metabunk One reason the document attracts attention is that it appears far broader than a conventional aerospace threat-assessment programme. Accordin <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">baass ten month report 2009 leaked document.14241</span><span class="citation-popover-snippet">BAASS Ten Month Report 2009 - Leaked DocumentJun 1, 2025 — This report details the activities of the Bigelow Aerospace Advanced Space Stu...</span></span></span> g to accounts based on the report, BAASS outlined:
+The report is generally described as a July 2009 progress document covering roughly the first ten months of BAASS work under the DIA contract. Public discussion of the document intensified after copies circulated online years later, allowing researchers and critics to examine its contents directly rather than relying on second-hand descriptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span> Metabunk One reason the document attracts attention is that it appears far broader than a conventional aerospace threat-assessment programme. Accordin<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[metabunk.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">baass ten month report 2009 leaked document.14241</span><span class="citation-popover-snippet">BAASS Ten Month Report 2009 - Leaked DocumentJun 1, 2025 — This report details the activities of the Bigelow Aerospace Advanced Space Stu...</span></span></span> g to accounts based on the report, BAASS outlined:
 
 * A dedicated UAP investigation capability.
 * Databases for collecting and analysing anomalous reports.
@@ -278,7 +278,7 @@ The report is generally described as a July 2009 progress document covering roug
 * Relationships with specialist researchers and consultants.
 * Continued interest in Skinwalker Ranch material.
 * Collection and analysis of historical UFO cases.
-* Technical studies into advanced propulsion and future aerospace concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span> Reddit Supporters of AAWSAP argue that this breadth reflected an intelligence programme attempting to understand poorly understood aerospace events <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A bit of an oldie but GOD DAMN does this have A LOT...Mention of Skinwalker Ranch in Utah as a “possible laboratory for studying o...</span></span></span> from every angle. Critics argue that the same material shows the contract drifting away from identifiable defence threats and towards long-standing UFO and paranormal interests associated with Robert Bigelow's earlier research networks. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the pentagon ufo money trail</span><span class="citation-popover-snippet">23 Apr 2020 — Skinwalker Ranch promoters claim that during this visit the DIA scientist had a paranormal encounter that no one else prese...</span></span></span>
+* Technical studies into advanced propulsion and future aerospace concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span> Reddit Supporters of AAWSAP argue that this breadth reflected an intelligence programme attempting to understand poorly understood aerospace events<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A bit of an oldie but GOD DAMN does this have A LOT...Mention of Skinwalker Ranch in Utah as a “possible laboratory for studying o...</span></span></span> from every angle. Critics argue that the same material shows the contract drifting away from identifiable defence threats and towards long-standing UFO and paranormal interests associated with Robert Bigelow's earlier research networks.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the pentagon ufo money trail</span><span class="citation-popover-snippet">23 Apr 2020 — Skinwalker Ranch promoters claim that during this visit the DIA scientist had a paranormal encounter that no one else prese...</span></span></span>
 
 The key point is not whether any individual claim proved true. The key point is that the report appears to show what BAASS considered worthy of government-funded attention.
 
@@ -288,15 +288,15 @@ The key point is not whether any individual claim proved true. The key point is 
 
 Perhaps the clearest evidence of programme direction comes from the report's treatment of Skinwalker Ranch and related investigations.
 
-Skinwalker Ranch had already been associated for years with claims involving UFOs, unusual creatures, poltergeist-like events and other alleged anomalies. Before AAWSAP, the property had been investigated through organisations linked to Robert Bigelow, including the National Institute for Discovery Science (NIDS). Critics have long argued that this background created a strong possibility that AAWSAP inherited pre-existing paranormal assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span>
+Skinwalker Ranch had already been associated for years with claims involving UFOs, unusual creatures, poltergeist-like events and other alleged anomalies. Before AAWSAP, the property had been investigated through organisations linked to Robert Bigelow, including the National Institute for Discovery Science (NIDS). Critics have long argued that this background created a strong possibility that AAWSAP inherited pre-existing paranormal assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span>
 
-Descriptions of the Ten Month Report indicate that Skinwalker Ranch was not presented merely as historical background. Instead, it reportedly appeared as a potentially important research environment. One frequently cited passage describes the ranch as a possible laboratory for studying other intelligences or unusual phenomena. That wording is significant because it suggests active investigative interest rather than detached documentation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A bit of an oldie but GOD DAMN does this have A LOT...Mention of Skinwalker Ranch in Utah as a “possible laboratory for studying o...</span></span></span>
+Descriptions of the Ten Month Report indicate that Skinwalker Ranch was not presented merely as historical background. Instead, it reportedly appeared as a potentially important research environment. One frequently cited passage describes the ranch as a possible laboratory for studying other intelligences or unusual phenomena. That wording is significant because it suggests active investigative interest rather than detached documentation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">A bit of an oldie but GOD DAMN does this have A LOT...Mention of Skinwalker Ranch in Utah as a “possible laboratory for studying o...</span></span></span>
 
-The report also appears to devote considerable attention to witness investigations. Rather than focusing exclusively on military sensor tracks or aerospace intelligence assessments, BAASS reportedly developed procedures for interviewing witnesses, collecting testimony, analysing patterns and maintaining databases of reports. Jacques Vallée's influence is often noted in discussions of these systems, particularly in relation to structured case collection and anomaly databases. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2023/09/what-advanced-aerospace-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">what advanced aerospace weapon system</span><span class="citation-popover-snippet">BAASS and listed in appendix 1 of &quot;Skinwalkers at the Pentagon.... * The 26-page Utah/Skinwalker Ranch Summaries 2007-2012. * The 140...</span></span></span>
+The report also appears to devote considerable attention to witness investigations. Rather than focusing exclusively on military sensor tracks or aerospace intelligence assessments, BAASS reportedly developed procedures for interviewing witnesses, collecting testimony, analysing patterns and maintaining databases of reports. Jacques Vallée's influence is often noted in discussions of these systems, particularly in relation to structured case collection and anomaly databases.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://ufos-scientificresearch.blogspot.com/2023/09/what-advanced-aerospace-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">what advanced aerospace weapon system</span><span class="citation-popover-snippet">BAASS and listed in appendix 1 of &quot;Skinwalkers at the Pentagon.... * The 26-page Utah/Skinwalker Ranch Summaries 2007-2012. * The 140...</span></span></span>
 
 Biological effects form another revealing area.
 
-This directly intersects with Kit Green's role in the wider AAWSAP environment. Green became publicly associated with research into reported physiological effects allegedly experienced by people following close encounters with anomalous objects. The Ten Month Report reportedly references efforts to measure and catalogue biological impacts connected to UAP cases, suggesting that medical consequences were treated as a serious research line within the programme. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1kjhd8v/baass_leak_is_authentic_soviet_military_unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">baass leak is authentic soviet military unit</span><span class="citation-popover-snippet">BAASS Leak is Authentic, Soviet Military Unit 73790...It&#x27;s a 149 page doc about the Soviet UAP program obtained by Knapp after the fall...</span></span></span>
+This directly intersects with Kit Green's role in the wider AAWSAP environment. Green became publicly associated with research into reported physiological effects allegedly experienced by people following close encounters with anomalous objects. The Ten Month Report reportedly references efforts to measure and catalogue biological impacts connected to UAP cases, suggesting that medical consequences were treated as a serious research line within the programme.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1kjhd8v/baass_leak_is_authentic_soviet_military_unit/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">baass leak is authentic soviet military unit</span><span class="citation-popover-snippet">BAASS Leak is Authentic, Soviet Military Unit 73790...It&#x27;s a 149 page doc about the Soviet UAP program obtained by Knapp after the fall...</span></span></span>
 
 That does not demonstrate that the reported injuries were caused by exotic technology. It does, however, show that BAASS was investing resources in gathering such claims. For credibility assessments of Green, this is important because it places his biological-effects work inside a broader institutional framework rather than as an isolated personal interest.
 
@@ -305,7 +305,7 @@ That does not demonstrate that the reported injuries were caused by exotic techn
 
 The central controversy surrounding the Ten Month Report is that it appears difficult to reconcile with simplified public descriptions of AAWSAP as merely a future aerospace technology study.
 
-Official records confirm that the DIA contract included speculative but recognisably defence-related topics such as propulsion concepts, advanced materials, energy systems and aerospace technologies. The programme produced the well-known Defence Intelligence Reference Documents (DIRDs) on subjects ranging from warp drives to advanced propulsion theory. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</span></span></span>
+Official records confirm that the DIA contract included speculative but recognisably defence-related topics such as propulsion concepts, advanced materials, energy systems and aerospace technologies. The programme produced the well-known Defence Intelligence Reference Documents (DIRDs) on subjects ranging from warp drives to advanced propulsion theory.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</span></span></span>
 
 If the public record consisted only of those technical papers, AAWSAP could plausibly be described as an unconventional but still recognisable long-range technology assessment programme.
 
@@ -313,7 +313,7 @@ The Ten Month Report complicates that picture because it reportedly places UAP i
 
 Officially defensible activitiesMore controversial activitiesAerospace forecastingUAP case investigationsAdvanced propulsion studiesSkinwalker Ranch researchForeign technology assessmentBiological-effects case filesPhysics-focused DIRDsAlleged paranormal incidentsThreat analysisAnomaly databases and witness networks
 
-The existence of both tracks helps explain years of confusion over AAWSAP and AATIP. Different participants often emphasised different parts of the same ecosystem. Some highlighted aerospace research and military encounters. Others highlighted anomalous phenomena and human effects. The Ten Month Report suggests these strands were not entirely separate within BAASS operations. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
+The existence of both tracks helps explain years of confusion over AAWSAP and AATIP. Different participants often emphasised different parts of the same ecosystem. Some highlighted aerospace research and military encounters. Others highlighted anomalous phenomena and human effects. The Ten Month Report suggests these strands were not entirely separate within BAASS operations.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification Program</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/woWtxm5apl8" title="Skinwalker Ranch owner weighs in on Pentagon UAP file release" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=woWtxm5apl8" target="_blank" rel="noopener noreferrer">Skinwalker Ranch owner weighs in on Pentagon UAP file release</a></p><p class="youtube-embed-meta">Channel: KSL News Utah &middot; Views: 35.1K &middot; Uploaded: May 2026 &middot; Length: 2 minutes 40 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=woWtxm5apl8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=woWtxm5apl8">Open on YouTube</a></p></div></div></div>
 
@@ -321,9 +321,9 @@ The existence of both tracks helps explain years of confusion over AAWSAP and AA
 
 [Sceptics]({{ 'sceptics-078368/' | relative_url }}) often view the document as evidence that BAASS was pursuing interests already established through Bigelow's earlier paranormal research efforts.
 
-From this perspective, the report demonstrates contractor-driven agenda setting rather than objective threat analysis. Critics point to the presence of Skinwalker Ranch material, biological-effects investigations, alleged paranormal incidents and broad anomaly research as signs that taxpayer-funded work was being directed towards claims with weak evidential foundations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the pentagon ufo money trail</span><span class="citation-popover-snippet">23 Apr 2020 — Skinwalker Ranch promoters claim that during this visit the DIA scientist had a paranormal encounter that no one else prese...</span></span></span>
+From this perspective, the report demonstrates contractor-driven agenda setting rather than objective threat analysis. Critics point to the presence of Skinwalker Ranch material, biological-effects investigations, alleged paranormal incidents and broad anomaly research as signs that taxpayer-funded work was being directed towards claims with weak evidential foundations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: blueblurrylines.com">[Blue Blurry Lines]</a><span class="citation-popover" role="note"><span class="citation-popover-source">blueblurrylines.com</span><span class="citation-popover-title">the pentagon ufo money trail</span><span class="citation-popover-snippet">23 Apr 2020 — Skinwalker Ranch promoters claim that during this visit the DIA scientist had a paranormal encounter that no one else prese...</span></span></span>
 
-The 2024 historical review released by the All-domain Anomaly Resolution Office (AARO) reinforced aspects of this sceptical interpretation. While acknowledging the reality of government UAP investigations, AARO stated that it found no empirical evidence supporting claims of extraterrestrial technology, hidden crash-retrieval programmes or similar extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">on the Historical Record of US Government...10 May 2024 — AARO&#x27;s examination of the historical context of UAP investigations from 1945 t...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+The 2024 historical review released by the All-domain Anomaly Resolution Office (AARO) reinforced aspects of this sceptical interpretation. While acknowledging the reality of government UAP investigations, AARO stated that it found no empirical evidence supporting claims of extraterrestrial technology, hidden crash-retrieval programmes or similar extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Section 2</span><span class="citation-popover-snippet">on the Historical Record of US Government...10 May 2024 — AARO&#x27;s examination of the historical context of UAP investigations from 1945 t...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Under this reading, the Ten Month Report demonstrates programme enthusiasm rather than programme success.
 
@@ -333,9 +333,9 @@ Under this reading, the Ten Month Report demonstrates programme enthusiasm rathe
 
 [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) interpret the same document very differently.
 
-They argue that intelligence collection often requires examining unusual reports before conclusions can be reached. From that perspective, the report shows a contractor building a comprehensive capability: databases, field investigations, medical analysis, technical studies and intelligence collection systems designed to evaluate unexplained events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Summary Report on BAASS UAP Analysis CapabilitiesJun 24, 2025 — The purpose of this report is to summarize the field data collection, in...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherworlders.com/a-guide-to-the-2009-baass-ten-month-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherworlders.com">[2otherworlders.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherworlders.com</span><span class="citation-popover-title">a guide to the 2009 baass ten month report</span><span class="citation-popover-snippet">10 Jun 2025 — Explore the only source pure guide to the 2009 BAASS Ten-Month Report. From Warp-drive studies to Skinwalker Ranch data...</span></span></span>
+They argue that intelligence collection often requires examining unusual reports before conclusions can be reached. From that perspective, the report shows a contractor building a comprehensive capability: databases, field investigations, medical analysis, technical studies and intelligence collection systems designed to evaluate unexplained events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[The Black Vault]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-snippet">Summary Report on BAASS UAP Analysis CapabilitiesJun 24, 2025 — The purpose of this report is to summarize the field data collection, in...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://otherworlders.com/a-guide-to-the-2009-baass-ten-month-report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherworlders.com">[2otherworlders.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherworlders.com</span><span class="citation-popover-title">a guide to the 2009 baass ten month report</span><span class="citation-popover-snippet">10 Jun 2025 — Explore the only source pure guide to the 2009 BAASS Ten-Month Report. From Warp-drive studies to Skinwalker Ranch data...</span></span></span>
 
-Supporters also note that the report does not read like a simple belief document. It contains organisational planning, infrastructure development, analytical systems and reporting structures. They argue that this demonstrates an attempt to create an intelligence and research apparatus rather than merely catalogue UFO stories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span>
+Supporters also note that the report does not read like a simple belief document. It contains organisational planning, infrastructure development, analytical systems and reporting structures. They argue that this demonstrates an attempt to create an intelligence and research apparatus rather than merely catalogue UFO stories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span>
 
 In this interpretation, the report's importance lies not in proving extraordinary claims but in showing that parts of the national-security community considered the subject important enough to study systematically.
 
@@ -344,201 +344,201 @@ In this interpretation, the report's importance lies not in proving extraordinar
 
 The Ten Month Report is valuable in evaluating Kit Green because it provides context for where his biological-effects research sat inside the wider AAWSAP environment.
 
-Without the report, Green's work could appear to be an isolated effort focused on unusual medical claims. The report instead suggests that biological effects were one component of a larger BAASS investigative framework that included witness reports, anomaly databases, field investigations and UAP case analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">serious full baass july 30th 2009 tenmonth report</span><span class="citation-popover-snippet">SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...We now have the full 2009 BAASS aka Bigelow Aerospace Advanced Space Studies 472...</span></span></span>
+Without the report, Green's work could appear to be an isolated effort focused on unusual medical claims. The report instead suggests that biological effects were one component of a larger BAASS investigative framework that included witness reports, anomaly databases, field investigations and UAP case analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">serious full baass july 30th 2009 tenmonth report</span><span class="citation-popover-snippet">SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...We now have the full 2009 BAASS aka Bigelow Aerospace Advanced Space Studies 472...</span></span></span>
 
 At the same time, the document does not resolve the key credibility question surrounding Green or similar researchers. It shows that these subjects were being investigated. It does not show that the underlying claims were verified. The report is evidence of programme direction, not evidence that extraordinary conclusions were reached correctly.
 
-That distinction is crucial. The strongest conclusion supported by the Ten Month Report is not that UFO-related claims were proven, but that BAASS appears to have treated UFOs, associated witness reports and alleged human effects as a substantial operational priority within AAWSAP. For understanding the environment in which Green operated, that may be the document's most important contribution. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</span><span class="citation-popover-meta">Published: March 2024</span></span></span>
+That distinction is crucial. The strongest conclusion supported by the Ten Month Report is not that UFO-related claims were proven, but that BAASS appears to have treated UFOs, associated witness reports and alleged human effects as a substantial operational priority within AAWSAP. For understanding the environment in which Green operated, that may be the document's most important contribution.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scribd.com">[Scribd]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scribd.com</span><span class="citation-popover-snippet">BAASS Ten Month Progress Report &#124; PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</span><span class="citation-popover-meta">Published: March 2024</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What Did BAASS Actually Deliver?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What Did BAASS Actually Deliver?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Provides context for investigative priorities reflected in the report.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides context for investigative priorities reflected in the report.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
-        </h4>
-        <p class="fr-book-author">By Annie Jacobsen</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Phenomena on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5INfEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Phenomena" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
+</h4>
+<p class="fr-book-author">By Annie Jacobsen</p>
         
-        <p class="fr-book-desc">Explains the wider history of government anomaly research.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains the wider history of government anomaly research.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers document-driven debates around secret programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers document-driven debates around secret programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Discusses BAASS activities, investigations and deliverables.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses BAASS activities, investigations and deliverables.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Phenomena&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Phenomena</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor"><img src="https://i.ebayimg.com/images/g/mW4AAOSwogpn3Xt4/s-l225.jpg" alt="Listing image for UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">UFO MOON CITY Wall Art, Vintage Sci-fi Alien UAP Poster, NHI Cryptid Stars Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster"><img src="https://i.ebayimg.com/images/g/6u4AAeSw40Zp0qkm/s-l225.jpg" alt="Listing image for Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large They&#x27;re Here Bob Lazar Story UFO UAP Flying Saucer Area 51 Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster"><img src="https://i.ebayimg.com/images/g/BjgAAOSwzOJnfEWc/s-l225.jpg" alt="Listing image for Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage RAYTHEON UFO BLUEPRINT Wall Art, NHI Alien Physics Classified UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor"><img src="https://i.ebayimg.com/images/g/HwcAAeSwD~JqC51e/s-l225.jpg" alt="Listing image for Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO GOD Disclosure Wall Art, Nun Alien Jesus Poster, UAP Christian Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-baass-actually-deliver-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-baass-actually-deliver-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -554,7 +554,7 @@ That distinction is crucial. The strongest conclusion supported by the Ten Month
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -574,7 +574,7 @@ That distinction is crucial. The strongest conclusion supported by the Ten Month
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -606,7 +606,7 @@ That distinction is crucial. The strongest conclusion supported by the Ten Month
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -658,7 +658,7 @@ That distinction is crucial. The strongest conclusion supported by the Ten Month
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -703,7 +703,7 @@ That distinction is crucial. The strongest conclusion supported by the Ten Month
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -744,196 +744,196 @@ That distinction is crucial. The strongest conclusion supported by the Ten Month
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — SECTION I: Introduction. This report represents Volume I of the All...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — AAWSAP and AATIP research focused on the potential use of fa...</p></details>
+   Link:<a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — AAWSAP and AATIP research focused on the potential use of fa...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Progress Report | PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</p></details>
+   Link:<a href="https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/874653430/Baass-Ten-Month-Report-2009</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Progress Report | PDFThe document is a ten-month report detailing the establishment and progress of the BAASS organ...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: metabunk.org  
    Title: baass ten month report 2009 leaked document.14241  
-   Link: <a href="https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Report 2009 - Leaked DocumentJun 1, 2025 — This report details the activities of the Bigelow Aerospace Advanced Space Stu...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/baass-ten-month-report-2009-leaked-document.14241/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Ten Month Report 2009 - Leaked DocumentJun 1, 2025 — This report details the activities of the Bigelow Aerospace Advanced Space Stu...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: otherworlders.com  
    Title: a guide to the 2009 baass ten month report  
-   Link: <a href="https://otherworlders.com/a-guide-to-the-2009-baass-ten-month-report/" target="_blank" rel="noopener noreferrer nofollow">https://otherworlders.com/a-guide-to-the-2009-baass-ten-month-report/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2025 — Explore the only source pure guide to the 2009 BAASS Ten-Month Report. From Warp-drive studies to Skinwalker Ranch data...</p></details>
+   Link:<a href="https://otherworlders.com/a-guide-to-the-2009-baass-ten-month-report/" target="_blank" rel="noopener noreferrer nofollow">https://otherworlders.com/a-guide-to-the-2009-baass-ten-month-report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 Jun 2025 — Explore the only source pure guide to the 2009 BAASS Ten-Month Report. From Warp-drive studies to Skinwalker Ranch data...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A bit of an oldie but GOD DAMN does this have A LOT...Mention of Skinwalker Ranch in Utah as a “possible laboratory for studying o...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/par9t6/a_bit_of_an_oldie_but_god_damn_does_this_have_a/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A bit of an oldie but GOD DAMN does this have A LOT...Mention of Skinwalker Ranch in Utah as a “possible laboratory for studying o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: what advanced aerospace weapon system  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2023/09/what-advanced-aerospace-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2023/09/what-advanced-aerospace-weapon-system.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS and listed in appendix 1 of &quot;Skinwalkers at the Pentagon.... * The 26-page Utah/Skinwalker Ranch Summaries 2007-2012. * The 140...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2023/09/what-advanced-aerospace-weapon-system.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2023/09/what-advanced-aerospace-weapon-system.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS and listed in appendix 1 of &quot;Skinwalkers at the Pentagon.... * The 26-page Utah/Skinwalker Ranch Summaries 2007-2012. * The 140...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: en.wikisource.org  
    Title: Section 2  
-   Link: <a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — AARO&#x27;s examination of the historical context of UAP investigations from 1945 t...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Report_on_the_Historical_Record_of_U.S._Government_Involvement_with_Unidentified_Anomalous_Phenomena/Volume_1/Section_2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on the Historical Record of US Government...10 May 2024 — AARO&#x27;s examination of the historical context of UAP investigations from 1945 t...</p></details>
    Published: May 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
    Title: baass leak is authentic soviet military unit  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1kjhd8v/baass_leak_is_authentic_soviet_military_unit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kjhd8v/baass_leak_is_authentic_soviet_military_unit/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Leak is Authentic, Soviet Military Unit 73790...It&#x27;s a 149 page doc about the Soviet UAP program obtained by Knapp after the fall...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1kjhd8v/baass_leak_is_authentic_soviet_military_unit/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1kjhd8v/baass_leak_is_authentic_soviet_military_unit/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Leak is Authentic, Soviet Military Unit 73790...It&#x27;s a 149 page doc about the Soviet UAP program obtained by Knapp after the fall...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: serious full baass july 30th 2009 tenmonth report  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...We now have the full 2009 BAASS aka Bigelow Aerospace Advanced Space Studies 472...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...We now have the full 2009 BAASS aka Bigelow Aerospace Advanced Space Studies 472...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportThese reports will be used to inform AARO&#x27;s congressionally directed Historical Record Report. What should I NOT report? P...</p></details>
+   Link:<a href="https://www.aaro.mil/Submit-A-Report/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Submit-A-Report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Submit A ReportThese reports will be used to inform AARO&#x27;s congressionally directed Historical Record Report. What should I NOT report? P...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: aaro.org  
-   Link: <a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ties regarding their rights, and seeks fair treatment by the US...Read more...</p></details>
+   Link:<a href="https://aaro.org/" target="_blank" rel="noopener noreferrer nofollow">https://aaro.org/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ties regarding their rights, and seeks fair treatment by the US...Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: dia.mil  
    Title: FY 2023 FOIA Log  
-   Link: <a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>pdfFeb 17, 2026 — Aerospace Advanced Spaces Studies (BAASS). In relation to the terms in the contract, providing any reports from BAASS i...</p></details>
+   Link:<a href="https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/FY%202023%20FOIA%20Log.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>pdfFeb 17, 2026 — Aerospace Advanced Spaces Studies (BAASS). In relation to the terms in the contract, providing any reports from BAASS i...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO&#x27;s examination of the historical context of UAP inv...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/10</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgPage:AARO Historical Record Report Volume 1 2024.pdf/104 May 2024 — AARO&#x27;s examination of the historical context of UAP inv...</p></details>
    Published: May 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: en.wikisource.org  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfAdvanced Aerospace Weapons System Application Program (AAWSAP) (2009–2...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfAdvanced Aerospace Weapons System Application Program (AAWSAP) (2009–2...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: AAR O's Historical UAP Report  
-   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 1Mar 9, 2024 — AARO&#x27;s examination of the historical context of UAP investigations from 1945 to the...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 1Mar 9, 2024 — AARO&#x27;s examination of the historical context of UAP investigations from 1945 to the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record of U.S...</p></details>
    Published: March 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: ufos-scientificresearch.blogspot.com  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2023/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS and listed in appendix 1 of &quot;Skinwalkers at the Pentagon.... * The 26-page Utah/Skinwalker Ranch Summaries 2007-2012. * The 140...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2023/" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS and listed in appendix 1 of &quot;Skinwalkers at the Pentagon.... * The 26-page Utah/Skinwalker Ranch Summaries 2007-2012. * The 140...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: popularmechanics.com  
    Title: government secret ufo program investigation  
-   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: blueblurrylines.com  
    Title: the pentagon ufo money trail  
-   Link: <a href="https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2020 — Skinwalker Ranch promoters claim that during this visit the DIA scientist had a paranormal encounter that no one else prese...</p></details>
+   Link:<a href="https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html" target="_blank" rel="noopener noreferrer nofollow">https://www.blueblurrylines.com/2020/04/the-pentagon-ufo-money-trail.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2020 — Skinwalker Ranch promoters claim that during this visit the DIA scientist had a paranormal encounter that no one else prese...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: documents2.theblackvault.com  
    Title: The Black Vault  
-   Link: <a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Report on BAASS UAP Analysis CapabilitiesJun 24, 2025 — The purpose of this report is to summarize the field data collection, in...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/baass/Tic_Tac_Full_Report1.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Summary Report on BAASS UAP Analysis CapabilitiesJun 24, 2025 — The purpose of this report is to summarize the field data collection, in...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoAn AARO interviewee claimed in a thirdhand account that an organization was in pos...</p></details>
 
 ### Additional References
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An anonymous Electrical Engineer has released BAASS...A former DoD black project engineer, now terminally ill, revealed that the Tic Tac...</p></details>
+   Link:<a href="https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/marssocietyscandinavia/posts/an-anonymous-electrical-engineer-has-released-baass-documents-on-reddit-a-former/1143499904488562/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An anonymous Electrical Engineer has released BAASS...A former DoD black project engineer, now terminally ill, revealed that the Tic Tac...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>George Knapp just released an important document....The recent BAASS ten-month report (2009) explicitly states that “during the early 19...</p></details>
+   Link:<a href="https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>George Knapp just released an important document....The recent BAASS ten-month report (2009) explicitly states that “during the early 19...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: nypost.com  
-   Link: <a href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</p></details>
+   Link:<a href="https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/" target="_blank" rel="noopener noreferrer nofollow">https://nypost.com/2024/03/08/posts-bombshell-report-about-alien-life-on-earth-being-false-confirmed-after-us-gov-spent-millions-funding-search-pentagon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This conclusion follows decades of investigation and millions of dollars spent, beginning in 2008 with the $22 million Advanced Aerospace...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: The UFO Lie: Shocking truth of Pentagon AAWSAP program | The Basement Office  
-   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The video featuring Colm A. Kelleher, the deputy administrator of BAASS during the contract period, provides direct contextual background...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The video featuring Colm A. Kelleher, the deputy administrator of BAASS during the contract period, provides direct contextual background...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
    Title: UF O true believers from the Pentagon explored the fringes  
-   Link: <a href="https://www.facebook.com/WSJ/posts/ufo-true-believers-from-the-pentagon-explored-the-fringes-of-science-from-psychi/1098637562122840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/ufo-true-believers-from-the-pentagon-explored-the-fringes-of-science-from-psychi/1098637562122840/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch. Written by two program insiders and a respected journalist, Skinwalkers at the Pentagon comes to a conclusion that has...</p></details>
+   Link:<a href="https://www.facebook.com/WSJ/posts/ufo-true-believers-from-the-pentagon-explored-the-fringes-of-science-from-psychi/1098637562122840/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/WSJ/posts/ufo-true-believers-from-the-pentagon-explored-the-fringes-of-science-from-psychi/1098637562122840/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch. Written by two program insiders and a respected journalist, Skinwalkers at the Pentagon comes to a conclusion that has...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: academia.edu  
    Title: Silhouette of an Experience: Confronting Epistemological  
-   Link: <a href="https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Project Manager): AAWSAP BAASS was not AATIP. The AATIP moniker... Skinwalker Ranch unmasked a previously hidden risk of working o...</p></details>
+   Link:<a href="https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/100238245/Silhouette_of_an_Experience_Confronting_Epistemological_Marginalization_and_the_Incorporation_of_Paranormal_Phenomena_in_Religious_Studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>BAASS Project Manager): AAWSAP BAASS was not AATIP. The AATIP moniker... Skinwalker Ranch unmasked a previously hidden risk of working o...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: docs.house.gov  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — the findings of AARO&#x27;s Historical Record Report Volume I, available on www...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...Nov 13, 2024 — the findings of AARO&#x27;s Historical Record Report Volume I, available on www...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: oversight.house.gov  
    Title: George Knapp Written Testimony  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2025 — BAASS/AAWSAP also produced more than 100 highly detailed papers focusing on different issues and questions, including studies o...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2025/09/George-Knapp-Written-Testimony.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>9, 2025 — BAASS/AAWSAP also produced more than 100 highly detailed papers focusing on different issues and questions, including studies o...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: 315aw.afrc.af.mil  
    Title: dod examining unidentified anomalous phenomena  
-   Link: <a href="https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous PhenomenaNov 14, 2024 — AARO has successfully resolved hundreds of cases in its holdings to commonplace...</p></details>
+   Link:<a href="https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.315aw.afrc.af.mil/News/Article-Display/Article/3966012/dod-examining-unidentified-anomalous-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Examining Unidentified Anomalous PhenomenaNov 14, 2024 — AARO has successfully resolved hundreds of cases in its holdings to commonplace...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: esd.whs.mil  
    Title: 21 F 0299 UAP The Debrief Emails 12 2020  
-   Link: <a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) SentAug 14, 2020 — Recently, I was allowed to examine a &quot;10 Month Report&quot; produced in 2009 b...</p></details>
+   Link:<a href="https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.esd.whs.mil/Portals/54/Documents/FOID/Reading%20Room/UFOsandUAPs/21-F-0299%20_UAP_The_Debrief_Emails_12-2020.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>whs.milGough, Susan L (Sue) CIV OSD PA (USA) SentAug 14, 2020 — Recently, I was allowed to examine a &quot;10 Month Report&quot; produced in 2009 b...</p></details>

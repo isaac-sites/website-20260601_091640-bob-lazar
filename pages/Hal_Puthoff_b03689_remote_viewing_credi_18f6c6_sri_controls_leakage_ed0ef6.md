@@ -262,260 +262,260 @@ image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_control
 
 ## Introduction
 
-The central sceptical challenge to [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s remote-viewing work at Stanford Research Institute (SRI) is not that the experiments were obviously fraudulent. It is that apparently impressive results may have been produced by ordinary information leakage, subtle cueing and subjective judging rather than any paranormal ability. Critics argued that once those possibilities are taken seriously, the strongest early SRI successes become much less persuasive. Supporters responded that the experiments used shielding procedures and that later work improved the protocols. The dispute matters because it sits at the heart of Puthoff’s credibility problem: whether the SRI results revealed a genuine anomaly, or whether they demonstrated how difficult it is to eliminate hidden clues in experiments that depend heavily on interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIA-RDP79-00999A000200010002-3So we conducted our experiments with sufficient control, utilizing visual, acoustic, and electrical shie...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/292177a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Sensory cues invalidate remote viewing experimentsby D MARKS · 1981 · Cited by 24 — Sensory cues invalidate remote viewing experime...</span></span></span>
+The central sceptical challenge to [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }})’s remote-viewing work at Stanford Research Institute (SRI) is not that the experiments were obviously fraudulent. It is that apparently impressive results may have been produced by ordinary information leakage, subtle cueing and subjective judging rather than any paranormal ability. Critics argued that once those possibilities are taken seriously, the strongest early SRI successes become much less persuasive. Supporters responded that the experiments used shielding procedures and that later work improved the protocols. The dispute matters because it sits at the heart of Puthoff’s credibility problem: whether the SRI results revealed a genuine anomaly, or whether they demonstrated how difficult it is to eliminate hidden clues in experiments that depend heavily on interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">CIA-RDP79-00999A000200010002-3So we conducted our experiments with sufficient control, utilizing visual, acoustic, and electrical shie...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/292177a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Sensory cues invalidate remote viewing experimentsby D MARKS · 1981 · Cited by 24 — Sensory cues invalidate remote viewing experime...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-1-dark.svg" | relative_url }}" alt="Control flaws illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For readers assessing Puthoff’s later role in UFO and UAP debates, this is more than a historical technicality. The argument over [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) became a long-running case study in how extraordinary claims can survive for decades when supporters and sceptics disagree not only about the results, but about whether the experimental controls were ever strong enough to justify those results in the first place. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</span></span></span>
+For readers assessing Puthoff’s later role in UFO and UAP debates, this is more than a historical technicality. The argument over [remote viewing]({{ 'remote-viewing-c5c5e3/' | relative_url }}) became a long-running case study in how extraordinary claims can survive for decades when supporters and sceptics disagree not only about the results, but about whether the experimental controls were ever strong enough to justify those results in the first place.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</span></span></span>
 
 ## How remote-viewing judging worked
 
-Many early SRI remote-viewing experiments did not involve a simple right-or-wrong answer. Instead, a participant would produce notes, sketches or verbal descriptions of a hidden target location. Judges would later compare those transcripts against several possible target sites and decide which matched best. <span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TARRVO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers R</span><span class="citation-popover-snippet">Targ &amp; Harold Puthoff, Remote Viewing of Natural Targetsby R Targ · 1975 · Cited by 8 — The First Decade of Remote Viewing Research and O...</span></span></span>
+Many early SRI remote-viewing experiments did not involve a simple right-or-wrong answer. Instead, a participant would produce notes, sketches or verbal descriptions of a hidden target location. Judges would later compare those transcripts against several possible target sites and decide which matched best.<span class="citation-chip-wrap"><a class="citation-chip" href="https://philpapers.org/rec/TARRVO" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: philpapers.org">[PhilPapers]</a><span class="citation-popover" role="note"><span class="citation-popover-source">philpapers.org</span><span class="citation-popover-title">Phil Papers R</span><span class="citation-popover-snippet">Targ &amp; Harold Puthoff, Remote Viewing of Natural Targetsby R Targ · 1975 · Cited by 8 — The First Decade of Remote Viewing Research and O...</span></span></span>
 
-That judging process became one of the most controversial parts of the programme. Even if a participant produced vague descriptions, a judge might perceive meaningful similarities between a transcript and a target after the fact. A sketch containing references to water, structures, open space or movement could potentially be matched to many locations. The stronger the role played by human interpretation, the more important it became to ensure that judges had absolutely no access to clues about which transcript belonged to which target. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+That judging process became one of the most controversial parts of the programme. Even if a participant produced vague descriptions, a judge might perceive meaningful similarities between a transcript and a target after the fact. A sketch containing references to water, structures, open space or movement could potentially be matched to many locations. The stronger the role played by human interpretation, the more important it became to ensure that judges had absolutely no access to clues about which transcript belonged to which target.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-Sceptics argued that remote viewing created a perfect environment for unconscious pattern-matching. If judges knew anything about target order, dates, previous sessions or contextual details, they might make correct matches without realising they were using ordinary information. In that scenario, apparently successful remote viewing would not require paranormal perception at all. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/292177a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Sensory cues invalidate remote viewing experimentsby D MARKS · 1981 · Cited by 24 — Sensory cues invalidate remote viewing experime...</span></span></span>
+Sceptics argued that remote viewing created a perfect environment for unconscious pattern-matching. If judges knew anything about target order, dates, previous sessions or contextual details, they might make correct matches without realising they were using ordinary information. In that scenario, apparently successful remote viewing would not require paranormal perception at all.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/292177a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Sensory cues invalidate remote viewing experimentsby D MARKS · 1981 · Cited by 24 — Sensory cues invalidate remote viewing experime...</span></span></span>
 
-This distinction became crucial because the SRI studies often reported statistical success rates rather than dramatic single demonstrations. If a small amount of information leakage consistently nudged judges toward the correct target, the resulting statistics could appear impressive while still having an entirely conventional explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+This distinction became crucial because the SRI studies often reported statistical success rates rather than dramatic single demonstrations. If a small amount of information leakage consistently nudged judges toward the correct target, the resulting statistics could appear impressive while still having an entirely conventional explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/JRameUKUBdQ" title="CIA Psychic Investigator - Dr. Ray Hyman" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=JRameUKUBdQ" target="_blank" rel="noopener noreferrer">CIA Psychic Investigator - Dr. Ray Hyman</a></p><p class="youtube-embed-meta">Channel: Holy Koolaid &middot; Views: 120.3K &middot; Uploaded: August 2019 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=JRameUKUBdQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=JRameUKUBdQ">Open on YouTube</a></p></div></div></div>
 
 ## Marks and Kammann's cueing criticism
 
-The best-known attack on the SRI evidence came from psychologists David Marks and Richard Kammann. After failing to reproduce the claimed effects, they examined how the original judging process worked and argued that the transcripts contained unintended clues revealing target order. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+The best-known attack on the SRI evidence came from psychologists David Marks and Richard Kammann. After failing to reproduce the claimed effects, they examined how the original judging process worked and argued that the transcripts contained unintended clues revealing target order.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-Their criticism focused on what they called sensory cues or cueing information. According to their analysis, some transcripts contained references that indirectly identified when a target had been visited. Examples reportedly included comments referring to earlier sessions, chronological details, dates on documents or other contextual markers. If a judge could reconstruct the sequence of targets, the matching task became dramatically easier. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+Their criticism focused on what they called sensory cues or cueing information. According to their analysis, some transcripts contained references that indirectly identified when a target had been visited. Examples reportedly included comments referring to earlier sessions, chronological details, dates on documents or other contextual markers. If a judge could reconstruct the sequence of targets, the matching task became dramatically easier.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-The most damaging aspect of the criticism was that Marks claimed he could correctly match transcripts to targets using these clues alone, without any psychic ability and without personally visiting the target sites. The implication was straightforward: if normal information was sufficient to generate successful matches, then the experimental results could not be taken as evidence for remote viewing. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory leakage</span><span class="citation-popover-snippet">Sensory leakage</span></span></span>
+The most damaging aspect of the criticism was that Marks claimed he could correctly match transcripts to targets using these clues alone, without any psychic ability and without personally visiting the target sites. The implication was straightforward: if normal information was sufficient to generate successful matches, then the experimental results could not be taken as evidence for remote viewing.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Sensory leakage</span><span class="citation-popover-snippet">Sensory leakage</span></span></span>
 
-Marks later argued that when cueing information was removed, the apparent effect disappeared. His position was not merely that the experiments were imperfect, but that the imperfections provided a complete conventional explanation for the reported success rates. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+Marks later argued that when cueing information was removed, the apparent effect disappeared. His position was not merely that the experiments were imperfect, but that the imperfections provided a complete conventional explanation for the reported success rates.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-This became one of the most frequently cited sceptical arguments against the entire SRI programme because it targeted the mechanism by which success had been measured. Rather than arguing philosophically against psychic phenomena, Marks argued that the experimental design itself allowed ordinary information to contaminate the results. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+This became one of the most frequently cited sceptical arguments against the entire SRI programme because it targeted the mechanism by which success had been measured. Rather than arguing philosophically against psychic phenomena, Marks argued that the experimental design itself allowed ordinary information to contaminate the results.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-2-dark.svg" | relative_url }}" alt="Control flaws illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Puthoff and his supporters responded
 
-Puthoff and Russell Targ strongly rejected the claim that cueing explained the results. They argued that critics had misunderstood aspects of the protocol and published responses defending the research. In a 1981 rebuttal in *Nature*, they maintained that the experiments contained adequate controls and that the findings could not be reduced to simple sensory leakage. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</span></span></span>
+Puthoff and Russell Targ strongly rejected the claim that cueing explained the results. They argued that critics had misunderstood aspects of the protocol and published responses defending the research. In a 1981 rebuttal in *Nature*, they maintained that the experiments contained adequate controls and that the findings could not be reduced to simple sensory leakage.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</span></span></span>
 
-Supporters also pointed to later re-analyses and subsequent experiments that they believed continued to show above-chance performance. Some researchers sympathetic to remote viewing argued that even after disputed transcripts were excluded, positive statistical patterns remained. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+Supporters also pointed to later re-analyses and subsequent experiments that they believed continued to show above-chance performance. Some researchers sympathetic to remote viewing argued that even after disputed transcripts were excluded, positive statistical patterns remained.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-However, this defence never fully settled the issue. Critics responded that once a protocol has been shown to permit leakage, confidence in the original findings is permanently weakened. The debate therefore shifted away from individual successful sessions and toward a broader methodological question: had the SRI researchers demonstrated a phenomenon, or had they underestimated how easily information can leak into complex experiments? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+However, this defence never fully settled the issue. Critics responded that once a protocol has been shown to permit leakage, confidence in the original findings is permanently weakened. The debate therefore shifted away from individual successful sessions and toward a broader methodological question: had the SRI researchers demonstrated a phenomenon, or had they underestimated how easily information can leak into complex experiments?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-An important feature of the dispute is that it was not merely an argument between believers and sceptics on the fringes of science. The exchanges appeared in major scientific journals, including *Nature*, giving the controversy an unusually visible and formal record. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+An important feature of the dispute is that it was not merely an argument between believers and sceptics on the fringes of science. The exchanges appeared in major scientific journals, including *Nature*, giving the controversy an unusually visible and formal record.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/gsEBf4likiQ" title="Anonymous - Remote Viewing Program of the CIA MKUltra Stargate Project" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=gsEBf4likiQ" target="_blank" rel="noopener noreferrer">Anonymous - Remote Viewing Program of the CIA MKUltra Stargate Project</a></p><p class="youtube-embed-meta">Channel: Anonymous Global &middot; Views: 638 &middot; Uploaded: June 2021 &middot; Length: 1 hour 51 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=gsEBf4likiQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=gsEBf4likiQ">Open on YouTube</a></p></div></div></div>
 
 ## Why ordinary leakage is such a serious challenge
 
-The leakage argument remains powerful because it does not require proving fraud, deception or deliberate misconduct. It only requires showing that participants or judges could have obtained information through normal means without recognising that they had done so. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+The leakage argument remains powerful because it does not require proving fraud, deception or deliberate misconduct. It only requires showing that participants or judges could have obtained information through normal means without recognising that they had done so.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-Psychology provides many examples of people unconsciously using hints, expectations and contextual information. In experimental settings, tiny procedural weaknesses can produce apparently meaningful results. This is especially relevant in remote-viewing research because descriptions are often broad enough to permit multiple interpretations and because judging frequently involves subjective assessment rather than a clear binary outcome. <span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The remote-viewing effect could ap- parently be obtained by anybody and it required no special training or unique abilities...Read more...</span></span></span>
+Psychology provides many examples of people unconsciously using hints, expectations and contextual information. In experimental settings, tiny procedural weaknesses can produce apparently meaningful results. This is especially relevant in remote-viewing research because descriptions are often broad enough to permit multiple interpretations and because judging frequently involves subjective assessment rather than a clear binary outcome.<span class="citation-chip-wrap"><a class="citation-chip" href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cdn.centerforinquiry.org">[Center for Inquiry]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cdn.centerforinquiry.org</span><span class="citation-popover-snippet">The remote-viewing effect could ap- parently be obtained by anybody and it required no special training or unique abilities...Read more...</span></span></span>
 
-The sceptical position therefore does not depend on proving that every successful remote-viewing session was explained by cueing. Instead, it argues that if the controls were not strong enough to exclude cueing, then the claimed paranormal explanation loses much of its evidential force. Extraordinary claims require eliminating ordinary explanations first. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+The sceptical position therefore does not depend on proving that every successful remote-viewing session was explained by cueing. Instead, it argues that if the controls were not strong enough to exclude cueing, then the claimed paranormal explanation loses much of its evidential force. Extraordinary claims require eliminating ordinary explanations first.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-This logic later influenced official reviews of the programme. Even reviewers who acknowledged statistically unusual results often questioned whether methodological weaknesses and experimenter effects had been ruled out sufficiently to justify extraordinary conclusions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of paranormal phenomena; the laboratory experiments.Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMA three-component program involving basic research, operations, and foreign assessment has bee...</span></span></span>
+This logic later influenced official reviews of the programme. Even reviewers who acknowledged statistically unusual results often questioned whether methodological weaknesses and experimenter effects had been ruled out sufficiently to justify extraordinary conclusions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">of paranormal phenomena; the laboratory experiments.Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">AN EVALUATION OF THE REMOTE VIEWING PROGRAMA three-component program involving basic research, operations, and foreign assessment has bee...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-3-dark.svg" | relative_url }}" alt="Control flaws illustration 3" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why control disputes still matter for Puthoff
 
-For evaluating Hal Puthoff specifically, the control controversy is more important than the question of whether remote viewing was ever funded by intelligence agencies. That funding is well documented. The harder question is whether the research produced evidence strong enough to justify the confidence that Puthoff continued to place in it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-snippet">Puthoff and Russell Targ, &quot;Perceptual Augmentation Techniques,&quot; SRI Progress Report No. 3 (31 Oct. 1974) and Final Report (1 Dec. 1975) t...</span></span></span>
+For evaluating Hal Puthoff specifically, the control controversy is more important than the question of whether remote viewing was ever funded by intelligence agencies. That funding is well documented. The harder question is whether the research produced evidence strong enough to justify the confidence that Puthoff continued to place in it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: newdualism.org">[New Dualism Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">newdualism.org</span><span class="citation-popover-snippet">Puthoff and Russell Targ, &quot;Perceptual Augmentation Techniques,&quot; SRI Progress Report No. 3 (31 Oct. 1974) and Final Report (1 Dec. 1975) t...</span></span></span>
 
-Supporters can fairly point out that Puthoff worked on a real government-backed programme, published in major journals and participated in a debate that some statisticians later viewed as more complicated than simple dismissal. The historical record is not one of immediate consensus rejection. Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFollow‐up on the U.S</span><span class="citation-popover-snippet">Central Intelligence Agency&#x27;s (CIA...by Á Escolà‐Gascón · 2023 · Cited by 10 — Reports on the declassified SRI and SAIC experiments were...</span></span></span>
+Supporters can fairly point out that Puthoff worked on a real government-backed programme, published in major journals and participated in a debate that some statisticians later viewed as more complicated than simple dismissal. The historical record is not one of immediate consensus rejection. Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pmc.ncbi.nlm.nih.gov">[PMC]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pmc.ncbi.nlm.nih.gov</span><span class="citation-popover-title">PMCFollow‐up on the U.S</span><span class="citation-popover-snippet">Central Intelligence Agency&#x27;s (CIA...by Á Escolà‐Gascón · 2023 · Cited by 10 — Reports on the declassified SRI and SAIC experiments were...</span></span></span>
 
-Sceptics, however, argue that the cueing controversy exposes a recurring weakness in Puthoff’s public reputation. They contend that he has repeatedly shown a willingness to interpret ambiguous or weakly controlled evidence as support for extraordinary possibilities. From that perspective, the unresolved arguments over information leakage are not a side issue but a warning sign about judgement standards. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
+Sceptics, however, argue that the cueing controversy exposes a recurring weakness in Puthoff’s public reputation. They contend that he has repeatedly shown a willingness to interpret ambiguous or weakly controlled evidence as support for extraordinary possibilities. From that perspective, the unresolved arguments over information leakage are not a side issue but a warning sign about judgement standards.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nature.com">[Nature]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nature.com</span><span class="citation-popover-snippet">Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</span></span></span>
 
-The result is a credibility picture that remains mixed. The SRI work demonstrates that Puthoff operated inside genuine research and intelligence-related programmes rather than inventing a fictional background. Yet the long-running dispute over sensory cues, judging methods and information leakage means that the most famous evidence associated with that work never achieved broad scientific acceptance. For critics of Puthoff, that failure is central. For supporters, it reflects a controversial field that may have been prematurely dismissed. Either way, the argument over controls remains one of the strongest reasons why remote viewing continues to divide assessments of his reliability. CIA 3Nature <span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</span></span></span>
+The result is a credibility picture that remains mixed. The SRI work demonstrates that Puthoff operated inside genuine research and intelligence-related programmes rather than inventing a fictional background. Yet the long-running dispute over sensory cues, judging methods and information leakage means that the most famous evidence associated with that work never achieved broad scientific acceptance. For critics of Puthoff, that failure is central. For supporters, it reflects a controversial field that may have been prematurely dismissed. Either way, the argument over controls remains one of the strongest reasons why remote viewing continues to divide assessments of his reliability. CIA 3Nature<span class="citation-chip-wrap"><a class="citation-chip" href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pubmed.ncbi.nlm.nih.gov">[PubMed]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pubmed.ncbi.nlm.nih.gov</span><span class="citation-popover-snippet">Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/QbY6rT4sFk0" title="How the CIA Fooled Us to Believe in Remote Viewing: SCAM Exposed! | Jeremy Rys" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=QbY6rT4sFk0" target="_blank" rel="noopener noreferrer">How the CIA Fooled Us to Believe in Remote Viewing: SCAM Exposed! | Jeremy Rys</a></p><p class="youtube-embed-meta">Channel: Danny Jones Clips &middot; Views: 7.1K &middot; Uploaded: August 2025 &middot; Length: 8 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=QbY6rT4sFk0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=QbY6rT4sFk0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Could ordinary clues explain the results?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Could ordinary clues explain the results?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly relevant to evaluating cueing, bias and evidential standards.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly relevant to evaluating cueing, bias and evidential standards.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
-        </h4>
-        <p class="fr-book-author">By Jon Ronson</p>
-        <p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
-        <p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Men Who Stare At Goats on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Va3b3kRhvpEC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Men Who Stare At Goats" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Men Who Stare At Goats">The Men Who Stare At Goats</a>
+</h4>
+<p class="fr-book-author">By Jon Ronson</p>
+<p class="fr-book-popularity">Rating: 3.5/5 from 11 Google Books ratings</p>
+<p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Explains how weak controls can create misleading results.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explains how weak controls can create misleading results.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
-        </h4>
-        <p class="fr-book-author">By James Randi</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flim Flam! on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
+</h4>
+<p class="fr-book-author">By James Randi</p>
         
-        <p class="fr-book-desc">Focuses heavily on alternative explanations and control failures.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses heavily on alternative explanations and control failures.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Men+Who+Stare+At+Goats&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Men Who Stare At Goats</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSwEllpy~tK/s-l225.jpg" alt="Listing image for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/SqYAAeSwEllpy~tK/s-l225.jpg" alt="Listing image for Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Remote Viewing Framed Art Print Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/9FkAAOSwuvRnpUv-/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/9FkAAOSwuvRnpUv-/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834"><img src="https://i.ebayimg.com/images/g/i00AAOSw1Nhh~V0N/s-l225.jpg" alt="Listing image for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834"><img src="https://i.ebayimg.com/images/g/i00AAOSw1Nhh~V0N/s-l225.jpg" alt="Listing image for Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">Playstation 4 Gaming Console 3d Smashed View Wall Sticker Poster Decal A834</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/ypoAAOSwutRnpSHX/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster"><img src="https://i.ebayimg.com/images/g/ypoAAOSwutRnpSHX/s-l225.jpg" alt="Listing image for PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">PSIONIC REMOTE VIEWING Wall Art, Psychic Telepathy Medium Empath Meditate Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for remote viewing poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: remote viewing poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=remote+viewing+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-ordinary-clues-explain-the-results-remote-viewing-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="remote viewing poster" data-ebay-reference="could-ordinary-clues-explain-the-results-remote-viewing-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -531,7 +531,7 @@ The result is a credibility picture that remains mixed. The SRI work demonstrate
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -551,7 +551,7 @@ The result is a credibility picture that remains mixed. The SRI work demonstrate
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -583,7 +583,7 @@ The result is a credibility picture that remains mixed. The SRI work demonstrate
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -635,7 +635,7 @@ The result is a credibility picture that remains mixed. The SRI work demonstrate
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -680,7 +680,7 @@ The result is a credibility picture that remains mixed. The SRI work demonstrate
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -721,159 +721,159 @@ The result is a credibility picture that remains mixed. The SRI work demonstrate
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP79-00999A000200010002-3So we conducted our experiments with sufficient control, utilizing visual, acoustic, and electrical shie...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP79-00999A000200010002-3.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>CIA-RDP79-00999A000200010002-3So we conducted our experiments with sufficient control, utilizing visual, acoustic, and electrical shie...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/292177a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/292177a0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory cues invalidate remote viewing experimentsby D MARKS · 1981 · Cited by 24 — Sensory cues invalidate remote viewing experime...</p></details>
+   Link:<a href="https://www.nature.com/articles/292177a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/292177a0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Sensory cues invalidate remote viewing experimentsby D MARKS · 1981 · Cited by 24 — Sensory cues invalidate remote viewing experime...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180005-5.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMUtts and Hyman were asked to prepare independent reports based on their review. In this rev...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>of paranormal phenomena; the laboratory experiments.Read more...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200180006-4.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of paranormal phenomena; the laboratory experiments.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: philpapers.org  
    Title: Phil Papers R  
-   Link: <a href="https://philpapers.org/rec/TARRVO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TARRVO</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Targ &amp; Harold Puthoff, Remote Viewing of Natural Targetsby R Targ · 1975 · Cited by 8 — The First Decade of Remote Viewing Research and O...</p></details>
+   Link:<a href="https://philpapers.org/rec/TARRVO" target="_blank" rel="noopener noreferrer nofollow">https://philpapers.org/rec/TARRVO</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Targ &amp; Harold Puthoff, Remote Viewing of Natural Targetsby R Targ · 1975 · Cited by 8 — The First Decade of Remote Viewing Research and O...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Sensory leakage  
-   Link: <a href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_leakage</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Sensory_leakage" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Sensory_leakage</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nature.com  
-   Link: <a href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/284191a0</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</p></details>
+   Link:<a href="https://www.nature.com/articles/284191a0" target="_blank" rel="noopener noreferrer nofollow">https://www.nature.com/articles/284191a0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information transmission in remote viewing experimentsby CT TART · 1980 · Cited by 55 — TART, C., PUTHOFF, H. &amp; TARG, R. Informatio...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: pmc.ncbi.nlm.nih.gov  
    Title: PMCFollow‐up on the U.S  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Central Intelligence Agency&#x27;s (CIA...by Á Escolà‐Gascón · 2023 · Cited by 10 — Reports on the declassified SRI and SAIC experiments were...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC10275521/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Central Intelligence Agency&#x27;s (CIA...by Á Escolà‐Gascón · 2023 · Cited by 10 — Reports on the declassified SRI and SAIC experiments were...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Remote viewing  
-   Link: <a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Remote_viewing" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Remote_viewing</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Remote viewingRemote viewing; The alleged paranormal ability to perceive a remote or hidden subject without support of the senses. ·...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: Harold E. Puthoff  
-   Link: <a href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harold_E._Puthoff</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Harold E. PuthoffHarold Edward Puthoff (born June 20, 1936), often known as Hal Puthoff, is an American electrical engineer and paraps...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Harold_E._Puthoff" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Harold_E._Puthoff</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Harold E. PuthoffHarold Edward Puthoff (born June 20, 1936), often known as Hal Puthoff, is an American electrical engineer and paraps...</p></details>
    Published: June 20, 1936  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Parapsychology research at SRI  
-   Link: <a href="https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychology research at SRI... Puthoff and Targ&#x27;s 1974 article in the journal Nature. This article described numerous remote viewin...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Parapsychology_research_at_SRI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Parapsychology research at SRI... Puthoff and Targ&#x27;s 1974 article in the journal Nature. This article described numerous remote viewin...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMA three-component program involving basic research, operations, and foreign assessment has bee...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00791r000200180005-5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AN EVALUATION OF THE REMOTE VIEWING PROGRAMA three-component program involving basic research, operations, and foreign assessment has bee...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/quanticaudioyoutube/posts/controlled-laboratory-studies-on-remote-viewing-have-shown-statistically-signifi/1332869352198926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/quanticaudioyoutube/posts/controlled-laboratory-studies-on-remote-viewing-have-shown-statistically-signifi/1332869352198926/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Controlled laboratory studies on remote viewing have shown...Introduction In the 1970s, physicists Russell Targ and Harold Puthoff cond...</p></details>
+   Link:<a href="https://www.facebook.com/quanticaudioyoutube/posts/controlled-laboratory-studies-on-remote-viewing-have-shown-statistically-signifi/1332869352198926/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/quanticaudioyoutube/posts/controlled-laboratory-studies-on-remote-viewing-have-shown-statistically-signifi/1332869352198926/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Controlled laboratory studies on remote viewing have shown...Introduction In the 1970s, physicists Russell Targ and Harold Puthoff cond...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7254336/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7254336/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7254336/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1981 Jul 23;292(5821):388. doi: 10.1038/292388a0. Authors. H Puthoff, R Targ.Read more...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: cdn.centerforinquiry.org  
-   Link: <a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The remote-viewing effect could ap- parently be obtained by anybody and it required no special training or unique abilities...Read more...</p></details>
+   Link:<a href="https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://cdn.centerforinquiry.org/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The remote-viewing effect could ap- parently be obtained by anybody and it required no special training or unique abilities...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: pubmed.ncbi.nlm.nih.gov  
-   Link: <a href="https://pubmed.ncbi.nlm.nih.gov/7242682/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7242682/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1981 Jul 9;292(5819):177. doi: 10.1038/292177a0. Author. D Marks. PMID: 7242682; DOI: 10.1038...Read more...</p></details>
+   Link:<a href="https://pubmed.ncbi.nlm.nih.gov/7242682/" target="_blank" rel="noopener noreferrer nofollow">https://pubmed.ncbi.nlm.nih.gov/7242682/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nature. 1981 Jul 9;292(5819):177. doi: 10.1038/292177a0. Author. D Marks. PMID: 7242682; DOI: 10.1038...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: centerforinquiry.s3.amazonaws.com  
    Title: Remote Viewing Revisitedby DF Marks · Cited by 13 — Marks, D  
-   Link: <a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>F. 1981a. &quot;Sensory Cues Invalidate Remote Viewing Experiments.&quot; Nature. 292:177. 1981b. &quot;The Assessment of Parapsychological Studies on R...</p></details>
+   Link:<a href="https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf" target="_blank" rel="noopener noreferrer nofollow">https://centerforinquiry.s3.amazonaws.com/wp-content/uploads/sites/29/1982/07/22165420/p20.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>F. 1981a. &quot;Sensory Cues Invalidate Remote Viewing Experiments.&quot; Nature. 292:177. 1981b. &quot;The Assessment of Parapsychological Studies on R...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: newdualism.org  
-   Link: <a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Puthoff and Russell Targ, &quot;Perceptual Augmentation Techniques,&quot; SRI Progress Report No. 3 (31 Oct. 1974) and Final Report (1 Dec. 1975) t...</p></details>
+   Link:<a href="https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.newdualism.org/papers/H.Puthoff/CIA-Initiated%20Remote%20Viewing%20At%20Stanford%20Research%20Institute.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Puthoff and Russell Targ, &quot;Perceptual Augmentation Techniques,&quot; SRI Progress Report No. 3 (31 Oct. 1974) and Final Report (1 Dec. 1975) t...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ics.uci.edu  
-   Link: <a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>So even though Hyman had access to this group, he was denied access...Read more...</p></details>
+   Link:<a href="https://www.ics.uci.edu/~jutts/may.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.ics.uci.edu/~jutts/may.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>So even though Hyman had access to this group, he was denied access...Read more...</p></details>
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/yt5emz/hal_puthoff_on_remote_viewing_efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/yt5emz/hal_puthoff_on_remote_viewing_efficacy/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff on remote viewing efficacy: r/UFOsHal claims to have used remote viewing to consistently win on the stock market, creating a...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/yt5emz/hal_puthoff_on_remote_viewing_efficacy/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/yt5emz/hal_puthoff_on_remote_viewing_efficacy/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Hal Puthoff on remote viewing efficacy: r/UFOsHal claims to have used remote viewing to consistently win on the stock market, creating a...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: sixthsensereader.org  
-   Link: <a href="https://sixthsensereader.org/about-the-book/abcderium-index/remote-viewing/" target="_blank" rel="noopener noreferrer nofollow">https://sixthsensereader.org/about-the-book/abcderium-index/remote-viewing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>REMOTE VIEWINGby M Mowbray — Puthoff and Targ&#x27;s initial experiments involved the testing of pre-selected subjects&#x27; (or percipients&#x27;) abil...</p></details>
+   Link:<a href="https://sixthsensereader.org/about-the-book/abcderium-index/remote-viewing/" target="_blank" rel="noopener noreferrer nofollow">https://sixthsensereader.org/about-the-book/abcderium-index/remote-viewing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>REMOTE VIEWINGby M Mowbray — Puthoff and Targ&#x27;s initial experiments involved the testing of pre-selected subjects&#x27; (or percipients&#x27;) abil...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: sk.sagepub.com  
-   Link: <a href="https://sk.sagepub.com/book/mono/download/psychology-and-the-paranormal/chpt/5-remote-viewing-psychic-staring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/book/mono/download/psychology-and-the-paranormal/chpt/5-remote-viewing-psychic-staring.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>and the Paranormal: Exploring Anomalous...A fatal flaw with the original Targ–Puthoff RV series with Pat Price was that the transcripts...</p></details>
+   Link:<a href="https://sk.sagepub.com/book/mono/download/psychology-and-the-paranormal/chpt/5-remote-viewing-psychic-staring.pdf" target="_blank" rel="noopener noreferrer nofollow">https://sk.sagepub.com/book/mono/download/psychology-and-the-paranormal/chpt/5-remote-viewing-psychic-staring.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>and the Paranormal: Exploring Anomalous...A fatal flaw with the original Targ–Puthoff RV series with Pat Price was that the transcripts...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kammann offer criticism of the SRI experiments in &#x27;remote viewing&#x27;, the abil- ity of certain individuals to access...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/profile/Harold-Puthoff/publication/15945437_Rebuttal_of_criticisms_of_remote_viewing_experiments/links/57800d8b08ae01f736e49f90/Rebuttal-of-criticisms-of-remote-viewing-experiments.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kammann offer criticism of the SRI experiments in &#x27;remote viewing&#x27;, the abil- ity of certain individuals to access...Read more...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: rviewer.com  
-   Link: <a href="https://rviewer.com/a-review-of-the-cia-air-report-on-the-star-gate-remote-viewing-program/bologna-on-wry-bread-part-1-of-a-review-of-an-evaluation-of-remote-viewing-research-and-applications/" target="_blank" rel="noopener noreferrer nofollow">https://rviewer.com/a-review-of-the-cia-air-report-on-the-star-gate-remote-viewing-program/bologna-on-wry-bread-part-1-of-a-review-of-an-evaluation-of-remote-viewing-research-and-applications/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Utts and Hyman agreed that the experimental portion of STAR GATE indicated some sort of phenomenon existed, but...Read more...</p></details>
+   Link:<a href="https://rviewer.com/a-review-of-the-cia-air-report-on-the-star-gate-remote-viewing-program/bologna-on-wry-bread-part-1-of-a-review-of-an-evaluation-of-remote-viewing-research-and-applications/" target="_blank" rel="noopener noreferrer nofollow">https://rviewer.com/a-review-of-the-cia-air-report-on-the-star-gate-remote-viewing-program/bologna-on-wry-bread-part-1-of-a-review-of-an-evaluation-of-remote-viewing-research-and-applications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Utts and Hyman agreed that the experimental portion of STAR GATE indicated some sort of phenomenon existed, but...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: davidfmarks.net  
-   Link: <a href="https://davidfmarks.net/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://davidfmarks.net/page/12/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>319 of Nature can be used to invalidate the Pat Price series of remote viewing experiments, he literally...Read more...</p></details>
+   Link:<a href="https://davidfmarks.net/page/12/" target="_blank" rel="noopener noreferrer nofollow">https://davidfmarks.net/page/12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>319 of Nature can be used to invalidate the Pat Price series of remote viewing experiments, he literally...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: theosophical.org  
-   Link: <a href="https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities" target="_blank" rel="noopener noreferrer nofollow">https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>son to accurately describe and experience places and events blocked from ordinary perception.Read more...</p></details>
+   Link:<a href="https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities" target="_blank" rel="noopener noreferrer nofollow">https://www.theosophical.org/publications/quest-magazine/questioning-reality-a-physicists-view-of-psychic-abilities</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>son to accurately describe and experience places and events blocked from ordinary perception.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: scispace.com  
    Title: rebuttal of criticisms of remote viewing experiments 1j3arh0xxi  
-   Link: <a href="https://scispace.com/pdf/rebuttal-of-criticisms-of-remote-viewing-experiments-1j3arh0xxi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/rebuttal-of-criticisms-of-remote-viewing-experiments-1j3arh0xxi.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuttal of criticisms of remote viewing experiments23 Jul 1981 — He claims that sensory cues in the subject-generated RV transcripts pro...</p></details>
+   Link:<a href="https://scispace.com/pdf/rebuttal-of-criticisms-of-remote-viewing-experiments-1j3arh0xxi.pdf" target="_blank" rel="noopener noreferrer nofollow">https://scispace.com/pdf/rebuttal-of-criticisms-of-remote-viewing-experiments-1j3arh0xxi.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Rebuttal of criticisms of remote viewing experiments23 Jul 1981 — He claims that sensory cues in the subject-generated RV transcripts pro...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: researchgate.net  
    Title: 15839349 Information transmission in remote viewing experiments  
-   Link: <a href="https://www.researchgate.net/publication/15839349_Information_transmission_in_remote_viewing_experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15839349_Information_transmission_in_remote_viewing_experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Information transmission in remote viewing experiments27 May 2016 — TARG AND PUTHOFF1-3 have described investigations of an extrasensory...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/15839349_Information_transmission_in_remote_viewing_experiments" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/15839349_Information_transmission_in_remote_viewing_experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Information transmission in remote viewing experiments27 May 2016 — TARG AND PUTHOFF1-3 have described investigations of an extrasensory...</p></details>
    Published: May 2016  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: slideshare.net  
-   Link: <a href="https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>iews with those involved in intelligence gathering operations using...Read more...</p></details>
+   Link:<a href="https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594" target="_blank" rel="noopener noreferrer nofollow">https://www.slideshare.net/slideshow/an-evaluation-of-remote-viewing-research-and-applications-air1995pdf/257460594</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>iews with those involved in intelligence gathering operations using...Read more...</p></details>

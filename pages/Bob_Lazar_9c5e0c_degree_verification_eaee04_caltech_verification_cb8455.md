@@ -256,7 +256,7 @@ image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verifi
 
 ## Introduction
 
-Bob Lazar’s claimed Caltech degree sits at the centre of a larger credibility problem surrounding his educational background. Supporters of Lazar have long argued that missing academic records could be explained by government interference, deliberate erasure, or the extraordinary secrecy surrounding his claims about reverse-engineering non-human technology. The difficulty with that explanation is that Caltech, like most major research universities, has multiple standard channels for confirming attendance, enrolment and [degrees]({{ 'degrees/' | relative_url }}). The issue is therefore not simply that one document cannot be found. It is that no publicly verified Caltech record has emerged despite the existence of formal verification systems designed specifically to confirm academic credentials. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+Bob Lazar’s claimed Caltech degree sits at the centre of a larger credibility problem surrounding his educational background. Supporters of Lazar have long argued that missing academic records could be explained by government interference, deliberate erasure, or the extraordinary secrecy surrounding his claims about reverse-engineering non-human technology. The difficulty with that explanation is that Caltech, like most major research universities, has multiple standard channels for confirming attendance, enrolment and [degrees]({{ 'degrees/' | relative_url }}). The issue is therefore not simply that one document cannot be found. It is that no publicly verified Caltech record has emerged despite the existence of formal verification systems designed specifically to confirm academic credentials.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-1-dark.svg" | relative_url }}" alt="Caltech check illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 Within the broader debate over Bob Lazar, this matters because his alleged Caltech education is part of the qualification story that supports his claim of being selected for highly advanced technical work. If the degree cannot be independently verified, the gap affects how much weight observers place on the rest of his narrative.
@@ -265,38 +265,38 @@ Within the broader debate over Bob Lazar, this matters because his alleged Calte
 
 The simplest version of Lazar’s explanation is that records connected to his background were altered, hidden or removed because of his involvement with classified programmes. That possibility cannot be completely disproved from the outside. Governments have classified information, and administrative records can sometimes be lost or mishandled.
 
-However, Caltech degree verification does not depend on a single filing cabinet or one internal database. The Institute maintains registrar records, transcript services, degree-verification procedures and student-record systems specifically intended to document academic history. Former students can request official transcripts, and third parties can obtain degree verification through authorised channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+However, Caltech degree verification does not depend on a single filing cabinet or one internal database. The Institute maintains registrar records, transcript services, degree-verification procedures and student-record systems specifically intended to document academic history. Former students can request official transcripts, and third parties can obtain degree verification through authorised channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 That does not mean every historical record is instantly public. United States privacy law limits what universities can disclose without permission. But the normal question in Lazar's case is not whether Caltech publishes student files online. It is whether any evidence exists that he attended and graduated from the institution in the way he claimed.
 
-Decades after Lazar first went public, no publicly documented Caltech verification has emerged to support the degree claim. Critics argue that this absence becomes harder to explain as a simple records-access problem because the university's verification structure was designed precisely to establish whether degrees were awarded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+Decades after Lazar first went public, no publicly documented Caltech verification has emerged to support the degree claim. Critics argue that this absence becomes harder to explain as a simple records-access problem because the university's verification structure was designed precisely to establish whether degrees were awarded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4UjqFaQq_7I" title="Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer">Bob Lazar describes alien technology housed at secret S-4 base in Nevada -- Part 5</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 7.0M &middot; Uploaded: November 2019 &middot; Length: 14 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4UjqFaQq_7I" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4UjqFaQq_7I">Open on YouTube</a></p></div></div></div>
 
 ## What Lazar reportedly claimed about Caltech
 
-Lazar has been widely reported as claiming an advanced qualification from Caltech, usually described as a master's-level degree in electronics or electronic technology. The claim became important because it helped explain why he supposedly possessed the expertise needed for work at the alleged S-4 facility near Area 51. <span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – EducationIn this installment we&#x27;ll take a look at the educational background Lazar claims to have, and what, if an...</span></span></span>
+Lazar has been widely reported as claiming an advanced qualification from Caltech, usually described as a master's-level degree in electronics or electronic technology. The claim became important because it helped explain why he supposedly possessed the expertise needed for work at the alleged S-4 facility near Area 51.<span class="citation-chip-wrap"><a class="citation-chip" href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: otherhand.org">[OtherHand]</a><span class="citation-popover" role="note"><span class="citation-popover-source">otherhand.org</span><span class="citation-popover-snippet">Lazar Flaws – EducationIn this installment we&#x27;ll take a look at the educational background Lazar claims to have, and what, if an...</span></span></span>
 
 Unlike a minor biographical detail, the Caltech claim serves a specific purpose within his story. If Lazar was recruited to analyse [propulsion]({{ 'propulsion/' | relative_url }}) systems beyond known human technology, supporters argue that recruiters would likely have wanted someone with unusual scientific or engineering credentials. The Caltech degree therefore functions as part of the justification for his alleged access.
 
-The problem is that investigators examining Lazar's background have consistently reported finding no confirmed Caltech attendance or graduation records. Stanton Friedman, one of the best-known researchers to investigate Lazar's claims, repeatedly argued that the educational record did not support the story being told. Medium <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+The problem is that investigators examining Lazar's background have consistently reported finding no confirmed Caltech attendance or graduation records. Stanton Friedman, one of the best-known researchers to investigate Lazar's claims, repeatedly argued that the educational record did not support the story being told. Medium<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-2-dark.svg" | relative_url }}" alt="Caltech check illustration 2" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## How Caltech degree verification normally works
 
 A useful way to assess the dispute is to look at the mechanisms that actually exist.
 
-Caltech's Registrar's Office acts as the institutional custodian for academic records and provides services covering transcripts, enrolment verification and degree verification. The university also authorises the National Student Clearinghouse, a widely used American credential-verification service, to confirm enrolment and degree information. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+Caltech's Registrar's Office acts as the institutional custodian for academic records and provides services covering transcripts, enrolment verification and degree verification. The university also authorises the National Student Clearinghouse, a widely used American credential-verification service, to confirm enrolment and degree information.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 Typical verification routes include:
 
-* Official academic transcripts requested through the registrar. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/transcripts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[registrar.caltech.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-title">Registrar&#x27;s Office Transcripts</span><span class="citation-popover-snippet">Registrar&#x27;s OfficeTranscripts - Registrar&#x27;s OfficeElectronic transcripts may be ordered online at Transcript Ordering Center for a fee. T...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.ucsc.edu/records-grades-graduation/enrollment-degree-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.ucsc.edu">[&amp; Degree Verification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.ucsc.edu</span><span class="citation-popover-title">enrollment degree verification</span><span class="citation-popover-snippet">&amp; Degree Verification - UCSC Registrar9 Mar 2026 — Request Transcripts, Verifications, and Graduation Documents. Need proof of enrollment...</span></span></span> services handled through the National Student Clearinghouse. * Internal registrar records maintained as part of student academic history. <span class="citation-chip-wrap"><a class="citation-chip" href="https://calarts.edu/provosts-office/registrars-office/student-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calarts.edu">[calarts.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calarts.edu</span><span class="citation-popover-title">Student Records</span><span class="citation-popover-snippet">Registrar&#x27;s OfficeThe Office of the Registrar provides notarization service on CalArts-issued verification letters, diplomas, or transcri...</span></span></span>
+* Official academic transcripts requested through the registrar.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/transcripts" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[registrar.caltech.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-title">Registrar&#x27;s Office Transcripts</span><span class="citation-popover-snippet">Registrar&#x27;s OfficeTranscripts - Registrar&#x27;s OfficeElectronic transcripts may be ordered online at Transcript Ordering Center for a fee. T...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.ucsc.edu/records-grades-graduation/enrollment-degree-verification/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.ucsc.edu">[&amp; Degree Verification]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.ucsc.edu</span><span class="citation-popover-title">enrollment degree verification</span><span class="citation-popover-snippet">&amp; Degree Verification - UCSC Registrar9 Mar 2026 — Request Transcripts, Verifications, and Graduation Documents. Need proof of enrollment...</span></span></span> services handled through the National Student Clearinghouse. * Internal registrar records maintained as part of student academic history.<span class="citation-chip-wrap"><a class="citation-chip" href="https://calarts.edu/provosts-office/registrars-office/student-records" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: calarts.edu">[calarts.edu]</a><span class="citation-popover" role="note"><span class="citation-popover-source">calarts.edu</span><span class="citation-popover-title">Student Records</span><span class="citation-popover-snippet">Registrar&#x27;s OfficeThe Office of the Registrar provides notarization service on CalArts-issued verification letters, diplomas, or transcri...</span></span></span>
 * Diploma replacement and records services for former students.
-* Enrolment verification systems documenting attendance and academic status. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+* Enrolment verification systems documenting attendance and academic status.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 None of these systems guarantees that a member of the public can freely inspect someone's private educational file. What they do mean is that degrees are ordinarily documented through several overlapping administrative processes.
 
-That distinction is important. A sceptic does not need access to every student record ever created. The question is whether any credible evidence has surfaced showing that Lazar obtained the Caltech qualification he described. Critics argue that the answer remains no. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
+That distinction is important. A sceptic does not need access to every student record ever created. The question is whether any credible evidence has surfaced showing that Lazar obtained the Caltech qualification he described. Critics argue that the answer remains no.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/XdN_p5cqoz4" title="Is Bob Lazar Telling the Truth? w/ Here To Chew Bubble Gum" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=XdN_p5cqoz4" target="_blank" rel="noopener noreferrer">Is Bob Lazar Telling the Truth? w/ Here To Chew Bubble Gum</a></p><p class="youtube-embed-meta">Channel: WPRG TV &middot; Views: 1.2K &middot; Uploaded: March 2021 &middot; Length: 10 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=XdN_p5cqoz4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=XdN_p5cqoz4">Open on YouTube</a></p></div></div></div>
 
@@ -306,170 +306,170 @@ The Caltech issue is often presented as a records dispute, but investigators hav
 
 A graduate degree from a highly selective institution normally leaves traces beyond registrar databases. Former students typically have professors, supervisors, classmates, departmental affiliations, research projects, thesis work, commencement records or professional references linked to that period. Even when official records are difficult to access, these secondary indicators often remain visible.
 
-Sceptics argue that Lazar's problem is therefore cumulative rather than administrative. They point not only to the absence of confirmed Caltech records but also to the lack of independently verified academic connections consistent with the educational path he described. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret facility called S4 near Area 51, whe...</span></span></span> One frequently cited example involves Lazar's reference to William Duxler as someone connected to his academic past. According to investigations reported by Stanton Friedman and repeated in later discussions, Duxler was located at Pierce Junior College rather than Caltech. Critics view that as a significant inconsistency because Pierce is a documented part of Lazar's educational history. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Bob Lazar&#x27;s accusations about his education being &quot;erased...January 7, 2024 — He&#x27;s a Pierce Junior College physics professor who n...</span><span class="citation-popover-meta">Published: January 7, 2024</span></span></span>
+Sceptics argue that Lazar's problem is therefore cumulative rather than administrative. They point not only to the absence of confirmed Caltech records but also to the lack of independently verified academic connections consistent with the educational path he described.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">the strange case of bob lazar</span><span class="citation-popover-snippet">23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret facility called S4 near Area 51, whe...</span></span></span> One frequently cited example involves Lazar's reference to William Duxler as someone connected to his academic past. According to investigations reported by Stanton Friedman and repeated in later discussions, Duxler was located at Pierce Junior College rather than Caltech. Critics view that as a significant inconsistency because Pierce is a documented part of Lazar's educational history.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Bob Lazar&#x27;s accusations about his education being &quot;erased...January 7, 2024 — He&#x27;s a Pierce Junior College physics professor who n...</span><span class="citation-popover-meta">Published: January 7, 2024</span></span></span>
 
-Supporters counter that classified programmes could have obscured evidence and that the absence of records is not conclusive proof of fabrication. They also point to aspects of Lazar's Los Alamos connections and the fact that some parts of his background appear genuine. The debate therefore remains active among believers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.co">[The Unexplained Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.co</span><span class="citation-popover-title">bob lazar s4 area 51 evidence</span><span class="citation-popover-snippet">The Unexplained CompanyBob Lazar &amp; S-4: What the Declassified Records ShowIn 1989, Bob Lazar went public in a silhouetted interview on KL...</span></span></span>
+Supporters counter that classified programmes could have obscured evidence and that the absence of records is not conclusive proof of fabrication. They also point to aspects of Lazar's Los Alamos connections and the fact that some parts of his background appear genuine. The debate therefore remains active among believers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: unexplained.co">[The Unexplained Company]</a><span class="citation-popover" role="note"><span class="citation-popover-source">unexplained.co</span><span class="citation-popover-title">bob lazar s4 area 51 evidence</span><span class="citation-popover-snippet">The Unexplained CompanyBob Lazar &amp; S-4: What the Declassified Records ShowIn 1989, Bob Lazar went public in a silhouetted interview on KL...</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-3-dark.svg" | relative_url }}" alt="Caltech check illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_caltech_verification_cb8455-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the unresolved record gap affects credibility
 
 The Caltech dispute matters because it touches a foundational part of Lazar's story rather than a peripheral detail.
 
-If Lazar never attended Caltech, critics argue that one of the key credentials used to establish his technical authority was false. That would raise questions about how he gained credibility as a purported reverse-engineering specialist in the first place. If he did attend and graduate, then decades of unsuccessful verification attempts would require an unusually extensive explanation involving missing records, missing corroboration and the absence of publicly demonstrated proof through standard verification channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+If Lazar never attended Caltech, critics argue that one of the key credentials used to establish his technical authority was false. That would raise questions about how he gained credibility as a purported reverse-engineering specialist in the first place. If he did attend and graduate, then decades of unsuccessful verification attempts would require an unusually extensive explanation involving missing records, missing corroboration and the absence of publicly demonstrated proof through standard verification channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bob Lazar</span><span class="citation-popover-snippet">Bob Lazar</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 The result is not a definitive resolution but a persistent credibility gap. The existence of formal Caltech verification systems does not automatically prove Lazar's claim false. What it does do is narrow one common defence: the idea that the claim remains unverified simply because universities have no practical way to confirm old degrees.
 
-Caltech's registrar infrastructure, transcript services and authorised degree-verification process show that mechanisms exist for documenting and confirming academic credentials. The enduring problem for Lazar is that no publicly verified Caltech degree has emerged through those channels, despite years of scrutiny. For critics, that is one of the strongest reasons the educational portion of his biography remains unsupported. <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
+Caltech's registrar infrastructure, transcript services and authorised degree-verification process show that mechanisms exist for documenting and confirming academic credentials. The enduring problem for Lazar is that no publicly verified Caltech degree has emerged through those channels, despite years of scrutiny. For critics, that is one of the strongest reasons the educational portion of his biography remains unsupported.<span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: registrar.caltech.edu">[Registrar&#x27;s Office]</a><span class="citation-popover" role="note"><span class="citation-popover-source">registrar.caltech.edu</span><span class="citation-popover-snippet">Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/V-bQ2Gkukb0" title="The Success Of ’S4’ Pt. 2 | Mystery Wire" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=V-bQ2Gkukb0" target="_blank" rel="noopener noreferrer">The Success Of ’S4’ Pt. 2 | Mystery Wire</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 31.4K &middot; Uploaded: April 2026 &middot; Length: 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=V-bQ2Gkukb0" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=V-bQ2Gkukb0">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Could a Caltech degree really vanish?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Could a Caltech degree really vanish?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;"><img src="https://i.ebayimg.com/images/g/hAkAAeSw8kxp-VpB/s-l225.jpg" alt="Listing image for The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">The Bob Lazar Story UFO UAP Flying Saucer S4 They&#x27;re Here Facility Poster 27x20&quot;</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary"><img src="https://i.ebayimg.com/images/g/dA0AAeSwMvVpvRXg/s-l225.jpg" alt="Listing image for Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar: Area 51 &amp; Flying Saucers UFO Movie Poster - Intriguing Documentary</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=could-a-caltech-degree-really-vanish-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="could-a-caltech-degree-really-vanish-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -485,7 +485,7 @@ Caltech's registrar infrastructure, transcript services and authorised degree-ve
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -505,7 +505,7 @@ Caltech's registrar infrastructure, transcript services and authorised degree-ve
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -537,7 +537,7 @@ Caltech's registrar infrastructure, transcript services and authorised degree-ve
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -589,7 +589,7 @@ Caltech's registrar infrastructure, transcript services and authorised degree-ve
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -634,7 +634,7 @@ Caltech's registrar infrastructure, transcript services and authorised degree-ve
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -675,220 +675,220 @@ Caltech's registrar infrastructure, transcript services and authorised degree-ve
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: registrar.caltech.edu  
    Title: Registrar's Office Degree Verification  
-   Link: <a href="https://registrar.caltech.edu/records/degree-verification" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/degree-verification</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The National Student Clearinghouse can be contacted at: www.degreeverify.org. 703-742-4200 phone. National...Read more...</p></details>
+   Link:<a href="https://registrar.caltech.edu/records/degree-verification" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/degree-verification</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The National Student Clearinghouse can be contacted at: www.degreeverify.org. 703-742-4200 phone. National...Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeRecordsStudent Records, Transcripts, Diploma Replacement, Enrollment and Degree Verification, Document Fees, Apostille...</p></details>
+   Link:<a href="https://registrar.caltech.edu/records" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeRecordsStudent Records, Transcripts, Diploma Replacement, Enrollment and Degree Verification, Document Fees, Apostille...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeCaltech Registrar&#x27;s OfficeThe Office of the Registrar develops, maintains, and protects the registration and academic r...</p></details>
+   Link:<a href="https://registrar.caltech.edu/" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeCaltech Registrar&#x27;s OfficeThe Office of the Registrar develops, maintains, and protects the registration and academic r...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: registrar.caltech.edu  
    Title: Registrar's Office Transcripts  
-   Link: <a href="https://registrar.caltech.edu/records/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/transcripts</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeTranscripts - Registrar&#x27;s OfficeElectronic transcripts may be ordered online at Transcript Ordering Center for a fee. T...</p></details>
+   Link:<a href="https://registrar.caltech.edu/records/transcripts" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/transcripts</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeTranscripts - Registrar&#x27;s OfficeElectronic transcripts may be ordered online at Transcript Ordering Center for a fee. T...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: otherhand.org  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – EducationIn this installment we&#x27;ll take a look at the educational background Lazar claims to have, and what, if an...</p></details>
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/lazar-flaws-education/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lazar Flaws – EducationIn this installment we&#x27;ll take a look at the educational background Lazar claims to have, and what, if an...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Bob Lazar  
-   Link: <a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bob_Lazar" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bob_Lazar</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</p></details>
+   Link:<a href="https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/stanton-friedmans-articles/stanton-friedman-the-bob-lazar-fraud-357a5f0bf879</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Stanton Friedman: “THE BOB LAZAR FRAUD”Stanton Friedman: “THE BOB LAZAR FRAUD” [rg note: This article has been mirrored from Stanto...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: otherhand.org  
-   Link: <a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-[timeline</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Robert Lazar Timeline(16) Stanton Friedman has also checked with the MIT Registrar&#x27;s office and the Alumni office and has found no ev...</p></details>
+   Link:<a href="https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-[timeline" target="_blank" rel="noopener noreferrer nofollow">https://otherhand.org/home-page/area-51-and-other-strange-places/bluefire-main/bluefire/the-bob-lazar-corner/the-lazar-[timeline</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Robert Lazar Timeline(16) Stanton Friedman has also checked with the MIT Registrar&#x27;s office and the Alumni office and has found no ev...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: registrar.caltech.edu  
    Title: Registrar's Office REGIS  
-   Link: <a href="https://registrar.caltech.edu/current-students/regis" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/current-students/regis</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeREGIS - Registrar&#x27;s Office - CaltechView their unofficial transcripts; Request official transcripts; View midterm and f...</p></details>
+   Link:<a href="https://registrar.caltech.edu/current-students/regis" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/current-students/regis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeREGIS - Registrar&#x27;s Office - CaltechView their unofficial transcripts; Request official transcripts; View midterm and f...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: skeptic.com  
    Title: the strange case of bob lazar  
-   Link: <a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret facility called S4 near Area 51, whe...</p></details>
+   Link:<a href="https://www.skeptic.com/article/the-strange-case-of-bob-lazar/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/the-strange-case-of-bob-lazar/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>23 Apr 2026 — In 1989, Bob Lazar told Las Vegas reporter George Knapp that he had worked at a secret facility called S4 near Area 51, whe...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s accusations about his education being &quot;erased...January 7, 2024 — He&#x27;s a Pierce Junior College physics professor who n...</p></details>
+   Link:<a href="https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/JoeRogan/comments/190vlz2/bob_lazars_accusations_about_his_education_being/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bob Lazar&#x27;s accusations about his education being &quot;erased...January 7, 2024 — He&#x27;s a Pierce Junior College physics professor who n...</p></details>
    Published: January 7, 2024  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: unexplained.co  
    Title: bob lazar s4 area 51 evidence  
-   Link: <a href="https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained CompanyBob Lazar &amp; S-4: What the Declassified Records ShowIn 1989, Bob Lazar went public in a silhouetted interview on KL...</p></details>
+   Link:<a href="https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence" target="_blank" rel="noopener noreferrer nofollow">https://www.unexplained.co/news/bob-lazar-s4-area-51-evidence</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Unexplained CompanyBob Lazar &amp; S-4: What the Declassified Records ShowIn 1989, Bob Lazar went public in a silhouetted interview on KL...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ir mind over the score lol. For me personally I put Bob Lazar...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12hnc3a/a_leaked_document_fully_supports_bob_lazars_story/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ir mind over the score lol. For me personally I put Bob Lazar...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: Believing Bob Lazar  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part One - Educational Background57 votes, 120 comments. I will need to spread this out over two or three different posts as there is a l...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/o003pc/believing_bob_lazar_part_one_educational/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part One - Educational Background57 votes, 120 comments. I will need to spread this out over two or three different posts as there is a l...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1shfkgt/nuclear_physicist_and_ufologist_stanton_friedman/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1shfkgt/nuclear_physicist_and_ufologist_stanton_friedman/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>or discussion related to Unidentified Flying Objects...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1shfkgt/nuclear_physicist_and_ufologist_stanton_friedman/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1shfkgt/nuclear_physicist_and_ufologist_stanton_friedman/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>or discussion related to Unidentified Flying Objects...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
    Title: physicist stanton friedman debates jeremy corbell  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>on...105 votes, 92 comments. In this clip from 2015, Stanton Friedman and Jeremy Corbell debate Bob Lazar&#x27;s claims of having back-engine...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1sp6a2q/physicist_stanton_friedman_debates_jeremy_corbell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>on...105 votes, 92 comments. In this clip from 2015, Stanton Friedman and Jeremy Corbell debate Bob Lazar&#x27;s claims of having back-engine...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/Caltech/comments/17rzkva/degree_verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Caltech/comments/17rzkva/degree_verification/</a>  
+   Link:<a href="https://www.reddit.com/r/Caltech/comments/17rzkva/degree_verification/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/Caltech/comments/17rzkva/degree_verification/</a>  
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s from MIT, a master in electronics from Caltech...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/c3r8ux/stanton_friedman_on_bob_lazars_credibility_and/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s from MIT, a master in electronics from Caltech...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/contact" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/contact</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Us - Registrar&#x27;s Office - CaltechThe Registrar&#x27;s Office is open Monday through Friday from 9:00 am to noon and 1:00 pm to 5:00 pm. Center...</p></details>
+   Link:<a href="https://registrar.caltech.edu/contact" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/contact</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Us - Registrar&#x27;s Office - CaltechThe Registrar&#x27;s Office is open Monday through Friday from 9:00 am to noon and 1:00 pm to 5:00 pm. Center...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/forms" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/forms</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeThe Big Page of Forms. Advising Forms, Document Request Forms, Exchange Program Forms, FERPA Forms, Grade Forms, Gradua...</p></details>
+   Link:<a href="https://registrar.caltech.edu/forms" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/forms</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeThe Big Page of Forms. Advising Forms, Document Request Forms, Exchange Program Forms, FERPA Forms, Grade Forms, Gradua...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/current-students/faq" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/current-students/faq</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Click on the Unofficial Transcript button to view and print your unofficial transcript.Read more...</p></details>
+   Link:<a href="https://registrar.caltech.edu/current-students/faq" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/current-students/faq</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Click on the Unofficial Transcript button to view and print your unofficial transcript.Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/records/ferpa" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/ferpa</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy (FERPA) - Registrar&#x27;s Office - CaltechStudents are allowed access to their educational records as follows: students may inspect t...</p></details>
+   Link:<a href="https://registrar.caltech.edu/records/ferpa" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/ferpa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Privacy (FERPA) - Registrar&#x27;s Office - CaltechStudents are allowed access to their educational records as follows: students may inspect t...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: registrar.caltech.edu  
-   Link: <a href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/fees</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</p></details>
+   Link:<a href="https://registrar.caltech.edu/records/fees" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/records/fees</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s Office - CaltechOfficial Transcripts (for former students) Hardcopy transcripts are sent First Class Mail unless Rush Shippin...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: registrar.caltech.edu  
    Title: current students  
-   Link: <a href="https://registrar.caltech.edu/current-students" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/current-students</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Students - Registrar&#x27;s OfficeDegree Verification · Apostille · Fees · Enrollment Statistics · Student Privacy... Online Tools &amp; Help. Re...</p></details>
+   Link:<a href="https://registrar.caltech.edu/current-students" target="_blank" rel="noopener noreferrer nofollow">https://registrar.caltech.edu/current-students</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Students - Registrar&#x27;s OfficeDegree Verification · Apostille · Fees · Enrollment Statistics · Student Privacy... Online Tools &amp; Help. Re...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: medium.com  
    Title: Everyone Believes Bob Lazar  
-   Link: <a href="https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Here Is Why They Should Not.He reverse-engineered alien spacecraft. He saw nine flying saucers. He worked with [Element 115](&amp;#123;&amp;#123; &#x27;element-115/&#x27; | relative_url &amp;#125;&amp;#125;), a stable supe...</p></details>
+   Link:<a href="https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40missrennie/everyone-believes-bob-lazar-here-is-why-they-should-not-eb041b74854f</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Here Is Why They Should Not.He reverse-engineered alien spacecraft. He saw nine flying saucers. He worked with [Element 115](&amp;#123;&amp;#123; &#x27;element-115/&#x27; | relative_url &amp;#125;&amp;#125;), a stable supe...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: studentclearinghouse.org  
-   Link: <a href="https://www.studentclearinghouse.org/verify/" target="_blank" rel="noopener noreferrer nofollow">https://www.studentclearinghouse.org/verify/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verify Now | National Student ClearinghouseVerify enrollments and degrees 24/7. We are the trusted source for education verification offe...</p></details>
+   Link:<a href="https://www.studentclearinghouse.org/verify/" target="_blank" rel="noopener noreferrer nofollow">https://www.studentclearinghouse.org/verify/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verify Now | National Student ClearinghouseVerify enrollments and degrees 24/7. We are the trusted source for education verification offe...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: x.com  
-   Link: <a href="https://x.com/grok/status/1976988768478674991" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1976988768478674991</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence shows Bob Lazar attended Pierce Junior College...Evidence shows Bob Lazar attended Pierce Junior College (1976-1979), taking el...</p></details>
+   Link:<a href="https://x.com/grok/status/1976988768478674991" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1976988768478674991</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Evidence shows Bob Lazar attended Pierce Junior College...Evidence shows Bob Lazar attended Pierce Junior College (1976-1979), taking el...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: calarts.edu  
    Title: Student Records  
-   Link: <a href="https://calarts.edu/provosts-office/registrars-office/student-records" target="_blank" rel="noopener noreferrer nofollow">https://calarts.edu/provosts-office/registrars-office/student-records</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeThe Office of the Registrar provides notarization service on CalArts-issued verification letters, diplomas, or transcri...</p></details>
+   Link:<a href="https://calarts.edu/provosts-office/registrars-office/student-records" target="_blank" rel="noopener noreferrer nofollow">https://calarts.edu/provosts-office/registrars-office/student-records</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Registrar&#x27;s OfficeThe Office of the Registrar provides notarization service on CalArts-issued verification letters, diplomas, or transcri...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: registrar.ucsc.edu  
    Title: enrollment degree verification  
-   Link: <a href="https://registrar.ucsc.edu/records-grades-graduation/enrollment-degree-verification/" target="_blank" rel="noopener noreferrer nofollow">https://registrar.ucsc.edu/records-grades-graduation/enrollment-degree-verification/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Degree Verification - UCSC Registrar9 Mar 2026 — Request Transcripts, Verifications, and Graduation Documents. Need proof of enrollment...</p></details>
+   Link:<a href="https://registrar.ucsc.edu/records-grades-graduation/enrollment-degree-verification/" target="_blank" rel="noopener noreferrer nofollow">https://registrar.ucsc.edu/records-grades-graduation/enrollment-degree-verification/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&amp; Degree Verification - UCSC Registrar9 Mar 2026 — Request Transcripts, Verifications, and Graduation Documents. Need proof of enrollment...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: registrar.calpoly.edu  
    Title: enrollment verification info  
-   Link: <a href="https://registrar.calpoly.edu/enrollment_verification_info" target="_blank" rel="noopener noreferrer nofollow">https://registrar.calpoly.edu/enrollment_verification_info</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Verification - Office of the Registrar - Cal Poly, San...These verifications allow you to verify the following information: Degree and M...</p></details>
+   Link:<a href="https://registrar.calpoly.edu/enrollment_verification_info" target="_blank" rel="noopener noreferrer nofollow">https://registrar.calpoly.edu/enrollment_verification_info</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Verification - Office of the Registrar - Cal Poly, San...These verifications allow you to verify the following information: Degree and M...</p></details>
 
 ### Additional References
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: fullerton.edu  
-   Link: <a href="https://www.fullerton.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.fullerton.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Achieve Greatness: California State University, FullertonLaunch your career at CSUF, a top public Southern California university. 110 aff...</p></details>
+   Link:<a href="https://www.fullerton.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.fullerton.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Achieve Greatness: California State University, FullertonLaunch your career at CSUF, a top public Southern California university. 110 aff...</p></details>
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: ucop.edu  
-   Link: <a href="https://ucop.edu/alumni-constituent-affairs/services-programs/transcripts-degree-verification/index.html" target="_blank" rel="noopener noreferrer nofollow">https://ucop.edu/alumni-constituent-affairs/services-programs/transcripts-degree-verification/index.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Obtaining transcripts/degree verificationIf you are an employer or other individual trying to verify the degree of a UC alumnus, please u...</p></details>
+   Link:<a href="https://ucop.edu/alumni-constituent-affairs/services-programs/transcripts-degree-verification/index.html" target="_blank" rel="noopener noreferrer nofollow">https://ucop.edu/alumni-constituent-affairs/services-programs/transcripts-degree-verification/index.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Obtaining transcripts/degree verificationIf you are an employer or other individual trying to verify the degree of a UC alumnus, please u...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: cliffsnotes.com  
-   Link: <a href="https://www.cliffsnotes.com/study-notes/21249409" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21249409</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling Bob Lazar: Examining UFO ControversiesBob Lazar and His Claims: An Examination of UFO Controversy Bob Lazar is a name that reso...</p></details>
+   Link:<a href="https://www.cliffsnotes.com/study-notes/21249409" target="_blank" rel="noopener noreferrer nofollow">https://www.cliffsnotes.com/study-notes/21249409</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Unveiling Bob Lazar: Examining UFO ControversiesBob Lazar and His Claims: An Examination of UFO Controversy Bob Lazar is a name that reso...</p></details>
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: facebook.com  
    Title: stanton friedman a respected nuclear physicist has made a bold statement about b  
-   Link: <a href="https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman said all that back in the early &#x27;90s. Yeah, there are some “fuzzy” points about Lazar&#x27;s story, but there also are some...</p></details>
+   Link:<a href="https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/100089933822237/posts/stanton-friedman-a-respected-nuclear-physicist-has-made-a-bold-statement-about-b/965445946463191/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Friedman said all that back in the early &#x27;90s. Yeah, there are some “fuzzy” points about Lazar&#x27;s story, but there also are some...</p></details>
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: gaia.com  
    Title: scientists claim of ufo fuel source verified decades later  
-   Link: <a href="https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Claim of UFO Fuel Source Verified Decades Later9 Jun 2022 — In 1989 Bob Lazar claimed that Element 115 powered antimatter gen...</p></details>
+   Link:<a href="https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/article/scientists-claim-of-ufo-fuel-source-verified-decades-later</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientist&#x27;s Claim of UFO Fuel Source Verified Decades Later9 Jun 2022 — In 1989 Bob Lazar claimed that Element 115 powered antimatter gen...</p></details>
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: ssall.zendesk.com  
    Title: 360041413474 Verification of Attendance and Enrollment  
-   Link: <a href="https://ssall.zendesk.com/hc/en-us/articles/360041413474-Verification-of-Attendance-and-Enrollment" target="_blank" rel="noopener noreferrer nofollow">https://ssall.zendesk.com/hc/en-us/articles/360041413474-Verification-of-Attendance-and-Enrollment</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Attendance and Enrollment3 Feb 2026 — Accessible to currently enrolled students via CalCentral, under the My Academics tab &gt; Academic...</p></details>
+   Link:<a href="https://ssall.zendesk.com/hc/en-us/articles/360041413474-Verification-of-Attendance-and-Enrollment" target="_blank" rel="noopener noreferrer nofollow">https://ssall.zendesk.com/hc/en-us/articles/360041413474-Verification-of-Attendance-and-Enrollment</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Attendance and Enrollment3 Feb 2026 — Accessible to currently enrolled students via CalCentral, under the My Academics tab &gt; Academic...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/672453314/Main-Transcript-Request-California-Institute-of-Technology-California" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/672453314/Main-Transcript-Request-California-Institute-of-Technology-California</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>It requests the student&#x27;s name, other names attended under, signature...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/672453314/Main-Transcript-Request-California-Institute-of-Technology-California" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/672453314/Main-Transcript-Request-California-Institute-of-Technology-California</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>It requests the student&#x27;s name, other names attended under, signature...Read more...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: x.com  
-   Link: <a href="https://x.com/grok/status/1969648979412730131?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1969648979412730131?lang=en</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ass and briefly attended Pierce College. No evidence supports his...Read more...</p></details>
+   Link:<a href="https://x.com/grok/status/1969648979412730131?lang=en" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1969648979412730131?lang=en</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ass and briefly attended Pierce College. No evidence supports his...Read more...</p></details>
 
-39. <a id="endnote-39"></a>
+39.<a id="endnote-39"></a>
    Source: news24.com  
    Title: debunking ufo expert bob lazar part 1 20120824  
-   Link: <a href="https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO &#x27;Expert&#x27; Bob Lazar | Part 124 Aug 2012 — I find the field of UFOlogy exciting and much more of a challenging foe than chris...</p></details>
+   Link:<a href="https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824" target="_blank" rel="noopener noreferrer nofollow">https://www.news24.com/debunking-ufo-expert-bob-lazar-part-1-20120824</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Debunking UFO &#x27;Expert&#x27; Bob Lazar | Part 124 Aug 2012 — I find the field of UFOlogy exciting and much more of a challenging foe than chris...</p></details>
 
-40. <a id="endnote-40"></a>
+40.<a id="endnote-40"></a>
    Source: x.com  
-   Link: <a href="https://x.com/grok/status/1969648979412730131" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1969648979412730131</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ird of his class and briefly attended Pierce College. No evidence...</p></details>
+   Link:<a href="https://x.com/grok/status/1969648979412730131" target="_blank" rel="noopener noreferrer nofollow">https://x.com/grok/status/1969648979412730131</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ird of his class and briefly attended Pierce College. No evidence...</p></details>

@@ -256,14 +256,14 @@ image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wid
 
 ## Introduction
 
-One of the central arguments made by supporters of Colm Kelleher is that AAWSAP — the Advanced Aerospace Weapon System Applications Program — should not be judged solely through the lens of [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}). They argue that public discussion often compresses the programme into a single paranormal property in Utah, when the actual contractor effort managed through Bigelow Aerospace Advanced Space Studies (BAASS) included historical UFO databases, military case reviews, foreign incidents, technical studies and investigations of reported physiological effects linked to UAP encounters. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
+One of the central arguments made by supporters of Colm Kelleher is that AAWSAP — the Advanced Aerospace Weapon System Applications Program — should not be judged solely through the lens of [Skinwalker Ranch]({{ 'skinwalker-0286bd/' | relative_url }}). They argue that public discussion often compresses the programme into a single paranormal property in Utah, when the actual contractor effort managed through Bigelow Aerospace Advanced Space Studies (BAASS) included historical UFO databases, military case reviews, foreign incidents, technical studies and investigations of reported physiological effects linked to UAP encounters.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wider_casewor_0dcc57-Illustration-1-dark.svg" | relative_url }}" alt="Wider Casework illustration 1" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wider_casewor_0dcc57-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wider_casewor_0dcc57-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For critics, that broader scope is real but not necessarily reassuring. They accept that AAWSAP was larger than [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch while arguing that a wider programme does not automatically make its conclusions more reliable. In their view, expanding the case list simply means more material was collected; it does not prove that extraordinary interpretations were justified. The credibility question around Kelleher therefore shifts from "Was AAWSAP only Skinwalker?" to a more difficult question: "Did AAWSAP's wider casework produce evidence that stands up independently of Skinwalker-style claims?" <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+For critics, that broader scope is real but not necessarily reassuring. They accept that AAWSAP was larger than [Skinwalker]({{ 'skinwalker-0286bd/' | relative_url }}) Ranch while arguing that a wider programme does not automatically make its conclusions more reliable. In their view, expanding the case list simply means more material was collected; it does not prove that extraordinary interpretations were justified. The credibility question around Kelleher therefore shifts from "Was AAWSAP only Skinwalker?" to a more difficult question: "Did AAWSAP's wider casework produce evidence that stands up independently of Skinwalker-style claims?"<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 ## Was AAWSAP bigger than Skinwalker?
 
-The documentary record shows that AAWSAP was not structured as a single-site investigation. Defense Intelligence Agency contract records describe a programme that generated numerous research reports, management plans and analytical products. By mid-2009, DIA records stated that 26 detailed research reports had already been delivered, with reviews described as overwhelmingly positive. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
+The documentary record shows that AAWSAP was not structured as a single-site investigation. Defense Intelligence Agency contract records describe a programme that generated numerous research reports, management plans and analytical products. By mid-2009, DIA records stated that 26 detailed research reports had already been delivered, with reviews described as overwhelmingly positive.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
 
 Supporters point to these records because they suggest a larger research architecture than many casual observers assume. Later descriptions from Kelleher, James Lacatski and other programme participants portray AAWSAP as an effort that combined:
 
@@ -274,46 +274,46 @@ Supporters point to these records because they suggest a larger research archite
 * Foreign case collections.
 * Aerospace and advanced technology assessments.
 * Medical and physiological-effect investigations.
-* Field investigations, including Skinwalker Ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+* Field investigations, including Skinwalker Ranch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 </div>
 
-This distinction matters to Kelleher's defenders because they argue that sceptics sometimes attack the programme as though its entire output consisted of stories about strange creatures, poltergeist-like events or alleged "hitchhiker" phenomena at Skinwalker Ranch. They contend that the actual case portfolio was considerably broader. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+This distinction matters to Kelleher's defenders because they argue that sceptics sometimes attack the programme as though its entire output consisted of stories about strange creatures, poltergeist-like events or alleged "hitchhiker" phenomena at Skinwalker Ranch. They contend that the actual case portfolio was considerably broader.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 ## Projects and case streams cited by supporters
 
 ### The CAPELLA database effort
 
-One of the most frequently cited examples is the programme's large data-collection effort, sometimes described by Kelleher as the CAPELLA database. According to Kelleher's public accounts, the database incorporated material from Project Blue Book, foreign government records and international UFO case collections, including material from Brazil, Canada and the United Kingdom. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Colm Kelleher explains that AAWSAP had access to one of...May 25, 2023 — Colm Kelleher explains that AAWSAP had access to one of t...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+One of the most frequently cited examples is the programme's large data-collection effort, sometimes described by Kelleher as the CAPELLA database. According to Kelleher's public accounts, the database incorporated material from Project Blue Book, foreign government records and international UFO case collections, including material from Brazil, Canada and the United Kingdom.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Colm Kelleher explains that AAWSAP had access to one of...May 25, 2023 — Colm Kelleher explains that AAWSAP had access to one of t...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
 Supporters regard this as significant because it moves the discussion away from a single location and toward a large-scale attempt to organise historical reports. In principle, a structured database could allow pattern analysis across decades of sightings rather than relying on isolated anecdotes.
 
-However, much of the database remains inaccessible to independent researchers. As a result, outside observers cannot easily evaluate the quality of case selection, data standards or analytical methods. That limitation prevents the database itself from functioning as publicly verifiable evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+However, much of the database remains inaccessible to independent researchers. As a result, outside observers cannot easily evaluate the quality of case selection, data standards or analytical methods. That limitation prevents the database itself from functioning as publicly verifiable evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 ### Project Colares and Brazilian cases
 
-Kelleher has repeatedly highlighted Brazilian material associated with the 1977 Colares incidents, known in Brazil as Operação Prato. He has stated that AAWSAP obtained extensive investigative files collected by UFO researcher Bob Pratt and treated the cases as important because of alleged physiological effects reported by witnesses. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AAWSAP Document obtained via FOIA discussing the...Skinwalker Ranch is what led to the creation of AATIP/AAWSAP due to the experiences o...</span></span></span>
+Kelleher has repeatedly highlighted Brazilian material associated with the 1977 Colares incidents, known in Brazil as Operação Prato. He has stated that AAWSAP obtained extensive investigative files collected by UFO researcher Bob Pratt and treated the cases as important because of alleged physiological effects reported by witnesses.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AAWSAP Document obtained via FOIA discussing the...Skinwalker Ranch is what led to the creation of AATIP/AAWSAP due to the experiences o...</span></span></span>
 
-Supporters argue that Colares is relevant because it involved large numbers of witnesses, attracted military attention and generated substantial documentation. They see it as evidence that AAWSAP examined historically important international incidents rather than focusing exclusively on American folklore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">whats actually in the aawsap files the 20082010</span><span class="citation-popover-snippet">What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...Most coverage of Skinwalker leans on the History Channel show or the Sherman fa...</span></span></span>
+Supporters argue that Colares is relevant because it involved large numbers of witnesses, attracted military attention and generated substantial documentation. They see it as evidence that AAWSAP examined historically important international incidents rather than focusing exclusively on American folklore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">whats actually in the aawsap files the 20082010</span><span class="citation-popover-snippet">What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...Most coverage of Skinwalker leans on the History Channel show or the Sherman fa...</span></span></span>
 
-Yet the Colares example also illustrates a recurring problem. While witness reports and military interest are documented, the Brazilian Air Force investigation ultimately did not establish a confirmed exotic cause. The existence of a large case file does not settle what happened. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato</span></span></span>
+Yet the Colares example also illustrates a recurring problem. While witness reports and military interest are documented, the Brazilian Air Force investigation ultimately did not establish a confirmed exotic cause. The existence of a large case file does not settle what happened.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato</span></span></span>
 
 ### Military-site and historical investigations
 
-Supportive accounts of AAWSAP describe projects sometimes referred to as "Northern Tier" investigations, involving historical military cases and reports connected to sensitive installations. Other programme efforts reportedly examined UAP encounters involving defence personnel and aviation witnesses. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+Supportive accounts of AAWSAP describe projects sometimes referred to as "Northern Tier" investigations, involving historical military cases and reports connected to sensitive installations. Other programme efforts reportedly examined UAP encounters involving defence personnel and aviation witnesses.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 This category is especially important to Kelleher's supporters because military-related reports generally carry more weight in public debates than civilian paranormal stories. A radar incident, pilot report or military security case is often seen as more valuable evidence than a purely anecdotal account.
 
-From that perspective, AAWSAP's attention to military cases makes the programme appear closer to a conventional intelligence-analysis effort than a paranormal research project. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+From that perspective, AAWSAP's attention to military cases makes the programme appear closer to a conventional intelligence-analysis effort than a paranormal research project.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 <img src="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wider_casewor_0dcc57-Illustration-2-dark.svg" | relative_url }}" alt="Wider Casework illustration 2" data-theme-src-dark="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wider_casewor_0dcc57-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_aawsap_wider_casewor_0dcc57-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ### Technical and aerospace studies
 
-Another frequently overlooked component was the production of technical reports, sometimes called DIRDs (Defense Intelligence Reference [Documents]({{ 'documents/' | relative_url }})). These covered advanced aerospace concepts, propulsion theories and future technologies. DIA records confirm that large numbers of such reports were produced under the contract. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
+Another frequently overlooked component was the production of technical reports, sometimes called DIRDs (Defense Intelligence Reference [Documents]({{ 'documents/' | relative_url }})). These covered advanced aerospace concepts, propulsion theories and future technologies. DIA records confirm that large numbers of such reports were produced under the contract.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
 
 Supporters argue that this technical output demonstrates that AAWSAP was not merely collecting UFO stories. It also funded theoretical studies aimed at understanding future aerospace capabilities and potential threats.
 
-Critics respond that producing technical papers is not the same as validating UFO claims. Many of the concepts explored remained speculative, and the existence of a report does not mean the underlying ideas proved workable. <span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">The Feds Spent $22 Million Researching Invisibility Cloaks</span><span class="citation-popover-snippet">April 20, 2022 — 20 Apr 2022 — Though the existence of the AAWSAP and the AATIP has been known for years, the newly-publicized details of...</span><span class="citation-popover-meta">Published: April 20, 2022</span></span></span>
+Critics respond that producing technical papers is not the same as validating UFO claims. Many of the concepts explored remained speculative, and the existence of a report does not mean the underlying ideas proved workable.<span class="citation-chip-wrap"><a class="citation-chip" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">The Feds Spent $22 Million Researching Invisibility Cloaks</span><span class="citation-popover-snippet">April 20, 2022 — 20 Apr 2022 — Though the existence of the AAWSAP and the AATIP has been known for years, the newly-publicized details of...</span><span class="citation-popover-meta">Published: April 20, 2022</span></span></span>
 
 ## Why breadth can look like credibility
 
@@ -321,13 +321,13 @@ For Kelleher's defenders, the strongest credibility argument is not that AAWSAP 
 
 Several factors contribute to that perception:
 
-**Multiple data streams.** AAWSAP reportedly combined witness reports, military cases, historical archives, foreign investigations and technical studies instead of relying on one source category. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+**Multiple data streams.** AAWSAP reportedly combined witness reports, military cases, historical archives, foreign investigations and technical studies instead of relying on one source category.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
-**Documented government oversight.** DIA records confirm that the programme generated substantial [deliverables]({{ 'deliverables/' | relative_url }}) and maintained a formal contract structure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
+**Documented government oversight.** DIA records confirm that the programme generated substantial [deliverables]({{ 'deliverables/' | relative_url }}) and maintained a formal contract structure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
 
-**International scope.** Cases from Brazil and other countries suggest the programme was not restricted to a single American narrative. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Colm Kelleher explains that AAWSAP had access to one of...May 25, 2023 — Colm Kelleher explains that AAWSAP had access to one of t...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
+**International scope.** Cases from Brazil and other countries suggest the programme was not restricted to a single American narrative.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Colm Kelleher explains that AAWSAP had access to one of...May 25, 2023 — Colm Kelleher explains that AAWSAP had access to one of t...</span><span class="citation-popover-meta">Published: May 25, 2023</span></span></span>
 
-**Interest in measurable effects.** Kelleher often emphasised reported medical or physiological consequences associated with some cases, arguing that such reports deserved scientific investigation rather than dismissal. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AAWSAP Document obtained via FOIA discussing the...Skinwalker Ranch is what led to the creation of AATIP/AAWSAP due to the experiences o...</span></span></span>
+**Interest in measurable effects.** Kelleher often emphasised reported medical or physiological consequences associated with some cases, arguing that such reports deserved scientific investigation rather than dismissal.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AAWSAP Document obtained via FOIA discussing the...Skinwalker Ranch is what led to the creation of AATIP/AAWSAP due to the experiences o...</span></span></span>
 
 Taken together, supporters argue that these features make Kelleher appear more credible than a typical UFO author whose claims rest mainly on stories, rumours or personal beliefs.
 
@@ -336,215 +336,215 @@ Taken together, supporters argue that these features make Kelleher appear more c
 
 The strongest sceptical response is straightforward: a larger archive is not the same thing as stronger evidence.
 
-AAWSAP's broader portfolio demonstrates that the programme collected a great deal of material. It does not demonstrate that the material established the existence of non-human intelligence, advanced unknown technology or paranormal forces. The distinction is crucial. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — If, on the other hand, these documents reveille that AAWSAP/AATIP w...</span></span></span>
+AAWSAP's broader portfolio demonstrates that the programme collected a great deal of material. It does not demonstrate that the material established the existence of non-human intelligence, advanced unknown technology or paranormal forces. The distinction is crucial.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — If, on the other hand, these documents reveille that AAWSAP/AATIP w...</span></span></span>
 
 Critics raise several specific objections.
 
-First, many of the most frequently cited cases remain dependent on witness testimony rather than publicly available physical evidence. A large number of reports can show that people experienced something unusual without proving what caused it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato</span></span></span>
+First, many of the most frequently cited cases remain dependent on witness testimony rather than publicly available physical evidence. A large number of reports can show that people experienced something unusual without proving what caused it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Operação Prato</span><span class="citation-popover-snippet">Operação Prato</span></span></span>
 
-Second, much of the underlying AAWSAP archive is unavailable for independent examination. Supporters often reference databases, reports and case files that outsiders cannot fully inspect. That creates a recurring verification problem. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+Second, much of the underlying AAWSAP archive is unavailable for independent examination. Supporters often reference databases, reports and case files that outsiders cannot fully inspect. That creates a recurring verification problem.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
-Third, sceptics argue that AAWSAP's willingness to mix conventional UAP investigations with claims involving paranormal phenomena, alleged hitchhiker effects and other highly controversial subjects weakened the programme's credibility. Even if some military UAP cases were worthy of study, critics contend that combining them with more speculative material made it harder to separate strong evidence from weak evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — If, on the other hand, these documents reveille that AAWSAP/AATIP w...</span></span></span>
+Third, sceptics argue that AAWSAP's willingness to mix conventional UAP investigations with claims involving paranormal phenomena, alleged hitchhiker effects and other highly controversial subjects weakened the programme's credibility. Even if some military UAP cases were worthy of study, critics contend that combining them with more speculative material made it harder to separate strong evidence from weak evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-snippet">Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — If, on the other hand, these documents reveille that AAWSAP/AATIP w...</span></span></span>
 
-Finally, the existence of government funding is often overstated in public [debate]({{ 'debate-020cbc/' | relative_url }}). DIA records confirm that work was commissioned and delivered. They do not confirm that the programme's most extraordinary interpretations were accepted by the government or supported by conclusive evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
+Finally, the existence of government funding is often overstated in public [debate]({{ 'debate-020cbc/' | relative_url }}). DIA records confirm that work was commissioned and delivered. They do not confirm that the programme's most extraordinary interpretations were accepted by the government or supported by conclusive evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
 
 ## What this means for Kelleher's credibility
 
-AAWSAP's wider casework is one of the stronger arguments available to Kelleher's supporters because it demonstrates that his public narrative is not built entirely around Skinwalker Ranch. Documentary records, contract files and later participant accounts all indicate that the programme investigated a broader range of UAP-related material than many casual observers realise. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
+AAWSAP's wider casework is one of the stronger arguments available to Kelleher's supporters because it demonstrates that his public narrative is not built entirely around Skinwalker Ranch. Documentary records, contract files and later participant accounts all indicate that the programme investigated a broader range of UAP-related material than many casual observers realise.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span>
 
 At the same time, the broader scope does not resolve the central credibility dispute. It shows that AAWSAP collected more data, more reports and more case histories than the Skinwalker-focused version of the story suggests. It does not by itself show that the programme verified exotic explanations for those cases.
 
-As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kelleher participated in a substantial investigative effort. It does not automatically strengthen every conclusion that Kelleher and other AAWSAP participants later drew from that effort. The debate therefore remains centred not on whether AAWSAP was bigger than Skinwalker Ranch, but on whether its most significant findings can be independently demonstrated outside the programme's own accounts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
+As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kelleher participated in a substantial investigative effort. It does not automatically strengthen every conclusion that Kelleher and other AAWSAP participants later drew from that effort. The debate therefore remains centred not on whether AAWSAP was bigger than Skinwalker Ranch, but on whether its most significant findings can be independently demonstrated outside the programme's own accounts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</span><span class="citation-popover-meta">Published: March 3, 2022</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Was AAWSAP bigger than Skinwalker?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Was AAWSAP bigger than Skinwalker?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Provides background to one important AAWSAP-associated case stream.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides background to one important AAWSAP-associated case stream.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
-        </h4>
-        <p class="fr-book-author">By Ross Coulthart</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open In Plain Sight on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=CzvEzgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for In Plain Sight" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
+</h4>
+<p class="fr-book-author">By Ross Coulthart</p>
         
-        <p class="fr-book-desc">Covers claims of hidden programmes and institutional secrecy.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Covers claims of hidden programmes and institutional secrecy.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Provides wider UAP case context beyond Skinwalker.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Provides wider UAP case context beyond Skinwalker.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Directly argues that AAWSAP covered far more than Skinwalker Ranch.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly argues that AAWSAP covered far more than Skinwalker Ranch.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=In+Plain+Sight&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">In Plain Sight</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-aawsap-bigger-than-skinwalker-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="was-aawsap-bigger-than-skinwalker-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -560,7 +560,7 @@ As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kell
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -580,7 +580,7 @@ As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kell
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -612,7 +612,7 @@ As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kell
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -664,7 +664,7 @@ As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kell
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -709,7 +709,7 @@ As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kell
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -750,111 +750,111 @@ As a result, AAWSAP's wider portfolio tends to strengthen the argument that Kell
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170018/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAdvanced Aerospace Weapon System Applications ContractMarch 3, 2022 — 26 detailed research reports (twice mini...</p></details>
    Published: March 3, 2022  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: academia.edu  
    Title: On the AAWSAP [AATIP Confusion](&#123;&#123; 'aatip-confusion-b857ff/' | relative_url &#125;&#125;)  
-   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</p></details>
+   Link:<a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — Initially planned as a raw review of Skinwalkers at the Pentagon (Lacatski, Kell...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — If, on the other hand, these documents reveille that AAWSAP/AATIP w...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — If, on the other hand, these documents reveille that AAWSAP/AATIP w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher explains that AAWSAP had access to one of...May 25, 2023 — Colm Kelleher explains that AAWSAP had access to one of t...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13r1hb5/colm_kelleher_explains_that_aawsap_had_access_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colm Kelleher explains that AAWSAP had access to one of...May 25, 2023 — Colm Kelleher explains that AAWSAP had access to one of t...</p></details>
    Published: May 25, 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Operação Prato  
-   Link: <a href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Opera%C3%A7%C3%A3o_Prato</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reason.com  
    Title: The Feds Spent $22 Million Researching Invisibility Cloaks  
-   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2022 — 20 Apr 2022 — Though the existence of the AAWSAP and the AATIP has been known for years, the newly-publicized details of...</p></details>
+   Link:<a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 20, 2022 — 20 Apr 2022 — Though the existence of the AAWSAP and the AATIP has been known for years, the newly-publicized details of...</p></details>
    Published: April 20, 2022  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...Skinwalker Ranch is what led to the creation of AATIP/AAWSAP due to the experiences o...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...Skinwalker Ranch is what led to the creation of AATIP/AAWSAP due to the experiences o...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: whats actually in the aawsap files the 20082010  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...Most coverage of Skinwalker leans on the History Channel show or the Sherman fa...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...Most coverage of Skinwalker leans on the History Channel show or the Sherman fa...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: archive.org  
    Title: Luis Elizondo, Imminent Inside the Pentagon s Hunt for UFOs  
-   Link: <a href="https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, Imminent Inside the Pentagon...16 May 2024 — Astonishing, because Lue presented incontrovertible evidence that strange, u...</p></details>
+   Link:<a href="https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/luis-elizondo-imminent-inside-the-pentagon-s-hunt-for-ufos/Luis%20Elizondo%2C%20Imminent%20Inside%20the%20Pentagon%20s%20Hunt%20for%20UFOs.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Luis Elizondo, Imminent Inside the Pentagon...16 May 2024 — Astonishing, because Lue presented incontrovertible evidence that strange, u...</p></details>
    Published: May 2024  
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Above The Norm News&#x27;s postCurt Collins and I unfolded the truth about how the UFO organization MUFON did much of the UFO investigative wo...</p></details>
+   Link:<a href="https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Abovethenormnews/posts/-update-full-report-now-livewe-reviewed-the-full-set-of-leaked-baass-documents-p/668208719346125/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Above The Norm News&#x27;s postCurt Collins and I unfolded the truth about how the UFO organization MUFON did much of the UFO investigative wo...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: globalplayer.com  
-   Link: <a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastBringing you up to date news, interviews and guests from around the world of UFOs, UAP &amp; connected phenomena Hosted by An...</p></details>
+   Link:<a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastBringing you up to date news, interviews and guests from around the world of UFOs, UAP &amp; connected phenomena Hosted by An...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program and is an attempt to correct the record and present scientifi...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher, who oversaw the day-to-day operations of the AAWSAP BAASS program and is an attempt to correct the record and present scientifi...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello CatalanoUFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoSkinwalker Ranch, previously known as Sherman Ranch, is a propert...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Marcello CatalanoUFOs - Excerpts from AARO&#x27;s reports - Marcello CatalanoSkinwalker Ranch, previously known as Sherman Ranch, is a propert...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: facebook.com  
    Title: TRINIT Y Might there have been a UFO crash/retrieval prior  
-   Link: <a href="https://www.facebook.com/ToolMusic/posts/trinity-might-there-have-been-a-ufo-crashretrieval-prior-to-roswell-that-occurre/377729267058283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ToolMusic/posts/trinity-might-there-have-been-a-ufo-crashretrieval-prior-to-roswell-that-occurre/377729267058283/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Colm was appointed the program manager AAWSAP &amp; NIDS for the Pentagon 1996 to 2004. With about 50 full-time high profile scientists...Re...</p></details>
+   Link:<a href="https://www.facebook.com/ToolMusic/posts/trinity-might-there-have-been-a-ufo-crashretrieval-prior-to-roswell-that-occurre/377729267058283/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/ToolMusic/posts/trinity-might-there-have-been-a-ufo-crashretrieval-prior-to-roswell-that-occurre/377729267058283/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Colm was appointed the program manager AAWSAP &amp; NIDS for the Pentagon 1996 to 2004. With about 50 full-time high profile scientists...Re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: zenodo.org  
-   Link: <a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>P emits signatures that are observable through both unaided human...Read more...</p></details>
+   Link:<a href="https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1" target="_blank" rel="noopener noreferrer nofollow">https://zenodo.org/records/10982656/files/%281%29%20Detectable_Signatures_of_UAP_Dissertation.pdf?download=1</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>P emits signatures that are observable through both unaided human...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ses, physical evidence, more detailed descriptions, no...Read more...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/405414715_UFO_Curated_Landmark_Cases_and_Analysis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ses, physical evidence, more detailed descriptions, no...Read more...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>WSAP Award to BAASS, Fails to Locate Skinwalker Report...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lesliekean/posts/george-knapp-just-released-an-important-document-this-was-provided-to-us-at-the-/1784913704899692/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WSAP Award to BAASS, Fails to Locate Skinwalker Report...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: Scientific Rigor and Evidence Assessment in Modern Ufology  
-   Link: <a href="https://www.youtube.com/watch?v=93PqQvLz7l4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93PqQvLz7l4</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This UAP investigations seminar is relevant because it features Dr. Colm Kelleher directly discussing his management role at NIDS and BAA...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=93PqQvLz7l4" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=93PqQvLz7l4</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This UAP investigations seminar is relevant because it features Dr. Colm Kelleher directly discussing his management role at NIDS and BAA...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: a timeline for aawsapbaass and beyond  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2022/03/a-timeline-for-aawsapbaass-and-beyond.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2022/03/a-timeline-for-aawsapbaass-and-beyond.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A timeline for AAWSAP/BAASS, and beyond27 Mar 2022 — * 1 October 2010 - BAASS contract extended until 21 December 2010 at no cost to US g...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2022/03/a-timeline-for-aawsapbaass-and-beyond.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2022/03/a-timeline-for-aawsapbaass-and-beyond.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A timeline for AAWSAP/BAASS, and beyond27 Mar 2022 — * 1 October 2010 - BAASS contract extended until 21 December 2010 at no cost to US g...</p></details>
    Published: October 2010

@@ -259,11 +259,11 @@ image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_tv_vs_rep
 The central credibility problem around [Travis Taylor]({{ 'how-credible-is-travis-taylor-on-uaps/' | relative_url }})’s work on *The Secret of [Skinwalker Ranch]({{ 'skinwalker-4c0f0b/' | relative_url }})* is not whether unusual things happened on camera. It is whether those events were documented in a way that allows independent scientists to test, repeat and verify them. That distinction matters because television and science reward different outcomes. Television rewards mystery, dramatic moments and unresolved questions. Science rewards transparent methods, complete datasets and repeatable results.
 
 <img src="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_tv_vs_repeatable_sci_96d1f1-Illustration-1-dark.svg" | relative_url }}" alt="TV vs science illustration 1" data-theme-src-dark="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_tv_vs_repeatable_sci_96d1f1-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_tv_vs_repeatable_sci_96d1f1-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Taylor’s [supporters]({{ 'supporters-58c2df/' | relative_url }}) often point to his engineering background, the use of instruments, balloon launches, rocket tests and electromagnetic measurements as evidence that the ranch investigation is more serious than typical paranormal entertainment. Critics respond that scientific-looking equipment is not the same thing as scientific proof. The dispute is less about whether instruments were used and more about whether the public has enough access to the underlying data to judge the [claims]({{ 'claims/' | relative_url }}) independently. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</span></span></span>
+Taylor’s [supporters]({{ 'supporters-58c2df/' | relative_url }}) often point to his engineering background, the use of instruments, balloon launches, rocket tests and electromagnetic measurements as evidence that the ranch investigation is more serious than typical paranormal entertainment. Critics respond that scientific-looking equipment is not the same thing as scientific proof. The dispute is less about whether instruments were used and more about whether the public has enough access to the underlying data to judge the [claims]({{ 'claims/' | relative_url }}) independently.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uah.edu">[UAH]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uah.edu</span><span class="citation-popover-snippet">Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</span></span></span>
 
 ## What the programme calls hard science
 
-One reason [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch stands out in modern UFO television is that it deliberately adopts the language of engineering and field research. Taylor is not presented as a ghost hunter or paranormal enthusiast. The programme repeatedly emphasises his academic qualifications, aerospace work and technical expertise. History Channel promotional material describes him as helping the team apply “hard science” to the mystery, while the University of Alabama in Huntsville has highlighted experiments involving electromagnetic sensors, instrument payloads, balloons and rockets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">Dr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science...Read more...</span></span></span>
+One reason [Skinwalker]({{ 'skinwalker-4c0f0b/' | relative_url }}) Ranch stands out in modern UFO television is that it deliberately adopts the language of engineering and field research. Taylor is not presented as a ghost hunter or paranormal enthusiast. The programme repeatedly emphasises his academic qualifications, aerospace work and technical expertise. History Channel promotional material describes him as helping the team apply “hard science” to the mystery, while the University of Alabama in Huntsville has highlighted experiments involving electromagnetic sensors, instrument payloads, balloons and rockets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.com">[HISTORY]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.com</span><span class="citation-popover-title">Travis Taylor</span><span class="citation-popover-snippet">Dr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science...Read more...</span></span></span>
 
 That creates a different expectation from ordinary reality television. Viewers are not simply being asked whether a strange light looked unusual. They are being shown:
 
@@ -331,7 +331,7 @@ Without that material, independent experts cannot perform the same level of revi
 
 ### Proprietary restrictions
 
-Supporters sometimes argue that data cannot always be released because of ownership issues, contractual restrictions or concerns about intellectual property. Discussions among viewers and researchers have repeatedly pointed to the private ownership structure around the ranch and the television production itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Scientific Publications?: r/skinwalkerranch</span><span class="citation-popover-snippet">Scientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
+Supporters sometimes argue that data cannot always be released because of ownership issues, contractual restrictions or concerns about intellectual property. Discussions among viewers and researchers have repeatedly pointed to the private ownership structure around the ranch and the television production itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Scientific Publications?: r/skinwalkerranch</span><span class="citation-popover-snippet">Scientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</span><span class="citation-popover-meta">Published: May 14, 2024</span></span></span>
 
 That explanation may account for some limits on disclosure. However, it also means the audience is being asked to trust interpretations that cannot easily be verified from outside.
 
@@ -342,7 +342,7 @@ The result is an unusual hybrid: technical investigations conducted within a com
 
 One of the most persistent questions surrounding Skinwalker Ranch is why more of the headline claims have not appeared in conventional scientific literature.
 
-This issue surfaces repeatedly among both [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) and sympathetic viewers. Even some people who enjoy the programme argue that external review would strengthen its credibility. Discussions in scientific and sceptical communities often focus less on the alleged phenomena themselves and more on the absence of independently reviewable publications and datasets. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why not publish in scientific journals?</span><span class="citation-popover-snippet">r/skinwalkerranchI just started watching Secrets of Skinwalker Ranch, and I&#x27;m pretty intrigued. Initially I dismissed Skinwalker Ranch as...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">It would give the show a lot of credibility, unless they</span><span class="citation-popover-snippet">Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
+This issue surfaces repeatedly among both [sceptics]({{ 'sceptics-8407e0/' | relative_url }}) and sympathetic viewers. Even some people who enjoy the programme argue that external review would strengthen its credibility. Discussions in scientific and sceptical communities often focus less on the alleged phenomena themselves and more on the absence of independently reviewable publications and datasets.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Why not publish in scientific journals?</span><span class="citation-popover-snippet">r/skinwalkerranchI just started watching Secrets of Skinwalker Ranch, and I&#x27;m pretty intrigued. Initially I dismissed Skinwalker Ranch as...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">It would give the show a lot of credibility, unless they</span><span class="citation-popover-snippet">Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</span><span class="citation-popover-meta">Published: July 28, 2023</span></span></span>
 
 That criticism does not automatically mean the claims are false.
 
@@ -401,208 +401,208 @@ For readers trying to judge Taylor's credibility rather than the ranch itself, t
 
 A common mistake is to treat two different questions as though they are the same:
 
-* Is Travis Taylor a qualified scientist and engineer?(#endnote-7 "Endnote 7") <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>
+* Is Travis Taylor a qualified scientist and engineer?(#endnote-7 "Endnote 7")<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>
 * Have the Skinwalker Ranch investigations produced publicly verified evidence for extraordinary claims?
 
-The first question is largely answerable through documented education, professional work and technical experience. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>
+The first question is largely answerable through documented education, professional work and technical experience.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Travis S. Taylor</span><span class="citation-popover-snippet">Travis S. Taylor</span></span></span>
 
 The second remains disputed.
 
-Taylor often presents himself as someone whose views shifted after observing events and measurements firsthand. Supporters regard that as evidence that a technically trained investigator encountered data he could not explain. Critics argue that the audience has not been given enough information to determine whether those observations justify the conclusions sometimes implied by the programme. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">And not one that would provide a meaningful return on investment. My motivation in...Read more...</span></span></span>
+Taylor often presents himself as someone whose views shifted after observing events and measurements firsthand. Supporters regard that as evidence that a technically trained investigator encountered data he could not explain. Critics argue that the audience has not been given enough information to determine whether those observations justify the conclusions sometimes implied by the programme.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: history.co.uk">[Sky HISTORY TV channel]</a><span class="citation-popover" role="note"><span class="citation-popover-source">history.co.uk</span><span class="citation-popover-snippet">And not one that would provide a meaningful return on investment. My motivation in...Read more...</span></span></span>
 
 That distinction explains why Skinwalker Ranch remains such a contentious part of his public reputation. The show's experiments look more technical than standard paranormal television, but the evidential record available to outsiders still falls far short of what would normally transform a televised anomaly into an accepted scientific finding.
 
-The credibility stakes therefore hinge less on what appeared in a particular episode and more on whether the underlying observations can eventually survive independent scrutiny. Until that happens, Skinwalker Ranch occupies an unusual middle ground: more instrument-driven than most UFO entertainment, but not yet transparent enough to function as settled science. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/15dyjpf/how_about_a_peer_review_of_the_collected_evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How about a peer review of the collected evidence to dateCan someone who is a skinwalker insider member, please ask why they are no...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I know there are shows that play up findings with drama...</span></span></span>
+The credibility stakes therefore hinge less on what appeared in a particular episode and more on whether the underlying observations can eventually survive independent scrutiny. Until that happens, Skinwalker Ranch occupies an unusual middle ground: more instrument-driven than most UFO entertainment, but not yet transparent enough to function as settled science.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/skinwalkerranch/comments/15dyjpf/how_about_a_peer_review_of_the_collected_evidence/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">How about a peer review of the collected evidence to dateCan someone who is a skinwalker insider member, please ask why they are no...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">I know there are shows that play up findings with drama...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to When does ranch TV become science?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to When does ranch TV become science?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
-        </h4>
-        <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Hunt for the Skinwalker on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=NDCimAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Hunt for the Skinwalker" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
+</h4>
+<p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
         
-        <p class="fr-book-desc">Offers the historical context behind claims later adapted for television.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Offers the historical context behind claims later adapted for television.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
-        </h4>
-        <p class="fr-book-author">By Carl Sagan</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Demon-Haunted World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Yz8Y6KfXf9UC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Demon-Haunted World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
+</h4>
+<p class="fr-book-author">By Carl Sagan</p>
         
-        <p class="fr-book-desc">Directly addresses how science differs from spectacle and anecdote.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Directly addresses how science differs from spectacle and anecdote.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
-        </h4>
-        <p class="fr-book-author">By Diana Walsh Pasulka</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open American Cosmic on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=jtc7swEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for American Cosmic" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
+</h4>
+<p class="fr-book-author">By Diana Walsh Pasulka</p>
         
-        <p class="fr-book-desc">Explores how media, belief and evidence interact in UFO culture.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Explores how media, belief and evidence interact in UFO culture.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Connects televised narratives with broader investigative claims.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Connects televised narratives with broader investigative claims.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Hunt for the Skinwalker</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Demon+Haunted+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Demon Haunted World</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=American+Cosmic&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">American Cosmic</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery"><img src="https://i.ebayimg.com/images/g/ENYAAeSw~adp4DE3/s-l225.jpg" alt="Listing image for Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery"><img src="https://i.ebayimg.com/images/g/ENYAAeSw~adp4DE3/s-l225.jpg" alt="Listing image for Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Keychain Access Key UFO Paranormal Mystery</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet"><img src="https://i.ebayimg.com/images/g/e0EAAeSwWXpoDlnu/s-l225.jpg" alt="Listing image for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet"><img src="https://i.ebayimg.com/images/g/e0EAAeSwWXpoDlnu/s-l225.jpg" alt="Listing image for The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">The Secret of Skinwalker Ranch Mini TV Show Poster Fridge Locker Magnet</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers"><img src="https://i.ebayimg.com/images/g/yj0AAeSw7cFqD11m/s-l225.jpg" alt="Listing image for Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers"><img src="https://i.ebayimg.com/images/g/yj0AAeSw7cFqD11m/s-l225.jpg" alt="Listing image for Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Skinwalker Ranch Paranormal Conspiracy Bubble-free stickers</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson"><img src="https://i.ebayimg.com/images/g/C1AAAOSwMhBmmAoE/s-l225.jpg" alt="Listing image for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search <span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson"><img src="https://i.ebayimg.com/images/g/C1AAAOSwMhBmmAoE/s-l225.jpg" alt="Listing image for Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">Hunt For The Skinwalker #1 Comic BOOM! 2023 Ranch Cryptids Adaptation Thompson</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Skinwalker Ranch collectible">Search<span data-ebay-domain-label>eBay.co.uk</span>: Skinwalker Ranch collectible</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Skinwalker+Ranch+collectible&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-does-ranch-tv-become-science-skinwalker-ranch-collectible&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Skinwalker Ranch collectible" data-ebay-reference="when-does-ranch-tv-become-science-skinwalker-ranch-collectible" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -618,7 +618,7 @@ The credibility stakes therefore hinge less on what appeared in a particular epi
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -638,7 +638,7 @@ The credibility stakes therefore hinge less on what appeared in a particular epi
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -670,7 +670,7 @@ The credibility stakes therefore hinge less on what appeared in a particular epi
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -722,7 +722,7 @@ The credibility stakes therefore hinge less on what appeared in a particular epi
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -767,7 +767,7 @@ The credibility stakes therefore hinge less on what appeared in a particular epi
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -808,165 +808,165 @@ The credibility stakes therefore hinge less on what appeared in a particular epi
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: uah.edu  
-   Link: <a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</p></details>
+   Link:<a href="https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/ahs/departments/interdisciplinary-studies/news-is/15032-uah-scientists-brave-curses-spooky-anomalies-to-unravel-secrets-at-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Travis Taylor and Dr. Matt Turner prepare to launch an instrument payload to measure electromagnetic anomalies supported by Skinwalker te...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: history.com  
    Title: Travis Taylor  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science...Read more...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/cast/travis-taylor</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Dr. Travis Taylor is an engineer and best-selling author who holds PhDs in Optical Science...Read more...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Scientific Publications?: r/skinwalkerranch  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1crii5r/scientific_publications/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Scientific Publications?: r/skinwalkerranchMay 14, 2024 — Skinwalker Ranch is privately owned by Brandon Fugal. It is his IP, Inte...</p></details>
    Published: May 14, 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
    Title: Why not publish in scientific journals?  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchI just started watching Secrets of Skinwalker Ranch, and I&#x27;m pretty intrigued. Initially I dismissed Skinwalker Ranch as...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/12sm5nk/why_not_publish_in_scientific_journals/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>r/skinwalkerranchI just started watching Secrets of Skinwalker Ranch, and I&#x27;m pretty intrigued. Initially I dismissed Skinwalker Ranch as...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: It would give the show a lot of credibility, unless they  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15bmtaa/why_isnt_skinwalker_ranch_data_peer_reviewed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed?July 28, 2023 — Wouldn’t it make sense for the show to have outside scientist peer re...</p></details>
    Published: July 28, 2023  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/15dyjpf/how_about_a_peer_review_of_the_collected_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15dyjpf/how_about_a_peer_review_of_the_collected_evidence/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>How about a peer review of the collected evidence to dateCan someone who is a skinwalker insider member, please ask why they are no...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/15dyjpf/how_about_a_peer_review_of_the_collected_evidence/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/15dyjpf/how_about_a_peer_review_of_the_collected_evidence/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How about a peer review of the collected evidence to dateCan someone who is a skinwalker insider member, please ask why they are no...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: Travis S. Taylor  
-   Link: <a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Travis_S._Taylor" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Travis_S._Taylor</a>  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
+   Link:<a href="https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/television/comments/12htk63/is_the_secret_of_skinwalker_ranch_real_when_it/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>I know there are shows that play up findings with drama...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>make this as short as possible. I’m a bit concerned at the...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1b6f2h6/does_anyone_else_find_the_latest_experiments/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>make this as short as possible. I’m a bit concerned at the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lnh26j/started_out_a_complete_sceptic_of_skinwalker/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Started out a complete sceptic of Skinwalker RanchI’ll be honest — I started watching The Curse of Skinwalker Ranch out of pure scepticis...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/154bgsv/does_anyone_else_think_travis_knows_a_lot_more/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>He’s a likable enough guy and highly educated. But, I feel like he’s made advancements in his life...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>s it.... Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed? 36.Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/vydm0c/the_skinwalker_ranch_investigation_is_producing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>s it.... Why isn&#x27;t Skinwalker Ranch Data Peer Reviewed? 36.Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: uah.edu  
-   Link: <a href="https://www.uah.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The University of Alabama in HuntsvilleOne of the nation&#x27;s premier research universities, UAH offers hands-on curriculum that prepa...</p></details>
+   Link:<a href="https://www.uah.edu/" target="_blank" rel="noopener noreferrer nofollow">https://www.uah.edu/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The University of Alabama in HuntsvilleOne of the nation&#x27;s premier research universities, UAH offers hands-on curriculum that prepa...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Brandon, Suffolk  
-   Link: <a href="https://en.wikipedia.org/wiki/Brandon%2C_Suffolk" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brandon%2C_Suffolk</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon, SuffolkBrandon is located in the Breckland area of Suffolk in the extreme north-west of the county, close to the adjoining co...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Brandon%2C_Suffolk" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brandon%2C_Suffolk</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon, SuffolkBrandon is located in the Breckland area of Suffolk in the extreme north-west of the county, close to the adjoining co...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: Wikipedia  
    Title: Brandon, Warwickshire  
-   Link: <a href="https://en.wikipedia.org/wiki/Brandon%2C_Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brandon%2C_Warwickshire</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon, WarwickshireBrandon is a small village in Warwickshire, England. Along with nearby Bretford, it forms part of a joint civil p...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Brandon%2C_Warwickshire" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Brandon%2C_Warwickshire</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon, WarwickshireBrandon is a small village in Warwickshire, England. Along with nearby Bretford, it forms part of a joint civil p...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Skinwalker RanchThere is a fascinating geolab in Utah, in the Uinta Basin, called Skinwalker Ranch. For around 30 years no...</p></details>
+   Link:<a href="https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40shamanbutsu/the-science-of-skinwalker-ranch-350cc79efa5a</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Science of Skinwalker RanchThere is a fascinating geolab in Utah, in the Uinta Basin, called Skinwalker Ranch. For around 30 years no...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: history.com  
-   Link: <a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Enigmatic crop circles. Malevolent creatures. Bloodless cattle mutilations.Read more...</p></details>
+   Link:<a href="https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.com/shows/the-secret-of-skinwalker-ranch/articles/7-of-the-most-mind-bending-moments-on-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Enigmatic crop circles. Malevolent creatures. Bloodless cattle mutilations.Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: history.co.uk  
-   Link: <a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And not one that would provide a meaningful return on investment. My motivation in...Read more...</p></details>
+   Link:<a href="https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/shows/curse-of-skinwalker-ranch/brandon-fugal-and-dr-travis-taylor-curse-of-skinwalker-ranch-interview</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And not one that would provide a meaningful return on investment. My motivation in...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/HISTORY/posts/with-two-phds-dozens-of-peer-reviewed-articles-published-and-decades-of-technica/10156667097776184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/with-two-phds-dozens-of-peer-reviewed-articles-published-and-decades-of-technica/10156667097776184/</a>  
+   Link:<a href="https://www.facebook.com/HISTORY/posts/with-two-phds-dozens-of-peer-reviewed-articles-published-and-decades-of-technica/10156667097776184/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HISTORY/posts/with-two-phds-dozens-of-peer-reviewed-articles-published-and-decades-of-technica/10156667097776184/</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: the-secret-of-skinwalker-ranch.fandom.com  
-   Link: <a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments | The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes that the anomalous phenomena might manifes...</p></details>
+   Link:<a href="https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments" target="_blank" rel="noopener noreferrer nofollow">https://the-secret-of-skinwalker-ranch.fandom.com/wiki/Frequency_Experiments</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Experiments | The Secret of Skinwalker Ranch WikiTravis Taylor (aerospace engineer), theorizes that the anomalous phenomena might manifes...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: history.co.uk  
    Title: Astrophysicist Dr Travis Taylor returns  
-   Link: <a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of Skinwalker...A team of scientists and experts conducts a thorough and daring search of the infamous 512-acre property in Utah&#x27;s...</p></details>
+   Link:<a href="https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch" target="_blank" rel="noopener noreferrer nofollow">https://www.history.co.uk/videos/shocking-events-rock-skinwalker-ranch-curse-of-skinwalker-ranch</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Curse of Skinwalker...A team of scientists and experts conducts a thorough and daring search of the infamous 512-acre property in Utah&#x27;s...</p></details>
 
 ### Additional References
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: brandon-consultants.com  
-   Link: <a href="https://www.brandon-consultants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandon-consultants.com/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon Consultants: Creative Brand PartnershipBrandon are a creative partnership with offices in London and Manchester, making effective...</p></details>
+   Link:<a href="https://www.brandon-consultants.com/" target="_blank" rel="noopener noreferrer nofollow">https://www.brandon-consultants.com/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon Consultants: Creative Brand PartnershipBrandon are a creative partnership with offices in London and Manchester, making effective...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/brandonforum/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/brandonforum/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon ForumDiscuss anything relating to Brandon in Suffolk and have your say. No buying, selling or business adverts. Please read the r...</p></details>
+   Link:<a href="https://www.facebook.com/groups/brandonforum/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/brandonforum/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon ForumDiscuss anything relating to Brandon in Suffolk and have your say. No buying, selling or business adverts. Please read the r...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DiscoveryFugal ▻ The Secret of Skinwalker Ranch. 4y · Public · Last night we... We went on to document in vivid detail numerous electrom...</p></details>
+   Link:<a href="https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/Discovery/posts/here-are-the-craziest-supernatural-sightings-from-season-4-a-shadowy-stalker-sne/1148995890606995/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DiscoveryFugal ▻ The Secret of Skinwalker Ranch. 4y · Public · Last night we... We went on to document in vivid detail numerous electrom...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddTravis Taylor, an engineer and lead investigator for the TV show “The Secret of Skinwalker Ranch” on the His...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/2857/1851</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>GREENWOOD WORKING GALLEY.inddTravis Taylor, an engineer and lead investigator for the TV show “The Secret of Skinwalker Ranch” on the His...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker-RanchSkinwalker Ranch stands as a contradiction record: folklore converging with Pentagon investigation, anomalies that defy b...</p></details>
+   Link:<a href="https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/SkinwalkerRanchOfficial/posts/conducting-new-comprehensive-lidar-survey-of-skinwalker-ranch-following-mysterio/970562351856985/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker-RanchSkinwalker Ranch stands as a contradiction record: folklore converging with Pentagon investigation, anomalies that defy b...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: cinemablend.com  
-   Link: <a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor makes a very good point about the use of the word paranormal to describe what goes on at Skinwalker Ranch, though I&#x27;ll admit...Re...</p></details>
+   Link:<a href="https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series" target="_blank" rel="noopener noreferrer nofollow">https://www.cinemablend.com/television/2493659/why-one-secret-of-skinwalker-ranch-scientist-doesnt-like-the-word-paranormal-for-history-series</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Taylor makes a very good point about the use of the word paranormal to describe what goes on at Skinwalker Ranch, though I&#x27;ll admit...Re...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/500312439016444/posts/750439717337047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500312439016444/posts/750439717337047/</a>  
+   Link:<a href="https://www.facebook.com/groups/500312439016444/posts/750439717337047/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/500312439016444/posts/750439717337047/</a>  
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/%40BrandonRogers" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40BrandonRogers</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon RogersAlex Rimmer (Brandon Rogers) teaches six unwilling students the art of theatre, but none of them have any clue what bumpy r...</p></details>
+   Link:<a href="https://www.youtube.com/%40BrandonRogers" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/%40BrandonRogers</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Brandon RogersAlex Rimmer (Brandon Rogers) teaches six unwilling students the art of theatre, but none of them have any clue what bumpy r...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/911734917145827/posts/1511602300492416/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1511602300492416/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO researcher experiences anomalies at homeDr. Travis S. Taylor Studied UFOs for the Pentagon. Then the Anomalies... Skinwalke...</p></details>
+   Link:<a href="https://www.facebook.com/groups/911734917145827/posts/1511602300492416/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/911734917145827/posts/1511602300492416/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon UFO researcher experiences anomalies at homeDr. Travis S. Taylor Studied UFOs for the Pentagon. Then the Anomalies... Skinwalke...</p></details>

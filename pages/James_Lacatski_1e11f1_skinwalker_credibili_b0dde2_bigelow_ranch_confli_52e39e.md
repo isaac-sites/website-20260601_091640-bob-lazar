@@ -256,24 +256,24 @@ image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_
 
 ## Introduction
 
-One of the most persistent credibility questions surrounding James Lacatski, AAWSAP (the Advanced Aerospace Weapon System Applications Program), and Skinwalker Ranch is not whether strange events occurred at the ranch, but whether the programme's structure created an inherent conflict of interest. The concern is straightforward: the main government contractor, Bigelow Aerospace Advanced Space Studies (BAASS), was controlled by Robert Bigelow, who also owned Skinwalker Ranch and had spent years funding paranormal investigations there. When the same individual owns the property being studied and controls the company receiving government funds to study it, sceptics argue that governance concerns arise regardless of whether anyone acted improperly. Supporters counter that Bigelow's ownership gave investigators access to a unique long-term research site and that no evidence has emerged showing fraud or deliberate misuse of funds. The dispute matters because it affects how readers assess the reliability of the environment in which Lacatski's claims and investigations developed. Government Executive <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-snippet">Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</span></span></span>
+One of the most persistent credibility questions surrounding James Lacatski, AAWSAP (the Advanced Aerospace Weapon System Applications Program), and Skinwalker Ranch is not whether strange events occurred at the ranch, but whether the programme's structure created an inherent conflict of interest. The concern is straightforward: the main government contractor, Bigelow Aerospace Advanced Space Studies (BAASS), was controlled by Robert Bigelow, who also owned Skinwalker Ranch and had spent years funding paranormal investigations there. When the same individual owns the property being studied and controls the company receiving government funds to study it, sceptics argue that governance concerns arise regardless of whether anyone acted improperly. Supporters counter that Bigelow's ownership gave investigators access to a unique long-term research site and that no evidence has emerged showing fraud or deliberate misuse of funds. The dispute matters because it affects how readers assess the reliability of the environment in which Lacatski's claims and investigations developed. Government Executive<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: kqed.org">[KQED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">kqed.org</span><span class="citation-popover-snippet">Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-1-dark.svg" | relative_url }}" alt="Bigelow conflict illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 ## How Bigelow, BAASS and the ranch connected
 
-The connection was unusually close. Before AAWSAP existed, Robert Bigelow had already become a major figure in paranormal and UFO research through the National Institute for Discovery Science (NIDS), which conducted investigations at Skinwalker Ranch after Bigelow acquired the property in the 1990s. The ranch became one of the best-known locations in American paranormal culture, with reports ranging from UFO sightings to alleged creature encounters and other unexplained events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon released ufo videos chase aliens</span><span class="citation-popover-snippet">The Pentagon released its UFO videos – so I went to...Apr 22, 2026 — The spook was James Lacatski, an intelligence officer who had visit...</span></span></span>
+The connection was unusually close. Before AAWSAP existed, Robert Bigelow had already become a major figure in paranormal and UFO research through the National Institute for Discovery Science (NIDS), which conducted investigations at Skinwalker Ranch after Bigelow acquired the property in the 1990s. The ranch became one of the best-known locations in American paranormal culture, with reports ranging from UFO sightings to alleged creature encounters and other unexplained events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">government secret ufo program investigation</span><span class="citation-popover-snippet">Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon released ufo videos chase aliens</span><span class="citation-popover-snippet">The Pentagon released its UFO videos – so I went to...Apr 22, 2026 — The spook was James Lacatski, an intelligence officer who had visit...</span></span></span>
 
-According to multiple accounts, Lacatski's interest in the ranch helped connect government interest in anomalous phenomena with Bigelow's existing research network. Reporting on the origins of AAWSAP indicates that a DIA official's interest in visiting the ranch helped set events in motion before the programme was funded. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govexec.com/oversight/2017/12/pentagon-has-confirmed-its-22m-program-investigate-ufos/144632/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govexec.com">[Government Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govexec.com</span><span class="citation-popover-title">pentagon has confirmed its 22m program investigate ufos</span><span class="citation-popover-snippet">Government ExecutiveThe Pentagon Has Confirmed Its $22M Program To...Dec 18, 2017 — He approached Reid earlier in 2007 about a Defense I...</span></span></span>
+According to multiple accounts, Lacatski's interest in the ranch helped connect government interest in anomalous phenomena with Bigelow's existing research network. Reporting on the origins of AAWSAP indicates that a DIA official's interest in visiting the ranch helped set events in motion before the programme was funded.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.govexec.com/oversight/2017/12/pentagon-has-confirmed-its-22m-program-investigate-ufos/144632/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: govexec.com">[Government Executive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">govexec.com</span><span class="citation-popover-title">pentagon has confirmed its 22m program investigate ufos</span><span class="citation-popover-snippet">Government ExecutiveThe Pentagon Has Confirmed Its $22M Program To...Dec 18, 2017 — He approached Reid earlier in 2007 about a Defense I...</span></span></span>
 
-When AAWSAP received congressional funding, the Defence Intelligence Agency awarded the principal contract to BAASS, a company controlled by Bigelow. BAASS then conducted a range of studies connected to UFO reports, advanced aerospace concepts and, according to later accounts, investigations involving Skinwalker Ranch itself. Reports from former participants describe ranch-related work becoming part of the broader AAWSAP effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span>
+When AAWSAP received congressional funding, the Defence Intelligence Agency awarded the principal contract to BAASS, a company controlled by Bigelow. BAASS then conducted a range of studies connected to UFO reports, advanced aerospace concepts and, according to later accounts, investigations involving Skinwalker Ranch itself. Reports from former participants describe ranch-related work becoming part of the broader AAWSAP effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span>
 
 This arrangement created a distinctive situation:
 
-* Bigelow owned the ranch. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span> * Bigelow controlled BAASS. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span>
+* Bigelow owned the ranch.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span> * Bigelow controlled BAASS.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[vocal.media]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span>
 * BAASS received the AAWSAP contract.
 * Ranch-related investigations became associated with programme activities.
 
-Those facts are largely undisputed even though participants disagree sharply about their significance. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</span></span></span>
+Those facts are largely undisputed even though participants disagree sharply about their significance.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/sCQRMGOc9M8" title="Skinwalker Ranch (Pt 2) AAWSAP, Dinobeaver, Hitchhiker Ghosts, Pentagon, UFOs | The Basement Office" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=sCQRMGOc9M8" target="_blank" rel="noopener noreferrer">Skinwalker Ranch (Pt 2) AAWSAP, Dinobeaver, Hitchhiker Ghosts, Pentagon, UFOs | The Basement Office</a></p><p class="youtube-embed-meta">Channel: New York Post &middot; Views: 397.1K &middot; Uploaded: August 2022 &middot; Length: 24 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=sCQRMGOc9M8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=sCQRMGOc9M8">Open on YouTube</a></p></div></div></div>
 
@@ -281,22 +281,22 @@ Those facts are largely undisputed even though participants disagree sharply abo
 
 The sceptical concern is not necessarily that corruption occurred. Rather, it is that the structure would have triggered conflict-of-interest questions in many other research environments.
 
-Normally, researchers are expected to maintain some separation between the sponsor, the investigator and the object of study. In the Skinwalker case, the owner of the property was also the individual whose company benefited from the government contract. Critics argue that this created incentives that could unintentionally bias priorities, resource allocation and interpretation of evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — While AATIP &quot;was the name of the overall program,&quot; AAWSAP &quot;w...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</span></span></span>
+Normally, researchers are expected to maintain some separation between the sponsor, the investigator and the object of study. In the Skinwalker case, the owner of the property was also the individual whose company benefited from the government contract. Critics argue that this created incentives that could unintentionally bias priorities, resource allocation and interpretation of evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — While AATIP &quot;was the name of the overall program,&quot; AAWSAP &quot;w...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</span></span></span>
 
-A second concern involves programme focus. Public contract documents described AAWSAP in terms of advanced aerospace and future-threat assessment. Yet later reporting and participant accounts linked programme activity to paranormal investigations at Skinwalker Ranch. Critics argue that if government funds intended for aerospace intelligence ended up supporting investigations into shadow figures, alleged creatures, psychic phenomena or similar claims, stronger oversight should have existed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">the military ufo complex</span><span class="citation-popover-snippet">The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon released ufo videos chase aliens</span><span class="citation-popover-snippet">The Pentagon released its UFO videos – so I went to...Apr 22, 2026 — The spook was James Lacatski, an intelligence officer who had visit...</span></span></span>
+A second concern involves programme focus. Public contract documents described AAWSAP in terms of advanced aerospace and future-threat assessment. Yet later reporting and participant accounts linked programme activity to paranormal investigations at Skinwalker Ranch. Critics argue that if government funds intended for aerospace intelligence ended up supporting investigations into shadow figures, alleged creatures, psychic phenomena or similar claims, stronger oversight should have existed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-title">the military ufo complex</span><span class="citation-popover-snippet">The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">pentagon released ufo videos chase aliens</span><span class="citation-popover-snippet">The Pentagon released its UFO videos – so I went to...Apr 22, 2026 — The spook was James Lacatski, an intelligence officer who had visit...</span></span></span>
 
-These concerns became more prominent after the All-domain Anomaly Resolution Office (AARO) reviewed the historical record. AARO concluded that the programme's contractor conducted UFO and paranormal-related work associated with Skinwalker Ranch and stated that some of those activities were not specifically authorised by DIA leadership. That assessment reinforced existing sceptical arguments about programme governance and oversight. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For critics evaluating Lacatski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</span></span></span>, the issue is less about proving any individual claim false and more about questioning whether the environment surrounding those claims encouraged confirmation bias. If investigators already believed the ranch was exceptional, sceptics argue, they may have been more likely to interpret ambiguous events as significant. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">ufology from fringe to mainstream to fringe</span><span class="citation-popover-snippet">Ufology: From Fringe to Mainstream to Fringe?Feb 20, 2026 — The roots of AAWSAP trace back to Intelligence Community personnel Jay...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</span></span></span>
+These concerns became more prominent after the All-domain Anomaly Resolution Office (AARO) reviewed the historical record. AARO concluded that the programme's contractor conducted UFO and paranormal-related work associated with Skinwalker Ranch and stated that some of those activities were not specifically authorised by DIA leadership. That assessment reinforced existing sceptical arguments about programme governance and oversight.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For critics evaluating Lacatski]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Advanced Aerospace Threat Identification Program</span><span class="citation-popover-snippet">Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</span></span></span>, the issue is less about proving any individual claim false and more about questioning whether the environment surrounding those claims encouraged confirmation bias. If investigators already believed the ranch was exceptional, sceptics argue, they may have been more likely to interpret ambiguous events as significant.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">ufology from fringe to mainstream to fringe</span><span class="citation-popover-snippet">Ufology: From Fringe to Mainstream to Fringe?Feb 20, 2026 — The roots of AAWSAP trace back to Intelligence Community personnel Jay...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-2-dark.svg" | relative_url }}" alt="Bigelow conflict illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What supporters say in response
 
 Supporters of Lacatski and AAWSAP generally reject the idea that ownership alone demonstrates a credibility problem.
 
-Their argument begins with practicality. Bigelow already possessed the ranch, historical case files, research infrastructure and a network of investigators familiar with the site. If government officials genuinely wanted to evaluate reports emerging from Skinwalker Ranch, working with the owner was arguably unavoidable. Ownership itself does not prove that the resulting investigations were dishonest. Government Executive <span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span>
+Their argument begins with practicality. Bigelow already possessed the ranch, historical case files, research infrastructure and a network of investigators familiar with the site. If government officials genuinely wanted to evaluate reports emerging from Skinwalker Ranch, working with the owner was arguably unavoidable. Ownership itself does not prove that the resulting investigations were dishonest. Government Executive<span class="citation-chip-wrap"><a class="citation-chip" href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: impossiblearchives.rice.edu">[2Title of Site &#124; Rice University]</a><span class="citation-popover" role="note"><span class="citation-popover-source">impossiblearchives.rice.edu</span><span class="citation-popover-snippet">Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</span></span></span>
 
-Supporters also note that BAASS produced a large body of work extending far beyond ranch investigations. The programme generated numerous technical reports on advanced aerospace concepts and collected UFO-related data from multiple sources. From this perspective, Skinwalker Ranch was only one component of a wider effort. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — While AATIP &quot;was the name of the overall program,&quot; AAWSAP &quot;w...</span></span></span>
+Supporters also note that BAASS produced a large body of work extending far beyond ranch investigations. The programme generated numerous technical reports on advanced aerospace concepts and collected UFO-related data from multiple sources. From this perspective, Skinwalker Ranch was only one component of a wider effort.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reason.com">[Reason.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reason.com</span><span class="citation-popover-snippet">The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — While AATIP &quot;was the name of the overall program,&quot; AAWSAP &quot;w...</span></span></span>
 
-Another common response is that critics often move too quickly from "potential conflict" to "proven misconduct". A governance concern may exist even if nobody manipulated results. Supporters argue that evidence of actual bad faith, fabrication or financial abuse has never been publicly demonstrated. <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span>
+Another common response is that critics often move too quickly from "potential conflict" to "proven misconduct". A governance concern may exist even if nobody manipulated results. Supporters argue that evidence of actual bad faith, fabrication or financial abuse has never been publicly demonstrated.<span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/4kBMkRaKBC4" title="Mystery Wire with George Knapp and Ron Futrell - Skinwalker Ranch - Episode 2 - Dec 11, 2025" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=4kBMkRaKBC4" target="_blank" rel="noopener noreferrer">Mystery Wire with George Knapp and Ron Futrell - Skinwalker Ranch - Episode 2 - Dec 11, 2025</a></p><p class="youtube-embed-meta">Channel: Ron Futrell, Vegas Strong Sports &middot; Views: 12.9K &middot; Uploaded: February 2026 &middot; Length: 22 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=4kBMkRaKBC4" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=4kBMkRaKBC4">Open on YouTube</a></p></div></div></div>
 
@@ -309,7 +309,7 @@ The following facts would raise legitimate governance concerns but do not, by th
 * The contractor and ranch owner were effectively the same person.
 * Ranch investigations became associated with programme activities.
 * Participants had pre-existing beliefs that the ranch was anomalous.
-* The programme operated with limited public transparency. <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</span></span></span>
+* The programme operated with limited public transparency.<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</span></span></span>
 
 By contrast, stronger evidence of bad faith would require something more concrete, such as:
 
@@ -322,164 +322,164 @@ By contrast, stronger evidence of bad faith would require something more concret
 
 </div>
 
-No publicly available record has established those points. Critics therefore tend to focus on structural weaknesses and questionable programme design rather than proven fraud. Supporters likewise emphasise the absence of evidence demonstrating intentional deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">aaros historical report a tale of factual errors and old mistakes repeated</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the D...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span>
+No publicly available record has established those points. Critics therefore tend to focus on structural weaknesses and questionable programme design rather than proven fraud. Supporters likewise emphasise the absence of evidence demonstrating intentional deception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">aaros historical report a tale of factual errors and old mistakes repeated</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the D...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: journalofscientificexploration.org">[Journal of Scientific Exploration]</a><span class="citation-popover" role="note"><span class="citation-popover-source">journalofscientificexploration.org</span><span class="citation-popover-snippet">2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-3-dark.svg" | relative_url }}" alt="Bigelow conflict illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why this matters for assessing James Lacatski
 
 For readers evaluating James Lacatski's credibility, the Bigelow-BAASS-Skinwalker relationship is important because it affects the evidential environment around some of his most controversial claims.
 
-The ownership and contractor overlap does not prove that Lacatski's observations were mistaken, nor does it prove that extraordinary events at the ranch occurred. What it does show is that some of the most influential investigations in the Skinwalker narrative emerged from a programme in which the property owner, the contractor and the long-standing promoter of the site's significance were closely connected. Government Executive <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span>, the arrangement remains a genuine credibility issue even for observers who believe AAWSAP was a real government programme and that Lacatski held a legitimate intelligence role. The central question is not whether secrecy existed. It is whether the programme's governance structure provided sufficient independence to separate evidence from expectation. On that narrower question, reasonable observers continue to disagree. The Guardian <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">ufology from fringe to mainstream to fringe</span><span class="citation-popover-snippet">Ufology: From Fringe to Mainstream to Fringe?Feb 20, 2026 — The roots of AAWSAP trace back to Intelligence Community personnel Jay...</span></span></span>
+The ownership and contractor overlap does not prove that Lacatski's observations were mistaken, nor does it prove that extraordinary events at the ranch occurred. What it does show is that some of the most influential investigations in the Skinwalker narrative emerged from a programme in which the property owner, the contractor and the long-standing promoter of the site's significance were closely connected. Government Executive<span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal As a result]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-snippet">Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</span></span></span>, the arrangement remains a genuine credibility issue even for observers who believe AAWSAP was a real government programme and that Lacatski held a legitimate intelligence role. The central question is not whether secrecy existed. It is whether the programme's governance structure provided sufficient independence to separate evidence from expectation. On that narrower question, reasonable observers continue to disagree. The Guardian<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptic.com">[Skeptic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptic.com</span><span class="citation-popover-title">ufology from fringe to mainstream to fringe</span><span class="citation-popover-snippet">Ufology: From Fringe to Mainstream to Fringe?Feb 20, 2026 — The roots of AAWSAP trace back to Intelligence Community personnel Jay...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8xXGe6NaU4M" title="Researching the Paranormal with Colm Kelleher" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer">Researching the Paranormal with Colm Kelleher</a></p><p class="youtube-embed-meta">Channel: New Thinking Allowed with Jeffrey Mishlove &middot; Views: 42.0K &middot; Uploaded: January 2022 &middot; Length: 1 hour 4 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8xXGe6NaU4M" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8xXGe6NaU4M">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Was the ranch contract too conflicted?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Was the ranch contract too conflicted?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4"><img src="https://i.ebayimg.com/images/g/j2UAAeSwb1Zp0vaq/s-l225.jpg" alt="Listing image for BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">BOB LAZAR Signed Area 51 &amp; Flying Saucers UFO Movie Poster 24x36 JSA AUTO S4</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture"><img src="https://i.ebayimg.com/images/g/lQIAAeSwDe5p2SMy/s-l225.jpg" alt="Listing image for Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar Uap Sketch Classic Mens T Framed Wall Art Poster Canvas Print Picture</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP"><img src="https://i.ebayimg.com/images/g/gDYAAOSwErBldg2S/s-l225.jpg" alt="Listing image for Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar UFO Sketch Hanger S4 51 signed photo 8X10 print poster autograph RP</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print"><img src="https://i.ebayimg.com/images/g/XvMAAeSwpp1qHTws/s-l225.jpg" alt="Listing image for Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">Bob Lazar They&#x27;re Here S4 UFO Poster, Wall Art Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for Bob Lazar poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: Bob Lazar poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=Bob+Lazar+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-ranch-contract-too-conflicted-bob-lazar-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="Bob Lazar poster" data-ebay-reference="was-the-ranch-contract-too-conflicted-bob-lazar-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -495,7 +495,7 @@ The ownership and contractor overlap does not prove that Lacatski's observations
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -515,7 +515,7 @@ The ownership and contractor overlap does not prove that Lacatski's observations
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -547,7 +547,7 @@ The ownership and contractor overlap does not prove that Lacatski's observations
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -599,7 +599,7 @@ The ownership and contractor overlap does not prove that Lacatski's observations
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -644,7 +644,7 @@ The ownership and contractor overlap does not prove that Lacatski's observations
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -685,169 +685,169 @@ The ownership and contractor overlap does not prove that Lacatski's observations
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: kqed.org  
-   Link: <a href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</p></details>
+   Link:<a href="https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.kqed.org/news/11638220/secret-pentagon-program-spent-millions-to-research-ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Secret Pentagon Program Spent Millions to Research UFOs19 Dec 2017 — He also purchased the Skinwalker Ranch in Utah, the subject of i...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: vocal.media  
-   Link: <a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</p></details>
+   Link:<a href="https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/geeks/skinwalker-ranch-and-government-ufo-research-the-aawsap-files-explained</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalker Ranch and Government UFO ResearchSkinwalker Ranch and Government UFO Research: The AAWSAP Files Explained... Aerospace A...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reason.com  
-   Link: <a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — While AATIP &quot;was the name of the overall program,&quot; AAWSAP &quot;w...</p></details>
+   Link:<a href="https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/04/20/the-feds-spent-22-million-researching-invisibility-cloaks-ufos-and-a-tunnel-through-the-moon/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Feds Spent $22 Million Researching Invisibility Cloaks...Apr 20, 2022 — While AATIP &quot;was the name of the overall program,&quot; AAWSAP &quot;w...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reason.com  
    Title: the military ufo complex  
-   Link: <a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</p></details>
+   Link:<a href="https://reason.com/2022/11/15/the-military-ufo-complex/" target="_blank" rel="noopener noreferrer nofollow">https://reason.com/2022/11/15/the-military-ufo-complex/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The military-UFO complexNov 15, 2022 — BAASS eventually set up its own UFO database, carrying over work from NIDS. Its researchers did ex...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification ProgramThe program began in 2007, with funding of $22 million over the five years until the a...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... AAWSAP, AATIP, U...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical Record... AAWSAP, AATIP, U...</p></details>
    Published: March 2024  
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skeptic.com  
    Title: ufology from fringe to mainstream to fringe  
-   Link: <a href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology: From Fringe to Mainstream to Fringe?Feb 20, 2026 — The roots of AAWSAP trace back to Intelligence Community personnel Jay...</p></details>
+   Link:<a href="https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/" target="_blank" rel="noopener noreferrer nofollow">https://www.skeptic.com/article/ufology-from-fringe-to-mainstream-to-fringe/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ufology: From Fringe to Mainstream to Fringe?Feb 20, 2026 — The roots of AAWSAP trace back to Intelligence Community personnel Jay...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: impossiblearchives.rice.edu  
-   Link: <a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</p></details>
+   Link:<a href="https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher" target="_blank" rel="noopener noreferrer nofollow">https://impossiblearchives.rice.edu/flash-talk-speakers/colm-a-kelleher</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kelleher - Archives of the Impossible - Rice UniversityKelleher co-authored Hunt for the Skinwalker in 2005 with journalist George Knapp...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/</a>  
+   Link:<a href="https://www.dia.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dia.mil  
    Title: FOIA Request Log 2022  
-   Link: <a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — relating to &quot;Skinwalker Ranch&quot; (aka Sherman Ranch). The report... Records 2006 - 6/5/2020 referencing Bigelow Aerospace Ad...</p></details>
+   Link:<a href="https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/Portals/110/Documents/FOIA/All%20PDFs/FOIA_Request_Log_2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>18 Jan 2024 — relating to &quot;Skinwalker Ranch&quot; (aka Sherman Ranch). The report... Records 2006 - 6/5/2020 referencing Bigelow Aerospace Ad...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: govexec.com  
    Title: pentagon has confirmed its 22m program investigate ufos  
-   Link: <a href="https://www.govexec.com/oversight/2017/12/pentagon-has-confirmed-its-22m-program-investigate-ufos/144632/" target="_blank" rel="noopener noreferrer nofollow">https://www.govexec.com/oversight/2017/12/pentagon-has-confirmed-its-22m-program-investigate-ufos/144632/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government ExecutiveThe Pentagon Has Confirmed Its $22M Program To...Dec 18, 2017 — He approached Reid earlier in 2007 about a Defense I...</p></details>
+   Link:<a href="https://www.govexec.com/oversight/2017/12/pentagon-has-confirmed-its-22m-program-investigate-ufos/144632/" target="_blank" rel="noopener noreferrer nofollow">https://www.govexec.com/oversight/2017/12/pentagon-has-confirmed-its-22m-program-investigate-ufos/144632/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government ExecutiveThe Pentagon Has Confirmed Its $22M Program To...Dec 18, 2017 — He approached Reid earlier in 2007 about a Defense I...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: popularmechanics.com  
    Title: government secret ufo program investigation  
-   Link: <a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</p></details>
+   Link:<a href="https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/military/research/a30916275/government-secret-ufo-program-investigation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Popular MechanicsInside the Pentagon&#x27;s Secret UFO Program14 Feb 2020 — The group&#x27;s most recognized research was the investigation of a pu...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theguardian.com  
    Title: pentagon released ufo videos chase aliens  
-   Link: <a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its UFO videos – so I went to...Apr 22, 2026 — The spook was James Lacatski, an intelligence officer who had visit...</p></details>
+   Link:<a href="https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/science/2026/apr/22/pentagon-released-ufo-videos-chase-aliens</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon released its UFO videos – so I went to...Apr 22, 2026 — The spook was James Lacatski, an intelligence officer who had visit...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: journalofscientificexploration.org  
-   Link: <a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</p></details>
+   Link:<a href="https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229" target="_blank" rel="noopener noreferrer nofollow">https://journalofscientificexploration.org/index.php/jse/article/view/3541/2229</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2010 are outlined. Mirroring elements of the story con- veyed in Skinwalkers at the Pentagon, the...Read more...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of...22 Mar 2024 —... paranormal at Skinwalker Ranch. A few years later, the Pentagon got wind of what was really happenin...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedebrief.org  
    Title: aaros historical report a tale of factual errors and old mistakes repeated  
-   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the D...</p></details>
+   Link:<a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...14 Mar 2024 — The long-awaited historical report on UAP by the D...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: the origins of aawsap.12484  
-   Link: <a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAPJun 21, 2022 —... AAWSAP BAASS team on Skinwalker Ranch was delivered to the DIA in April 2010. The purpose of the...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/the-origins-of-aawsap.12484/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/the-origins-of-aawsap.12484/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Origins of AAWSAPJun 21, 2022 —... AAWSAP BAASS team on Skinwalker Ranch was delivered to the DIA in April 2010. The purpose of the...</p></details>
    Published: April 2010  
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: metabunk.org  
    Title: George Knapp  
-   Link: <a href="https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement to Congress8 Aug 2023 —... AAWSAP BAASS team on Skinwalker Ranch was delivered to the DIA in April 2010.... He brought Bigelo...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/george-knapp-statement-to-congress.13099/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement to Congress8 Aug 2023 —... AAWSAP BAASS team on Skinwalker Ranch was delivered to the DIA in April 2010.... He brought Bigelo...</p></details>
    Published: April 2010  
 
 ### Additional References
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Lou, AATIP and AWSAP. How they fit together.: r/UFOsSkinwalker Ranch Experiencer Dr. James Lacatski admits AAWSAP program was reverse-en...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1g322w9/lou_aatip_and_awsap_how_they_fit_together/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Lou, AATIP and AWSAP. How they fit together.: r/UFOsSkinwalker Ranch Experiencer Dr. James Lacatski admits AAWSAP program was reverse-en...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP programThe pentagon via the defense intelligence agency created a ufo program called the a...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=6XD4gQS_-qY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=6XD4gQS_-qY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UFO Lie: Shocking truth of Pentagon AAWSAP programThe pentagon via the defense intelligence agency created a ufo program called the a...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: denofgeek.com  
    Title: government funded paranormal study revealed in skinwalker documentary  
-   Link: <a href="https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Den of GeekGovernment Funded Paranormal Study Revealed In...14 Sept 2018 — The recent documentary Hunt for the Skinwalker chronicles dis...</p></details>
+   Link:<a href="https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/" target="_blank" rel="noopener noreferrer nofollow">https://www.denofgeek.com/culture/government-funded-paranormal-study-revealed-in-skinwalker-documentary/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Den of GeekGovernment Funded Paranormal Study Revealed In...14 Sept 2018 — The recent documentary Hunt for the Skinwalker chronicles dis...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — [https://www.newsnationnow.com/space/ufo/rubio-recent-ufo](https://www.newsnationnow.com/space/ufo/rubio-recent-ufo)... the DIA express...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 — [https://www.newsnationnow.com/space/ufo/rubio-recent-ufo](https://www.newsnationnow.com/space/ufo/rubio-recent-ufo)... the DIA express...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/p/DW7ADzXDNUw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW7ADzXDNUw/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP&#x27;s existence was not publicly confirmed until 2017. Its former director Luis...Read more...</p></details>
+   Link:<a href="https://www.instagram.com/p/DW7ADzXDNUw/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/p/DW7ADzXDNUw/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AATIP&#x27;s existence was not publicly confirmed until 2017. Its former director Luis...Read more...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: reddit.com  
    Title: Sean Kirkpatrick, former head of the Pentagon's UFO office  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the paranormal activity on skinwalker ranch. There&#x27;s a... Ranch, Investigation by AAWSAP are relevant as ever to UFO Disclosure...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fejucz/sean_kirkpatrick_former_head_of_the_pentagons_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs and the paranormal activity on skinwalker ranch. There&#x27;s a... Ranch, Investigation by AAWSAP are relevant as ever to UFO Disclosure...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: military.com  
    Title: how believers paranormal birthed pentagons new hunt ufos  
-   Link: <a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>How Believers in the Paranormal Birthed the Pentagon&#x27;s...Mar 7, 2022 — After the Nimitz investigation, the sailor and two Marines were s...</p></details>
+   Link:<a href="https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html" target="_blank" rel="noopener noreferrer nofollow">https://www.military.com/daily-news/2022/03/07/how-believers-paranormal-birthed-pentagons-new-hunt-ufos.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>How Believers in the Paranormal Birthed the Pentagon&#x27;s...Mar 7, 2022 — After the Nimitz investigation, the sailor and two Marines were s...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: serious full baass july 30th 2009 tenmonth report  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...... BAASS aka Bigelow Aerospace Advanced Space Studies 472 page 10-month Report...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1l0ndw8/serious_full_baass_july_30th_2009_tenmonth_report/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SERIOUS: Full BAASS July 30th, 2009 Ten-Month Report...... BAASS aka Bigelow Aerospace Advanced Space Studies 472 page 10-month Report...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: reddit.com  
    Title: whats actually in the aawsap files the 20082010  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...The remaining $12 million disappeared into D.I.A. 80-90% of A.A.W.S.A.P. was fo...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1sv7dpn/whats_actually_in_the_aawsap_files_the_20082010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What&#x27;s actually in the AAWSAP files (the 2008-2010 DIA...The remaining $12 million disappeared into D.I.A. 80-90% of A.A.W.S.A.P. was fo...</p></details>
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>nomalous phenomena occurring at Skinwalker Ranch (not just...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/skinwalkerranch/comments/1lrpnbf/recently_leaked_skinwalker_ranch_data_from_us/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>nomalous phenomena occurring at Skinwalker Ranch (not just...Read more...</p></details>

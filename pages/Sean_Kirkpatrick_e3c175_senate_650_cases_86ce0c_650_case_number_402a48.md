@@ -259,18 +259,18 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_650_case_n
 When Sean Kirkpatrick told a Senate subcommittee in April 2023 that the All-domain Anomaly Resolution Office (AARO) was tracking more than 650 unidentified anomalous phenomena (UAP) cases, the number quickly became one of the most widely quoted figures in the modern UAP debate. Yet the statistic was easy to misunderstand. Many readers and commentators interpreted it as meaning that the US government had accumulated 650 highly mysterious incidents or 650 potential examples of advanced unknown technology. That was not how Kirkpatrick presented it.
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_650_case_number_402a48-Illustration-1-dark.svg" | relative_url }}" alt="650 Cases illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_650_case_number_402a48-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_650_case_number_402a48-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-In the hearing, Kirkpatrick described a growing investigative database of reports at different stages of review. The figure represented AARO's total case intake, not a catalogue of proven extraordinary events. His testimony repeatedly emphasised that unresolved cases often remained unresolved because of incomplete data, not because investigators had concluded they involved exotic craft or non-human technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
+In the hearing, Kirkpatrick described a growing investigative database of reports at different stages of review. The figure represented AARO's total case intake, not a catalogue of proven extraordinary events. His testimony repeatedly emphasised that unresolved cases often remained unresolved because of incomplete data, not because investigators had concluded they involved exotic craft or non-human technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
 
 ## What Did The 650 Cases Really Mean?
 
 The key point often lost in public discussion was that AARO's case count measured reports entering the investigative system, not confirmed anomalies.
 
-When Senator Kirsten Gillibrand asked for updated numbers, Kirkpatrick stated that AARO was tracking "over 650 cases". He immediately framed those reports as a mixed collection requiring sorting, categorisation and further analysis. Some appeared likely to involve balloons, drones, clutter, sensor effects or other ordinary explanations, but lacked enough information to be formally closed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee DefenseScoop This distinction matters because the word <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</span></span></span>"unidentified" often carries two very different meanings:
+When Senator Kirsten Gillibrand asked for updated numbers, Kirkpatrick stated that AARO was tracking "over 650 cases". He immediately framed those reports as a mixed collection requiring sorting, categorisation and further analysis. Some appeared likely to involve balloons, drones, clutter, sensor effects or other ordinary explanations, but lacked enough information to be formally closed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee DefenseScoop This distinction matters because the word<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[defensescoop.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</span></span></span>"unidentified" often carries two very different meanings:
 
 * Investigatively unidentified: not enough evidence exists to determine what it was.
 * Fundamentally unexplained: evidence exists, but no conventional explanation fits.
 
-Kirkpatrick's testimony suggested that many cases fell into the first category rather than the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
+Kirkpatrick's testimony suggested that many cases fell into the first category rather than the second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/BvO5BUTJ-SA" title="Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer">Pentagon reveals flying orb during UFO Senate hearing as 650 unknown objects tracked</a></p><p class="youtube-embed-meta">Channel: The Independent &middot; Views: 44.8K &middot; Uploaded: April 2023 &middot; Length: 33 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=BvO5BUTJ-SA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=BvO5BUTJ-SA">Open on YouTube</a></p></div></div></div>
 
@@ -278,9 +278,9 @@ Kirkpatrick's testimony suggested that many cases fell into the first category r
 
 Another reason the figure attracted attention was that it appeared much larger than previous official totals.
 
-The January 2023 ODNI annual report described 510 UAP reports as of 30 August 2022. Those 510 consisted of the original 144 incidents discussed in the 2021 preliminary assessment plus hundreds of newly reported or newly discovered cases. The report also noted that many reports were already trending toward ordinary explanations such as balloons, drones and airborne clutter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Additional information is provided in the classified version of this report. AARO and ODNI...Read more...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">3667 2022 annual report on unidentified aerial phenomena</span><span class="citation-popover-snippet">ODNI submitted the classified annual report to Congress and published the unclassified annual...</span></span></span>
+The January 2023 ODNI annual report described 510 UAP reports as of 30 August 2022. Those 510 consisted of the original 144 incidents discussed in the 2021 preliminary assessment plus hundreds of newly reported or newly discovered cases. The report also noted that many reports were already trending toward ordinary explanations such as balloons, drones and airborne clutter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">Unclassified 2022 Annual Report UAP</span><span class="citation-popover-snippet">Additional information is provided in the classified version of this report. AARO and ODNI...Read more...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">3667 2022 annual report on unidentified aerial phenomena</span><span class="citation-popover-snippet">ODNI submitted the classified annual report to Congress and published the unclassified annual...</span></span></span>
 
-By April 2023, AARO had received additional reports and continued integrating data from multiple government sources. The jump from 510 to more than 650 therefore did not necessarily indicate a sudden wave of extraordinary sightings. It reflected an expanding reporting pipeline, increased awareness of AARO, and the continued collection of historical and newly submitted incidents. Official reporting had already warned that rising totals could result partly from reduced stigma around reporting and improved collection mechanisms. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hstoday.us">[HSToday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hstoday.us</span><span class="citation-popover-snippet">Director of National Intelligence Submits Annual Report on...Jan 12, 2023 — AARO and ODNI assess that the observed increase in th...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iowapublicradio.org/news-from-npr/news-from-npr/2023-01-13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iowapublicradio.org">[Iowa Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iowapublicradio.org</span><span class="citation-popover-snippet">Iowa Public RadioThe Pentagon got hundreds of new reports of UFOs in...Jan 13, 2023 — The new numbers indicate a steep rise in UAP sight...</span></span></span>
+By April 2023, AARO had received additional reports and continued integrating data from multiple government sources. The jump from 510 to more than 650 therefore did not necessarily indicate a sudden wave of extraordinary sightings. It reflected an expanding reporting pipeline, increased awareness of AARO, and the continued collection of historical and newly submitted incidents. Official reporting had already warned that rising totals could result partly from reduced stigma around reporting and improved collection mechanisms.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hstoday.us">[HSToday]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hstoday.us</span><span class="citation-popover-snippet">Director of National Intelligence Submits Annual Report on...Jan 12, 2023 — AARO and ODNI assess that the observed increase in th...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.iowapublicradio.org/news-from-npr/news-from-npr/2023-01-13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: iowapublicradio.org">[Iowa Public Radio]</a><span class="citation-popover" role="note"><span class="citation-popover-source">iowapublicradio.org</span><span class="citation-popover-snippet">Iowa Public RadioThe Pentagon got hundreds of new reports of UFOs in...Jan 13, 2023 — The new numbers indicate a steep rise in UAP sight...</span></span></span>
 
 In other words, the growth in case numbers demonstrated that more reports were reaching investigators. It did not automatically demonstrate that more unexplained phenomena were occurring.
 
@@ -289,7 +289,7 @@ In other words, the growth in case numbers demonstrated that more reports were r
 
 The largest source of confusion was the assumption that an unresolved case was evidence for something extraordinary.
 
-Kirkpatrick repeatedly pushed back against that interpretation. During the hearing he stated that AARO had found no credible evidence of extraterrestrial activity, off-world technology or objects that violated known physics. At the same time, he acknowledged that many cases remained open. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-snippet">Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — While many cases remain technically unresolved, Kirkpatrick attr...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/digital-government/2023/04/pentagon-ufo-chief-no-credible-evidence-aliens-yet/385377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[nextgov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">pentagon ufo chief no credible evidence aliens yet</span><span class="citation-popover-snippet">Nextgov/FCWPentagon UFO Chief: &#x27;No Credible Evidence&#x27; of Aliens, Yet19 Apr 2023 — “As of this week, we are tracking a total of over 650 c...</span></span></span> Those two statements are entirely compatible.
+Kirkpatrick repeatedly pushed back against that interpretation. During the hearing he stated that AARO had found no credible evidence of extraterrestrial activity, off-world technology or objects that violated known physics. At the same time, he acknowledged that many cases remained open.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-snippet">Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — While many cases remain technically unresolved, Kirkpatrick attr...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.nextgov.com/digital-government/2023/04/pentagon-ufo-chief-no-credible-evidence-aliens-yet/385377/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: nextgov.com">[nextgov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">nextgov.com</span><span class="citation-popover-title">pentagon ufo chief no credible evidence aliens yet</span><span class="citation-popover-snippet">Nextgov/FCWPentagon UFO Chief: &#x27;No Credible Evidence&#x27; of Aliens, Yet19 Apr 2023 — “As of this week, we are tracking a total of over 650 c...</span></span></span> Those two statements are entirely compatible.
 
 An aviation investigator, intelligence analyst or accident examiner can leave a case unresolved for many reasons:
 
@@ -306,7 +306,7 @@ An aviation investigator, intelligence analyst or accident examiner can leave a 
 
 An unresolved file therefore does not automatically become evidence for a remarkable explanation. It simply remains insufficiently understood.
 
-The 2022 ODNI report illustrated this principle. Of the 366 newly examined reports, many were ultimately associated with balloons, drones or clutter, while others remained uncharacterised pending further analysis. The report itself cautioned that observer error, sensor limitations and environmental conditions could affect interpretations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Pentagon releases its long-awaited 2022 UFO report12 Jan 2023 — Out of these 510 total UAP reports, ODNI assessed 366 that had been...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">3733 2023 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence (ODNI) and the Depar...</span></span></span>
+The 2022 ODNI report illustrated this principle. Of the 366 newly examined reports, many were ultimately associated with balloons, drones or clutter, while others remained uncharacterised pending further analysis. The report itself cautioned that observer error, sensor limitations and environmental conditions could affect interpretations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: space.com">[Space]</a><span class="citation-popover" role="note"><span class="citation-popover-source">space.com</span><span class="citation-popover-snippet">Pentagon releases its long-awaited 2022 UFO report12 Jan 2023 — Out of these 510 total UAP reports, ODNI assessed 366 that had been...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[DNI]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-title">3733 2023 consolidated annual report on unidentified anomalous phenomena</span><span class="citation-popover-snippet">2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence (ODNI) and the Depar...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Q8Axfpmg4Zc" title="The U.S. Is Investigating Over 650 Possible UFOs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Q8Axfpmg4Zc" target="_blank" rel="noopener noreferrer">The U.S. Is Investigating Over 650 Possible UFOs</a></p><p class="youtube-embed-meta">Channel: TIME &middot; Views: 240.1K &middot; Uploaded: April 2023 &middot; Length: 2 minutes 21 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Q8Axfpmg4Zc" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Q8Axfpmg4Zc">Open on YouTube</a></p></div></div></div>
 
@@ -314,7 +314,7 @@ The 2022 ODNI report illustrated this principle. Of the 366 newly examined repor
 
 Public discussion often blurred another distinction that Kirkpatrick tried to maintain: the difference between all reported cases and the smaller subset considered most worthy of intensive investigation.
 
-Not every entry in the database represented an equal mystery or national-security concern. AARO triaged reports, giving greater attention to incidents involving sensitive military areas, multiple sensor systems, unusual behaviour or stronger supporting evidence. The total case count included both high-interest and low-information reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
+Not every entry in the database represented an equal mystery or national-security concern. AARO triaged reports, giving greater attention to incidents involving sensitive military areas, multiple sensor systems, unusual behaviour or stronger supporting evidence. The total case count included both high-interest and low-information reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span>
 
 As a result, hearing "650 cases" could create the misleading impression that investigators were facing 650 equally compelling anomalies. In reality, the database contained a spectrum ranging from likely mundane objects to genuinely unresolved events requiring deeper study.
 
@@ -325,161 +325,161 @@ That distinction is common in intelligence work. Large databases often contain m
 
 The 650-case figure had mixed effects on perceptions of Kirkpatrick.
 
-[Supporters]({{ 'supporters-0a40e4/' | relative_url }}) viewed the testimony as evidence that he was being transparent about the scale of the reporting problem. Rather than minimising the issue, he acknowledged a substantial workload while explaining why large numbers alone should not be treated as proof of extraordinary phenomena. His position was that investigation should follow evidence rather than assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop Critics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</span></span></span>, particularly some disclosure advocates, argued that the headline number implied a larger unresolved mystery than Kirkpatrick publicly acknowledged. They noted that some cases remained difficult to explain and questioned whether AARO was too cautious in its interpretations.
+[Supporters]({{ 'supporters-0a40e4/' | relative_url }}) viewed the testimony as evidence that he was being transparent about the scale of the reporting problem. Rather than minimising the issue, he acknowledged a substantial workload while explaining why large numbers alone should not be treated as proof of extraordinary phenomena. His position was that investigation should follow evidence rather than assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop Critics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</span></span></span>, particularly some disclosure advocates, argued that the headline number implied a larger unresolved mystery than Kirkpatrick publicly acknowledged. They noted that some cases remained difficult to explain and questioned whether AARO was too cautious in its interpretations.
 
-However, the specific issue of the 650-case figure tends to favour Kirkpatrick's broader credibility assessment. The hearing transcript shows that he did not present the number as evidence of alien craft, breakthrough technology or impossible flight characteristics. The more sensational interpretation largely emerged after the fact, when the raw total was separated from the qualifying remarks that accompanied it. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[2livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-snippet">Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — While many cases remain technically unresolved, Kirkpatrick attr...</span></span></span>
+However, the specific issue of the 650-case figure tends to favour Kirkpatrick's broader credibility assessment. The hearing transcript shows that he did not present the number as evidence of alien craft, breakthrough technology or impossible flight characteristics. The more sensational interpretation largely emerged after the fact, when the raw total was separated from the qualifying remarks that accompanied it.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livenowfox.com">[2livenowfox.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livenowfox.com</span><span class="citation-popover-snippet">Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — While many cases remain technically unresolved, Kirkpatrick attr...</span></span></span>
 
-For that reason, the statistic became a useful example of how UAP numbers can be misunderstood. A large investigative database sounds dramatic, but its evidential meaning depends on how many cases are resolved, how many remain open because of missing data, and how many survive detailed analysis as genuinely anomalous. Kirkpatrick's testimony focused on those distinctions, even as the headline figure often overshadowed them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee <span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</span></span></span>
+For that reason, the statistic became a useful example of how UAP numbers can be misunderstood. A large investigative database sounds dramatic, but its evidential meaning depends on how many cases are resolved, how many remain open because of missing data, and how many survive detailed analysis as genuinely anomalous. Kirkpatrick's testimony focused on those distinctions, even as the headline figure often overshadowed them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: armed-services.senate.gov">[senate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">armed-services.senate.gov</span><span class="citation-popover-snippet">THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</span></span></span> Armed Services Committee<span class="citation-chip-wrap"><a class="citation-chip" href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: defensescoop.com">[DefenseScoop]</a><span class="citation-popover" role="note"><span class="citation-popover-source">defensescoop.com</span><span class="citation-popover-title">pentagons uap office now investigating more than 650 cases</span><span class="citation-popover-snippet">Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/GFjegRAahmA" title="WATCH LIVE: UFO hearing with Senate Armed Services Emerging Threats and Capabilities Subcommittee" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=GFjegRAahmA" target="_blank" rel="noopener noreferrer">WATCH LIVE: UFO hearing with Senate Armed Services Emerging Threats and Capabilities Subcommittee</a></p><p class="youtube-embed-meta">Channel: The Washington Examiner &middot; Views: 25.6K &middot; Uploaded: April 2023 &middot; Length: 1 hour 11 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=GFjegRAahmA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=GFjegRAahmA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for What Did The 650 Cases Really Mean?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for What Did The 650 Cases Really Mean?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor"><img src="https://i.ebayimg.com/images/g/uXcAAeSw82ZqHGMG/s-l225.jpg" alt="Listing image for Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage NUKE UFO DISCLOSURE Wall Art, Atomic Bomb UAP Poster, Sci-fi War Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor"><img src="https://i.ebayimg.com/images/g/olcAAeSwjT9pZlXG/s-l225.jpg" alt="Listing image for Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO SIGHTING Wall Art, Alien Abduction Poster, Sci-fi Bedroom UAP Decor</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster"><img src="https://i.ebayimg.com/images/g/NT0AAeSwnPZpkH11/s-l225.jpg" alt="Listing image for Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Large X Files Want To Believe Billy Meier UFO UAP Flying Saucer Wall Art Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster"><img src="https://i.ebayimg.com/images/g/mocAAOSwF-dn3s1D/s-l225.jpg" alt="Listing image for Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">Vintage UFO BOTANICAL Vintage Wall Art, Sci-fi Flower Decor, Alien UAP Poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UAP poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UAP poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UAP+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-the-650-cases-really-mean-uap-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UAP poster" data-ebay-reference="what-did-the-650-cases-really-mean-uap-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -495,7 +495,7 @@ For that reason, the statistic became a useful example of how UAP numbers can be
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -515,7 +515,7 @@ For that reason, the statistic became a useful example of how UAP numbers can be
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -547,7 +547,7 @@ For that reason, the statistic became a useful example of how UAP numbers can be
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -599,7 +599,7 @@ For that reason, the statistic became a useful example of how UAP numbers can be
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -644,7 +644,7 @@ For that reason, the statistic became a useful example of how UAP numbers can be
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -685,146 +685,146 @@ For that reason, the statistic became a useful example of how UAP numbers can be
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: armed-services.senate.gov  
-   Link: <a href="https://www.armed-services.senate.gov/download/transcript-4-19-2023" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/transcript-4-19-2023</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</p></details>
+   Link:<a href="https://www.armed-services.senate.gov/download/transcript" target="_blank" rel="noopener noreferrer nofollow">https://www.armed-services.senate.gov/download/transcript</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>THE MISSION, ACTIVITIES, OVERSIGHT, AND BUDGET OF. THE ALL-DOMAIN ANOMALY RESOLUTION OFFICE.Read more...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: defensescoop.com  
    Title: pentagons uap office now investigating more than 650 cases  
-   Link: <a href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</p></details>
+   Link:<a href="https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/" target="_blank" rel="noopener noreferrer nofollow">https://defensescoop.com/2023/04/19/pentagons-uap-office-now-investigating-more-than-650-cases/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s UFO office now investigating more than 650...19 Apr 2023 — The Pentagon&#x27;s UFO office is now investigating more than 650 cases...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: livenowfox.com  
-   Link: <a href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — While many cases remain technically unresolved, Kirkpatrick attr...</p></details>
+   Link:<a href="https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases" target="_blank" rel="noopener noreferrer nofollow">https://www.livenowfox.com/news/newly-declassified-ufo-videos-pentagon-tracking-650-potential-cases</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon shares newly declassified UFO videos, tracking...20 Apr 2023 — While many cases remain technically unresolved, Kirkpatrick attr...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dni.gov  
    Title: Unclassified 2022 Annual Report UAP  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Additional information is provided in the classified version of this report. AARO and ODNI...Read more...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/Unclassified-2022-Annual-Report-UAP.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Additional information is provided in the classified version of this report. AARO and ODNI...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dni.gov  
    Title: 3667 2022 annual report on unidentified aerial phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI submitted the classified annual report to Congress and published the unclassified annual...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3667-2022-annual-report-on-unidentified-aerial-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ODNI submitted the classified annual report to Congress and published the unclassified annual...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: hstoday.us  
-   Link: <a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National Intelligence Submits Annual Report on...Jan 12, 2023 — AARO and ODNI assess that the observed increase in th...</p></details>
+   Link:<a href="https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/" target="_blank" rel="noopener noreferrer nofollow">https://www.hstoday.us/subject-matter-areas/intelligence/director-of-national-intelligence-submits-annual-report-on-unidentified-aerial-phenomena/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Director of National Intelligence Submits Annual Report on...Jan 12, 2023 — AARO and ODNI assess that the observed increase in th...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: nextgov.com  
    Title: pentagon ufo chief no credible evidence aliens yet  
-   Link: <a href="https://www.nextgov.com/digital-government/2023/04/pentagon-ufo-chief-no-credible-evidence-aliens-yet/385377/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2023/04/pentagon-ufo-chief-no-credible-evidence-aliens-yet/385377/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWPentagon UFO Chief: &#x27;No Credible Evidence&#x27; of Aliens, Yet19 Apr 2023 — “As of this week, we are tracking a total of over 650 c...</p></details>
+   Link:<a href="https://www.nextgov.com/digital-government/2023/04/pentagon-ufo-chief-no-credible-evidence-aliens-yet/385377/" target="_blank" rel="noopener noreferrer nofollow">https://www.nextgov.com/digital-government/2023/04/pentagon-ufo-chief-no-credible-evidence-aliens-yet/385377/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Nextgov/FCWPentagon UFO Chief: &#x27;No Credible Evidence&#x27; of Aliens, Yet19 Apr 2023 — “As of this week, we are tracking a total of over 650 c...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: space.com  
-   Link: <a href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-2022-ufo-uap-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases its long-awaited 2022 UFO report12 Jan 2023 — Out of these 510 total UAP reports, ODNI assessed 366 that had been...</p></details>
+   Link:<a href="https://www.space.com/pentagon-2022-ufo-uap-report" target="_blank" rel="noopener noreferrer nofollow">https://www.space.com/pentagon-2022-ufo-uap-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon releases its long-awaited 2022 UFO report12 Jan 2023 — Out of these 510 total UAP reports, ODNI assessed 366 that had been...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dni.gov  
    Title: 3733 2023 consolidated annual report on unidentified anomalous phenomena  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence (ODNI) and the Depar...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2023/3733-2023-consolidated-annual-report-on-unidentified-anomalous-phenomena</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2023 Consolidated Annual Report on Unidentified...18 Oct 2023 — The Office of the Director of National Intelligence (ODNI) and the Depar...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dni.gov  
    Title: 4020 uap 2024  
-   Link: <a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...Nov 14, 2024 — The classified report has been submitted to Congress, and the unclassif...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/newsroom/reports-publications/reports-publications-2024/4020-uap-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>2024 Consolidated Annual Report on Unidentified...Nov 14, 2024 — The classified report has been submitted to Congress, and the unclassif...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: dni.gov  
    Title: FY2023 Consolidated Annual Report UAP Oct2023  
-   Link: <a href="https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 17, 202317 Oct 2023 — UAP Threat: A force-protection and/or national- security threat to persons, materiel, or information by UAP tha...</p></details>
+   Link:<a href="https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ODNI/documents/assessments/FY2023-Consolidated-Annual-Report-UAP-Oct2023.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Oct 17, 202317 Oct 2023 — UAP Threat: A force-protection and/or national- security threat to persons, materiel, or information by UAP tha...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: aaro.mil  
    Title: UNCLASSIFIED FY23 Consolidated Annual Report on UAP Oct 25 2023 1236  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The report covers unidentified anomalous phenomena (UAP) reports from 31 August. 2022 to 30 April 2023, and all UAP reports from any prev...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UNCLASSIFIED-FY23_Consolidated_Annual_Report_on_UAP-Oct_25_2023_1236.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The report covers unidentified anomalous phenomena (UAP) reports from 31 August. 2022 to 30 April 2023, and all UAP reports from any prev...</p></details>
    Published: April 2023  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTime with Dr. Sean Kirkpatrick...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=bi0H_mkwTW0" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=bi0H_mkwTW0</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SpaceTime with Dr. Sean Kirkpatrick...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: youtube.com  
    Title: Space Time with Dr. Sean Kirkpatrick  
-   Link: <a href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGVQ5858dZs</a>  
+   Link:<a href="https://www.youtube.com/watch?v=yGVQ5858dZs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=yGVQ5858dZs</a>  
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: iowapublicradio.org  
-   Link: <a href="https://www.iowapublicradio.org/news-from-npr/news-from-npr/2023-01-13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says" target="_blank" rel="noopener noreferrer nofollow">https://www.iowapublicradio.org/news-from-npr/news-from-npr/2023-01-13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Public RadioThe Pentagon got hundreds of new reports of UFOs in...Jan 13, 2023 — The new numbers indicate a steep rise in UAP sight...</p></details>
+   Link:<a href="https://www.iowapublicradio.org/news-from-npr/news-from-npr/2023-01-13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says" target="_blank" rel="noopener noreferrer nofollow">https://www.iowapublicradio.org/news-from-npr/news-from-npr/2023-01-13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Iowa Public RadioThe Pentagon got hundreds of new reports of UFOs in...Jan 13, 2023 — The new numbers indicate a steep rise in UAP sight...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: war.gov  
    Title: department of defense releases the annual report on unidentified anomalous phen  
-   Link: <a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — The remaining 272 reports featured UAP incidents that occurred betwe...</p></details>
+   Link:<a href="https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Releases/Release/Article/3964824/department-of-defense-releases-the-annual-report-on-unidentified-anomalous-phen/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of Defense Releases the Annual Report on...14 Nov 2024 — The remaining 272 reports featured UAP incidents that occurred betwe...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: stripes.com  
-   Link: <a href="https://www.stripes.com/theaters/us/2023-04-19/ufos-pentagon-senate-hearing-9854247.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2023-04-19/ufos-pentagon-senate-hearing-9854247.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick said 650 UAP cases are being reviewed at this time. He provided examples during his testimony showing two cases, one resolved...</p></details>
+   Link:<a href="https://www.stripes.com/theaters/us/2023-04-19/ufos-pentagon-senate-hearing-9854247.html" target="_blank" rel="noopener noreferrer nofollow">https://www.stripes.com/theaters/us/2023-04-19/ufos-pentagon-senate-hearing-9854247.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kirkpatrick said 650 UAP cases are being reviewed at this time. He provided examples during his testimony showing two cases, one resolved...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: dkiapcss.edu  
-   Link: <a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — The number of Unidentified Aerial Phenomena (UAP)...</p></details>
+   Link:<a href="https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/" target="_blank" rel="noopener noreferrer nofollow">https://dkiapcss.edu/nexus_articles/a-comparative-survey-of-security-approaches-toward-unexplained-aerial-phenomena-across-the-indo-pacific/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Comparative Survey of Security Approaches Toward...by JE Reiss · 2023 · Cited by 3 — The number of Unidentified Aerial Phenomena (UAP)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: thenationaldesk.com  
-   Link: <a href="https://thenationaldesk.com/news/americas-news-now/pentagon-official-says-no-evidence-of-alien-encounters-in-second-senate-hearing-on-ufos-pentagon-has-received-several-hundreds-of-new-ufo-reports-all-domain-anomaly-resolution-office-tracking-unidentified-flying-objects-extraterrestrial-life-security?photo=2" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/americas-news-now/pentagon-official-says-no-evidence-of-alien-encounters-in-second-senate-hearing-on-ufos-pentagon-has-received-several-hundreds-of-new-ufo-reports-all-domain-anomaly-resolution-office-tracking-unidentified-flying-objects-extraterrestrial-life-security?photo=2</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon official says no evidence of alien encounters in...19 Apr 2023 — As of this week, we are tracking over a total of 650 cases,” s...</p></details>
+   Link:<a href="https://thenationaldesk.com/news/americas-news-now/pentagon-official-says-no-evidence-of-alien-encounters-in-second-senate-hearing-on-ufos-pentagon-has-received-several-hundreds-of-new-ufo-reports-all-domain-anomaly-resolution-office-tracking-unidentified-flying-objects-extraterrestrial-life-security?photo=2" target="_blank" rel="noopener noreferrer nofollow">https://thenationaldesk.com/news/americas-news-now/pentagon-official-says-no-evidence-of-alien-encounters-in-second-senate-hearing-on-ufos-pentagon-has-received-several-hundreds-of-new-ufo-reports-all-domain-anomaly-resolution-office-tracking-unidentified-flying-objects-extraterrestrial-life-security?photo=2</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon official says no evidence of alien encounters in...19 Apr 2023 — As of this week, we are tracking over a total of 650 cases,” s...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: opb.org  
-   Link: <a href="https://www.opb.org/article/2023/01/13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2023/01/13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon got hundreds of new reports of UFOs in...Jan 13, 2023 — With the subsequent additions, the All-Domain Anomaly Resolution Of...</p></details>
+   Link:<a href="https://www.opb.org/article/2023/01/13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says/" target="_blank" rel="noopener noreferrer nofollow">https://www.opb.org/article/2023/01/13/the-pentagon-got-hundreds-of-new-reports-of-ufos-in-2022-a-government-report-says/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon got hundreds of new reports of UFOs in...Jan 13, 2023 — With the subsequent additions, the All-Domain Anomaly Resolution Of...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: thedebrief.org  
    Title: the 2022 annual report on uap four significant takeaways you probably missed  
-   Link: <a href="https://thedebrief.org/the-2022-annual-report-on-uap-four-significant-takeaways-you-probably-missed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-2022-annual-report-on-uap-four-significant-takeaways-you-probably-missed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The 2022 Annual Report on UAP: Four Significant...19 Jan 2023 — “Continued reporting and robust analysis are providing better fidelity o...</p></details>
+   Link:<a href="https://thedebrief.org/the-2022-annual-report-on-uap-four-significant-takeaways-you-probably-missed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-2022-annual-report-on-uap-four-significant-takeaways-you-probably-missed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The 2022 Annual Report on UAP: Four Significant...19 Jan 2023 — “Continued reporting and robust analysis are providing better fidelity o...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: apnews.com  
    Title: AP News UFO reports rise to 510, not aliens but still a threat to USThe U.S  
-   Link: <a href="https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government has compiled 510 reports of unidentified flying objects (UFOs), with many sightings occurring in restricted or sensitive milit...</p></details>
+   Link:<a href="https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d" target="_blank" rel="noopener noreferrer nofollow">https://apnews.com/article/1100eb5ee11ea739d124ae49ca36b00d</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government has compiled 510 reports of unidentified flying objects (UFOs), with many sightings occurring in restricted or sensitive milit...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: academia.edu  
    Title: The 2022 Annual Report on Unidentified Aerial Phenomena A Review  
-   Link: <a href="https://www.academia.edu/95362778/The_2022_Annual_Report_on_Unidentified_Aerial_Phenomena_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/95362778/The_2022_Annual_Report_on_Unidentified_Aerial_Phenomena_A_Review</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>period. This totals 510 UAP reports as of 30 August 2022. Indeed, the prior report (issued June 25, 2021) was based on 144 reports, with...</p></details>
+   Link:<a href="https://www.academia.edu/95362778/The_2022_Annual_Report_on_Unidentified_Aerial_Phenomena_A_Review" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/95362778/The_2022_Annual_Report_on_Unidentified_Aerial_Phenomena_A_Review</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>period. This totals 510 UAP reports as of 30 August 2022. Indeed, the prior report (issued June 25, 2021) was based on 144 reports, with...</p></details>
    Published: June 25, 2021  
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: wral.com  
    Title: us government tracking more than 650 potential ufo cases  
-   Link: <a href="https://www.wral.com/story/us-government-tracking-more-than-650-potential-ufo-cases/20819145/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/us-government-tracking-more-than-650-potential-ufo-cases/20819145/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>19 Apr 2023 — The US government is tracking more than 650 cases of potential cases of so-called &quot;unidentified aerial phenomenon,&quot; commonl...</p></details>
+   Link:<a href="https://www.wral.com/story/us-government-tracking-more-than-650-potential-ufo-cases/20819145/" target="_blank" rel="noopener noreferrer nofollow">https://www.wral.com/story/us-government-tracking-more-than-650-potential-ufo-cases/20819145/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>19 Apr 2023 — The US government is tracking more than 650 cases of potential cases of so-called &quot;unidentified aerial phenomenon,&quot; commonl...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: The Pentagon director overseeing unidentified anomalous  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/the-pentagon-director-overseeing-unidentified-anomalous-phenomena-uap-analysis-w/585895427150812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-pentagon-director-overseeing-unidentified-anomalous-phenomena-uap-analysis-w/585895427150812/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 2023: Senate Armed Services Subcommittee Hearing on the All-domain Anomaly Resolution Office (AARO) The Senate Armed Services...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/the-pentagon-director-overseeing-unidentified-anomalous-phenomena-uap-analysis-w/585895427150812/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/the-pentagon-director-overseeing-unidentified-anomalous-phenomena-uap-analysis-w/585895427150812/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>April 19, 2023: Senate Armed Services Subcommittee Hearing on the All-domain Anomaly Resolution Office (AARO) The Senate Armed Services...</p></details>
    Published: April 19, 2023

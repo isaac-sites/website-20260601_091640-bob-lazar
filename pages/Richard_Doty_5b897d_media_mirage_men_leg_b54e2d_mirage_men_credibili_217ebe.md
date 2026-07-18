@@ -262,14 +262,14 @@ image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men
 
 ## Introduction
 
-*Mirage Men* did not settle the question of Richard Doty’s credibility. It made that question harder. The documentary turned Doty into one of the most recognisable figures in modern UFO culture by presenting him simultaneously as a former insider, an admitted participant in disinformation, and a narrator of events that remain only partly verifiable. Rather than clarifying whether Doty should be trusted, the film created a credibility trap: if he is telling the truth about past deception, why should audiences trust his current claims; yet if he is lying now, why believe his admissions about earlier manipulation? <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span>
+*Mirage Men* did not settle the question of Richard Doty’s credibility. It made that question harder. The documentary turned Doty into one of the most recognisable figures in modern UFO culture by presenting him simultaneously as a former insider, an admitted participant in disinformation, and a narrator of events that remain only partly verifiable. Rather than clarifying whether Doty should be trusted, the film created a credibility trap: if he is telling the truth about past deception, why should audiences trust his current claims; yet if he is lying now, why believe his admissions about earlier manipulation?<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men_credibili_217ebe-Illustration-1-dark.svg" | relative_url }}" alt="Mirage Men illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men_credibili_217ebe-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men_credibili_217ebe-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-That tension became one of the documentary’s central themes. *Mirage Men* reframed Doty not simply as a witness to UFO history but as evidence that the history itself may have been shaped by deliberate misinformation. The result was a public image that is difficult to stabilise. Believers, [sceptics]({{ 'sceptics/' | relative_url }}) and journalists often leave the film with different conclusions while citing the same scenes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>
+That tension became one of the documentary’s central themes. *Mirage Men* reframed Doty not simply as a witness to UFO history but as evidence that the history itself may have been shaped by deliberate misinformation. The result was a public image that is difficult to stabilise. Believers, [sceptics]({{ 'sceptics/' | relative_url }}) and journalists often leave the film with different conclusions while citing the same scenes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>
 
 ## How the film reframed Doty as both source and warning sign
 
-Before *Mirage Men*, Richard Doty was already known within parts of UFO research because of his association with the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair and allegations that false information was fed into UFO networks during the Cold War. The documentary brought that story to a much wider audience. Instead of presenting Doty as a conventional whistleblower exposing hidden truths, it placed him inside a narrative about psychological operations, intelligence tactics and manipulated belief systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span> Wikipedia The film’s most important move was to reverse a familiar UFO question. Rather than asking whether the government concealed evidence of extrat <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span> errestrial activity, it asked whether parts of the government may at times have encouraged UFO beliefs for strategic reasons. Doty became the human face of that possibility. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread... Paul Bennewitz, William Cooper...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
+Before *Mirage Men*, Richard Doty was already known within parts of UFO research because of his association with the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair and allegations that false information was fed into UFO networks during the Cold War. The documentary brought that story to a much wider audience. Instead of presenting Doty as a conventional whistleblower exposing hidden truths, it placed him inside a narrative about psychological operations, intelligence tactics and manipulated belief systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span> Wikipedia The film’s most important move was to reverse a familiar UFO question. Rather than asking whether the government concealed evidence of extrat<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span> errestrial activity, it asked whether parts of the government may at times have encouraged UFO beliefs for strategic reasons. Doty became the human face of that possibility.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread... Paul Bennewitz, William Cooper...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
 
 This changed how audiences interpreted him:
 
@@ -277,7 +277,7 @@ This changed how audiences interpreted him:
 * As an alleged disinformation participant, he appeared to demonstrate how easily UFO narratives could be contaminated.
 * As a documentary interview subject, he remained the primary source for many of the most dramatic claims about those operations.
 
-That combination is unusual. Most whistleblowers gain credibility by distancing themselves from alleged deception. Doty's public role became the opposite: his significance came partly from admitting involvement in deception. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mic.com/articles/96560/the-sad-bizarre-truth-about-ufo-conspiracy-theorists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mic.com">[Mic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mic.com</span><span class="citation-popover-title">The Sad, Bizarre Truth About UFO Conspiracy Theorists</span><span class="citation-popover-snippet">The Sad, Bizarre Truth About UFO Conspiracy Theorists - MicAug 19, 2014 — In the documentary, Doty claims that he was instructed to in...</span></span></span>
+That combination is unusual. Most whistleblowers gain credibility by distancing themselves from alleged deception. Doty's public role became the opposite: his significance came partly from admitting involvement in deception.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.mic.com/articles/96560/the-sad-bizarre-truth-about-ufo-conspiracy-theorists" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: mic.com">[Mic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">mic.com</span><span class="citation-popover-title">The Sad, Bizarre Truth About UFO Conspiracy Theorists</span><span class="citation-popover-snippet">The Sad, Bizarre Truth About UFO Conspiracy Theorists - MicAug 19, 2014 — In the documentary, Doty claims that he was instructed to in...</span></span></span>
 
 The film therefore transformed Doty from a source of UFO claims into a case study about source reliability itself.
 
@@ -285,7 +285,7 @@ The film therefore transformed Doty from a source of UFO claims into a case stud
 
 A common audience reaction is that admitting past misconduct must make a witness more trustworthy. *Mirage Men* complicates that assumption.
 
-In the documentary and related discussions, Doty is presented as someone who allegedly participated in efforts to mislead Paul Bennewitz, a businessman and UFO researcher who became convinced he had uncovered evidence of extraterrestrial activity around military facilities in New Mexico. The film's broader argument is that false narratives may have been encouraged around genuine classified military projects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>, a confession creates its own credibility problems.
+In the documentary and related discussions, Doty is presented as someone who allegedly participated in efforts to mislead Paul Bennewitz, a businessman and UFO researcher who became convinced he had uncovered evidence of extraterrestrial activity around military facilities in New Mexico. The film's broader argument is that false narratives may have been encouraged around genuine classified military projects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia However]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>, a confession creates its own credibility problems.
 
 ### The self-validating witness problem
 
@@ -302,11 +302,11 @@ This is the central trap created by *Mirage Men*. Doty's admissions can make him
 
 </div>
 
-The result is a witness whose admissions increase his importance while simultaneously weakening confidence in his unsupported [statements]({{ 'statements/' | relative_url }}). <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span>
+The result is a witness whose admissions increase his importance while simultaneously weakening confidence in his unsupported [statements]({{ 'statements/' | relative_url }}).<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span>
 
 ### The performance problem
 
-Critics of Doty often argue that the film leaves unresolved whether audiences are watching a genuine confession or a continuation of a long-running role. Some reviewers noted that *Mirage Men* deliberately embraces uncertainty rather than providing definitive answers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scene-stealers.com">[scene-stealers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scene-stealers.com</span><span class="citation-popover-title">siff 2014 mirage men movie review</span><span class="citation-popover-snippet">SIFF 2014: &#x27;Mirage Men&#x27; Movie Review - Scene-Stealers2 Jun 2014 — The documentary seems content to throw a lot of wild ideas at the wall...</span></span></span>
+Critics of Doty often argue that the film leaves unresolved whether audiences are watching a genuine confession or a continuation of a long-running role. Some reviewers noted that *Mirage Men* deliberately embraces uncertainty rather than providing definitive answers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scene-stealers.com">[scene-stealers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scene-stealers.com</span><span class="citation-popover-title">siff 2014 mirage men movie review</span><span class="citation-popover-snippet">SIFF 2014: &#x27;Mirage Men&#x27; Movie Review - Scene-Stealers2 Jun 2014 — The documentary seems content to throw a lot of wild ideas at the wall...</span></span></span>
 
 That ambiguity may have artistic value, but it creates evidential difficulties. A documentary can show that someone participated in a culture of deception without proving which specific claims are true, false, exaggerated or partially remembered decades later.
 
@@ -317,9 +317,9 @@ In practical terms, the film increased Doty's visibility while leaving the under
 
 The most damaging element for Doty's public credibility is not any single UFO claim. It is the allegation that a civilian researcher was deliberately pushed deeper into false beliefs.
 
-Paul Bennewitz became convinced that unusual observations near military facilities were connected to an alien presence. According to accounts presented in *Mirage Men* and discussed by Mark Pilkington, intelligence and military figures allegedly reinforced some of those beliefs rather than correcting them. Bennewitz's mental health deteriorated significantly, and the story has become one of the most cited examples of alleged UFO-related disinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For credibility assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>, the significance is straightforward.
+Paul Bennewitz became convinced that unusual observations near military facilities were connected to an alien presence. According to accounts presented in *Mirage Men* and discussed by Mark Pilkington, intelligence and military figures allegedly reinforced some of those beliefs rather than correcting them. Bennewitz's mental health deteriorated significantly, and the story has become one of the most cited examples of alleged UFO-related disinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia For credibility assessment]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span>, the significance is straightforward.
 
-If viewers accept the documentary's broad account of the Bennewitz affair, then Doty becomes evidence that intelligence-linked misinformation can enter UFO culture and spread for years. That conclusion encourages scepticism toward later extraordinary claims associated with him. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 — Moore subsequently left the UFO community. Alien disinformation goes back to the early days of UFOlogy. When the Army Air...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>, [supporters]({{ 'supporters/' | relative_url }}) sometimes argue that involvement in information operations does not automatically mean every later statement is false. They note that a person may possess genuine knowledge while also having participated in deception. The problem is that the documentary offers no reliable method for separating those categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span>
+If viewers accept the documentary's broad account of the Bennewitz affair, then Doty becomes evidence that intelligence-linked misinformation can enter UFO culture and spread for years. That conclusion encourages scepticism toward later extraordinary claims associated with him.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[Skeptoid At the same time]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">Mirage Men: A New Chapter in UFOlogy</span><span class="citation-popover-snippet">May 29, 2014 — Moore subsequently left the UFO community. Alien disinformation goes back to the early days of UFOlogy. When the Army Air...</span><span class="citation-popover-meta">Published: May 29, 2014</span></span></span>, [supporters]({{ 'supporters/' | relative_url }}) sometimes argue that involvement in information operations does not automatically mean every later statement is false. They note that a person may possess genuine knowledge while also having participated in deception. The problem is that the documentary offers no reliable method for separating those categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span>
 
 That unresolved separation is exactly why the film functions as a credibility trap.
 
@@ -336,7 +336,7 @@ The documentary provides support for a narrower set of conclusions:
 * Government and military organisations have historically used deception and counterintelligence techniques.
 * UFO communities have sometimes been exposed to misinformation.
 * Classified aerospace programmes can generate unusual sightings and speculation.
-* Doty had a real AFOSI background and became connected to controversies involving UFO researchers. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread... Paul Bennewitz, William Cooper...</span></span></span>
+* Doty had a real AFOSI background and became connected to controversies involving UFO researchers.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Mirage Men</span><span class="citation-popover-snippet">Mirage Men</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread... Paul Bennewitz, William Cooper...</span></span></span>
 
 These conclusions do not require accepting extraterrestrial claims.
 
@@ -353,206 +353,206 @@ The documentary does not independently prove:
 
 </div>
 
-This distinction is crucial because audiences sometimes emerge from the film believing they have seen proof of one side or the other. In reality, the film is strongest when demonstrating uncertainty, contamination and manipulation inside UFO culture rather than when establishing a definitive alternative narrative. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scene-stealers.com">[2scene-stealers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scene-stealers.com</span><span class="citation-popover-title">siff 2014 mirage men movie review</span><span class="citation-popover-snippet">SIFF 2014: &#x27;Mirage Men&#x27; Movie Review - Scene-Stealers2 Jun 2014 — The documentary seems content to throw a lot of wild ideas at the wall...</span></span></span>
+This distinction is crucial because audiences sometimes emerge from the film believing they have seen proof of one side or the other. In reality, the film is strongest when demonstrating uncertainty, contamination and manipulation inside UFO culture rather than when establishing a definitive alternative narrative.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: scene-stealers.com">[2scene-stealers.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">scene-stealers.com</span><span class="citation-popover-title">siff 2014 mirage men movie review</span><span class="citation-popover-snippet">SIFF 2014: &#x27;Mirage Men&#x27; Movie Review - Scene-Stealers2 Jun 2014 — The documentary seems content to throw a lot of wild ideas at the wall...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men_credibili_217ebe-Illustration-3-dark.svg" | relative_url }}" alt="Mirage Men illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men_credibili_217ebe-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_mirage_men_credibili_217ebe-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why Mirage Men still shapes discussions about Doty
 
-More than a decade after its release, *Mirage Men* remains one of the most influential media portrayals of Richard Doty because it changed the terms of the debate. Instead of asking whether he is a heroic insider or a straightforward fraud, it framed him as a figure who may embody both genuine institutional access and the corrosive effects of disinformation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
+More than a decade after its release, *Mirage Men* remains one of the most influential media portrayals of Richard Doty because it changed the terms of the debate. Instead of asking whether he is a heroic insider or a straightforward fraud, it framed him as a figure who may embody both genuine institutional access and the corrosive effects of disinformation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</span><span class="citation-popover-meta">Published: September 29, 1927</span></span></span>
 
-That framing continues to affect how later appearances are received. When Doty speaks publicly, supporters may see a former insider finally discussing hidden history. Critics may see an admitted participant in misinformation whose statements require unusually high levels of verification. Both reactions are reinforced by the documentary itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is Richard Doty in all of these UFO shows, when he&#x27;s...Now he&#x27;s on a ton of alien and UFO shows saying the exact opposite to w...</span></span></span>
+That framing continues to affect how later appearances are received. When Doty speaks publicly, supporters may see a former insider finally discussing hidden history. Critics may see an admitted participant in misinformation whose statements require unusually high levels of verification. Both reactions are reinforced by the documentary itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Why is Richard Doty in all of these UFO shows, when he&#x27;s...Now he&#x27;s on a ton of alien and UFO shows saying the exact opposite to w...</span></span></span>
 
-The lasting effect of *Mirage Men* is therefore not that it proved Doty credible or non-credible. Its deeper impact was to make credibility the central question. By presenting him as both witness and warning sign, the film ensured that nearly every future claim associated with Richard Doty would be judged through the possibility that the story itself may be part of the fog. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span>
+The lasting effect of *Mirage Men* is therefore not that it proved Doty credible or non-credible. Its deeper impact was to make credibility the central question. By presenting him as both witness and warning sign, the film ensured that nearly every future claim associated with Richard Doty would be judged through the possibility that the story itself may be part of the fog.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-snippet">The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: hollywoodreporter.com">[The Hollywood Reporter]</a><span class="citation-popover" role="note"><span class="citation-popover-source">hollywoodreporter.com</span><span class="citation-popover-title">mirage men film review 568349</span><span class="citation-popover-snippet">The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to Did Mirage Men clarify Doty or deepen the fog?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to Did Mirage Men clarify Doty or deepen the fog?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Henry Hughes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
+</h4>
+<p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
-        </h4>
-        <p class="fr-book-author">By Von Axle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
+</h4>
+<p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-        </h4>
-        <p class="fr-book-author">By Anthony F. Sanchez</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+</h4>
+<p class="fr-book-author">By Anthony F. Sanchez</p>
         
-        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Charles River Charles River Editors</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Hotspots of the American Southeast</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="did-mirage-men-clarify-doty-or-deepen-the-fog-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ The lasting effect of *Mirage Men* is therefore not that it proved Doty credible
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ The lasting effect of *Mirage Men* is therefore not that it proved Doty credible
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ The lasting effect of *Mirage Men* is therefore not that it proved Doty credible
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ The lasting effect of *Mirage Men* is therefore not that it proved Doty credible
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ The lasting effect of *Mirage Men* is therefore not that it proved Doty credible
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,148 +758,148 @@ The lasting effect of *Mirage Men* is therefore not that it proved Doty credible
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread... Paul Bennewitz, William Cooper...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationBy 2013, the film Mirage Men revealed an organized campaign to spread... Paul Bennewitz, William Cooper...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: mic.com  
    Title: The Sad, Bizarre Truth About UFO Conspiracy Theorists  
-   Link: <a href="https://www.mic.com/articles/96560/the-sad-bizarre-truth-about-ufo-conspiracy-theorists" target="_blank" rel="noopener noreferrer nofollow">https://www.mic.com/articles/96560/the-sad-bizarre-truth-about-ufo-conspiracy-theorists</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Sad, Bizarre Truth About UFO Conspiracy Theorists - MicAug 19, 2014 — In the documentary, Doty claims that he was instructed to in...</p></details>
+   Link:<a href="https://www.mic.com/articles/96560/the-sad-bizarre-truth-about-ufo-conspiracy-theorists" target="_blank" rel="noopener noreferrer nofollow">https://www.mic.com/articles/96560/the-sad-bizarre-truth-about-ufo-conspiracy-theorists</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Sad, Bizarre Truth About UFO Conspiracy Theorists - MicAug 19, 2014 — In the documentary, Doty claims that he was instructed to in...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: scene-stealers.com  
    Title: siff 2014 mirage men movie review  
-   Link: <a href="https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SIFF 2014: &#x27;Mirage Men&#x27; Movie Review - Scene-Stealers2 Jun 2014 — The documentary seems content to throw a lot of wild ideas at the wall...</p></details>
+   Link:<a href="https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.scene-stealers.com/reviews/print-reviews/siff-2014-mirage-men-movie-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SIFF 2014: &#x27;Mirage Men&#x27; Movie Review - Scene-Stealers2 Jun 2014 — The documentary seems content to throw a lot of wild ideas at the wall...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul BennewitzPaul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Benne...</p></details>
    Published: September 29, 1927  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: skeptoid.com  
    Title: Mirage Men: A New Chapter in UFOlogy  
-   Link: <a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2014 — Moore subsequently left the UFO community. Alien disinformation goes back to the early days of UFOlogy. When the Army Air...</p></details>
+   Link:<a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>May 29, 2014 — Moore subsequently left the UFO community. Alien disinformation goes back to the early days of UFOlogy. When the Army Air...</p></details>
    Published: May 29, 2014  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Why is Richard Doty in all of these UFO shows, when he&#x27;s...Now he&#x27;s on a ton of alien and UFO shows saying the exact opposite to w...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/13izl10/why_is_richard_doty_in_all_of_these_ufo_shows/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Why is Richard Doty in all of these UFO shows, when he&#x27;s...Now he&#x27;s on a ton of alien and UFO shows saying the exact opposite to w...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/16npxgr/mirage_men_is_still_the_ultimate_documentary_film/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16npxgr/mirage_men_is_still_the_ultimate_documentary_film/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>e Knapp and the disclosure guys. What was Puthoff paying him to do...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/16npxgr/mirage_men_is_still_the_ultimate_documentary_film/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/16npxgr/mirage_men_is_still_the_ultimate_documentary_film/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>e Knapp and the disclosure guys. What was Puthoff paying him to do...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>A reminder that government agencies pump the...Long story short, Bennewitz was recording footage of genuine classified programs, so the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/17jpjvm/a_reminder_that_government_agencies_pump_the_ufo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A reminder that government agencies pump the...Long story short, Bennewitz was recording footage of genuine classified programs, so the...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1hmkbj2/richard_doty_paul_bennewitz_dulce_base_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hmkbj2/richard_doty_paul_bennewitz_dulce_base_and_the/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, Paul Bennewitz, Dulce Base, and the time...He was told to make Bennewitz believe there was an impending alien invasion bec...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1hmkbj2/richard_doty_paul_bennewitz_dulce_base_and_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1hmkbj2/richard_doty_paul_bennewitz_dulce_base_and_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, Paul Bennewitz, Dulce Base, and the time...He was told to make Bennewitz believe there was an impending alien invasion bec...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
    Title: infamous 1989 disinformation confession speech by  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Moore has to say the fact is that I have information that will add to your knowledge of the UFO phenomenon...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Moore has to say the fact is that I have information that will add to your knowledge of the UFO phenomenon...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hollywoodreporter.com  
    Title: mirage men film review 568349  
-   Link: <a href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</p></details>
+   Link:<a href="https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/" target="_blank" rel="noopener noreferrer nofollow">https://www.hollywoodreporter.com/movies/movie-reviews/mirage-men-film-review-568349/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Hollywood ReporterMirage Men: Film Review13 Jun 2013 — Tantalizing documentary suggests UFO folklore was deliberately fabricated unde...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: theguardian.com  
-   Link: <a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</p></details>
+   Link:<a href="https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/film/2014/aug/14/men-in-black-ufo-sightings-mirage-makers-movie</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The GuardianThe real Men in Black, Hollywood and the great UFO cover...Aug 14, 2014 — Rather than covering up the existence of aliens, c...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: e-flux.com  
-   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-flux... UFO community and to spread military disinformation about UFOs among their peers. To accomplish this, Doty supplied fake...</p></details>
+   Link:<a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-flux... UFO community and to spread military disinformation about UFOs among their peers. To accomplish this, Doty supplied fake...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: acampbell.org.uk  
-   Link: <a href="https://www.acampbell.org.uk/bookreviews/r/pilkington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acampbell.org.uk/bookreviews/r/pilkington.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men, by Mark Pilkington22 Sept 2010 — Their investigation centred on one individual in particular, Richard Doty, &quot;a Mephistophelea...</p></details>
+   Link:<a href="https://www.acampbell.org.uk/bookreviews/r/pilkington.html" target="_blank" rel="noopener noreferrer nofollow">https://www.acampbell.org.uk/bookreviews/r/pilkington.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men, by Mark Pilkington22 Sept 2010 — Their investigation centred on one individual in particular, Richard Doty, &quot;a Mephistophelea...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: tubitv.com  
    Title: mirage men  
-   Link: <a href="https://tubitv.com/movies/100021359/mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://tubitv.com/movies/100021359/mirage-men</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Mirage Men (2013) - Free MoviesMirage Men. Documentary ·. 2013 · 1 hr 29 min. TV-14. Play in the App. Free... Starring:Greg Bishop...</p></details>
+   Link:<a href="https://tubitv.com/movies/100021359/mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://tubitv.com/movies/100021359/mirage-men</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Watch Mirage Men (2013) - Free MoviesMirage Men. Documentary ·. 2013 · 1 hr 29 min. TV-14. Play in the App. Free... Starring:Greg Bishop...</p></details>
 
 ### Additional References
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: letterboxd.com  
-   Link: <a href="https://letterboxd.com/gdw/film/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/gdw/film/mirage-men/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mirage Men&#x27; review by Graham WilliamsonThe book still has the shape of a classic UFO-conspiracy narrative, with Pilkington as our hero g...</p></details>
+   Link:<a href="https://letterboxd.com/gdw/film/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://letterboxd.com/gdw/film/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&#x27;Mirage Men&#x27; review by Graham WilliamsonThe book still has the shape of a classic UFO-conspiracy narrative, with Pilkington as our hero g...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: issues.org  
-   Link: <a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Won&#x27;t Go Away... documentary shows such as the History Channel&#x27;s Ancient Aliens. Elizondo resented the suggestion (already made by o...</p></details>
+   Link:<a href="https://issues.org/ufos-wont-go-away/" target="_blank" rel="noopener noreferrer nofollow">https://issues.org/ufos-wont-go-away/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs Won&#x27;t Go Away... documentary shows such as the History Channel&#x27;s Ancient Aliens. Elizondo resented the suggestion (already made by o...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=awsv66J31S8</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government&#x27;s UFO Manipulation ProgramFor over 60 years, the US Air Force and US intelligence services exploited and manipul...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=awsv66J31S8" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=awsv66J31S8</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Inside the US Government&#x27;s UFO Manipulation ProgramFor over 60 years, the US Air Force and US intelligence services exploited and manipul...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: gangstalkingmindcontrolcults.com  
    Title: government us air force nsa targeting paul bennewitz ufo researcher  
-   Link: <a href="https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/" target="_blank" rel="noopener noreferrer nofollow">https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Mirage Men” (Spooks), Government Targeting of UFO...Feb 26, 2025 — Bob Durant: Doty was feeding this man (Bennewitz) all kinds of lies...</p></details>
+   Link:<a href="https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/" target="_blank" rel="noopener noreferrer nofollow">https://gangstalkingmindcontrolcults.com/government-us-air-force-nsa-targeting-paul-bennewitz-ufo-researcher/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Mirage Men” (Spooks), Government Targeting of UFO...Feb 26, 2025 — Bob Durant: Doty was feeding this man (Bennewitz) all kinds of lies...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: goodreads.com  
-   Link: <a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>still believe crop circles to be alien artwork, anyway) and seen a UFO while...Read more...</p></details>
+   Link:<a href="https://www.goodreads.com/book/show/8677692-mirage-men" target="_blank" rel="noopener noreferrer nofollow">https://www.goodreads.com/book/show/8677692-mirage-men</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>still believe crop circles to be alien artwork, anyway) and seen a UFO while...Read more...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
    Title: ufos the great gaslighting af1a337abc64  
-   Link: <a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The Great Gaslighting. The Real Men in Black?... Paul Bennewitz, a New Mexico electronics entrepreneur. In 1979, Bennewitz... The...</p></details>
+   Link:<a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs: The Great Gaslighting. The Real Men in Black?... Paul Bennewitz, a New Mexico electronics entrepreneur. In 1979, Bennewitz... The...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: heyuguys.com  
    Title: fantastic fest 2013 mirage men review  
-   Link: <a href="https://www.heyuguys.com/fantastic-fest-2013-mirage-men-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.heyuguys.com/fantastic-fest-2013-mirage-men-review/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation campaign, whose goal is to perpetuate and cultivate the UFO mythos. Their reasoning for such a thing? This is better left...</p></details>
+   Link:<a href="https://www.heyuguys.com/fantastic-fest-2013-mirage-men-review/" target="_blank" rel="noopener noreferrer nofollow">https://www.heyuguys.com/fantastic-fest-2013-mirage-men-review/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation campaign, whose goal is to perpetuate and cultivate the UFO mythos. Their reasoning for such a thing? This is better left...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: telegraph.co.uk  
    Title: Mirage Men Sheffield Doc Fest review  
-   Link: <a href="https://www.telegraph.co.uk/culture/film/10121200/Mirage-Men-Sheffield-DocFest-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/culture/film/10121200/Mirage-Men-Sheffield-DocFest-review.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men, Sheffield Doc/Fest, review14 Jun 2013 — This UFO documentary poses so many unanswerable questions, it may leave a wider audie...</p></details>
+   Link:<a href="https://www.telegraph.co.uk/culture/film/10121200/Mirage-Men-Sheffield-DocFest-review.html" target="_blank" rel="noopener noreferrer nofollow">https://www.telegraph.co.uk/culture/film/10121200/Mirage-Men-Sheffield-DocFest-review.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men, Sheffield Doc/Fest, review14 Jun 2013 — This UFO documentary poses so many unanswerable questions, it may leave a wider audie...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: netflix.com  
-   Link: <a href="https://www.netflix.com/title/70305797" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70305797</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ries, Movies Based on Books. This show is...Read more...</p></details>
+   Link:<a href="https://www.netflix.com/title/70305797" target="_blank" rel="noopener noreferrer nofollow">https://www.netflix.com/title/70305797</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ries, Movies Based on Books. This show is...Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: UFO researcher Mark Pilkington on deception...Oct 6, 2010 — Working in the field of UFO phenomena, the Mirage Men sow e...</p></details>

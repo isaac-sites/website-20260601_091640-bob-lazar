@@ -259,13 +259,13 @@ image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_urgent_con
 David Grusch’s “urgent concern” filing is one of the most misunderstood parts of his public story. Supporters often point to the Intelligence Community Inspector General (ICIG) process as evidence that his allegations were officially validated. Critics often respond that no inspector general confirmed the existence of alien spacecraft or a secret reverse-engineering programme. Both positions contain part of the truth.
 
 <img src="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_urgent_concern_limit_0b7f36-Illustration-1-dark.svg" | relative_url }}" alt="Urgent concern illustration 1" data-theme-src-dark="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_urgent_concern_limit_0b7f36-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_urgent_concern_limit_0b7f36-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-What the filing clearly did was move Grusch’s allegations into a formal intelligence-community [oversight]({{ 'oversight/' | relative_url }}) channel designed for serious classified concerns. That gave the matter institutional weight and triggered legal procedures unavailable to ordinary public claims. What it did not do was publicly establish that the most extraordinary allegations were factually correct. The central question is therefore not whether an urgent concern filing happened, but what such a filing is actually capable of proving. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
+What the filing clearly did was move Grusch’s allegations into a formal intelligence-community [oversight]({{ 'oversight/' | relative_url }}) channel designed for serious classified concerns. That gave the matter institutional weight and triggered legal procedures unavailable to ordinary public claims. What it did not do was publicly establish that the most extraordinary allegations were factually correct. The central question is therefore not whether an urgent concern filing happened, but what such a filing is actually capable of proving.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
 
 ## What urgent concern means in intelligence rules
 
-The phrase “urgent concern” has a specific legal meaning inside the US intelligence system. It is not a general finding that a whistleblower is right. Rather, it is a statutory category used when a complaint involves a serious matter relating to intelligence activities, classified information, congressional oversight, or [retaliation]({{ 'retaliation/' | relative_url }}) against someone making a protected disclosure. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
+The phrase “urgent concern” has a specific legal meaning inside the US intelligence system. It is not a general finding that a whistleblower is right. Rather, it is a statutory category used when a complaint involves a serious matter relating to intelligence activities, classified information, congressional oversight, or [retaliation]({{ 'retaliation/' | relative_url }}) against someone making a protected disclosure.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
 
-Under the Intelligence Community Whistleblower Protection Act framework, a member of the intelligence community may submit a complaint to the ICIG. The inspector general then assesses whether the complaint appears credible and whether it falls within the urgent-concern category. If it does, procedures exist for transmitting the matter to senior intelligence officials and congressional intelligence committees. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
+Under the Intelligence Community Whistleblower Protection Act framework, a member of the intelligence community may submit a complaint to the ICIG. The inspector general then assesses whether the complaint appears credible and whether it falls within the urgent-concern category. If it does, procedures exist for transmitting the matter to senior intelligence officials and congressional intelligence committees.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
 
 That process is fundamentally about oversight. It is designed to ensure that potentially serious classified allegations can reach Congress without the whistleblower publicly revealing protected information.
 
@@ -275,13 +275,13 @@ A useful comparison is a corruption complaint. If an inspector general determine
 
 One reason Grusch’s filing gained traction is that it was not framed solely as a claim about non-human technology. His public account consistently combined extraordinary UAP allegations with a governance argument.
 
-Grusch stated that while working with UAP-related investigative efforts, he was informed by other officials of alleged programmes involving crash retrievals and reverse engineering. He also claimed that information relevant to Congress's oversight responsibilities was being withheld through highly restricted access structures. In his telling, the core issue was not only what existed, but whether authorised oversight bodies were being denied access to information they were legally entitled to review. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">david c. grusch</span><span class="citation-popover-snippet">david c. gruschJune 28, 2023 — Grusch now wishes to directly communicate the classified specifics of his UAP-related Urgent Co...</span><span class="citation-popover-meta">Published: June 28, 2023</span></span></span>
+Grusch stated that while working with UAP-related investigative efforts, he was informed by other officials of alleged programmes involving crash retrievals and reverse engineering. He also claimed that information relevant to Congress's oversight responsibilities was being withheld through highly restricted access structures. In his telling, the core issue was not only what existed, but whether authorised oversight bodies were being denied access to information they were legally entitled to review.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">david c. grusch</span><span class="citation-popover-snippet">david c. gruschJune 28, 2023 — Grusch now wishes to directly communicate the classified specifics of his UAP-related Urgent Co...</span><span class="citation-popover-meta">Published: June 28, 2023</span></span></span>
 
 That distinction matters because intelligence-community whistleblower mechanisms are well suited to allegations involving:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Concealment from Congress. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsGrusch&#x27;s assertion that information was inappropriately concealed from Congress to be urg...</span></span></span>
+* Concealment from Congress.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsGrusch&#x27;s assertion that information was inappropriately concealed from Congress to be urg...</span></span></span>
 * Misuse of classified programme structures.
 * Improper access restrictions.
 * Retaliation against officials raising concerns.
@@ -291,11 +291,11 @@ That distinction matters because intelligence-community whistleblower mechanisms
 
 Those are governance questions, not scientific determinations about extraterrestrial life.
 
-This is why the complaint could fit naturally into an urgent-concern framework even if the underlying subject matter was controversial. The oversight system is built to evaluate whether reporting channels, funding structures, access controls and congressional notification requirements were being handled properly. It is not designed to determine whether a recovered object originated from another civilisation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
+This is why the complaint could fit naturally into an urgent-concern framework even if the underlying subject matter was controversial. The oversight system is built to evaluate whether reporting channels, funding structures, access controls and congressional notification requirements were being handled properly. It is not designed to determine whether a recovered object originated from another civilisation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
 
 ## What “credible and urgent” actually tells the public
 
-The phrase “credible and urgent” became a major talking point after reporting around Grusch's complaint. The wording appeared in media coverage and in statements from attorneys associated with his case. According to reporting that accompanied Grusch’s emergence as a public whistleblower, the ICIG found aspects of his complaint “credible and urgent”. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and urgent” in Jul...</span></span></span>
+The phrase “credible and urgent” became a major talking point after reporting around Grusch's complaint. The wording appeared in media coverage and in statements from attorneys associated with his case. According to reporting that accompanied Grusch’s emergence as a public whistleblower, the ICIG found aspects of his complaint “credible and urgent”.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and urgent” in Jul...</span></span></span>
 
 The difficulty is that the public has never seen the full classified record behind that determination.
 
@@ -309,7 +309,7 @@ As a result, several different interpretations emerged:
 
 </div>
 
-The third interpretation aligns most closely with how inspector-general systems normally operate. Credibility assessments at this stage are generally threshold decisions. They ask whether allegations appear sufficiently grounded to justify formal handling, not whether every factual assertion has been conclusively established. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
+The third interpretation aligns most closely with how inspector-general systems normally operate. Credibility assessments at this stage are generally threshold decisions. They ask whether allegations appear sufficiently grounded to justify formal handling, not whether every factual assertion has been conclusively established.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
 
 The distinction is important because many public discussions blurred together three separate questions:
 
@@ -329,11 +329,11 @@ The public evidence strongly supports the first two. The third remains disputed 
 
 Another source of confusion concerns [hearsay]({{ 'hearsay/' | relative_url }}).
 
-Grusch has repeatedly indicated that many of his most dramatic claims came from interviews, documents, briefings and testimony provided by other officials rather than from his own direct observation of recovered craft. He presented himself largely as an investigator and recipient of information rather than as someone who personally witnessed every alleged programme activity. <span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">david c. grusch</span><span class="citation-popover-snippet">david c. gruschJune 28, 2023 — Grusch now wishes to directly communicate the classified specifics of his UAP-related Urgent Co...</span><span class="citation-popover-meta">Published: June 28, 2023</span></span></span>
+Grusch has repeatedly indicated that many of his most dramatic claims came from interviews, documents, briefings and testimony provided by other officials rather than from his own direct observation of recovered craft. He presented himself largely as an investigator and recipient of information rather than as someone who personally witnessed every alleged programme activity.<span class="citation-chip-wrap"><a class="citation-chip" href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: static1.squarespace.com">[Squarespace]</a><span class="citation-popover" role="note"><span class="citation-popover-source">static1.squarespace.com</span><span class="citation-popover-title">david c. grusch</span><span class="citation-popover-snippet">david c. gruschJune 28, 2023 — Grusch now wishes to directly communicate the classified specifics of his UAP-related Urgent Co...</span><span class="citation-popover-meta">Published: June 28, 2023</span></span></span>
 
 In public debate, critics often treat that fact as fatal to the complaint. Yet intelligence-community whistleblower systems do not require first-hand observation in every case.
 
-An oversight allegation may be based on interviews, documentary evidence, classified records, witness statements or patterns discovered during official duties. The key question is whether the information justifies review, not whether the whistleblower personally stood inside every facility being discussed. A similar point was publicly clarified by the ICIG during a separate high-profile whistleblower controversy in 2019, when the office stated that first-hand knowledge is not a legal requirement for filing an urgent concern complaint. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2019/10/01/watchdog-debunks-trump-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Intelligence community watchdog refutes Trump&#x27;s whistleblower claims</span><span class="citation-popover-snippet">The complaint involved Trump reportedly pressuring Ukraine to investigate political rival Joe Biden and his family. Contrary to Trump&#x27;s s...</span></span></span>
+An oversight allegation may be based on interviews, documentary evidence, classified records, witness statements or patterns discovered during official duties. The key question is whether the information justifies review, not whether the whistleblower personally stood inside every facility being discussed. A similar point was publicly clarified by the ICIG during a separate high-profile whistleblower controversy in 2019, when the office stated that first-hand knowledge is not a legal requirement for filing an urgent concern complaint.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.axios.com/2019/10/01/watchdog-debunks-trump-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: axios.com">[Axios]</a><span class="citation-popover" role="note"><span class="citation-popover-source">axios.com</span><span class="citation-popover-title">Intelligence community watchdog refutes Trump&#x27;s whistleblower claims</span><span class="citation-popover-snippet">The complaint involved Trump reportedly pressuring Ukraine to investigate political rival Joe Biden and his family. Contrary to Trump&#x27;s s...</span></span></span>
 
 That does not make second-hand claims true. It simply means their second-hand nature does not automatically disqualify them from oversight review.
 
@@ -348,211 +348,211 @@ No non-human biological material has been publicly authenticated.
 
 No official documentation proving the existence of a decades-long crash-retrieval programme has been released for public examination.
 
-No inspector-general report has been published concluding that such a programme exists. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+No inspector-general report has been published concluding that such a programme exists.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
-Supporters argue that the relevant evidence remains classified and has been provided only to authorised investigators and lawmakers. Some members of Congress have stated that they received private briefings and found the allegations serious enough to pursue further inquiry. However, seriousness of inquiry and proof of conclusion are different things. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/File%3ADavid_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">House Subcommittee on National Security, the Border, and Foreign Affairs. A hearing on &quot;...Read more...</span><span class="citation-popover-meta">Published: July 2023</span></span></span>
+Supporters argue that the relevant evidence remains classified and has been provided only to authorised investigators and lawmakers. Some members of Congress have stated that they received private briefings and found the allegations serious enough to pursue further inquiry. However, seriousness of inquiry and proof of conclusion are different things.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://it.wikipedia.org/wiki/File%3ADavid_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-snippet">House Subcommittee on National Security, the Border, and Foreign Affairs. A hearing on &quot;...Read more...</span><span class="citation-popover-meta">Published: July 2023</span></span></span>
 
-Sceptics therefore maintain that the public record still relies heavily on testimony, reputation, institutional credentials and claimed classified evidence rather than on independently verifiable material. Scientists and sceptical commentators have repeatedly argued that extraordinary technological or extraterrestrial claims require direct evidence that has not yet been produced publicly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
+Sceptics therefore maintain that the public record still relies heavily on testimony, reputation, institutional credentials and claimed classified evidence rather than on independently verifiable material. Scientists and sceptical commentators have repeatedly argued that extraordinary technological or extraterrestrial claims require direct evidence that has not yet been produced publicly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">David Grusch UFO whistleblower claims</span><span class="citation-popover-snippet">David Grusch UFO whistleblower claims</span></span></span>
 
 ## The credibility impact of the filing
 
 The urgent concern process neither proves nor disproves Grusch's central narrative. Its importance lies elsewhere.
 
-It strengthens the argument that his allegations were not merely internet rumours or entertainment-industry speculation. They entered formal oversight channels, involved inspectors general, congressional committees and classified reporting mechanisms, and were treated seriously enough to receive institutional attention. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and urgent” in Jul...</span></span></span>
+It strengthens the argument that his allegations were not merely internet rumours or entertainment-industry speculation. They entered formal oversight channels, involved inspectors general, congressional committees and classified reporting mechanisms, and were treated seriously enough to receive institutional attention.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">The Debrief Intelligence Officials Say U.S</span><span class="citation-popover-snippet">Has Retrieved Craft of Non-...5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and urgent” in Jul...</span></span></span>
 
 At the same time, the filing cannot reasonably be treated as official confirmation that the United States possesses non-human technology. The oversight mechanism was designed to evaluate reporting obligations, access issues, retaliation claims and governance failures. It was not a public adjudication of extraterrestrial evidence.
 
-For readers trying to assess Grusch’s credibility, that distinction is the most important takeaway. The urgent concern filing supports the claim that there was a real whistleblower process involving real intelligence-community oversight structures. It does not, by itself, resolve the truth of the underlying UFO and crash-retrieval allegations. The process gives the claims procedural significance; the factual confirmation still depends on evidence that remains disputed, classified, unavailable, or unverified in public view. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
+For readers trying to assess Grusch’s credibility, that distinction is the most important takeaway. The urgent concern filing supports the claim that there was a real whistleblower process involving real intelligence-community oversight structures. It does not, by itself, resolve the truth of the underlying UFO and crash-retrieval allegations. The process gives the claims procedural significance; the factual confirmation still depends on evidence that remains disputed, classified, unavailable, or unverified in public view.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dni.gov">[Director of National Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dni.gov</span><span class="citation-popover-snippet">Intelligence Community Inspector General by calling 1-855-731-3260. B...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What did Grusch&#x27;s urgent concern really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What did Grusch&#x27;s urgent concern really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Estimate+of+the+Situation+Tom+Orzechowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Estimate of the Situation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15089007-M.jpg" alt="Cover for Estimate of the Situation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Estimate+of+the+Situation+Tom+Orzechowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Estimate of the Situation">Estimate of the Situation</a>
-        </h4>
-        <p class="fr-book-author">By Tom Orzechowski, John Zoitos et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Estimate+of+the+Situation+Tom+Orzechowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Estimate of the Situation on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/15089007-M.jpg" alt="Cover for Estimate of the Situation" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Estimate+of+the+Situation+Tom+Orzechowski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Estimate of the Situation">Estimate of the Situation</a>
+</h4>
+<p class="fr-book-author">By Tom Orzechowski, John Zoitos et al.</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: UAP, History, Dramatization, UFOs, US Air Force.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Estimate+of+the+Situation+Tom+Orzechowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: UAP, History, Dramatization, UFOs, US Air Force.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Estimate+of+the+Situation+Tom+Orzechowski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Somewhere+in+the+Skies+Ryan+Sprague&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Somewhere in the Skies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13006434-M.jpg" alt="Cover for Somewhere in the Skies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Somewhere+in+the+Skies+Ryan+Sprague&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Somewhere in the Skies">Somewhere in the Skies</a>
-        </h4>
-        <p class="fr-book-author">By Ryan Sprague</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Somewhere+in+the+Skies+Ryan+Sprague&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Somewhere in the Skies on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/13006434-M.jpg" alt="Cover for Somewhere in the Skies" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Somewhere+in+the+Skies+Ryan+Sprague&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Somewhere in the Skies">Somewhere in the Skies</a>
+</h4>
+<p class="fr-book-author">By Ryan Sprague</p>
         
-        <p class="fr-book-desc">First published 2020. Subjects: UFOs &amp; Extraterrestrials, UFOs, Experiencer, Alien abduction, Abduction.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Somewhere+in+the+Skies+Ryan+Sprague&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2020. Subjects: UFOs &amp; Extraterrestrials, UFOs, Experiencer, Alien abduction, Abduction.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Somewhere+in+the+Skies+Ryan+Sprague&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers, UFOs or UAP? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers, UFOs or UAP?">Flying Saucers, UFOs or UAP?</a>
-        </h4>
-        <p class="fr-book-author">By Central Intelligence Agency (Cia), Director of National Intelligence</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers, UFOs or UAP? on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers, UFOs or UAP?">Flying Saucers, UFOs or UAP?</a>
+</h4>
+<p class="fr-book-author">By Central Intelligence Agency (Cia), Director of National Intelligence</p>
         
-        <p class="fr-book-desc">First published 1953.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1953.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F+Central+Intelligence+Agency+%28Cia%29&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COPING with UFOs / UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COPING with UFOs / UAP">COPING with UFOs / UAP</a>
-        </h4>
-        <p class="fr-book-author">By Sean McNamara</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open COPING with UFOs / UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="COPING with UFOs / UAP">COPING with UFOs / UAP</a>
+</h4>
+<p class="fr-book-author">By Sean McNamara</p>
         
-        <p class="fr-book-desc">First published 2023. Subjects: Mind and body, Psychology.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 2023. Subjects: Mind and body, Psychology.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=COPING+with+UFOs+%2F+UAP+Sean+McNamara&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Estimate+of+the+Situation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Estimate of the Situation</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Somewhere+in+the+Skies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Somewhere in the Skies</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers, UFOs or UAP?</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Estimate+of+the+Situation&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Estimate of the Situation</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Somewhere+in+the+Skies&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Somewhere in the Skies</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers%2C+UFOs+or+UAP%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers, UFOs or UAP?</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-did-grusch-s-urgent-concern-really-prove-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="what-did-grusch-s-urgent-concern-really-prove-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -568,7 +568,7 @@ For readers trying to assess Grusch’s credibility, that distinction is the mos
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -588,7 +588,7 @@ For readers trying to assess Grusch’s credibility, that distinction is the mos
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -620,7 +620,7 @@ For readers trying to assess Grusch’s credibility, that distinction is the mos
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -672,7 +672,7 @@ For readers trying to assess Grusch’s credibility, that distinction is the mos
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -717,7 +717,7 @@ For readers trying to assess Grusch’s credibility, that distinction is the mos
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -758,101 +758,101 @@ For readers trying to assess Grusch’s credibility, that distinction is the mos
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: static1.squarespace.com  
    Title: david c. grusch  
-   Link: <a href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>david c. gruschJune 28, 2023 — Grusch now wishes to directly communicate the classified specifics of his UAP-related Urgent Co...</p></details>
+   Link:<a href="https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static1.squarespace.com/static/61910a2d98732d54b73ef8fc/t/649c2ef56dd84b35d65eb278/1687957238408/David%2BGrusch%E2%80%99s%2BUFO-Related%2BReprisal%2BComplaint%2Bunclassified.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>david c. gruschJune 28, 2023 — Grusch now wishes to directly communicate the classified specifics of his UAP-related Urgent Co...</p></details>
    Published: June 28, 2023  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: David Grusch UFO whistleblower claims  
-   Link: <a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/David_Grusch_UFO_whistleblower_claims</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: axios.com  
    Title: Intelligence community watchdog refutes Trump's whistleblower claims  
-   Link: <a href="https://www.axios.com/2019/10/01/watchdog-debunks-trump-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2019/10/01/watchdog-debunks-trump-whistleblower-claims</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The complaint involved Trump reportedly pressuring Ukraine to investigate political rival Joe Biden and his family. Contrary to Trump&#x27;s s...</p></details>
+   Link:<a href="https://www.axios.com/2019/10/01/watchdog-debunks-trump-whistleblower-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.axios.com/2019/10/01/watchdog-debunks-trump-whistleblower-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The complaint involved Trump reportedly pressuring Ukraine to investigate political rival Joe Biden and his family. Contrary to Trump&#x27;s s...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
-   Link: <a href="https://it.wikipedia.org/wiki/File%3ADavid_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/File%3ADavid_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>House Subcommittee on National Security, the Border, and Foreign Affairs. A [hearing](&amp;#123;&amp;#123; &#x27;hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on &quot;...Read more...</p></details>
+   Link:<a href="https://it.wikipedia.org/wiki/File%3ADavid_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/File%3ADavid_Grusch_giving_testimony_on_26_July_2023_before_the_US_House_Subcommittee_on_National_Security_the_Border_and_Foreign_Affairs.png</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>House Subcommittee on National Security, the Border, and Foreign Affairs. A [hearing](&amp;#123;&amp;#123; &#x27;hearing/&#x27; | relative_url &amp;#125;&amp;#125;) on &quot;...Read more...</p></details>
    Published: July 2023  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: dni.gov  
    Title: Director of National Intelligence  
-   Link: <a href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Community Inspector General by calling 1-855-731-3260. B...</p></details>
+   Link:<a href="https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/index.php/careers/194-dni/about-this-site/366-summary-of-procedures-for-reporting-urgent-concerns-pursuant-to-the-icwpa</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Community Inspector General by calling 1-855-731-3260. B...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: dni.gov  
    Title: 3033 Inspector General of the Intelligence Community  
-   Link: <a href="https://www.dni.gov/files/ICIG/Documents/Policy/Authorities/3033%20Inspector%20General%20of%20the%20Intelligence%20Community.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ICIG/Documents/Policy/Authorities/3033%20Inspector%20General%20of%20the%20Intelligence%20Community.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>3033. Inspector General of the Intelligence Communitycomplaint or information with respect to an urgent concern may report such complaint...</p></details>
+   Link:<a href="https://www.dni.gov/files/ICIG/Documents/Policy/Authorities/3033%20Inspector%20General%20of%20the%20Intelligence%20Community.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dni.gov/files/ICIG/Documents/Policy/Authorities/3033%20Inspector%20General%20of%20the%20Intelligence%20Community.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>3033. Inspector General of the Intelligence Communitycomplaint or information with respect to an urgent concern may report such complaint...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: thedebrief.org  
    Title: The Debrief Intelligence Officials Say U.S  
-   Link: <a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and urgent” in Jul...</p></details>
+   Link:<a href="https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/intelligence-officials-say-u-s-has-retrieved-non-human-craft/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Has Retrieved Craft of Non-...5 Jun 2023 — The Intelligence Community Inspector General found his complaint “credible and urgent” in Jul...</p></details>
 
 ### Additional References
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsGrusch&#x27;s assertion that information was inappropriately concealed from Congress to be urg...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/16om7pk/clarifying_gruschs_urgent_and_credible_claims/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Clarifying Grusch&#x27;s &quot;urgent and credible&quot; claimsGrusch&#x27;s assertion that information was inappropriately concealed from Congress to be urg...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: x.com  
-   Link: <a href="https://x.com/ODNIgov/status/2018877869888246162" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ODNIgov/status/2018877869888246162</a>  
+   Link:<a href="https://x.com/ODNIgov/status/2018877869888246162" target="_blank" rel="noopener noreferrer nofollow">https://x.com/ODNIgov/status/2018877869888246162</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: justice.gov  
    Title: urgent concern determination inspector general intelligence community  
-   Link: <a href="https://www.justice.gov/olc/opinion/urgent-concern-determination-inspector-general-intelligence-community" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/olc/opinion/urgent-concern-determination-inspector-general-intelligence-community</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>“Urgent Concern” Determination by the Inspector General...30 Sept 2019 — A complaint from an intelligence-community employee about state...</p></details>
+   Link:<a href="https://www.justice.gov/olc/opinion/urgent-concern-determination-inspector-general-intelligence-community" target="_blank" rel="noopener noreferrer nofollow">https://www.justice.gov/olc/opinion/urgent-concern-determination-inspector-general-intelligence-community</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>“Urgent Concern” Determination by the Inspector General...30 Sept 2019 — A complaint from an intelligence-community employee about state...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: cbsnews.com  
    Title: ufo hearing congress uap takeaways whistleblower conference david grusch 2023  
-   Link: <a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
+   Link:<a href="https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/" target="_blank" rel="noopener noreferrer nofollow">https://www.cbsnews.com/news/ufo-hearing-congress-uap-takeaways-whistleblower-conference-david-grusch-2023/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO hearing key takeaways: What a whistleblower told...28 Jul 2023 — A former military intelligence officer-turned-whistleblower told Ho...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/deepuniversee/posts/a-former-us-intelligence-officer-david-grusch-gave-sworn-testimony-before-congre/965963276201561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-former-us-intelligence-officer-david-grusch-gave-sworn-testimony-before-congre/965963276201561/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence officer, David Grusch, gave [sworn testimony](&amp;#123;&amp;#123; &#x27;sworn-testimony/&#x27; | relative_url &amp;#125;&amp;#125;) before Congress in 2023 claiming that the United States has encountered and retr...</p></details>
+   Link:<a href="https://www.facebook.com/deepuniversee/posts/a-former-us-intelligence-officer-david-grusch-gave-sworn-testimony-before-congre/965963276201561/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/deepuniversee/posts/a-former-us-intelligence-officer-david-grusch-gave-sworn-testimony-before-congre/965963276201561/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>intelligence officer, David Grusch, gave [sworn testimony](&amp;#123;&amp;#123; &#x27;sworn-testimony/&#x27; | relative_url &amp;#125;&amp;#125;) before Congress in 2023 claiming that the United States has encountered and retr...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: oversightproject.org  
    Title: next steps for the intelligence community inspector general  
-   Link: <a href="https://oversightproject.org/2019/10/08/next-steps-for-the-intelligence-community-inspector-general/" target="_blank" rel="noopener noreferrer nofollow">https://oversightproject.org/2019/10/08/next-steps-for-the-intelligence-community-inspector-general/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>8 Oct 2019 — Require the DNI to forward to Congress any whistleblower complaint “that the ICIG reasonably believes” to be an “urgent conc...</p></details>
+   Link:<a href="https://oversightproject.org/2019/10/08/next-steps-for-the-intelligence-community-inspector-general/" target="_blank" rel="noopener noreferrer nofollow">https://oversightproject.org/2019/10/08/next-steps-for-the-intelligence-community-inspector-general/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>8 Oct 2019 — Require the DNI to forward to Congress any whistleblower complaint “that the ICIG reasonably believes” to be an “urgent conc...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: integrityline.com  
    Title: ufo whistleblowers extraordinary congressional hearing  
-   Link: <a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch made remarkable claims about the existenc...</p></details>
+   Link:<a href="https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/" target="_blank" rel="noopener noreferrer nofollow">https://www.integrityline.com/expertise/blog/ufo-whistleblowers-extraordinary-congressional-hearing/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>David Grusch and his Extraordinary Congressional Hearing5 Mar 2024 — Whistleblower David Grusch made remarkable claims about the existenc...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: oversight.house.gov  
    Title: Dave G HOC Speech FINAL For Trans  
-   Link: <a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Statement25 Jul 2023 — My name is David Charles Grusch. I was an... I became a Whistleblower, through a PPD-19 Urgent Concern filing wit...</p></details>
+   Link:<a href="https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf" target="_blank" rel="noopener noreferrer nofollow">https://oversight.house.gov/wp-content/uploads/2023/07/Dave_G_HOC_Speech_FINAL_For_Trans.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Statement25 Jul 2023 — My name is David Charles Grusch. I was an... I became a Whistleblower, through a PPD-19 Urgent Concern filing wit...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: odni.gov  
    Title: IC Legal Reference Book 2024  
-   Link: <a href="https://www.odni.gov/files/documents/OGC/IC-Legal-Reference-Book-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/files/documents/OGC/IC-Legal-Reference-Book-2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Office of General Counsel updated the Reference Book to reflect legal developments since the 2020 edition and comments received from the...</p></details>
+   Link:<a href="https://www.odni.gov/files/documents/OGC/IC-Legal-Reference-Book-2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.odni.gov/files/documents/OGC/IC-Legal-Reference-Book-2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Office of General Counsel updated the Reference Book to reflect legal developments since the 2020 edition and comments received from the...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>is critically important to note what the testimony does...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/vicetv/posts/former-intelligence-officer-david-grusch-shocked-congress-with-claims-of-a-secre/1299111279000720/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>is critically important to note what the testimony does...Read more...</p></details>

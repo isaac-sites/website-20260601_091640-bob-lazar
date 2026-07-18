@@ -265,22 +265,22 @@ image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_b
 The magnesium-bismuth specimen promoted through To The Stars Academy of Arts & Science became one of the most publicised pieces of alleged UFO-related physical evidence in recent years. For supporters, it appeared to offer something rare in UAP debates: a tangible object that could be examined in a laboratory rather than a witness account or video clip. For critics, it became a test of whether extraordinary provenance claims could survive independent scientific scrutiny.
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-1-dark.svg" | relative_url }}" alt="Metal sample illustration 1" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The result was far less dramatic than many early claims suggested. Publicly released analysis from the US government's All-domain Anomaly Resolution Office and researchers at Oak Ridge National Laboratory concluded that the specimen's isotopic composition was consistent with terrestrial manufacture and that its physical properties did not support a prominent claim that it had functioned as a terahertz waveguide. The sample remained unusual in construction, but the strongest arguments for exotic or non-human origin were not supported by the published evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+The result was far less dramatic than many early claims suggested. Publicly released analysis from the US government's All-domain Anomaly Resolution Office and researchers at Oak Ridge National Laboratory concluded that the specimen's isotopic composition was consistent with terrestrial manufacture and that its physical properties did not support a prominent claim that it had functioned as a terahertz waveguide. The sample remained unusual in construction, but the strongest arguments for exotic or non-human origin were not supported by the published evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
 For assessing the credibility of [Hal Puthoff]({{ 'how-credible-is-hal-puthoff/' | relative_url }}), this case matters because it moved beyond speculation into direct testing. Unlike many UAP stories, the central claim here could be investigated with metallurgy, isotope analysis and materials science.
 
 ## How the specimen entered the UFO story
 
-The specimen was a layered metallic material composed primarily of magnesium-zinc alloy and bismuth arranged in alternating microscopic layers. Versions of the material had circulated in UFO research circles for years and became associated with claims that it originated from a recovered unidentified craft. TTSA later incorporated the sample into its ADAM research programme, which sought to study alleged advanced materials connected to UAP reports. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</span><span class="citation-popover-meta">Published: September 28, 2018</span></span></span>
+The specimen was a layered metallic material composed primarily of magnesium-zinc alloy and bismuth arranged in alternating microscopic layers. Versions of the material had circulated in UFO research circles for years and became associated with claims that it originated from a recovered unidentified craft. TTSA later incorporated the sample into its ADAM research programme, which sought to study alleged advanced materials connected to UAP reports.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</span><span class="citation-popover-meta">Published: September 28, 2018</span></span></span>
 
 TTSA's own public descriptions were more cautious than some of the surrounding UFO folklore. The organisation stated that documentation supplied with the sample claimed a UAP recovery origin, but also acknowledged that the provenance could not be independently verified. At the same time, TTSA highlighted features it considered potentially significant:
 
-* Micron-scale layering of magnesium-zinc and bismuth. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/TheAnomalyArchives/posts/material-of-interest-magnesium-zinc-bismuthone-for-the-science-minded-over-the-l/1234185086763597/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">One for the...26 Jul 2019 — TTS Academy&#x27;s ADAM Research Project, an acronym for Acquisition &amp; Data Analysis of Materials, focuses on the...</span></span></span>
+* Micron-scale layering of magnesium-zinc and bismuth.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/TheAnomalyArchives/posts/material-of-interest-magnesium-zinc-bismuthone-for-the-science-minded-over-the-l/1234185086763597/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-title">Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">One for the...26 Jul 2019 — TTS Academy&#x27;s ADAM Research Project, an acronym for Acquisition &amp; Data Analysis of Materials, focuses on the...</span></span></span>
 * Claims of unusual isotopic composition.
 * The possibility that the material had engineered electromagnetic properties.
-* Speculation that it might relate to advanced aerospace technology. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</span><span class="citation-popover-meta">Published: September 28, 2018</span></span></span>
+* Speculation that it might relate to advanced aerospace technology.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</span><span class="citation-popover-meta">Published: September 28, 2018</span></span></span>
 
-The sample acquired a near-mythical reputation within parts of UFO culture. It was sometimes linked to radio host Art Bell and became known informally as "Art's Parts". Over time, stories attached to it expanded beyond simple crash-retrieval claims and into assertions that it possessed extraordinary electromagnetic behaviour. <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen — popularly known a...</span></span></span>
+The sample acquired a near-mythical reputation within parts of UFO culture. It was sometimes linked to radio host Art Bell and became known informally as "Art's Parts". Over time, stories attached to it expanded beyond simple crash-retrieval claims and into assertions that it possessed extraordinary electromagnetic behaviour.<span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen — popularly known a...</span></span></span>
 
 A crucial weakness was present from the beginning: the object's story and the object itself were not the same thing. The specimen could be physically real while its alleged UFO origin remained undocumented.
 
@@ -290,7 +290,7 @@ One of the most ambitious claims attached to the specimen was that the layered b
 
 A terahertz waveguide is a structure designed to channel electromagnetic radiation in the terahertz frequency range, between microwave and infrared frequencies. In conventional science and engineering, such devices can be useful for sensing, communications and specialised electronics.
 
-Within some UFO-related discussions, however, the idea grew into something much larger. The layered structure was sometimes presented as evidence of advanced propulsion concepts, mass-reduction technologies or exotic aerospace systems supposedly beyond known human capabilities. The exact mechanism was often poorly defined, but the implication was that the specimen represented technology unavailable to ordinary industry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AARO Releases Findings on Suspected Extraterrestrial AlloyThe All-domain Anomaly Resolution Office (AARO) published two reports detailing...</span></span></span>
+Within some UFO-related discussions, however, the idea grew into something much larger. The layered structure was sometimes presented as evidence of advanced propulsion concepts, mass-reduction technologies or exotic aerospace systems supposedly beyond known human capabilities. The exact mechanism was often poorly defined, but the implication was that the specimen represented technology unavailable to ordinary industry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AARO Releases Findings on Suspected Extraterrestrial AlloyThe All-domain Anomaly Resolution Office (AARO) published two reports detailing...</span></span></span>
 
 For researchers attempting to evaluate the claim, this created a straightforward scientific question: did the specimen possess physical properties consistent with such a function?
 
@@ -305,31 +305,31 @@ The most important development came when AARO commissioned Oak Ridge National La
 1. Whether the specimen's composition suggested a non-terrestrial origin.
 2. Whether its bismuth layers could plausibly function as a terahertz waveguide. [AARO]
 
-The laboratory applied isotope measurements, elemental analysis, microscopy and structural characterisation techniques. According to the released synopsis, investigators found that the isotopic composition of magnesium and lead fell within expected terrestrial ranges. The material therefore did not display the sort of isotopic anomalies that would strongly suggest formation outside Earth or outside the Solar System. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin...</span></span></span>
+The laboratory applied isotope measurements, elemental analysis, microscopy and structural characterisation techniques. According to the released synopsis, investigators found that the isotopic composition of magnesium and lead fell within expected terrestrial ranges. The material therefore did not display the sort of isotopic anomalies that would strongly suggest formation outside Earth or outside the Solar System.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin...</span></span></span>
 
-The second conclusion was equally significant. ORNL found that the specimen's physical and elemental properties were incompatible with the proposed terahertz waveguide role. AARO later publicly endorsed that conclusion in its own supplementary assessment. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
+The second conclusion was equally significant. ORNL found that the specimen's physical and elemental properties were incompatible with the proposed terahertz waveguide role. AARO later publicly endorsed that conclusion in its own supplementary assessment.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
 AARO's summary stated that:
 
-* The isotopic signatures were consistent with terrestrial material. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</span></span></span>
+* The isotopic signatures were consistent with terrestrial material.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</span></span></span>
 * The structure did not support the claimed waveguide function.
-* The specimen was most likely a test article, manufacturing product, by-product, or aerospace-related material associated with studies of magnesium alloys. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
+* The specimen was most likely a test article, manufacturing product, by-product, or aerospace-related material associated with studies of magnesium alloys.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">Synopsis: Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of...</span><span class="citation-popover-meta">Published: July 10, 2024</span></span></span>
 
-Importantly, neither organisation claimed to identify the exact historical origin of the sample. The chain of custody remained incomplete and contradictory accounts complicated reconstruction of its history. However, failure to identify an exact source is not the same as evidence for an extraterrestrial source. AARO explicitly stated that the available evidence pointed toward a terrestrial explanation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</span></span></span>
+Importantly, neither organisation claimed to identify the exact historical origin of the sample. The chain of custody remained incomplete and contradictory accounts complicated reconstruction of its history. However, failure to identify an exact source is not the same as evidence for an extraterrestrial source. AARO explicitly stated that the available evidence pointed toward a terrestrial explanation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</span></span></span>
 
 <img src="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-2-dark.svg" | relative_url }}" alt="Metal sample illustration 2" data-theme-src-dark="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The unusual part that survived scrutiny
 
 The laboratory findings did not conclude that the specimen was fake.
 
-In fact, one reason the sample attracted attention in the first place was that it genuinely possessed an unusual layered structure. Micron-scale engineered layering between different metals is not something typically encountered in everyday objects. Researchers therefore treated it as a legitimate materials-science question rather than dismissing it outright. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</span><span class="citation-popover-meta">Published: September 28, 2018</span></span></span>
+In fact, one reason the sample attracted attention in the first place was that it genuinely possessed an unusual layered structure. Micron-scale engineered layering between different metals is not something typically encountered in everyday objects. Researchers therefore treated it as a legitimate materials-science question rather than dismissing it outright.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-title">To The Stars*Material of Interest: Magnesium-Zinc-Bismuth</span><span class="citation-popover-snippet">September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</span><span class="citation-popover-meta">Published: September 28, 2018</span></span></span>
 
 The distinction is important because public debate often collapsed into two extremes:
 
 * If the material was unusual, it must be alien.
 * If it was not alien, it must be meaningless.
 
-The evidence supports neither position. The specimen appears to have been a real manufactured object with distinctive engineering characteristics. What the government-linked analysis challenged was the leap from "unusual" to "non-human technology". <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin...</span></span></span>
+The evidence supports neither position. The specimen appears to have been a real manufactured object with distinctive engineering characteristics. What the government-linked analysis challenged was the leap from "unusual" to "non-human technology".<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin...</span></span></span>
 
 This is a recurring problem in UFO-related materials claims. Advanced industrial products, experimental aerospace components and manufacturing by-products can all appear mysterious when removed from their original context.
 
@@ -339,9 +339,9 @@ This is a recurring problem in UFO-related materials claims. Advanced industrial
 
 For Puthoff, the magnesium-bismuth episode is neither a total vindication nor a complete collapse.
 
-Supporters can reasonably point out that he and other TTSA figures did not simply present the specimen as proven alien technology. The material was submitted for analysis, discussed in technical terms and eventually examined by serious institutions. The fact that ORNL considered it worthy of study demonstrates that the object itself was not an obvious hoax or trivial artefact. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
+Supporters can reasonably point out that he and other TTSA figures did not simply present the specimen as proven alien technology. The material was submitted for analysis, discussed in technical terms and eventually examined by serious institutions. The fact that ORNL considered it worthy of study demonstrates that the object itself was not an obvious hoax or trivial artefact.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
-Critics focus on a different point. For years, the specimen was one of the most visible examples used to suggest that recovered UFO materials might contain revolutionary physics or evidence of non-human engineering. The public testing did not confirm those expectations. The isotope evidence supported terrestrial manufacture, while the proposed terahertz-waveguide explanation failed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
+Critics focus on a different point. For years, the specimen was one of the most visible examples used to suggest that recovered UFO materials might contain revolutionary physics or evidence of non-human engineering. The public testing did not confirm those expectations. The isotope evidence supported terrestrial manufacture, while the proposed terahertz-waveguide explanation failed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
 The case therefore highlights a broader pattern often associated with Puthoff's role in UAP debates:
 
@@ -350,7 +350,7 @@ The case therefore highlights a broader pattern often associated with Puthoff's 
 * He frequently operates at the boundary between speculative possibilities and established evidence.
 * He has helped bring unusual claims into serious institutional settings.
 * Institutional interest has often been interpreted by supporters as validation.
-* Subsequent testing has sometimes narrowed or weakened the original implications. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</span></span></span>
+* Subsequent testing has sometimes narrowed or weakened the original implications.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: twz.com">[The War Zone]</a><span class="citation-popover" role="note"><span class="citation-popover-source">twz.com</span><span class="citation-popover-snippet">The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</span></span></span>
 
 </div>
 
@@ -373,199 +373,199 @@ The case demonstrates that unusual materials and uncertain provenance are not, b
 
 </div>
 
-For the magnesium-bismuth specimen, the available evidence supports the first two questions far more strongly than the third. By the time ORNL and AARO published their findings, the sample had shifted from a potential showcase for exotic UFO materials to a cautionary example of how intriguing physical artefacts can accumulate extraordinary stories that later testing does not confirm. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
+For the magnesium-bismuth specimen, the available evidence supports the first two questions far more strongly than the third. By the time ORNL and AARO published their findings, the sample had shifted from a potential showcase for exotic UFO materials to a cautionary example of how intriguing physical artefacts can accumulate extraordinary stories that later testing does not confirm.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/038bbzXoIO8" title="Art&#x27;s Parts 2: UFO Crash Recovery SEM &amp; Materials Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=038bbzXoIO8" target="_blank" rel="noopener noreferrer">Art&#x27;s Parts 2: UFO Crash Recovery SEM &amp; Materials Analysis</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion &middot; Views: 343 &middot; Uploaded: April 2025 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=038bbzXoIO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=038bbzXoIO8">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to The metal sample that did not deliver. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to The metal sample that did not deliver. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
-        </h4>
-        <p class="fr-book-author">By Nick Cook</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Hunt for Zero Point on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=fQfyAAAAMAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Hunt for Zero Point" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
+</h4>
+<p class="fr-book-author">By Nick Cook</p>
         
-        <p class="fr-book-desc">Examines extraordinary technology claims and the challenge of verifying them.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines extraordinary technology claims and the challenge of verifying them.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Focuses on evidence standards and official testimony rather than speculation alone.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Focuses on evidence standards and official testimony rather than speculation alone.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible College on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1InHoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible College" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
-        </h4>
-        <p class="fr-book-author">By Jacques Vallee</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Invisible College on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=1InHoQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for The Invisible College" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
+</h4>
+<p class="fr-book-author">By Jacques Vallee</p>
         
-        <p class="fr-book-desc">Addresses scientific investigation of anomalous materials and reports.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses scientific investigation of anomalous materials and reports.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Discusses physical evidence claims and government-linked investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Discusses physical evidence claims and government-linked investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+College&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible College</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Hunt for Zero Point</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Invisible+College&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Invisible College</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Topic-anchored marketplace searches for visual, collectible, or second-hand items related to this page.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes"><img src="https://i.ebayimg.com/images/g/0lcAAeSwjqZqJmZJ/s-l225.jpg" alt="Listing image for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes"><img src="https://i.ebayimg.com/images/g/0lcAAeSwjqZqJmZJ/s-l225.jpg" alt="Listing image for Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Iron Meteorite Mixed Small Specimens/Lots Natural Unpolished Display Boxes</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo Del Cielo Meteorite Specimens | Iron Nickel Meteorites from Argentina | Bu"><img src="https://i.ebayimg.com/images/g/0IMAAOSwv7tkjHqS/s-l225.jpg" alt="Listing image for Campo Del Cielo Meteorite Specimens | Iron Nickel Meteorites from Argentina | Bu" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo Del Cielo Meteorite Specimens | Iron Nickel Meteorites from Argentina | Bu</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo Del Cielo Meteorite Specimens | Iron Nickel Meteorites from Argentina | Bu"><img src="https://i.ebayimg.com/images/g/0IMAAOSwv7tkjHqS/s-l225.jpg" alt="Listing image for Campo Del Cielo Meteorite Specimens | Iron Nickel Meteorites from Argentina | Bu" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo Del Cielo Meteorite Specimens | Iron Nickel Meteorites from Argentina | Bu</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remarkable 447 Gram Meteorite Specimen"><img src="https://i.ebayimg.com/images/g/FwEAAeSwDthqKGD3/s-l225.jpg" alt="Listing image for Remarkable 447 Gram Meteorite Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Remarkable 447 Gram Meteorite Specimen</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Remarkable 447 Gram Meteorite Specimen"><img src="https://i.ebayimg.com/images/g/FwEAAeSwDthqKGD3/s-l225.jpg" alt="Listing image for Remarkable 447 Gram Meteorite Specimen" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Remarkable 447 Gram Meteorite Specimen</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid"><img src="https://i.ebayimg.com/images/g/8hUAAOSwaadiZmZo/s-l225.jpg" alt="Listing image for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search <span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid"><img src="https://i.ebayimg.com/images/g/8hUAAOSwaadiZmZo/s-l225.jpg" alt="Listing image for Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">Campo del Cielo iron meteorite specimen small cleaned pieces 1 per bid</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for meteorite specimen">Search<span data-ebay-domain-label>eBay.co.uk</span>: meteorite specimen</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=meteorite+specimen&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=the-metal-sample-that-did-not-deliver-meteorite-specimen&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="meteorite specimen" data-ebay-reference="the-metal-sample-that-did-not-deliver-meteorite-specimen" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -581,7 +581,7 @@ For the magnesium-bismuth specimen, the available evidence supports the first tw
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -601,7 +601,7 @@ For the magnesium-bismuth specimen, the available evidence supports the first tw
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -633,7 +633,7 @@ For the magnesium-bismuth specimen, the available evidence supports the first tw
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -685,7 +685,7 @@ For the magnesium-bismuth specimen, the available evidence supports the first tw
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -730,7 +730,7 @@ For the magnesium-bismuth specimen, the available evidence supports the first tw
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -771,143 +771,143 @@ For the magnesium-bismuth specimen, the available evidence supports the first tw
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: Synopsis: Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf?ver=V1rMXfRV-VUb2gjTd4DzVg%3D%3D</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic SpecimenJuly 10, 2024 — 10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of...</p></details>
    Published: July 10, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...ORNL&#x27;s findings: First, the specimen&#x27;s physical properties are consistent wit...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen — popularly known a...</p></details>
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Inquiry into the Material Evidence of Non-Human...AARO&#x27;s analysis of the magnesium-bismuth layered specimen — popularly known a...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Findings on Suspected Extraterrestrial AlloyThe All-domain Anomaly Resolution Office (AARO) published two reports detailing...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Findings on Suspected Extraterrestrial AlloyThe All-domain Anomaly Resolution Office (AARO) published two reports detailing...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: The TTSA and Project Serpo Connection: r/ufo  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The TTSA and Project Serpo Connection: r/ufoFebruary 1, 2020 — Project Serpo contains the only reference to bismuth magnesium meta...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/exbtoc/the_ttsa_and_project_serpo_connection/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The TTSA and Project Serpo Connection: r/ufoFebruary 1, 2020 — Project Serpo contains the only reference to bismuth magnesium meta...</p></details>
    Published: February 1, 2020  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — AARO tasked ORNL with assessing whether (1) the specimen is of terrestrial origin...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/12h1moh/thoughts_on_ufo_material_made_of_bismuthmagnesium/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12h1moh/thoughts_on_ufo_material_made_of_bismuthmagnesium/</a>  
+   Link:<a href="https://www.reddit.com/r/aliens/comments/12h1moh/thoughts_on_ufo_material_made_of_bismuthmagnesium/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/12h1moh/thoughts_on_ufo_material_made_of_bismuthmagnesium/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: ornl.gov  
    Title: Material Signatures and Isotopic Standards  
-   Link: <a href="https://www.ornl.gov/group-material-signatures-and-isotopic-standards/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/group-material-signatures-and-isotopic-standards/publications</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Publication Date. 2025 · 2024 · 2023 · Plutonium isotope ratio measurements by total evaporation-thermal ionization mass spectrometry (TE...</p></details>
+   Link:<a href="https://www.ornl.gov/group-material-signatures-and-isotopic-standards/publications" target="_blank" rel="noopener noreferrer nofollow">https://www.ornl.gov/group-material-signatures-and-isotopic-standards/publications</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Publication Date. 2025 · 2024 · 2023 · Plutonium isotope ratio measurements by total evaporation-thermal ionization mass spectrometry (TE...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: tothestars.media  
    Title: To The Stars*Material of Interest: Magnesium-Zinc-Bismuth  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOooAiP8ayaHTUNneJeh_XMGKuKdTW62ecBRW6k-LB7EIKXXlNclQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>September 28, 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi) sample, which has been the source of...</p></details>
    Published: September 28, 2018  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Inc.To The Stars Inc., formerly known as To The Stars Academy of Arts &amp; Sciences Inc., is a San Diego-based company co-fo...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>To The Stars Inc.To The Stars Inc., formerly known as To The Stars Academy of Arts &amp; Sciences Inc., is a San Diego-based company co-fo...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorL4CKHr6kqINAar19FtF7VTFwG53Ng9B-RR7RTzSERXSRZdJ7u" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorL4CKHr6kqINAar19FtF7VTFwG53Ng9B-RR7RTzSERXSRZdJ7u</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TTS* Analysis on ORNL ReportThe Puthoff/Davis analysis and the ORNL analysis answer most of the fundamental questions about the structure...</p></details>
+   Link:<a href="https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorL4CKHr6kqINAar19FtF7VTFwG53Ng9B-RR7RTzSERXSRZdJ7u" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/en-gb/blogs/press-and-news/tts-analysis-on-ornl?srsltid=AfmBOorL4CKHr6kqINAar19FtF7VTFwG53Ng9B-RR7RTzSERXSRZdJ7u</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TTS* Analysis on ORNL ReportThe Puthoff/Davis analysis and the ORNL analysis answer most of the fundamental questions about the structure...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</p></details>
+   Link:<a href="https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/30498/the-army-wants-to-verify-to-the-stars-academys-fantastic-ufo-mystery-material-claims</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The War ZoneThe Army Wants To Verify To The Stars Academy&#x27;s...20 Oct 2019 — An official agreement makes it clear the Army wants to explo...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoq9z8D1fGGZ3cq-D4C0MLdgF4QgdbqxjdTPcJ75riqIBHigo6kS" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoq9z8D1fGGZ3cq-D4C0MLdgF4QgdbqxjdTPcJ75riqIBHigo6kS</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ORNL and AARO Material Analysis UpdateBoth Oak Ridge National Lab (ORNL) and The All-Domain Anomaly Resolution Office (AARO) have complet...</p></details>
+   Link:<a href="https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoq9z8D1fGGZ3cq-D4C0MLdgF4QgdbqxjdTPcJ75riqIBHigo6kS" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/ornl-and-aaro-material-analysis?srsltid=AfmBOoq9z8D1fGGZ3cq-D4C0MLdgF4QgdbqxjdTPcJ75riqIBHigo6kS</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ORNL and AARO Material Analysis UpdateBoth Oak Ridge National Lab (ORNL) and The All-Domain Anomaly Resolution Office (AARO) have complet...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: jasoncolavito.com  
-   Link: <a href="https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;To the Stars&quot; Downgrades Debris from &quot;Extraterrestrial...21 Sept 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-B...</p></details>
+   Link:<a href="https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials" target="_blank" rel="noopener noreferrer nofollow">https://www.jasoncolavito.com/blog/to-the-stars-downgrades-debris-from-extraterrestrial-[metamaterials</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;To the Stars&quot; Downgrades Debris from &quot;Extraterrestrial...21 Sept 2018 — One artifact on loan to TTSA for analysis is a Magnesium-Zinc-B...</p></details>
 
 ### Additional References
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: iflscience.com  
-   Link: <a href="https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Metal Shard Probably Isn&#x27;t Evidence Of Alien...18 Sept 2024 — In order to be capable of being a waveguide, the material would ne...</p></details>
+   Link:<a href="https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994" target="_blank" rel="noopener noreferrer nofollow">https://www.iflscience.com/strange-metal-shard-probably-isnt-evidence-of-alien-technology-a-us-national-laboratory-concludes-75994</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Strange Metal Shard Probably Isn&#x27;t Evidence Of Alien...18 Sept 2024 — In order to be capable of being a waveguide, the material would ne...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: indiandefencereview.com  
-   Link: <a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
+   Link:<a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: metabunk.org  
    Title: sean kirkpatricks interview with daniel lavelle at the guardian transcript.13399  
-   Link: <a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>magnesium (or a Magnesium/Zinc alloy and bismuth. TTSA referred to... AARO commissioned Oak Ridge National Laboratory to study one of...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>magnesium (or a Magnesium/Zinc alloy and bismuth. TTSA referred to... AARO commissioned Oak Ridge National Laboratory to study one of...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: gizmodo.com  
    Title: pentagon publishes report on material from a reported alien aircraft 2000469433  
-   Link: <a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>material&#x27;s bismuth and magnesium layers acting as a terahertz waveguide.”... Neither AARO nor ORNL could verify the specimen&#x27;s historica...</p></details>
+   Link:<a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>material&#x27;s bismuth and magnesium layers acting as a terahertz waveguide.”... Neither AARO nor ORNL could verify the specimen&#x27;s historica...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — of disclosing that UAP are extraterrestrial in origin; AARO confirmed the study was conduct...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Historical Record Report Volume 18 Mar 2024 — of disclosing that UAP are extraterrestrial in origin; AARO confirmed the study was conduct...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: instagram.com  
-   Link: <a href="https://www.instagram.com/reel/DYnsRVGizKU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYnsRVGizKU/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Army contract signed with To The Stars Academy to study this exact Bismuth/Magnesium debris for &quot;active camouflage, beamed...</p></details>
+   Link:<a href="https://www.instagram.com/reel/DYnsRVGizKU/" target="_blank" rel="noopener noreferrer nofollow">https://www.instagram.com/reel/DYnsRVGizKU/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Army contract signed with To The Stars Academy to study this exact Bismuth/Magnesium debris for &quot;active camouflage, beamed...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: metabunk.org  
    Title: aaro releases lab report on alleged alien metamaterial.13548  
-   Link: <a href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — The isotopic composition of the magnesium and lead in the specimen fa...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-releases-lab-report-on-alleged-alien-metamaterial.13548/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Lab Report on Alleged Alien Metamaterial11 Jul 2024 — The isotopic composition of the magnesium and lead in the specimen fa...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: facebook.com  
    Title: Material of Interest: Magnesium-Zinc-Bismuth  
-   Link: <a href="https://www.facebook.com/TheAnomalyArchives/posts/material-of-interest-magnesium-zinc-bismuthone-for-the-science-minded-over-the-l/1234185086763597/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/material-of-interest-magnesium-zinc-bismuthone-for-the-science-minded-over-the-l/1234185086763597/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>One for the...26 Jul 2019 — TTS Academy&#x27;s ADAM Research Project, an acronym for Acquisition &amp; Data Analysis of Materials, focuses on the...</p></details>
+   Link:<a href="https://www.facebook.com/TheAnomalyArchives/posts/material-of-interest-magnesium-zinc-bismuthone-for-the-science-minded-over-the-l/1234185086763597/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/TheAnomalyArchives/posts/material-of-interest-magnesium-zinc-bismuthone-for-the-science-minded-over-the-l/1234185086763597/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>One for the...26 Jul 2019 — TTS Academy&#x27;s ADAM Research Project, an acronym for Acquisition &amp; Data Analysis of Materials, focuses on the...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: en.clickpetroleoegas.com.br  
    Title: clickpetroleoegas.com.br Alien Technology?  
-   Link: <a href="https://en.clickpetroleoegas.com.br/tecnologia-alienigena-cacadores-de-ovnis-afirmam-que-fragmento-de-metal-pode-ser-de-origem-extraterrestre-material-contem-magnesio-zinco-bismuto-e-chumbo/" target="_blank" rel="noopener noreferrer nofollow">https://en.clickpetroleoegas.com.br/tecnologia-alienigena-cacadores-de-ovnis-afirmam-que-fragmento-de-metal-pode-ser-de-origem-extraterrestre-material-contem-magnesio-zinco-bismuto-e-chumbo/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claim Metal Fragment May...23 Sept 2024 — The isotopic analysis of the metals present in the fragment, such as magnesium and...</p></details>
+   Link:<a href="https://en.clickpetroleoegas.com.br/tecnologia-alienigena-cacadores-de-ovnis-afirmam-que-fragmento-de-metal-pode-ser-de-origem-extraterrestre-material-contem-magnesio-zinco-bismuto-e-chumbo/" target="_blank" rel="noopener noreferrer nofollow">https://en.clickpetroleoegas.com.br/tecnologia-alienigena-cacadores-de-ovnis-afirmam-que-fragmento-de-metal-pode-ser-de-origem-extraterrestre-material-contem-magnesio-zinco-bismuto-e-chumbo/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claim Metal Fragment May...23 Sept 2024 — The isotopic analysis of the metals present in the fragment, such as magnesium and...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/1021857884/The-Alien-Racket" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1021857884/The-Alien-Racket</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>a layered structure of Magnesium- Zine (Mg...Read more...</p></details>
+   Link:<a href="https://www.scribd.com/document/1021857884/The-Alien-Racket" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/1021857884/The-Alien-Racket</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>a layered structure of Magnesium- Zine (Mg...Read more...</p></details>

@@ -256,16 +256,16 @@ image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_afosi_acce
 
 ## Introduction
 
-Richard Doty’s former position within the Air Force Office of Special Investigations (AFOSI) is one of the main reasons some UFO researchers continue to pay attention to him. The argument is straightforward: a person who worked in Air Force counterintelligence around sensitive military programmes may have encountered information that ordinary civilians never could. However, that same institutional proximity creates a major credibility problem. Being near classified activity is not the same as being authorised to know everything about it, and intelligence organisations are built around compartmentalisation precisely to prevent broad access. The key question is therefore not whether Doty worked around sensitive systems, but how much his AFOSI background can realistically prove about his later UFO claims. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">air force office of special investigationsAFOSI identifies, investigates and neutralizes criminal, terrorist, and espionage threats to Ai...</span></span></span>
+Richard Doty’s former position within the Air Force Office of Special Investigations (AFOSI) is one of the main reasons some UFO researchers continue to pay attention to him. The argument is straightforward: a person who worked in Air Force counterintelligence around sensitive military programmes may have encountered information that ordinary civilians never could. However, that same institutional proximity creates a major credibility problem. Being near classified activity is not the same as being authorised to know everything about it, and intelligence organisations are built around compartmentalisation precisely to prevent broad access. The key question is therefore not whether Doty worked around sensitive systems, but how much his AFOSI background can realistically prove about his later UFO claims.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">air force office of special investigationsAFOSI identifies, investigates and neutralizes criminal, terrorist, and espionage threats to Ai...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_afosi_access_problem_d06201-Illustration-1-dark.svg" | relative_url }}" alt="AFOSI access illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_afosi_access_problem_d06201-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_afosi_access_problem_d06201-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 This distinction sits at the centre of the debate over Doty. [Supporters]({{ 'supporters/' | relative_url }}) see his Air Force connections as evidence that he may have witnessed aspects of government secrecy and information management. Critics argue that many of his most dramatic claims require levels of access that have never been independently demonstrated. The result is a persistent tension between verified institutional proximity and unverified claims of extraordinary knowledge.
 
 ## What AFOSI proximity can and cannot show
 
-There is little dispute that AFOSI was a real counterintelligence and investigative organisation with responsibilities involving espionage, security threats, technology protection and sensitive military matters. Official Air Force descriptions make clear that AFOSI's role extends beyond ordinary policing and includes counterintelligence and protection of classified programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fletc.gov">[fletc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fletc.gov</span><span class="citation-popover-title">air force office special investigations</span><span class="citation-popover-snippet">The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</span></span></span>
+There is little dispute that AFOSI was a real counterintelligence and investigative organisation with responsibilities involving espionage, security threats, technology protection and sensitive military matters. Official Air Force descriptions make clear that AFOSI's role extends beyond ordinary policing and includes counterintelligence and protection of classified programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fletc.gov">[fletc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fletc.gov</span><span class="citation-popover-title">air force office special investigations</span><span class="citation-popover-snippet">The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</span></span></span>
 
-For supporters, this matters because Doty was not presenting himself as a civilian enthusiast who somehow stumbled into secret information. He emerged from a professional environment where security classifications, intelligence collection and information control were normal parts of daily work. His documented association with Kirtland Air Force Base during the period surrounding the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair gives his story a degree of institutional grounding that many UFO personalities lack. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WILL THE REAL SCOTT JONES PLEASE STAND UP?Sergeant Richard Doty One of Moore&#x27;s long-time buddies is Sergeant Richard... AFOSI at Kirt...</span></span></span>
+For supporters, this matters because Doty was not presenting himself as a civilian enthusiast who somehow stumbled into secret information. He emerged from a professional environment where security classifications, intelligence collection and information control were normal parts of daily work. His documented association with Kirtland Air Force Base during the period surrounding the Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) affair gives his story a degree of institutional grounding that many UFO personalities lack.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WILL THE REAL SCOTT JONES PLEASE STAND UP?Sergeant Richard Doty One of Moore&#x27;s long-time buddies is Sergeant Richard... AFOSI at Kirt...</span></span></span>
 
 Yet proximity only proves a limited set of facts:
 
@@ -279,7 +279,7 @@ Yet proximity only proves a limited set of facts:
 
 </div>
 
-This distinction is often lost in UFO discussions. Military installations contain many layers of information access. A person may work near classified projects while remaining excluded from the most sensitive compartments. In conventional intelligence and defence systems, proximity is often deliberately separated from full knowledge. <span class="citation-chip-wrap"><a class="citation-chip" href="https://afciviliancareers.com/paq-osi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afciviliancareers.com">[AFCS - Air Force Civilian Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afciviliancareers.com</span><span class="citation-popover-snippet">Air Force Civilian ServicePAQ OSI - office of special investigationsArmed with elite investigative training and state-of-the-art technolo...</span></span></span>
+This distinction is often lost in UFO discussions. Military installations contain many layers of information access. A person may work near classified projects while remaining excluded from the most sensitive compartments. In conventional intelligence and defence systems, proximity is often deliberately separated from full knowledge.<span class="citation-chip-wrap"><a class="citation-chip" href="https://afciviliancareers.com/paq-osi/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: afciviliancareers.com">[AFCS - Air Force Civilian Service]</a><span class="citation-popover" role="note"><span class="citation-popover-source">afciviliancareers.com</span><span class="citation-popover-snippet">Air Force Civilian ServicePAQ OSI - office of special investigationsArmed with elite investigative training and state-of-the-art technolo...</span></span></span>
 
 That is why [sceptics]({{ 'sceptics/' | relative_url }}) view some supporter arguments as overstated. The fact that Doty worked for AFOSI may establish credibility regarding the existence of security operations and information-management practices. It does not, by itself, validate specific claims about alien technology, secret treaties, underground bases or crash-retrieval programmes.
 
@@ -289,11 +289,11 @@ That is why [sceptics]({{ 'sceptics/' | relative_url }}) view some supporter arg
 
 The strongest challenge to the insider argument is not whether Doty worked for AFOSI. It is whether his known role would have granted access to the information he later claimed to possess.
 
-In national-security systems, a security clearance is only part of the equation. Individuals also require a demonstrated "need to know" within specific compartments. Even personnel with high clearances can remain unaware of programmes operating within the same organisation or installation. Special Access Programmes are specifically designed to restrict information flow to a narrow group. <span class="citation-chip-wrap"><a class="citation-chip" href="https://irp.fas.org/doddir/usaf/71-101v1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irp.fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irp.fas.org</span><span class="citation-popover-snippet">Intelligence Resource ProgramUntitledIt authorizes an AFOSI source program. It establishes counterintelligence reporting requirements. Pa...</span></span></span>
+In national-security systems, a security clearance is only part of the equation. Individuals also require a demonstrated "need to know" within specific compartments. Even personnel with high clearances can remain unaware of programmes operating within the same organisation or installation. Special Access Programmes are specifically designed to restrict information flow to a narrow group.<span class="citation-chip-wrap"><a class="citation-chip" href="https://irp.fas.org/doddir/usaf/71-101v1.htm" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: irp.fas.org">[Intelligence Resource Program]</a><span class="citation-popover" role="note"><span class="citation-popover-source">irp.fas.org</span><span class="citation-popover-snippet">Intelligence Resource ProgramUntitledIt authorizes an AFOSI source program. It establishes counterintelligence reporting requirements. Pa...</span></span></span>
 
 This creates what might be called Doty's claimed access problem. Many of his later UFO narratives imply knowledge spanning multiple agencies, decades and highly sensitive alleged programmes. To accept all such claims at face value would require assuming that an AFOSI agent possessed unusually broad visibility into compartments that are normally isolated from one another.
 
-Supporters respond that counterintelligence personnel sometimes receive cross-programme exposure because their work involves protecting sensitive activities. They argue that someone involved in security or deception operations could encounter fragments of information from several compartments without formally belonging to each one. That possibility cannot be ruled out in principle. Counterintelligence officers often sit closer to secrecy mechanisms than ordinary service members. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Air Force Office of Special InvestigationsIts primary responsibilities are criminal investigations and counterintelligence services. AFOS...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">mil Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Force Office of Special Investigations - USAFThe official website for Air Force Office of Special Investigations.... AFOSI immersion giv...</span></span></span>
+Supporters respond that counterintelligence personnel sometimes receive cross-programme exposure because their work involves protecting sensitive activities. They argue that someone involved in security or deception operations could encounter fragments of information from several compartments without formally belonging to each one. That possibility cannot be ruled out in principle. Counterintelligence officers often sit closer to secrecy mechanisms than ordinary service members.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-snippet">Air Force Office of Special InvestigationsIts primary responsibilities are criminal investigations and counterintelligence services. AFOS...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">mil Air Force Office of Special Investigations</span><span class="citation-popover-snippet">Force Office of Special Investigations - USAFThe official website for Air Force Office of Special Investigations.... AFOSI immersion giv...</span></span></span>
 
 The problem is evidential rather than theoretical. Publicly available documentation verifies AFOSI's existence and mission, but it does not independently verify many of Doty's later claims about the scope of his access. Researchers therefore face a gap between what is institutionally plausible and what has been demonstrated.
 
@@ -302,7 +302,7 @@ The problem is evidential rather than theoretical. Publicly available documentat
 
 The Bennewitz affair remains the most concrete example used by both supporters and critics because it shows Doty operating within a real security context rather than merely telling stories decades later.
 
-Paul Bennewitz became convinced he was uncovering evidence of extraterrestrial activity near Kirtland Air Force Base and nearby installations. Over time, accounts emerged alleging that intelligence-linked figures, including Doty, supplied or encouraged misleading information that deepened Bennewitz's beliefs. The case became one of the most cited examples of alleged UFO-related disinformation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Part Two: How The U.S</span><span class="citation-popover-snippet">Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</span></span></span> [3Wikipedia 3Wikipedia]
+Paul Bennewitz became convinced he was uncovering evidence of extraterrestrial activity near Kirtland Air Force Base and nearby installations. Over time, accounts emerged alleging that intelligence-linked figures, including Doty, supplied or encouraged misleading information that deepened Bennewitz's beliefs. The case became one of the most cited examples of alleged UFO-related disinformation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: podcasts.apple.com">[Apple Podcasts]</a><span class="citation-popover" role="note"><span class="citation-popover-source">podcasts.apple.com</span><span class="citation-popover-title">Podcasts Part Two: How The U.S</span><span class="citation-popover-snippet">Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</span></span></span> [3Wikipedia 3Wikipedia]
 
 For supporters, this episode demonstrates that Doty was genuinely involved in the overlap between military secrecy and civilian UFO investigations. Their reasoning is simple: if he participated in information operations surrounding a real security concern, then he may possess authentic knowledge about how such operations worked.
 
@@ -318,10 +318,10 @@ Supporters rarely argue that AFOSI service proves every claim Doty has made. The
 
 They point to several factors:
 
-* AFOSI was a genuine counterintelligence organisation, not a fringe group. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">afosi enters 2026 following year defined by results leaders say</span><span class="citation-popover-snippet">enters 2026 following year defined by results...Jan 12, 2026 — Beyond counterintelligence and force protection, AFOSI&#x27;s criminal investi...</span></span></span>
-* Doty appears in records and narratives connected to real military-security controversies around Kirtland. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WILL THE REAL SCOTT JONES PLEASE STAND UP?Sergeant Richard Doty One of Moore&#x27;s long-time buddies is Sergeant Richard... AFOSI at Kirt...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/DOTY_OSI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">DOTY OSI</span><span class="citation-popover-snippet">Internet ArchiveRichard Doty: United States Air Force Office of Special...8 Nov 2019 — Air Force Office of Special Investigations file...</span></span></span>
-* Multiple accounts, including the documentary *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, portray him as someone involved in information management rather than as a random UFO storyteller. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)Richard Doty · Tracy Tormé. STREAMING. Watch on Fawesome. Watch... counter intelligencemilitary secretroswell ufo incid...</span></span></span>
-* His descriptions of deception, compartmentalisation and narrative manipulation fit known counterintelligence concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fletc.gov">[2fletc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fletc.gov</span><span class="citation-popover-title">air force office special investigations</span><span class="citation-popover-snippet">The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</span></span></span>
+* AFOSI was a genuine counterintelligence organisation, not a fringe group.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: osi.af.mil">[osi.af.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">osi.af.mil</span><span class="citation-popover-title">afosi enters 2026 following year defined by results leaders say</span><span class="citation-popover-snippet">enters 2026 following year defined by results...Jan 12, 2026 — Beyond counterintelligence and force protection, AFOSI&#x27;s criminal investi...</span></span></span>
+* Doty appears in records and narratives connected to real military-security controversies around Kirtland.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: cia.gov">[CIA]</a><span class="citation-popover" role="note"><span class="citation-popover-source">cia.gov</span><span class="citation-popover-snippet">WILL THE REAL SCOTT JONES PLEASE STAND UP?Sergeant Richard Doty One of Moore&#x27;s long-time buddies is Sergeant Richard... AFOSI at Kirt...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://archive.org/details/DOTY_OSI" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archive.org">[Internet Archive]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archive.org</span><span class="citation-popover-title">DOTY OSI</span><span class="citation-popover-snippet">Internet ArchiveRichard Doty: United States Air Force Office of Special...8 Nov 2019 — Air Force Office of Special Investigations file...</span></span></span>
+* Multiple accounts, including the documentary *[Mirage Men]({{ 'mirage-men/' | relative_url }})*, portray him as someone involved in information management rather than as a random UFO storyteller.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: imdb.com">[IMDb]</a><span class="citation-popover" role="note"><span class="citation-popover-source">imdb.com</span><span class="citation-popover-snippet">Mirage Men (2013)Richard Doty · Tracy Tormé. STREAMING. Watch on Fawesome. Watch... counter intelligencemilitary secretroswell ufo incid...</span></span></span>
+* His descriptions of deception, compartmentalisation and narrative manipulation fit known counterintelligence concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fletc.gov">[2fletc.gov]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fletc.gov</span><span class="citation-popover-title">air force office special investigations</span><span class="citation-popover-snippet">The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</span></span></span>
 
 Viewed this way, institutional context becomes a form of circumstantial evidence. It does not establish the truth of extraordinary claims, but it does provide a reason to examine them rather than dismiss them outright.
 
@@ -332,7 +332,7 @@ The strongest supporter position is therefore not "Doty had access, therefore al
 
 The central issue remains unresolved because the two sides are often arguing about different things.
 
-Supporters focus on opportunity and proximity. They see AFOSI service as evidence that Doty could have encountered unusual information and participated in real information-control efforts. Critics focus on verification. They note that many of his most dramatic claims depend on access levels that have never been independently established and are often supported primarily by testimony rather than documentary evidence. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</span></span></span>
+Supporters focus on opportunity and proximity. They see AFOSI service as evidence that Doty could have encountered unusual information and participated in real information-control efforts. Critics focus on verification. They note that many of his most dramatic claims depend on access levels that have never been independently established and are often supported primarily by testimony rather than documentary evidence.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-snippet">The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</span></span></span>
 
 As a result, AFOSI proximity is best understood as a credibility factor rather than a credibility solution. It explains why Richard Doty remains relevant in UFO discussions decades after his service. It does not settle whether the extraordinary claims attached to that relevance are true.
 
@@ -341,194 +341,194 @@ That distinction is what keeps Doty in a unique category. His institutional back
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/jwTCwebi-6Q" title="Former Area 51 Employee Reveals Secrets from the Base | Storming Area 51" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer">Former Area 51 Employee Reveals Secrets from the Base | Storming Area 51</a></p><p class="youtube-embed-meta">Channel: Discovery Australia &middot; Views: 279.1K &middot; Uploaded: July 2020 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=jwTCwebi-6Q">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How much did AFOSI proximity really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How much did AFOSI proximity really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
-        </h4>
-        <p class="fr-book-author">By Jerome Clark</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
+</h4>
+<p class="fr-book-author">By Jerome Clark</p>
         
-        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
-        </h4>
-        <p class="fr-book-author">By BARTY. HARMER</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+</h4>
+<p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
-        </h4>
-        <p class="fr-book-author">By Frank C. Salisbury</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
+</h4>
+<p class="fr-book-author">By Frank C. Salisbury</p>
         
-        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
-        </h4>
-        <p class="fr-book-author">By James Paton</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
+</h4>
+<p class="fr-book-author">By James Paton</p>
         
-        <p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Original framed promo ad poster. 1978.A3.Frame size 53cm x 43cm"><img src="https://i.ebayimg.com/images/g/5mAAAOSwq2pjmMfM/s-l225.jpg" alt="Listing image for UFO Original framed promo ad poster. 1978.A3.Frame size 53cm x 43cm" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Original framed promo ad poster. 1978.A3.Frame size 53cm x 43cm</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Original framed promo ad poster. 1978.A3.Frame size 53cm x 43cm"><img src="https://i.ebayimg.com/images/g/5mAAAOSwq2pjmMfM/s-l225.jpg" alt="Listing image for UFO Original framed promo ad poster. 1978.A3.Frame size 53cm x 43cm" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO Original framed promo ad poster. 1978.A3.Frame size 53cm x 43cm</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - 1982 Full page UK magazine poster"><img src="https://i.ebayimg.com/images/g/t-EAAOSwOj9i2GWP/s-l225.jpg" alt="Listing image for UFO - 1982 Full page UK magazine poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO - 1982 Full page UK magazine poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - 1982 Full page UK magazine poster"><img src="https://i.ebayimg.com/images/g/t-EAAOSwOj9i2GWP/s-l225.jpg" alt="Listing image for UFO - 1982 Full page UK magazine poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO - 1982 Full page UK magazine poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - 1987 Full page UK magazine poster"><img src="https://i.ebayimg.com/images/g/M1AAAOSwyqNgCe8b/s-l225.jpg" alt="Listing image for UFO - 1987 Full page UK magazine poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO - 1987 Full page UK magazine poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO - 1987 Full page UK magazine poster"><img src="https://i.ebayimg.com/images/g/M1AAAOSwyqNgCe8b/s-l225.jpg" alt="Listing image for UFO - 1987 Full page UK magazine poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO - 1987 Full page UK magazine poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO POSTER PRINT A4 (2 )"><img src="https://i.ebayimg.com/images/g/lvYAAOSwNGBmBCYi/s-l225.jpg" alt="Listing image for UFO POSTER PRINT A4 (2 )" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">UFO POSTER PRINT A4 (2 )</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO insider poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO insider poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+insider+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-much-did-afosi-proximity-really-prove-ufo-insider-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO insider poster" data-ebay-reference="how-much-did-afosi-proximity-really-prove-ufo-insider-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -544,7 +544,7 @@ That distinction is what keeps Doty in a unique category. His institutional back
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -564,7 +564,7 @@ That distinction is what keeps Doty in a unique category. His institutional back
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -596,7 +596,7 @@ That distinction is what keeps Doty in a unique category. His institutional back
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -648,7 +648,7 @@ That distinction is what keeps Doty in a unique category. His institutional back
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -693,7 +693,7 @@ That distinction is what keeps Doty in a unique category. His institutional back
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -734,199 +734,199 @@ That distinction is what keeps Doty in a unique category. His institutional back
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: osi.af.mil  
-   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>air force office of special investigationsAFOSI identifies, investigates and neutralizes criminal, terrorist, and espionage threats to Ai...</p></details>
+   Link:<a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/164233/air-force-office-of-special-investigations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>air force office of special investigationsAFOSI identifies, investigates and neutralizes criminal, terrorist, and espionage threats to Ai...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: osi.af.mil  
-   Link: <a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsIts primary responsibilities are criminal investigations and counterintelligence services. AFOS...</p></details>
+   Link:<a href="https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/About/Fact-Sheets/Display/Article/349945/air-force-office-of-special-investigations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsIts primary responsibilities are criminal investigations and counterintelligence services. AFOS...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: fletc.gov  
    Title: air force office special investigations  
-   Link: <a href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fletc.gov/air-force-office-special-investigations</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</p></details>
+   Link:<a href="https://www.fletc.gov/air-force-office-special-investigations" target="_blank" rel="noopener noreferrer nofollow">https://www.fletc.gov/air-force-office-special-investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Air Force Office of Special Investigations4 Mar 2019 — AFOSI is charged with autonomous, timely, and unbiased investigative responsib...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2025 — Paul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Be...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>December 29, 2025 — Paul Frederic Bennewitz Jr. (September 29, 1927 – June 23, 2003) was an American businessman and UFO investigator. Be...</p></details>
    Published: December 29, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>WILL THE REAL SCOTT JONES PLEASE STAND UP?Sergeant Richard Doty One of Moore&#x27;s long-time buddies is Sergeant Richard... AFOSI at Kirt...</p></details>
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>WILL THE REAL SCOTT JONES PLEASE STAND UP?Sergeant Richard Doty One of Moore&#x27;s long-time buddies is Sergeant Richard... AFOSI at Kirt...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: DOTY OSI  
-   Link: <a href="https://archive.org/details/DOTY_OSI" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/DOTY_OSI</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveRichard Doty: United States Air Force Office of Special...8 Nov 2019 — Air Force Office of Special Investigations file...</p></details>
+   Link:<a href="https://archive.org/details/DOTY_OSI" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/details/DOTY_OSI</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Internet ArchiveRichard Doty: United States Air Force Office of Special...8 Nov 2019 — Air Force Office of Special Investigations file...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: afciviliancareers.com  
-   Link: <a href="https://afciviliancareers.com/paq-osi/" target="_blank" rel="noopener noreferrer nofollow">https://afciviliancareers.com/paq-osi/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Civilian ServicePAQ OSI - office of special investigationsArmed with elite investigative training and state-of-the-art technolo...</p></details>
+   Link:<a href="https://afciviliancareers.com/paq-osi/" target="_blank" rel="noopener noreferrer nofollow">https://afciviliancareers.com/paq-osi/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Civilian ServicePAQ OSI - office of special investigationsArmed with elite investigative training and state-of-the-art technolo...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: Wikipedia  
    Title: Mirage Men  
-   Link: <a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Mirage_Men" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Mirage_Men</a>  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: podcasts.apple.com  
    Title: Podcasts Part Two: How The U.S  
-   Link: <a href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</p></details>
+   Link:<a href="https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/ie/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens To...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewit...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: imdb.com  
-   Link: <a href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2254010/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men (2013)Richard Doty · Tracy Tormé. STREAMING. Watch on Fawesome. Watch... counter intelligencemilitary secretroswell ufo incid...</p></details>
+   Link:<a href="https://www.imdb.com/title/tt2254010/" target="_blank" rel="noopener noreferrer nofollow">https://www.imdb.com/title/tt2254010/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men (2013)Richard Doty · Tracy Tormé. STREAMING. Watch on Fawesome. Watch... counter intelligencemilitary secretroswell ufo incid...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIt prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Ai...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO reports and disinformationIt prominently features Richard Doty, a retired special agent who worked for AFOSI, the United States Ai...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: Wikipedia  
    Title: Air Force Office of Special Investigations  
-   Link: <a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsOSI provides independent criminal investigative, counterintelligence and protective service...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Air_Force_Office_of_Special_Investigations</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Air Force Office of Special InvestigationsOSI provides independent criminal investigative, counterintelligence and protective service...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: Wikipedia  
    Title: Richard L. Doty  
-   Link: <a href="https://en.wikipedia.org/wiki/Richard_L._Doty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richard_L._Doty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. DotyRichard L. Doty is a professor of psychology and otorhinolaryngology at the University of Pennsylvania. He has also bee...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Richard_L._Doty" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Richard_L._Doty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard L. DotyRichard L. Doty is a professor of psychology and otorhinolaryngology at the University of Pennsylvania. He has also bee...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: osi.af.mil  
    Title: mil Air Force Office of Special Investigations  
-   Link: <a href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Office of Special Investigations - USAFThe official website for Air Force Office of Special Investigations.... AFOSI immersion giv...</p></details>
+   Link:<a href="https://www.osi.af.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Office of Special Investigations - USAFThe official website for Air Force Office of Special Investigations.... AFOSI immersion giv...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: osi.af.mil  
    Title: afosi enters 2026 following year defined by results leaders say  
-   Link: <a href="https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>enters 2026 following year defined by results...Jan 12, 2026 — Beyond counterintelligence and force protection, AFOSI&#x27;s criminal investi...</p></details>
+   Link:<a href="https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/News/Article-Display/Article/4375579/afosi-enters-2026-following-year-defined-by-results-leaders-say/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>enters 2026 following year defined by results...Jan 12, 2026 — Beyond counterintelligence and force protection, AFOSI&#x27;s criminal investi...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: osi.af.mil  
-   Link: <a href="https://www.osi.af.mil/AFOSI-Careers/Civilians/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/AFOSI-Careers/Civilians/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>of Special Investigations &gt; AFOSI Careers &gt; CiviliansYou will operate across the full spectrum of federal law enforcement and counterinte...</p></details>
+   Link:<a href="https://www.osi.af.mil/AFOSI-Careers/Civilians/" target="_blank" rel="noopener noreferrer nofollow">https://www.osi.af.mil/AFOSI-Careers/Civilians/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>of Special Investigations &gt; AFOSI Careers &gt; CiviliansYou will operate across the full spectrum of federal law enforcement and counterinte...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...Spying, disinformation accusations follow UFO figure Rick Doty — an exclusive interview – Mystery Wire. INTERVI...</p></details>
+   Link:<a href="https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/de/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...Spying, disinformation accusations follow UFO figure Rick Doty — an exclusive interview – Mystery Wire. INTERVI...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=ko" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=ko</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>agencies, including the NSA, CIA, and DIA, fed him disinformation, leading to Bennewitz&#x27;s mental and emotional unraveling. In our intervi...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=ko" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/richard-doty-on-disinformation-paul-bennewitz-and-uap/id1644993683?i=1000696836690&amp;l=ko</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>agencies, including the NSA, CIA, and DIA, fed him disinformation, leading to Bennewitz&#x27;s mental and emotional unraveling. In our intervi...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: podcasts.apple.com  
-   Link: <a href="https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewitz&#x27;s...</p></details>
+   Link:<a href="https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810" target="_blank" rel="noopener noreferrer nofollow">https://podcasts.apple.com/us/podcast/part-two-how-the-u-s-government-used-aliens-to/id1373812661?i=1000691793810</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Government Used Aliens...13 Feb 2025 — Robert tells Brandie how Richard Doty crafted an elaborate alien ruse to destroy Paul Bennewitz&#x27;s...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: irp.fas.org  
-   Link: <a href="https://irp.fas.org/doddir/usaf/71-101v1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/doddir/usaf/71-101v1.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Resource ProgramUntitledIt authorizes an AFOSI source program. It establishes counterintelligence reporting requirements. Pa...</p></details>
+   Link:<a href="https://irp.fas.org/doddir/usaf/71-101v1.htm" target="_blank" rel="noopener noreferrer nofollow">https://irp.fas.org/doddir/usaf/71-101v1.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Intelligence Resource ProgramUntitledIt authorizes an AFOSI source program. It establishes counterintelligence reporting requirements. Pa...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</p></details>
+   Link:<a href="https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/richard-doty-disinformation-paul-bennewitz-and-uap-whistleblower-fallout/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefRichard Doty: Disinformation, Paul Bennewitz, and UAP...Mar 14, 2025 — In this episode, Chrissy Newton is joined by Richard D...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: e-flux.com  
-   Link: <a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-fluxRichard Doty is a former Air Force Intelligence operative whose job at Kirtland AFB in New Mexico involved creating and diss...</p></details>
+   Link:<a href="https://www.e-flux.com/film/556599/doty" target="_blank" rel="noopener noreferrer nofollow">https://www.e-flux.com/film/556599/doty</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Film - e-fluxRichard Doty is a former Air Force Intelligence operative whose job at Kirtland AFB in New Mexico involved creating and diss...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AirForceOSI/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/?locale=en_GB</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ment was reached after Special Agents discovered a contractor...</p></details>
+   Link:<a href="https://www.facebook.com/AirForceOSI/?locale=en_GB" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/?locale=en_GB</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ment was reached after Special Agents discovered a contractor...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: Office of Special Investigations | Quantico VAOffice of Special Investigations 󱢏  
-   Link: <a href="https://www.facebook.com/AirForceOSI/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Official page of the Office of Special Investigations, federal law enforcement &amp; counterintelligence agency. See something?Read more...</p></details>
+   Link:<a href="https://www.facebook.com/AirForceOSI/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AirForceOSI/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Official page of the Office of Special Investigations, federal law enforcement &amp; counterintelligence agency. See something?Read more...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: vetfriends.com  
-   Link: <a href="https://www.vetfriends.com/units/4815/afosi" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/units/4815/afosi</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AFOSI | U.S. Air Force UnitIts mission is to provide independent criminal investigations and counterintelligence services to protect Air...</p></details>
+   Link:<a href="https://www.vetfriends.com/units/4815/afosi" target="_blank" rel="noopener noreferrer nofollow">https://www.vetfriends.com/units/4815/afosi</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AFOSI | U.S. Air Force UnitIts mission is to provide independent criminal investigations and counterintelligence services to protect Air...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: paglen.studio  
-   Link: <a href="https://paglen.studio/2023/05/10/doty/" target="_blank" rel="noopener noreferrer nofollow">https://paglen.studio/2023/05/10/doty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2023 — As part of his training to join the Air Force Office of Special Investigations (AFOSI), Richard Doty was taught how to recr...</p></details>
+   Link:<a href="https://paglen.studio/2023/05/10/doty/" target="_blank" rel="noopener noreferrer nofollow">https://paglen.studio/2023/05/10/doty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>10 May 2023 — As part of his training to join the Air Force Office of Special Investigations (AFOSI), Richard Doty was taught how to recr...</p></details>
    Published: May 2023  
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: wired.com  
    Title: mirage men  
-   Link: <a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — W: Doty argues that all the deception is a way of preparing people for the tr...</p></details>
+   Link:<a href="https://www.wired.com/story/mirage-men/" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/mirage-men/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO researcher Mark Pilkington on deception...6 Oct 2010 — W: Doty argues that all the deception is a way of preparing people for the tr...</p></details>
 
 ### Additional References
 
-29. <a id="endnote-29"></a>
+29.<a id="endnote-29"></a>
    Source: sacred-texts.com  
-   Link: <a href="https://sacred-texts.com/ufo/ebe.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ebe.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Biological EntitiesRichard Doty (whose previous tour of duty had been at Ellsworth) after... AFOSI personnel at Kirtlan...</p></details>
+   Link:<a href="https://sacred-texts.com/ufo/ebe.htm" target="_blank" rel="noopener noreferrer nofollow">https://sacred-texts.com/ufo/ebe.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Extraterrestrial Biological EntitiesRichard Doty (whose previous tour of duty had been at Ellsworth) after... AFOSI personnel at Kirtlan...</p></details>
 
-30. <a id="endnote-30"></a>
+30.<a id="endnote-30"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/1921lc0/richard_doty_afosi_area_51_testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1921lc0/richard_doty_afosi_area_51_testimony/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, AFOSI (Area 51 Testimony): r/aliensGreat interview if you haven&#x27;t watched. Some said he was a liar and disinformer and lat...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/1921lc0/richard_doty_afosi_area_51_testimony/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/1921lc0/richard_doty_afosi_area_51_testimony/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Doty, AFOSI (Area 51 Testimony): r/aliensGreat interview if you haven&#x27;t watched. Some said he was a liar and disinformer and lat...</p></details>
 
-31. <a id="endnote-31"></a>
+31.<a id="endnote-31"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cs5vgl/why_hasnt_doty_been_sued_or_prosecuted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cs5vgl/why_hasnt_doty_been_sued_or_prosecuted/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cs5vgl/why_hasnt_doty_been_sued_or_prosecuted/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cs5vgl/why_hasnt_doty_been_sued_or_prosecuted/</a>  
 
-32. <a id="endnote-32"></a>
+32.<a id="endnote-32"></a>
    Source: patrick.spaceforce.mil  
-   Link: <a href="https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Force Office of Special InvestigationsThe Air Force Office of Special Investigations (OSI or AFOSI) is a U.S. federal law enforcement age...</p></details>
+   Link:<a href="https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/" target="_blank" rel="noopener noreferrer nofollow">https://www.patrick.spaceforce.mil/Air-Force-Office-of-Special-Investigations/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Force Office of Special InvestigationsThe Air Force Office of Special Investigations (OSI or AFOSI) is a U.S. federal law enforcement age...</p></details>
 
-33. <a id="endnote-33"></a>
+33.<a id="endnote-33"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
+   Link:<a href="https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/weird-shit/ufos-the-great-gaslighting-af1a337abc64</a>  
 
-34. <a id="endnote-34"></a>
+34.<a id="endnote-34"></a>
    Source: gaia.com  
-   Link: <a href="https://www.gaia.com/video/special-investigations-agent-richard-doty" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/special-investigations-agent-richard-doty</a>  
+   Link:<a href="https://www.gaia.com/video/special-investigations-agent-richard-doty" target="_blank" rel="noopener noreferrer nofollow">https://www.gaia.com/video/special-investigations-agent-richard-doty</a>  
 
-35. <a id="endnote-35"></a>
+35.<a id="endnote-35"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwTCwebi-6Q</a>  
+   Link:<a href="https://www.youtube.com/watch?v=jwTCwebi-6Q" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=jwTCwebi-6Q</a>  
 
-36. <a id="endnote-36"></a>
+36.<a id="endnote-36"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Air Force Office of Special Investigations...OSI is one of the very few federal law enforcement agencies that is also ch...</p></details>
+   Link:<a href="https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/1811/comments/z3va0o/overview_of_the_air_force_office_of_special/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Overview of the Air Force Office of Special Investigations...OSI is one of the very few federal law enforcement agencies that is also ch...</p></details>
 
-37. <a id="endnote-37"></a>
+37.<a id="endnote-37"></a>
    Source: classicalmidi.co.uk  
    Title: UF O event, (1) as related from people's own experiences.Sgt  
-   Link: <a href="https://www.classicalmidi.co.uk/ufo/ufo6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.classicalmidi.co.uk/ufo/ufo6.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Charles Doty first received widespread attention after he wrote the now well-known AFOSI Complaint Form relating to UFO sightings...</p></details>
+   Link:<a href="https://www.classicalmidi.co.uk/ufo/ufo6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.classicalmidi.co.uk/ufo/ufo6.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Richard Charles Doty first received widespread attention after he wrote the now well-known AFOSI Complaint Form relating to UFO sightings...</p></details>
 
-38. <a id="endnote-38"></a>
+38.<a id="endnote-38"></a>
    Source: newspaceeconomy.ca  
-   Link: <a href="https://newspaceeconomy.ca/2026/01/08/us-government-uap-projects-a-legacy-of-misinformation-and-mistrust/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2026/01/08/us-government-uap-projects-a-legacy-of-misinformation-and-mistrust/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(AFOSI). Doty has since admitted to feeding... complaint with the Intelligence Community Inspector General.... Richard Doty is a former...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2026/01/08/us-government-uap-projects-a-legacy-of-misinformation-and-mistrust/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2026/01/08/us-government-uap-projects-a-legacy-of-misinformation-and-mistrust/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(AFOSI). Doty has since admitted to feeding... complaint with the Intelligence Community Inspector General.... Richard Doty is a former...</p></details>

@@ -265,15 +265,15 @@ image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_
 One of the most tangible tests of alien crash-retrieval claims is not witness testimony or leaked documents, but physical material. If a fragment of allegedly non-human technology can be examined in a laboratory, researchers can analyse its composition, structure and manufacturing history. For Sean Kirkpatrick and the All-domain Anomaly Resolution Office (AARO), this question became especially important because one frequently cited metal sample had long been promoted within parts of the UFO community as possible evidence of advanced or extraterrestrial engineering.
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-1-dark.svg" | relative_url }}" alt="Material Sample illustration 1" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-AARO's investigation did not focus on rumours about the sample. Instead, it focused on what laboratory testing could establish. The resulting findings became a significant case study in the wider retrieval debate because they addressed a simple question: was the material genuinely exotic, or was it an unusual but terrestrial alloy? <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — TEM revealed that the crystalline structure of magnesium in the specimen was c...</span></span></span>
+AARO's investigation did not focus on rumours about the sample. Instead, it focused on what laboratory testing could establish. The resulting findings became a significant case study in the wider retrieval debate because they addressed a simple question: was the material genuinely exotic, or was it an unusual but terrestrial alloy?<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — TEM revealed that the crystalline structure of magnesium in the specimen was c...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/U9ncpiLOTe8" title="Pentagon UFO Files Finally Revealed? The AARO Report Explained" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=U9ncpiLOTe8" target="_blank" rel="noopener noreferrer">Pentagon UFO Files Finally Revealed? The AARO Report Explained</a></p><p class="youtube-embed-meta">Channel: Thiện Thông TV &middot; Views: 34 &middot; Uploaded: May 2026 &middot; Length: 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=U9ncpiLOTe8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=U9ncpiLOTe8">Open on YouTube</a></p></div></div></div>
 
 ## What the sample was claimed to be
 
-The specimen at the centre of the controversy is often known within UFO circles as a layered magnesium-bismuth material, sometimes referred to as part of the "Art's Parts" collection. Over the years, various researchers and enthusiasts suggested that its unusual layered structure might indicate an advanced manufacturing process beyond conventional aerospace technology. Some theories proposed that it could function as a specialised terahertz-wave device or represent debris from a recovered non-human craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi)...</span></span></span>
+The specimen at the centre of the controversy is often known within UFO circles as a layered magnesium-bismuth material, sometimes referred to as part of the "Art's Parts" collection. Over the years, various researchers and enthusiasts suggested that its unusual layered structure might indicate an advanced manufacturing process beyond conventional aerospace technology. Some theories proposed that it could function as a specialised terahertz-wave device or represent debris from a recovered non-human craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi)...</span></span></span>
 
-The sample gained additional attention because it was examined by organisations connected to UFO research efforts and was sometimes discussed alongside broader allegations that defence contractors were studying recovered extraterrestrial technology. In the modern disclosure debate, it became one of the few physical objects repeatedly cited as potentially supporting retrieval claims. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi)...</span></span></span>
+The sample gained additional attention because it was examined by organisations connected to UFO research efforts and was sometimes discussed alongside broader allegations that defence contractors were studying recovered extraterrestrial technology. In the modern disclosure debate, it became one of the few physical objects repeatedly cited as potentially supporting retrieval claims.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi)...</span></span></span>
 
 That made it particularly relevant to Kirkpatrick's broader argument. If a highly publicised material specimen could withstand independent scientific scrutiny, it would strengthen claims that crash-retrieval stories had a physical foundation. If it failed that scrutiny, it would suggest that at least some prominent material claims were being overstated.
 
@@ -281,26 +281,26 @@ That made it particularly relevant to Kirkpatrick's broader argument. If a highl
 
 ## What testing found about magnesium, zinc and bismuth
 
-AARO submitted the specimen for advanced analysis, including work conducted with specialists at Oak Ridge National Laboratory (ORNL). The testing examined elemental composition, crystal structure, layering and isotopic characteristics. The results did not support an extraterrestrial interpretation. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — TEM revealed that the crystalline structure of magnesium in the specimen was c...</span></span></span>
+AARO submitted the specimen for advanced analysis, including work conducted with specialists at Oak Ridge National Laboratory (ORNL). The testing examined elemental composition, crystal structure, layering and isotopic characteristics. The results did not support an extraterrestrial interpretation.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">ORNL Synopsis Analysis of a Metallic Specimen</span><span class="citation-popover-snippet">Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — TEM revealed that the crystalline structure of magnesium in the specimen was c...</span></span></span>
 
-The material was found to consist primarily of magnesium and zinc, with bismuth, lead and trace elements present throughout the structure. Researchers concluded that it was a manufactured metallic alloy of terrestrial origin rather than an unknown material. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — The sample is primarily composed of magnesium, zinc, and bismuth with some other trace elements, such as lead. This...</span></span></span>
+The material was found to consist primarily of magnesium and zinc, with bismuth, lead and trace elements present throughout the structure. Researchers concluded that it was a manufactured metallic alloy of terrestrial origin rather than an unknown material.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">Volume 19 Mar 2024 — The sample is primarily composed of magnesium, zinc, and bismuth with some other trace elements, such as lead. This...</span></span></span>
 
-One important finding concerned the layered structure itself. Earlier descriptions had often portrayed the specimen as containing clean, distinct layers of magnesium alloy and pure bismuth. According to AARO and ORNL, detailed examination showed that the reality was more complex. The bismuth layers were not pure, contained lead contamination, and did not match the structure required by some of the more speculative theories about advanced electromagnetic functions. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">ufo metal sample analysis</span><span class="citation-popover-snippet">This Mysterious Metal Could Be Alien Technology, UFO...23 Mar 2026 — To qualify as a piece of alien technology, the sample would need to...</span></span></span>
+One important finding concerned the layered structure itself. Earlier descriptions had often portrayed the specimen as containing clean, distinct layers of magnesium alloy and pure bismuth. According to AARO and ORNL, detailed examination showed that the reality was more complex. The bismuth layers were not pure, contained lead contamination, and did not match the structure required by some of the more speculative theories about advanced electromagnetic functions.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">ufo metal sample analysis</span><span class="citation-popover-snippet">This Mysterious Metal Could Be Alien Technology, UFO...23 Mar 2026 — To qualify as a piece of alien technology, the sample would need to...</span></span></span>
 
-AARO's supplementary technical report described repeated bismuth-lead banding and varying zinc concentrations throughout the sample. Electron microscopy also found magnesium crystal structures consistent with known terrestrial magnesium alloys rather than an unknown form of matter or manufacturing process. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span>
+AARO's supplementary technical report described repeated bismuth-lead banding and varying zinc concentrations throughout the sample. Electron microscopy also found magnesium crystal structures consistent with known terrestrial magnesium alloys rather than an unknown form of matter or manufacturing process.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span>
 
-The laboratories nevertheless noted that the material was unusual by modern manufacturing standards. "Unusual" did not mean extraterrestrial. Rather, it suggested an uncommon alloy or production method whose exact historical origin remained uncertain. Researchers proposed that it could plausibly be linked to experimental aerospace or military metallurgy from the post-war period, although they could not definitively establish its chain of custody or precise source. AARO <span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">Neither AARO nor ORNL could verify the specimen&#x27;s historical origin.Read more</span><span class="citation-popover-snippet">Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — “Unsurprisingly, records of failed [magnesium] alloy design...</span></span></span>
+The laboratories nevertheless noted that the material was unusual by modern manufacturing standards. "Unusual" did not mean extraterrestrial. Rather, it suggested an uncommon alloy or production method whose exact historical origin remained uncertain. Researchers proposed that it could plausibly be linked to experimental aerospace or military metallurgy from the post-war period, although they could not definitively establish its chain of custody or precise source. AARO<span class="citation-chip-wrap"><a class="citation-chip" href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: gizmodo.com">[Gizmodo]</a><span class="citation-popover" role="note"><span class="citation-popover-source">gizmodo.com</span><span class="citation-popover-title">Neither AARO nor ORNL could verify the specimen&#x27;s historical origin.Read more</span><span class="citation-popover-snippet">Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — “Unsurprisingly, records of failed [magnesium] alloy design...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-2-dark.svg" | relative_url }}" alt="Material Sample illustration 2" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## Why the terrestrial-alloy conclusion matters
 
 The significance of the case extends beyond one metal fragment.
 
-For [supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Kirkpatrick's sceptical approach, the sample illustrates a recurring problem in UFO investigations: an object can acquire an extraordinary reputation long before rigorous testing is performed. Once subjected to modern materials science, the object may turn out to be unusual but still entirely terrestrial. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">sean kirkpatricks interview with daniel lavelle at the guardian transcript.13399</span><span class="citation-popover-snippet">material that they claimed was part of a crashed UFO. And then... samples and telepathic aliens. jplaza said: Googling by &quot;MgBi&quot; shows...</span></span></span>
+For [supporters]({{ 'supporters-0a40e4/' | relative_url }}) of Kirkpatrick's sceptical approach, the sample illustrates a recurring problem in UFO investigations: an object can acquire an extraordinary reputation long before rigorous testing is performed. Once subjected to modern materials science, the object may turn out to be unusual but still entirely terrestrial.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">sean kirkpatricks interview with daniel lavelle at the guardian transcript.13399</span><span class="citation-popover-snippet">material that they claimed was part of a crashed UFO. And then... samples and telepathic aliens. jplaza said: Googling by &quot;MgBi&quot; shows...</span></span></span>
 
-AARO's historical report explicitly cited the specimen as an example of an alleged off-world material that did not survive technical examination. The report concluded that the sample was a manufactured terrestrial alloy and did not possess exceptional properties indicative of non-human technology. It further suggested that later stories about aerospace firms reverse-engineering alien technology may have become intertwined with attempts to reproduce or study the sample itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The sample is primarily composed of magnesium, zinc. Page 9. 9 and...</span></span></span>
+AARO's historical report explicitly cited the specimen as an example of an alleged off-world material that did not survive technical examination. The report concluded that the sample was a manufactured terrestrial alloy and did not possess exceptional properties indicative of non-human technology. It further suggested that later stories about aerospace firms reverse-engineering alien technology may have become intertwined with attempts to reproduce or study the sample itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The sample is primarily composed of magnesium, zinc. Page 9. 9 and...</span></span></span>
 
-Critics of AARO have not universally accepted the conclusion. Some researchers argue that the material still contains features they regard as unusual and contend that unanswered questions remain about its provenance. Others note that uncertainty about origin is not the same thing as proof of mundane manufacture. However, no publicly available testing has demonstrated non-terrestrial isotopic signatures, unknown elements, impossible manufacturing techniques or any other feature that would clearly indicate extraterrestrial origin. <span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi)...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">bands of bismuth and trace elements. While AARO concluded...Read more...</span></span></span>
+Critics of AARO have not universally accepted the conclusion. Some researchers argue that the material still contains features they regard as unusual and contend that unanswered questions remain about its provenance. Others note that uncertainty about origin is not the same thing as proof of mundane manufacture. However, no publicly available testing has demonstrated non-terrestrial isotopic signatures, unknown elements, impossible manufacturing techniques or any other feature that would clearly indicate extraterrestrial origin.<span class="citation-chip-wrap"><a class="citation-chip" href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: tothestars.media">[To The Stars*]</a><span class="citation-popover" role="note"><span class="citation-popover-source">tothestars.media</span><span class="citation-popover-snippet">To The Stars*Material of Interest: Magnesium-Zinc-BismuthOne artifact on loan to TTSA for analysis is a Magnesium-Zinc-Bismuth (MgZn/Bi)...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: medium.com">[Medium]</a><span class="citation-popover" role="note"><span class="citation-popover-source">medium.com</span><span class="citation-popover-snippet">bands of bismuth and trace elements. While AARO concluded...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/038bbzXoIO8" title="Art&#x27;s Parts 2: UFO Crash Recovery SEM &amp; Materials Analysis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=038bbzXoIO8" target="_blank" rel="noopener noreferrer">Art&#x27;s Parts 2: UFO Crash Recovery SEM &amp; Materials Analysis</a></p><p class="youtube-embed-meta">Channel: Alt Propulsion &middot; Views: 343 &middot; Uploaded: April 2025 &middot; Length: 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=038bbzXoIO8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=038bbzXoIO8">Open on YouTube</a></p></div></div></div>
 
@@ -308,159 +308,159 @@ Critics of AARO have not universally accepted the conclusion. Some researchers a
 
 The material-sample debate highlights a broader credibility issue within crash-retrieval claims. Stories about secret programmes often depend on second-hand testimony, classified information or inaccessible documents. Physical artefacts are different because they can, at least in principle, be tested independently.
 
-That is why this case became important within the wider AARO review. A laboratory analysis can reveal composition, impurities, manufacturing methods and isotopic ratios in ways that witness recollections cannot. The more extraordinary the claim, the more valuable such testing becomes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span>
+That is why this case became important within the wider AARO review. A laboratory analysis can reveal composition, impurities, manufacturing methods and isotopic ratios in ways that witness recollections cannot. The more extraordinary the claim, the more valuable such testing becomes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span>
 
-From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates the difference between an intriguing claim and demonstrable evidence. The sample was repeatedly presented as a candidate piece of exotic technology. After detailed examination, AARO and ORNL concluded that it was an earthly alloy with no verified anomalous properties. That conclusion does not settle every question about UFOs, nor does it prove that all retrieval allegations are false. What it does show is that one of the most prominent publicly discussed material samples failed to provide the physical proof that advocates of crash-retrieval claims hoped it would. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The sample is primarily composed of magnesium, zinc. Page 9. 9 and...</span></span></span>
+From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates the difference between an intriguing claim and demonstrable evidence. The sample was repeatedly presented as a candidate piece of exotic technology. After detailed examination, AARO and ORNL concluded that it was an earthly alloy with no verified anomalous properties. That conclusion does not settle every question about UFOs, nor does it prove that all retrieval allegations are false. What it does show is that one of the most prominent publicly discussed material samples failed to provide the physical proof that advocates of crash-retrieval claims hoped it would.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The sample is primarily composed of magnesium, zinc. Page 9. 9 and...</span></span></span>
 
 <img src="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-3-dark.svg" | relative_url }}" alt="Material Sample illustration 3" data-theme-src-dark="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_alien_material_alloy_0741c3-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Was the alleged alien material just an alloy?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Was the alleged alien material just an alloy?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge"><img src="https://i.ebayimg.com/images/g/TfAAAeSw84Jphz~O/s-l225.jpg" alt="Listing image for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge"><img src="https://i.ebayimg.com/images/g/TfAAAeSw84Jphz~O/s-l225.jpg" alt="Listing image for Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO Patch 2.5x3 Inch -X-File Embroidered Applique Iron On Sew On Badge</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns"><img src="https://i.ebayimg.com/images/g/XhQAAOSwZpNe8HNX/s-l225.jpg" alt="Listing image for Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns"><img src="https://i.ebayimg.com/images/g/XhQAAOSwZpNe8HNX/s-l225.jpg" alt="Listing image for Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Iron Sew On Patches Lots Embroidered Patches Badges appliques transfers Patterns</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem"><img src="https://i.ebayimg.com/images/g/4RcAAeSwVdxokeMV/s-l225.jpg" alt="Listing image for Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem"><img src="https://i.ebayimg.com/images/g/4RcAAeSwVdxokeMV/s-l225.jpg" alt="Listing image for Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Bye Earth UFO X-File Patch Embroidered Applique Badge Iron On Sew On Emblem</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On"><img src="https://i.ebayimg.com/images/g/8Y4AAOSwBHplo~rd/s-l225.jpg" alt="Listing image for Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On"><img src="https://i.ebayimg.com/images/g/8Y4AAOSwBHplo~rd/s-l225.jpg" alt="Listing image for Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">Alien Space Roswell Embroidered Patch UFO We Come in Peace X Files Iron On</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO files patch">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO files patch</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+files+patch&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=was-the-alleged-alien-material-just-an-alloy-ufo-files-patch&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO files patch" data-ebay-reference="was-the-alleged-alien-material-just-an-alloy-ufo-files-patch" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -476,7 +476,7 @@ From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates 
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -496,7 +496,7 @@ From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates 
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -528,7 +528,7 @@ From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates 
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -580,7 +580,7 @@ From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates 
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -625,7 +625,7 @@ From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates 
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -666,116 +666,116 @@ From Kirkpatrick's perspective, the magnesium-zinc-bismuth specimen illustrates 
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
    Title: ORNL Synopsis Analysis of a Metallic Specimen  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — TEM revealed that the crystalline structure of magnesium in the specimen was c...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/ORNL-Synopsis_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Synopsis: Analysis of a Metallic Specimen10 Jul 2024 — TEM revealed that the crystalline structure of magnesium in the specimen was c...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The sample is primarily composed of magnesium, zinc. Page 9. 9 and...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 18 Mar 2024 — The sample is primarily composed of magnesium, zinc. Page 9. 9 and...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/Information%20Papers/AAROs_Supplement_to_ORNLs_Analysis_of_a_Metallic_Specimen.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Supplement to Oak Ridge National Laboratory&#x27;s...High-resolution elemental mapping shows repeating layers of Bi and Pb banding...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — The sample is primarily composed of magnesium, zinc, and bismuth with some other trace elements, such as lead. This...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Volume 19 Mar 2024 — The sample is primarily composed of magnesium, zinc, and bismuth with some other trace elements, such as lead. This...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: gizmodo.com  
    Title: Neither AARO nor ORNL could verify the specimen's historical origin.Read more  
-   Link: <a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — “Unsurprisingly, records of failed [magnesium] alloy design...</p></details>
+   Link:<a href="https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433" target="_blank" rel="noopener noreferrer nofollow">https://gizmodo.com/pentagon-publishes-report-on-material-from-a-reported-alien-aircraft-2000469433</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Publishes Report on Material From an Alleged...11 Jul 2024 — “Unsurprisingly, records of failed [magnesium] alloy design...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: metabunk.org  
    Title: sean kirkpatricks interview with daniel lavelle at the guardian transcript.13399  
-   Link: <a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>material that they claimed was part of a crashed UFO. And then... samples and telepathic aliens. jplaza said: Googling by &quot;MgBi&quot; shows...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/sean-kirkpatricks-interview-with-daniel-lavelle-at-the-guardian-transcript.13399/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>material that they claimed was part of a crashed UFO. And then... samples and telepathic aliens. jplaza said: Googling by &quot;MgBi&quot; shows...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>bands of bismuth and trace elements. While AARO concluded...Read more...</p></details>
+   Link:<a href="https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/quantum-psychology-and-engineering/an-inquiry-into-the-material-evidence-of-non-human-intelligence-04dc38a85103</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bands of bismuth and trace elements. While AARO concluded...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: tothestars.media  
-   Link: <a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx</a>  
+   Link:<a href="https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx" target="_blank" rel="noopener noreferrer nofollow">https://tothestars.media/blogs/press-and-news/material-of-interest-magnesium-zinc-bismuth?srsltid=AfmBOorApNxghHtPrWXPVGdvE6KvxmF8r6Jp0TbPHV5L44I-BZFRGFrx</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: popularmechanics.com  
    Title: ufo metal sample analysis  
-   Link: <a href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>This Mysterious Metal Could Be Alien Technology, UFO...23 Mar 2026 — To qualify as a piece of alien technology, the sample would need to...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a70820348/ufo-metal-sample-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This Mysterious Metal Could Be Alien Technology, UFO...23 Mar 2026 — To qualify as a piece of alien technology, the sample would need to...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: Wikipedia  
    Title: To The Stars Inc  
-   Link: <a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/To_The_Stars_Inc" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/To_The_Stars_Inc</a>  
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a69821680/ufo-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Initially thought to exhibit extraordinary properties suggestive of a technosignature—an indicator of intelligent extraterrestrial design...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A former Air Force general allegedly admitted to retrieving...#UFO #Aliens #Area51 #Roswell #UAP #Extraterrestrial #HiddenTruth #Governm...</p></details>
+   Link:<a href="https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/AshleighBanfield/posts/a-former-air-force-general-allegedly-admitted-to-retrieving-alien-spacecraft-and/1523367722484552/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A former Air Force general allegedly admitted to retrieving...#UFO #Aliens #Area51 #Roswell #UAP #Extraterrestrial #HiddenTruth #Governm...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Findings on Suspected Extraterrestrial AlloyThoughts on UFO material made of Bismuth-Magnesium. 116. 48. The AARO... r/UFO...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e0pswd/aaro_releases_findings_on_suspected/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Releases Findings on Suspected Extraterrestrial AlloyThoughts on UFO material made of Bismuth-Magnesium. 116. 48. The AARO... r/UFO...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1g8sk72/arts_parts_further_observations_of_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1g8sk72/arts_parts_further_observations_of_the_roswell/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art&#x27;s Parts: Further Observations of the Roswell SampleSome more observations off the [AARO report](&amp;#123;&amp;#123; &#x27;aaro-report-8d3982/&#x27; | relative_url &amp;#125;&amp;#125;): Definitely some kind of high kinetic e...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1g8sk72/arts_parts_further_observations_of_the_roswell/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1g8sk72/arts_parts_further_observations_of_the_roswell/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art&#x27;s Parts: Further Observations of the Roswell SampleSome more observations off the [AARO report](&amp;#123;&amp;#123; &#x27;aaro-report-8d3982/&#x27; | relative_url &amp;#125;&amp;#125;): Definitely some kind of high kinetic e...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: indiandefencereview.com  
-   Link: <a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
+   Link:<a href="https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/" target="_blank" rel="noopener noreferrer nofollow">https://indiandefencereview.com/ufo-hunters-claimed-metal-shard-levitate-objects-alien-technology-government-lab-other-ideas/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Hunters Claimed This Metal Shard Could Levitate...26 Mar 2026 — According to AARO and Oak Ridge National Laboratory&#x27;s published find...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/9ji1pi/analyses_of_materials_allegedly_recovered_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/9ji1pi/analyses_of_materials_allegedly_recovered_from/</a>  
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/9ji1pi/analyses_of_materials_allegedly_recovered_from/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/9ji1pi/analyses_of_materials_allegedly_recovered_from/</a>  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: wsj.com  
    Title: pentagon ufo investigation lockheed martin 1bac3d41  
-   Link: <a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Was It Scrap Metal or an Alien Spacecraft? The Army...21 Jun 2025 — Sean Kirkpatrick, who had been tapped by the Defense Department to i...</p></details>
+   Link:<a href="https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41" target="_blank" rel="noopener noreferrer nofollow">https://www.wsj.com/politics/national-security/pentagon-ufo-investigation-lockheed-martin-1bac3d41</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Was It Scrap Metal or an Alien Spacecraft? The Army...21 Jun 2025 — Sean Kirkpatrick, who had been tapped by the Defense Department to i...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fmbwbu/an_ufo_reverse_engineered_where_each_brick_cost/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fmbwbu/an_ufo_reverse_engineered_where_each_brick_cost/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The possibilities are fascinating. Also it matches the description...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fmbwbu/an_ufo_reverse_engineered_where_each_brick_cost/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fmbwbu/an_ufo_reverse_engineered_where_each_brick_cost/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The possibilities are fascinating. Also it matches the description...Read more...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: altpropulsion.com  
    Title: arts parts 1 ufo crash recovery material analysis  
-   Link: <a href="https://www.altpropulsion.com/arts-parts-1-ufo-crash-recovery-material-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/arts-parts-1-ufo-crash-recovery-material-analysis/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Art&#x27;s Parts 1: UFO Crash Recovery Material Analysis6 Apr 2025 — Extensive analysis by Linda Moulton Howe and others reveals more: •SEM im...</p></details>
+   Link:<a href="https://www.altpropulsion.com/arts-parts-1-ufo-crash-recovery-material-analysis/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/arts-parts-1-ufo-crash-recovery-material-analysis/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Art&#x27;s Parts 1: UFO Crash Recovery Material Analysis6 Apr 2025 — Extensive analysis by Linda Moulton Howe and others reveals more: •SEM im...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/33" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/33</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO found that the structure was not purely layered magnesium alloy and bismuth.... Prior to AARO&#x27;s acquisition of the sample, the...R...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/33" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/33</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO found that the structure was not purely layered magnesium alloy and bismuth.... Prior to AARO&#x27;s acquisition of the sample, the...R...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>rtifacts from crashed UFOs, but finding extraterrestrial tech...</p></details>
+   Link:<a href="https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/bakersfieldnow/posts/a-new-batch-of-declassified-pentagon-ufo-materials-is-fueling-fresh-public-fasci/1457315939771950/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>rtifacts from crashed UFOs, but finding extraterrestrial tech...</p></details>

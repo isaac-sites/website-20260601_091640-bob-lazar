@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-uap-injury-claims/
 description: Focused pages that expand on Injury Claims.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: Kit_Green_d896bc_uap_injury_claims_5715d6
 parent_title: Injury Claims
@@ -16,7 +16,7 @@ parent_permalink: /injury-claims/
 
 # Explore Topics in Injury Claims
 
-The following pages expand on the main **[Injury Claims]({{ '/injury-claims/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Injury Claims]({{ '/injury-claims/' | relative_url }})** page and cover its key branches in.
 
 - [Cash Landrum]({{ '/cash-landrum/' | relative_url }})
 - [Microwaves]({{ '/microwaves/' | relative_url }})

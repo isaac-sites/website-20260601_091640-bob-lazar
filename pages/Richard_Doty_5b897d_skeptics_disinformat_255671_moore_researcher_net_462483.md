@@ -259,17 +259,17 @@ image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_rese
 One of the strongest sceptical arguments against Richard Doty is not based on a single forged document or disputed UFO sighting. It is the claim that false stories spread through a trusted network of civilian researchers who believed they were receiving genuine insider information. At the centre of that network was William L. Moore, a highly influential UFO author whose public reputation gave unusual weight to the material moving through the community.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-1-dark.svg" | relative_url }}" alt="Moore network illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Moore's 1989 admission at a Mutual UFO Network (MUFON) conference remains a pivotal moment in UFO history because it appeared to confirm that at least some prominent researchers had become conduits for intelligence-linked disinformation. For critics, the episode helps explain how stories about alien treaties, underground bases, Majestic-12, recovered craft and secret government programmes travelled far beyond their original sources and acquired an aura of credibility. For [supporters]({{ 'supporters/' | relative_url }}) of some UFO claims, Moore's confession is more complicated: they argue that genuine information may have been mixed with false material. Either way, the episode raised a lasting question about Richard Doty's credibility and about how easily trusted researchers can amplify rumours that later become accepted as UFO lore. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bill Moore (ufologist</span><span class="citation-popover-snippet">Bill Moore (ufologist</span></span></span>
+Moore's 1989 admission at a Mutual UFO Network (MUFON) conference remains a pivotal moment in UFO history because it appeared to confirm that at least some prominent researchers had become conduits for intelligence-linked disinformation. For critics, the episode helps explain how stories about alien treaties, underground bases, Majestic-12, recovered craft and secret government programmes travelled far beyond their original sources and acquired an aura of credibility. For [supporters]({{ 'supporters/' | relative_url }}) of some UFO claims, Moore's confession is more complicated: they argue that genuine information may have been mixed with false material. Either way, the episode raised a lasting question about Richard Doty's credibility and about how easily trusted researchers can amplify rumours that later become accepted as UFO lore.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bill Moore (ufologist</span><span class="citation-popover-snippet">Bill Moore (ufologist</span></span></span>
 
 ## What Moore said in 1989
 
-By the late 1980s, William Moore was not a fringe figure. He had co-authored *The Roswell Incident*, helped revive public interest in Roswell, and was closely associated with some of the most influential UFO narratives of the era. His standing meant that many researchers treated him as a serious investigator rather than a sensationalist promoter. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+By the late 1980s, William Moore was not a fringe figure. He had co-authored *The Roswell Incident*, helped revive public interest in Roswell, and was closely associated with some of the most influential UFO narratives of the era. His standing meant that many researchers treated him as a serious investigator rather than a sensationalist promoter.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
 
-That reputation was shaken at the 1989 MUFON symposium in Las Vegas. During his presentation, Moore acknowledged that he had participated in what he described as a disinformation effort connected to Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) and contacts linked to Air Force Office of Special Investigations circles. He said he had supplied information to intelligence-connected figures and had become involved in efforts to monitor or influence developments surrounding Bennewitz's beliefs about UFO activity near Kirtland Air Force Base. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident... disinformation targeting Paul Bennewitz. In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesMainstream scientists, government investigators, and skeptics maintain that little or no evidence exists to sup...</span></span></span>
+That reputation was shaken at the 1989 MUFON symposium in Las Vegas. During his presentation, Moore acknowledged that he had participated in what he described as a disinformation effort connected to Paul [Bennewitz]({{ 'bennewitz/' | relative_url }}) and contacts linked to Air Force Office of Special Investigations circles. He said he had supplied information to intelligence-connected figures and had become involved in efforts to monitor or influence developments surrounding Bennewitz's beliefs about UFO activity near Kirtland Air Force Base.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident... disinformation targeting Paul Bennewitz. In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesMainstream scientists, government investigators, and skeptics maintain that little or no evidence exists to sup...</span></span></span>
 
-The importance of the admission was not simply that Moore claimed intelligence agencies were interested in UFO researchers. Rumours of that had circulated for years. The damaging part was that a respected civilian investigator appeared to admit active participation in the process. Critics interpreted the speech as confirmation that misinformation had not only been injected into the UFO community but had been transmitted by people whom other researchers already trusted. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theparacast.com/forum/threads/bill-moore-on-paul-bennewitz.8275/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theparacast.com">[theparacast.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theparacast.com</span><span class="citation-popover-title">bill moore on paul bennewitz.8275</span><span class="citation-popover-snippet">Bill Moore on Paul BennewitzApr 14, 2011 — In 1989 at the MUFON conference in Las Vegas Moore made a public admission to this fact.... W...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eyeofthepsychic.com/bennewitz/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eyeofthepsychic.com">[Eye Of The Psychic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eyeofthepsychic.com</span><span class="citation-popover-snippet">Driving Mr. Bennewitz InsaneUFOgate Driving Mr. Bennewitz Insane Disinformation and UFOs; it is a subject that for many years has been a...</span></span></span>
+The importance of the admission was not simply that Moore claimed intelligence agencies were interested in UFO researchers. Rumours of that had circulated for years. The damaging part was that a respected civilian investigator appeared to admit active participation in the process. Critics interpreted the speech as confirmation that misinformation had not only been injected into the UFO community but had been transmitted by people whom other researchers already trusted.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theparacast.com/forum/threads/bill-moore-on-paul-bennewitz.8275/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theparacast.com">[theparacast.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theparacast.com</span><span class="citation-popover-title">bill moore on paul bennewitz.8275</span><span class="citation-popover-snippet">Bill Moore on Paul BennewitzApr 14, 2011 — In 1989 at the MUFON conference in Las Vegas Moore made a public admission to this fact.... W...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eyeofthepsychic.com/bennewitz/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eyeofthepsychic.com">[Eye Of The Psychic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eyeofthepsychic.com</span><span class="citation-popover-snippet">Driving Mr. Bennewitz InsaneUFOgate Driving Mr. Bennewitz Insane Disinformation and UFOs; it is a subject that for many years has been a...</span></span></span>
 
-The speech divided the UFO community. Some regarded Moore as exposing a real manipulation programme. Others concluded that he had destroyed his own credibility by admitting involvement in it. Either interpretation left a lasting stain on the reliability of the information network around Doty. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">infamous 1989 disinformation confession speech by</span><span class="citation-popover-snippet">infamous 1989 Disinformation Confession Speech by Bill...September 4, 2025 — Bill Moore has to say the fact is that I have informa...</span><span class="citation-popover-meta">Published: September 4, 2025</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
+The speech divided the UFO community. Some regarded Moore as exposing a real manipulation programme. Others concluded that he had destroyed his own credibility by admitting involvement in it. Either interpretation left a lasting stain on the reliability of the information network around Doty.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">infamous 1989 disinformation confession speech by</span><span class="citation-popover-snippet">infamous 1989 Disinformation Confession Speech by Bill...September 4, 2025 — Bill Moore has to say the fact is that I have informa...</span><span class="citation-popover-meta">Published: September 4, 2025</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/dUfimKiS-po" title="Full, infamous 1989 disinformation confession speech by Bill Moore on ufology, Paul Bennewitz &amp; more" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=dUfimKiS-po" target="_blank" rel="noopener noreferrer">Full, infamous 1989 disinformation confession speech by Bill Moore on ufology, Paul Bennewitz &amp; more</a></p><p class="youtube-embed-meta">Channel: Eyes On Cinema &middot; Views: 11.6K &middot; Uploaded: September 2025 &middot; Length: 1 hour 54 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=dUfimKiS-po" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=dUfimKiS-po">Open on YouTube</a></p></div></div></div>
 
@@ -277,31 +277,31 @@ The speech divided the UFO community. Some regarded Moore as exposing a real man
 
 The Moore episode illustrates a problem that goes beyond one individual: information often becomes more persuasive when it arrives through trusted intermediaries rather than directly from an official source.
 
-In the early 1980s, Moore occupied a valuable position within UFO research. He was connected to investigators, authors, journalists, conference organisers and researchers who were already looking for evidence of government UFO secrecy. When information appeared to come through Moore, many people viewed it differently than they would have viewed an anonymous rumour. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bill Moore (ufologist</span><span class="citation-popover-snippet">Bill Moore (ufologist</span></span></span>
+In the early 1980s, Moore occupied a valuable position within UFO research. He was connected to investigators, authors, journalists, conference organisers and researchers who were already looking for evidence of government UFO secrecy. When information appeared to come through Moore, many people viewed it differently than they would have viewed an anonymous rumour.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Bill Moore (ufologist</span><span class="citation-popover-snippet">Bill Moore (ufologist</span></span></span>
 
 Several factors helped rumours spread:
 
-* **Existing credibility.** Moore had already gained influence through Roswell research and high-profile UFO publications. His involvement acted as a credibility filter for material that might otherwise have been dismissed. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
-* **Apparent insider access.** Stories connected to AFOSI personnel, intelligence contacts or classified programmes appeared more authoritative because they seemed to come from people with privileged knowledge. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident... disinformation targeting Paul Bennewitz. In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an...</span></span></span>
-* **Researcher-to-researcher transmission.** Claims often moved through conferences, newsletters, private briefings and personal networks before reaching the public. By the time a story became widely known, its origins could be difficult to reconstruct. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[ufotrail.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-snippet">disinformation game directed at Paul Bennewitz and the UFO community.... Career intelligence officer and ufology&#x27;s favorite colonel, Joh...</span></span></span>
-* **Mixing fact and fiction.** Critics point to projects such as *The Aquarius Project*, an unpublished manuscript involving Moore, Doty and journalist Bob Pratt, as examples of how speculative, fictional and allegedly insider material could become intertwined. Moore reportedly discussed getting as much of the story out as possible despite lacking evidence strong enough for a conventional nonfiction account. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesMainstream scientists, government investigators, and skeptics maintain that little or no evidence exists to sup...</span></span></span>
+* **Existing credibility.** Moore had already gained influence through Roswell research and high-profile UFO publications. His involvement acted as a credibility filter for material that might otherwise have been dismissed.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO reports and disinformation</span><span class="citation-popover-snippet">UFO reports and disinformation</span></span></span>
+* **Apparent insider access.** Stories connected to AFOSI personnel, intelligence contacts or classified programmes appeared more authoritative because they seemed to come from people with privileged knowledge.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Roswell incident</span><span class="citation-popover-snippet">Roswell incident... disinformation targeting Paul Bennewitz. In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an...</span></span></span>
+* **Researcher-to-researcher transmission.** Claims often moved through conferences, newsletters, private briefings and personal networks before reaching the public. By the time a story became widely known, its origins could be difficult to reconstruct.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[ufotrail.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-snippet">disinformation game directed at Paul Bennewitz and the UFO community.... Career intelligence officer and ufology&#x27;s favorite colonel, Joh...</span></span></span>
+* **Mixing fact and fiction.** Critics point to projects such as *The Aquarius Project*, an unpublished manuscript involving Moore, Doty and journalist Bob Pratt, as examples of how speculative, fictional and allegedly insider material could become intertwined. Moore reportedly discussed getting as much of the story out as possible despite lacking evidence strong enough for a conventional nonfiction account.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">UFO conspiracy theories</span><span class="citation-popover-snippet">UFO conspiracy theoriesMainstream scientists, government investigators, and skeptics maintain that little or no evidence exists to sup...</span></span></span>
 
-This contamination effect matters because many later UFO conspiracy themes did not arrive as isolated claims. They emerged through overlapping networks of researchers, informants and self-described insiders. Once a claim was repeated by several apparently independent figures, it could begin to look corroborated even if those figures ultimately traced back to the same small circle of sources. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[ufotrail.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-snippet">disinformation game directed at Paul Bennewitz and the UFO community.... Career intelligence officer and ufology&#x27;s favorite colonel, Joh...</span></span></span>
+This contamination effect matters because many later UFO conspiracy themes did not arrive as isolated claims. They emerged through overlapping networks of researchers, informants and self-described insiders. Once a claim was repeated by several apparently independent figures, it could begin to look corroborated even if those figures ultimately traced back to the same small circle of sources.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufotrail.blogspot.com">[ufotrail.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufotrail.blogspot.com</span><span class="citation-popover-snippet">disinformation game directed at Paul Bennewitz and the UFO community.... Career intelligence officer and ufology&#x27;s favorite colonel, Joh...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-2-dark.svg" | relative_url }}" alt="Moore network illustration 2" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The Majestic-12 problem
 
 The controversy surrounding the Majestic-12 documents shows how difficult it became to separate genuine leads from potentially manufactured material.
 
-Moore was closely connected to the circulation of the MJ-12 papers, which purported to reveal a secret government group managing recovered UFO technology. The documents became enormously influential and helped popularise the idea of a hidden UFO control structure operating above normal government oversight. Yet questions about authenticity emerged almost immediately. Researchers identified formatting anomalies, historical inconsistencies and documentary problems. Moore himself acknowledged creating at least one facsimile version of related material for television production purposes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
+Moore was closely connected to the circulation of the MJ-12 papers, which purported to reveal a secret government group managing recovered UFO technology. The documents became enormously influential and helped popularise the idea of a hidden UFO control structure operating above normal government oversight. Yet questions about authenticity emerged almost immediately. Researchers identified formatting anomalies, historical inconsistencies and documentary problems. Moore himself acknowledged creating at least one facsimile version of related material for television production purposes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
 
-For [sceptics]({{ 'sceptics/' | relative_url }}), the significance of MJ-12 is not merely whether a particular document was forged. The broader issue is that the same researcher network associated with Bennewitz, Doty and intelligence-linked information channels was also involved in distributing some of the most influential UFO documents ever released. That overlap makes provenance difficult to establish. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
+For [sceptics]({{ 'sceptics/' | relative_url }}), the significance of MJ-12 is not merely whether a particular document was forged. The broader issue is that the same researcher network associated with Bennewitz, Doty and intelligence-linked information channels was also involved in distributing some of the most influential UFO documents ever released. That overlap makes provenance difficult to establish.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
 
-Believers sometimes argue that forged documents can still contain fragments of genuine information. Critics respond that this logic makes verification nearly impossible because any inconsistency can be explained away as deliberate contamination. The Moore affair sits directly inside that dispute. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
+Believers sometimes argue that forged documents can still contain fragments of genuine information. Critics respond that this logic makes verification nearly impossible because any inconsistency can be explained away as deliberate contamination. The Moore affair sits directly inside that dispute.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
 
 ## Why this damages Doty's later insider persona
 
-Richard Doty's later public role depended heavily on the idea that he possessed unusual insider knowledge acquired through official channels. The problem for sceptics is not merely that some of his claims are controversial. It is that the most famous network associated with him contains admitted instances of misinformation and manipulation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">mirage men a new chapter in ufology</span><span class="citation-popover-snippet">Mirage Men: A New Chapter in UFOlogy29 May 2014 — Its central character is Richard C. Doty, always charming, always convincing, and somet...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
+Richard Doty's later public role depended heavily on the idea that he possessed unusual insider knowledge acquired through official channels. The problem for sceptics is not merely that some of his claims are controversial. It is that the most famous network associated with him contains admitted instances of misinformation and manipulation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: skeptoid.com">[skeptoid.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">skeptoid.com</span><span class="citation-popover-title">mirage men a new chapter in ufology</span><span class="citation-popover-snippet">Mirage Men: A New Chapter in UFOlogy29 May 2014 — Its central character is Richard C. Doty, always charming, always convincing, and somet...</span><span class="citation-popover-meta">Published: May 2014</span></span></span>
 
 Moore's confession created a lasting credibility problem because it established a documented pathway by which false information could enter UFO discourse while appearing to come from authoritative sources. Once that pathway is acknowledged, later claims associated with the same network face a higher evidential burden.
 
@@ -310,206 +310,206 @@ Several questions follow from this:
 * If some stories were intentionally false, which stories were genuine?
 * How can researchers distinguish intelligence activity from authentic whistleblowing?
 * When multiple witnesses repeat the same narrative, are they independently corroborating it or recycling information from a contaminated source chain?
-* Does official access indicate privileged knowledge, or does it simply make a source more persuasive? <span class="citation-chip-wrap"><a class="citation-chip" href="https://garberfiles.substack.com/p/from-mirage-men-to-military-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garberfiles.substack.com">[garberfiles.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garberfiles.substack.com</span><span class="citation-popover-title">From Mirage Men to Military Deception</span><span class="citation-popover-snippet">Garber FilesFebruary 27, 2026 — 27 Feb 2026 — William Moore, in a now-infamous 1989 confession at a MUFON symposium in Las Vegas, admitte...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eyeofthepsychic.com/bennewitz/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eyeofthepsychic.com">[Eye Of The Psychic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eyeofthepsychic.com</span><span class="citation-popover-snippet">Driving Mr. Bennewitz InsaneUFOgate Driving Mr. Bennewitz Insane Disinformation and UFOs; it is a subject that for many years has been a...</span></span></span>
+* Does official access indicate privileged knowledge, or does it simply make a source more persuasive?<span class="citation-chip-wrap"><a class="citation-chip" href="https://garberfiles.substack.com/p/from-mirage-men-to-military-deception" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: garberfiles.substack.com">[garberfiles.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">garberfiles.substack.com</span><span class="citation-popover-title">From Mirage Men to Military Deception</span><span class="citation-popover-snippet">Garber FilesFebruary 27, 2026 — 27 Feb 2026 — William Moore, in a now-infamous 1989 confession at a MUFON symposium in Las Vegas, admitte...</span><span class="citation-popover-meta">Published: February 27, 2026</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.eyeofthepsychic.com/bennewitz/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: eyeofthepsychic.com">[Eye Of The Psychic]</a><span class="citation-popover" role="note"><span class="citation-popover-source">eyeofthepsychic.com</span><span class="citation-popover-snippet">Driving Mr. Bennewitz InsaneUFOgate Driving Mr. Bennewitz Insane Disinformation and UFOs; it is a subject that for many years has been a...</span></span></span>
 
-These questions remain central to assessments of Doty's credibility. Even researchers who believe some UFO secrecy exists often treat the Bennewitz-Moore-Doty network as a warning case. The concern is not just that disinformation may have occurred. It is that once trusted researchers become part of the transmission system, false claims can survive for decades, gain apparent corroboration and become embedded in UFO culture long after their origins have been obscured. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">ufo disinfo four times the us military hoaxed alien contact through the decades</span><span class="citation-popover-snippet">The Daily GrailUFO DISINFO: Four times the US military hoaxed alien...Jun 7, 2021 — In his 1989 MUFON conference speech Bill Moore asser...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/futurism/he-wanted-to-believe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">He Wanted to Believe &#124; Futurism</span><span class="citation-popover-snippet">Project Beta&#x27; explores the true story of Paul Bennewitz and the birth of modern UFO lore... Bishop explores how a disinformation campaig...</span></span></span>
+These questions remain central to assessments of Doty's credibility. Even researchers who believe some UFO secrecy exists often treat the Bennewitz-Moore-Doty network as a warning case. The concern is not just that disinformation may have occurred. It is that once trusted researchers become part of the transmission system, false claims can survive for decades, gain apparent corroboration and become embedded in UFO culture long after their origins have been obscured.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dailygrail.com">[The Daily Grail]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dailygrail.com</span><span class="citation-popover-title">ufo disinfo four times the us military hoaxed alien contact through the decades</span><span class="citation-popover-snippet">The Daily GrailUFO DISINFO: Four times the US military hoaxed alien...Jun 7, 2021 — In his 1989 MUFON conference speech Bill Moore asser...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://vocal.media/futurism/he-wanted-to-believe" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: vocal.media">[Vocal]</a><span class="citation-popover" role="note"><span class="citation-popover-source">vocal.media</span><span class="citation-popover-title">He Wanted to Believe &#124; Futurism</span><span class="citation-popover-snippet">Project Beta&#x27; explores the true story of Paul Bennewitz and the birth of modern UFO lore... Bishop explores how a disinformation campaig...</span></span></span>
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-3-dark.svg" | relative_url }}" alt="Moore network illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The lasting lesson of the Moore network
 
 The lasting importance of William Moore's 1989 admission is that it shifted the debate from individual truth claims to information ecology. Instead of asking only whether a particular UFO story was true, critics began asking how the story travelled, who introduced it, who repeated it and whether the chain of transmission was reliable.
 
-Within the sceptical case against Richard Doty, that is the key point. Moore's admission suggested that UFO narratives could be shaped by a blend of intelligence contacts, speculation, forged or altered documents, researcher prestige and community trust. Once that possibility is accepted, the credibility of any insider story becomes tied not only to its content but also to the network that carried it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
+Within the sceptical case against Richard Doty, that is the key point. Moore's admission suggested that UFO narratives could be shaped by a blend of intelligence contacts, speculation, forged or altered documents, researcher prestige and community trust. Once that possibility is accepted, the credibility of any insider story becomes tied not only to its content but also to the network that carried it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Paul Bennewitz</span><span class="citation-popover-snippet">Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to How did false claims travel through UFO researchers?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to How did false claims travel through UFO researchers?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
-        </h4>
-        <p class="fr-book-author">By Charles River Charles River Editors</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Flying Saucers on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=SG-sswEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Flying Saucers" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
+</h4>
+<p class="fr-book-author">By Charles River Charles River Editors</p>
         
-        <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
-        </h4>
-        <p class="fr-book-author">By BARTY. HARMER</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+</h4>
+<p class="fr-book-author">By BARTY. HARMER</p>
         
-        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
-        </h4>
-        <p class="fr-book-author">By Benjamin Henry Hughes</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Mysterious Skytracks on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=FMcR0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Mysterious Skytracks" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
+</h4>
+<p class="fr-book-author">By Benjamin Henry Hughes</p>
         
-        <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
-        </h4>
-        <p class="fr-book-author">By Von Axle</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Hotspots of the American Southeast on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=-pbd0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFO Hotspots of the American Southeast" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
+</h4>
+<p class="fr-book-author">By Von Axle</p>
         
-        <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Flying+Saucers&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Flying Saucers</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Mysterious+Skytracks&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Mysterious Skytracks</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT"><img src="https://i.ebayimg.com/images/g/2EIAAOSwixBoGhnm/s-l225.jpg" alt="Listing image for VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO ABDUCTION ILLUSTRATION FRAMED WALL ART PICTURE POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT"><img src="https://i.ebayimg.com/images/g/KlYAAOSw2QNddXVx/s-l225.jpg" alt="Listing image for VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">VINTAGE UFO FLYING SAUCERS COMIC ADVERTISING A2 POSTER PRINT</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing"><img src="https://i.ebayimg.com/images/g/gvYAAeSw4JZpqzu-/s-l225.jpg" alt="Listing image for Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">Conspiracy Theory Poster Wall Print Gift UFO Aliens Flat Earth Moon Landing</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=how-did-false-claims-travel-through-ufo-researchers-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="how-did-false-claims-travel-through-ufo-researchers-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -525,7 +525,7 @@ Within the sceptical case against Richard Doty, that is the key point. Moore's a
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -545,7 +545,7 @@ Within the sceptical case against Richard Doty, that is the key point. Moore's a
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -577,7 +577,7 @@ Within the sceptical case against Richard Doty, that is the key point. Moore's a
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -629,7 +629,7 @@ Within the sceptical case against Richard Doty, that is the key point. Moore's a
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -674,7 +674,7 @@ Within the sceptical case against Richard Doty, that is the key point. Moore's a
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -715,158 +715,158 @@ Within the sceptical case against Richard Doty, that is the key point. Moore's a
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: Wikipedia  
    Title: Bill Moore (ufologist)  
-   Link: <a href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Bill_Moore_%28ufologist%29</a>  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: Wikipedia  
    Title: UFO reports and disinformation  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_reports_and_disinformation" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_reports_and_disinformation</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: Wikipedia  
    Title: Roswell incident  
-   Link: <a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... disinformation targeting Paul Bennewitz. In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Roswell_incident" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Roswell_incident</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Roswell incident... disinformation targeting Paul Bennewitz. In 1982, Bob Pratt worked with Doty and Moore on The Aquarius Project, an...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: theparacast.com  
    Title: bill moore on paul bennewitz.8275  
-   Link: <a href="https://www.theparacast.com/forum/threads/bill-moore-on-paul-bennewitz.8275/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparacast.com/forum/threads/bill-moore-on-paul-bennewitz.8275/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Moore on Paul BennewitzApr 14, 2011 — In 1989 at the MUFON conference in Las Vegas Moore made a public admission to this fact.... W...</p></details>
+   Link:<a href="https://www.theparacast.com/forum/threads/bill-moore-on-paul-bennewitz.8275/" target="_blank" rel="noopener noreferrer nofollow">https://www.theparacast.com/forum/threads/bill-moore-on-paul-bennewitz.8275/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Bill Moore on Paul BennewitzApr 14, 2011 — In 1989 at the MUFON conference in Las Vegas Moore made a public admission to this fact.... W...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: infamous 1989 disinformation confession speech by  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>infamous 1989 Disinformation Confession Speech by Bill...September 4, 2025 — Bill Moore has to say the fact is that I have informa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1n8cjkg/infamous_1989_disinformation_confession_speech_by/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>infamous 1989 Disinformation Confession Speech by Bill...September 4, 2025 — Bill Moore has to say the fact is that I have informa...</p></details>
    Published: September 4, 2025  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: UFO conspiracy theories  
-   Link: <a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesMainstream scientists, government investigators, and skeptics maintain that little or no evidence exists to sup...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/UFO_conspiracy_theories" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/UFO_conspiracy_theories</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO conspiracy theoriesMainstream scientists, government investigators, and skeptics maintain that little or no evidence exists to sup...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: ufotrail.blogspot.com  
-   Link: <a href="https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html" target="_blank" rel="noopener noreferrer nofollow">https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation game directed at Paul Bennewitz and the UFO community.... Career intelligence officer and ufology&#x27;s favorite colonel, Joh...</p></details>
+   Link:<a href="https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html" target="_blank" rel="noopener noreferrer nofollow">https://ufotrail.blogspot.com/2013/11/influence-of-intelligence-community-in.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>disinformation game directed at Paul Bennewitz and the UFO community.... Career intelligence officer and ufology&#x27;s favorite colonel, Joh...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: skeptoid.com  
    Title: [mirage men](&#123;&#123; 'mirage-men/' | relative_url &#125;&#125;) a new chapter in ufology  
-   Link: <a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A New Chapter in UFOlogy29 May 2014 — Its central character is Richard C. Doty, always charming, always convincing, and somet...</p></details>
+   Link:<a href="https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/" target="_blank" rel="noopener noreferrer nofollow">https://skeptoid.com/blog/2014/05/29/mirage-men-a-new-chapter-in-ufology/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: A New Chapter in UFOlogy29 May 2014 — Its central character is Richard C. Doty, always charming, always convincing, and somet...</p></details>
    Published: May 2014  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: garberfiles.substack.com  
    Title: From Mirage Men to Military Deception  
-   Link: <a href="https://garberfiles.substack.com/p/from-mirage-men-to-military-deception" target="_blank" rel="noopener noreferrer nofollow">https://garberfiles.substack.com/p/from-mirage-men-to-military-deception</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Garber FilesFebruary 27, 2026 — 27 Feb 2026 — William Moore, in a now-infamous 1989 confession at a MUFON symposium in Las Vegas, admitte...</p></details>
+   Link:<a href="https://garberfiles.substack.com/p/from-mirage-men-to-military-deception" target="_blank" rel="noopener noreferrer nofollow">https://garberfiles.substack.com/p/from-mirage-men-to-military-deception</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Garber FilesFebruary 27, 2026 — 27 Feb 2026 — William Moore, in a now-infamous 1989 confession at a MUFON symposium in Las Vegas, admitte...</p></details>
    Published: February 27, 2026  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: vocal.media  
    Title: He Wanted to Believe | Futurism  
-   Link: <a href="https://vocal.media/futurism/he-wanted-to-believe" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/he-wanted-to-believe</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Project Beta&#x27; explores the true story of Paul Bennewitz and the birth of modern UFO lore... Bishop explores how a disinformation campaig...</p></details>
+   Link:<a href="https://vocal.media/futurism/he-wanted-to-believe" target="_blank" rel="noopener noreferrer nofollow">https://vocal.media/futurism/he-wanted-to-believe</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Project Beta&#x27; explores the true story of Paul Bennewitz and the birth of modern UFO lore... Bishop explores how a disinformation campaig...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: Wikipedia  
    Title: Paul Bennewitz  
-   Link: <a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Paul_Bennewitz" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Paul_Bennewitz</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz... Moore and another officer of the Air Force Office of Special Investigations, Richard Doty, are responsible for a dis...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoIn the documentary &quot;Mirage Men&quot; Doty freely admits that Bennewitz was a target and describes some of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1g2wx2d/the_infamous_richard_doty/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Infamous Richard Doty.: r/ufoIn the documentary &quot;Mirage Men&quot; Doty freely admits that Bennewitz was a target and describes some of th...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/ufo/comments/1t36zcv/the_real_story_behind_the_disclosure_movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t36zcv/the_real_story_behind_the_disclosure_movement/</a>  
+   Link:<a href="https://www.reddit.com/r/ufo/comments/1t36zcv/the_real_story_behind_the_disclosure_movement/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/ufo/comments/1t36zcv/the_real_story_behind_the_disclosure_movement/</a>  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
    Title: Does anyone know what happened to William Moore?r/UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1fngjfn/does_anyone_know_what_happened_to_william_moore/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fngjfn/does_anyone_know_what_happened_to_william_moore/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>infamous 1989 Disinformation Confession Speech by Bill Moore on ufology, Paul. youtube. 122. 47. Was this UFO reported by local Boston...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1fngjfn/does_anyone_know_what_happened_to_william_moore/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1fngjfn/does_anyone_know_what_happened_to_william_moore/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>infamous 1989 Disinformation Confession Speech by Bill Moore on ufology, Paul. youtube. 122. 47. Was this UFO reported by local Boston...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: reddit.com  
    Title: at mufon 1989 bill moore details government  
-   Link: <a href="https://www.reddit.com/r/uapdrop/comments/1n7pdkl/at_mufon_1989_bill_moore_details_government/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/uapdrop/comments/1n7pdkl/at_mufon_1989_bill_moore_details_government/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>At MUFON 1989, Bill Moore Details Government...At MUFON 1989, Bill Moore Details Government Disinformation, the [Bennewitz Case](&amp;#123;&amp;#123; &#x27;bennewitz-case/&#x27; | relative_url &amp;#125;&amp;#125;), and the...</p></details>
+   Link:<a href="https://www.reddit.com/r/uapdrop/comments/1n7pdkl/at_mufon_1989_bill_moore_details_government/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/uapdrop/comments/1n7pdkl/at_mufon_1989_bill_moore_details_government/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>At MUFON 1989, Bill Moore Details Government...At MUFON 1989, Bill Moore Details Government Disinformation, the [Bennewitz Case](&amp;#123;&amp;#123; &#x27;bennewitz-case/&#x27; | relative_url &amp;#125;&amp;#125;), and the...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/aliens/comments/zu6eg2/paul_bennewitz_and_the_initial_deciphered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/zu6eg2/paul_bennewitz_and_the_initial_deciphered/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz and the initial deciphered transmissionsI am assuming these messages were intercepted before the involvement and misinform...</p></details>
+   Link:<a href="https://www.reddit.com/r/aliens/comments/zu6eg2/paul_bennewitz_and_the_initial_deciphered/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/aliens/comments/zu6eg2/paul_bennewitz_and_the_initial_deciphered/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Paul Bennewitz and the initial deciphered transmissionsI am assuming these messages were intercepted before the involvement and misinform...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: dailygrail.com  
    Title: ufo disinfo four times the us military hoaxed alien contact through the decades  
-   Link: <a href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily GrailUFO DISINFO: Four times the US military hoaxed alien...Jun 7, 2021 — In his 1989 MUFON conference speech Bill Moore asser...</p></details>
+   Link:<a href="https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/" target="_blank" rel="noopener noreferrer nofollow">https://www.dailygrail.com/2021/06/ufo-disinfo-four-times-the-us-military-hoaxed-alien-contact-through-the-decades/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Daily GrailUFO DISINFO: Four times the US military hoaxed alien...Jun 7, 2021 — In his 1989 MUFON conference speech Bill Moore asser...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: eyeofthepsychic.com  
-   Link: <a href="https://www.eyeofthepsychic.com/bennewitz/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeofthepsychic.com/bennewitz/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Mr. Bennewitz InsaneUFOgate Driving Mr. Bennewitz Insane Disinformation and UFOs; it is a subject that for many years has been a...</p></details>
+   Link:<a href="https://www.eyeofthepsychic.com/bennewitz/" target="_blank" rel="noopener noreferrer nofollow">https://www.eyeofthepsychic.com/bennewitz/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Driving Mr. Bennewitz InsaneUFOgate Driving Mr. Bennewitz Insane Disinformation and UFOs; it is a subject that for many years has been a...</p></details>
 
 ### Additional References
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: cia.gov  
-   Link: <a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
+   Link:<a href="https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7" target="_blank" rel="noopener noreferrer nofollow">https://www.cia.gov/readingroom/document/cia-rdp96-00792r000400300004-7</a>  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/OMGTheWhyFiles/videos/bill-moores-shocking-confession/831461259952314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/videos/bill-moores-shocking-confession/831461259952314/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>A Confession That Divided UFOs! | The Why FilesDoty would provide more with confidential information about UFOs. Moore would report on th...</p></details>
+   Link:<a href="https://www.facebook.com/OMGTheWhyFiles/videos/bill-moores-shocking-confession/831461259952314/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/OMGTheWhyFiles/videos/bill-moores-shocking-confession/831461259952314/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>A Confession That Divided UFOs! | The Why FilesDoty would provide more with confidential information about UFOs. Moore would report on th...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: scribd.com  
-   Link: <a href="https://www.scribd.com/document/798360060/Lee-Graham-Bill-Moore" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/798360060/Lee-Graham-Bill-Moore</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence on UFOs | PDF... William Moore and Lee Graham highlight the complexities of UFO document dissemination? Individual...</p></details>
+   Link:<a href="https://www.scribd.com/document/798360060/Lee-Graham-Bill-Moore" target="_blank" rel="noopener noreferrer nofollow">https://www.scribd.com/document/798360060/Lee-Graham-Bill-Moore</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UK Ministry of Defence on UFOs | PDF... William Moore and Lee Graham highlight the complexities of UFO document dissemination? Individual...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: ufoexplorations.com  
-   Link: <a href="https://www.ufoexplorations.com/ufo-posers-and-the-mirage-men-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/ufo-posers-and-the-mirage-men-myth</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Posers and the Mirage Men MythI suggest you contact Bill Moore. Richard Doty.&quot; So, I then contacted Bill Moore by e-mail and received...</p></details>
+   Link:<a href="https://www.ufoexplorations.com/ufo-posers-and-the-mirage-men-myth" target="_blank" rel="noopener noreferrer nofollow">https://www.ufoexplorations.com/ufo-posers-and-the-mirage-men-myth</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO Posers and the Mirage Men MythI suggest you contact Bill Moore. Richard Doty.&quot; So, I then contacted Bill Moore by e-mail and received...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: classicalmidi.co.uk  
-   Link: <a href="https://www.classicalmidi.co.uk/ufo/ufo6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.classicalmidi.co.uk/ufo/ufo6.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO event, (1) as related from people&#x27;s own experiences.According to Maccabee, Bill Moore has acknowledged that Richard Doty confessed to...</p></details>
+   Link:<a href="https://www.classicalmidi.co.uk/ufo/ufo6.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.classicalmidi.co.uk/ufo/ufo6.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO event, (1) as related from people&#x27;s own experiences.According to Maccabee, Bill Moore has acknowledged that Richard Doty confessed to...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: in 1989 ufologist bill moore went to a mufon conference and admitted that he wor  
-   Link: <a href="https://www.facebook.com/PsychedelicClassWarfare/posts/in-1989-ufologist-bill-moore-went-to-a-mufon-conference-and-admitted-that-he-wor/3140947186228834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychedelicClassWarfare/posts/in-1989-ufologist-bill-moore-went-to-a-mufon-conference-and-admitted-that-he-wor/3140947186228834/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>In 1989, UFOlogist Bill Moore went to a MUFON...In 1989, UFOlogist Bill Moore went to a MUFON conference and admitted that he worked wit...</p></details>
+   Link:<a href="https://www.facebook.com/PsychedelicClassWarfare/posts/in-1989-ufologist-bill-moore-went-to-a-mufon-conference-and-admitted-that-he-wor/3140947186228834/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/PsychedelicClassWarfare/posts/in-1989-ufologist-bill-moore-went-to-a-mufon-conference-and-admitted-that-he-wor/3140947186228834/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>In 1989, UFOlogist Bill Moore went to a MUFON...In 1989, UFOlogist Bill Moore went to a MUFON conference and admitted that he worked wit...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XS8WGTqBBik</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: How the US Government Faked an Alien...Mirage Men Meet Richard Doty, a former Special Agent for the AFOSI (Air Force Office...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=XS8WGTqBBik" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=XS8WGTqBBik</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mirage Men: How the US Government Faked an Alien...Mirage Men Meet Richard Doty, a former Special Agent for the AFOSI (Air Force Office...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: bibliotecapleyades.net  
-   Link: <a href="https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_aviary07.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_aviary07.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>bases. UFO involvement in cattle mutilations.Read more...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_aviary07.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/sociopolitica/esp_sociopol_aviary07.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>bases. UFO involvement in cattle mutilations.Read more...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/review-in-an-age-of-disinformation-saucers-spooks-and-kooks-is-the-real-disclosure-film/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/review-in-an-age-of-disinformation-saucers-spooks-and-kooks-is-the-real-disclosure-film/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefReview: In an Age of Disinformation, &quot;Saucers, Spooks and...Apr 4, 2026 — Review: In an Age of Disinformation, “Saucers, Spoo...</p></details>
+   Link:<a href="https://thedebrief.org/review-in-an-age-of-disinformation-saucers-spooks-and-kooks-is-the-real-disclosure-film/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/review-in-an-age-of-disinformation-saucers-spooks-and-kooks-is-the-real-disclosure-film/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefReview: In an Age of Disinformation, &quot;Saucers, Spooks and...Apr 4, 2026 — Review: In an Age of Disinformation, “Saucers, Spoo...</p></details>
 
-28. <a id="endnote-28"></a>
+28.<a id="endnote-28"></a>
    Source: youtube.com  
    Title: Richard Doty's Shocking UFO Revelations! (Paul Bennewitz)  
-   Link: <a href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PuMuD4i_6ZY</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=PuMuD4i_6ZY" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=PuMuD4i_6ZY</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind...</p></details>

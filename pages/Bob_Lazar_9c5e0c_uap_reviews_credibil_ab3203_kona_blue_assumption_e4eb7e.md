@@ -256,14 +256,14 @@ image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_ass
 
 ## Introduction
 
-Kona Blue is one of the most revealing modern UAP documents because it demonstrates how an official-looking programme can be mistaken for evidence that alien technology already exists. In discussions about Bob Lazar, secret reverse-engineering projects are often treated as proof that governments possess recovered non-human craft. The Kona Blue record points in a more complicated direction. It shows that some officials, contractors and UAP advocates genuinely believed hidden materials existed and wanted a government structure to locate, secure and study them. What it does not show is that any such materials were ever found, transferred, funded or analysed. According to the Pentagon's All-domain Anomaly Resolution Office (AARO), Kona Blue never became an operational programme and never received recovered craft or biological samples. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
+Kona Blue is one of the most revealing modern UAP documents because it demonstrates how an official-looking programme can be mistaken for evidence that alien technology already exists. In discussions about Bob Lazar, secret reverse-engineering projects are often treated as proof that governments possess recovered non-human craft. The Kona Blue record points in a more complicated direction. It shows that some officials, contractors and UAP advocates genuinely believed hidden materials existed and wanted a government structure to locate, secure and study them. What it does not show is that any such materials were ever found, transferred, funded or analysed. According to the Pentagon's All-domain Anomaly Resolution Office (AARO), Kona Blue never became an operational programme and never received recovered craft or biological samples.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-1-dark.svg" | relative_url }}" alt="Kona Blue illustration 1" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
 That distinction matters for assessing Lazar-style claims. Government interest in alleged crash retrievals is not the same thing as government possession of alien technology. Kona Blue is important precisely because it highlights how easily those two ideas can become blurred.
 
 ## What Kona Blue was proposed to do
 
-Kona Blue emerged from the same broad environment that produced the Advanced Aerospace Weapon System Applications Program (AAWSAP), a Defence Intelligence Agency effort that explored a mixture of advanced aerospace concepts, UAP reports and more controversial subjects. After AAWSAP ended, supporters proposed a new Department of Homeland Security special-access structure called Kona Blue. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span>
+Kona Blue emerged from the same broad environment that produced the Advanced Aerospace Weapon System Applications Program (AAWSAP), a Defence Intelligence Agency effort that explored a mixture of advanced aerospace concepts, UAP reports and more controversial subjects. After AAWSAP ended, supporters proposed a new Department of Homeland Security special-access structure called Kona Blue.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span>
 
 According to documents released through AARO, the proposal was unusually ambitious. It envisioned:
 
@@ -271,9 +271,9 @@ According to documents released through AARO, the proposal was unusually ambitio
 * Collection of testimony from retired military, intelligence and contractor personnel.
 * Searches for alleged hidden aerospace materials and biological samples.
 * A framework to reverse-engineer any recovered non-human technology that might be obtained in the future.
-* Congressional oversight mechanisms for material that advocates believed already existed somewhere within government or industry. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — AARO assesses that the inaccurate claim that the USG is rev...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
+* Congressional oversight mechanisms for material that advocates believed already existed somewhere within government or industry.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — AARO assesses that the inaccurate claim that the USG is rev...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
 
-One striking feature of the proposal is that it was built around a prior assumption. Advocates believed the US government was already concealing exotic technology. The programme was designed partly to bring that presumed technology under a formal management structure. AARO's summary states that this belief was foundational to the proposal itself. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
+One striking feature of the proposal is that it was built around a prior assumption. Advocates believed the US government was already concealing exotic technology. The programme was designed partly to bring that presumed technology under a formal management structure. AARO's summary states that this belief was foundational to the proposal itself.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
 
 This makes Kona Blue different from a programme created after obtaining unusual material. The proposal was structured around the expectation that hidden material would eventually be identified, transferred or acquired.
 
@@ -281,18 +281,18 @@ This makes Kona Blue different from a programme created after obtaining unusual 
 
 ## Why AARO says it never received materials
 
-When AARO investigated claims about Kona Blue, it found that several interviewees described it as if it had been a real compartment protecting recovered non-human technology. The office traced those claims back to an actual proposal but reached a different conclusion about what happened. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
+When AARO investigated claims about Kona Blue, it found that several interviewees described it as if it had been a real compartment protecting recovered non-human technology. The office traced those claims back to an actual proposal but reached a different conclusion about what happened.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
 According to AARO:
 
-* Kona Blue was proposed as a Prospective Special Access Program. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
+* Kona Blue was proposed as a Prospective Special Access Program.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span>
 * It was never formally approved.
 * It never became an operational Special Access Program.
-* It received no funding. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
+* It received no funding.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 * No materials were transferred into it.
-* No recovered craft or biological samples were ever collected through it. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information PapersFeb 13, 2026 —... KONA BLUE program from interviews conducted as part of its historical review. Multiple interviewees...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
+* No recovered craft or biological samples were ever collected through it.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information PapersFeb 13, 2026 —... KONA BLUE program from interviews conducted as part of its historical review. Multiple interviewees...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</span><span class="citation-popover-meta">Published: April 16, 2024</span></span></span>
 
-The most important passage in the historical review is not that Kona Blue existed as a proposal. It is AARO's statement that the existence of extraterrestrial craft was assumed rather than demonstrated. The report explicitly says that no extraterrestrial craft or bodies were ever collected and that the anticipated materials were only presumed to exist by programme advocates and potential contractors. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span>
+The most important passage in the historical review is not that Kona Blue existed as a proposal. It is AARO's statement that the existence of extraterrestrial craft was assumed rather than demonstrated. The report explicitly says that no extraterrestrial craft or bodies were ever collected and that the anticipated materials were only presumed to exist by programme advocates and potential contractors.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span>
 
 In practical terms, AARO's account describes a programme intended to search for and manage alleged hidden technology, not a programme that successfully possessed such technology.
 
@@ -315,7 +315,7 @@ The trap works like this:
 
 The logic appears persuasive because government paperwork often carries an aura of validation. Yet a government proposal can be based on a hypothesis, a suspicion or even a misconception. Bureaucracies routinely study possibilities that later prove false, exaggerated or unsupported.
 
-Kona Blue is valuable because the available record allows observers to see this process in unusually clear form. The proposal was real. The belief behind it was real. The evidence for hidden alien technology, according to AARO's investigation, was not. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume 1 2024</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — AARO assesses that the inaccurate claim that the USG is rev...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
+Kona Blue is valuable because the available record allows observers to see this process in unusually clear form. The proposal was real. The belief behind it was real. The evidence for hidden alien technology, according to AARO's investigation, was not.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">DHS Kona Blue</span><span class="citation-popover-snippet">5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</span><span class="citation-popover-meta">Published: February 10, 2012</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Page:AARO Historical Record Report Volume</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — AARO assesses that the inaccurate claim that the USG is rev...</span><span class="citation-popover-meta">Published: May 4, 2024</span></span></span>
 
 This does not automatically prove every witness was mistaken or dishonest. It shows that sincere belief and official documentation can coexist without confirming the belief itself.
 
@@ -323,23 +323,23 @@ This does not automatically prove every witness was mistaken or dishonest. It sh
 
 For supporters of Bob Lazar, modern revelations about UAP programmes are sometimes interpreted as indirect confirmation of his story. The argument usually runs that if government offices discussed crash retrievals or reverse engineering, Lazar's account becomes more plausible.
 
-Kona Blue complicates that reasoning. <span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span>
+Kona Blue complicates that reasoning.<span class="citation-chip-wrap"><a class="citation-chip" href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[en.wikisource.org]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more</span><span class="citation-popover-snippet">Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</span><span class="citation-popover-meta">Published: May 6, 2024</span></span></span>
 
-The released documents demonstrate that some people inside and around government institutions believed secret recovery programmes existed. But the documents do not demonstrate that those programmes actually possessed extraterrestrial craft. In fact, AARO presents Kona Blue as an example of officials attempting to build a structure around claims that remained unverified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
+The released documents demonstrate that some people inside and around government institutions believed secret recovery programmes existed. But the documents do not demonstrate that those programmes actually possessed extraterrestrial craft. In fact, AARO presents Kona Blue as an example of officials attempting to build a structure around claims that remained unverified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
 
 That distinction is highly relevant to Lazar because his core claim is not merely that people believed in recovered craft. His claim is that he personally worked on them.
 
 A document showing government interest in alleged exotic technology is therefore weaker evidence for Lazar than many supporters suggest. To strengthen Lazar's credibility directly, one would need evidence that moves beyond belief, planning or proposal stages and into demonstrable possession of materials, facilities, records, technical data or corroborated personnel links.
 
-Kona Blue does not provide that bridge. Instead, it shows how a network of believers could create official proposals based on the expectation that such materials existed somewhere else. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 1Mar 9, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program KONA BLUE...</span></span></span>
+Kona Blue does not provide that bridge. Instead, it shows how a network of believers could create official proposals based on the expectation that such materials existed somewhere else.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: metabunk.org">[Metabunk]</a><span class="citation-popover" role="note"><span class="citation-popover-source">metabunk.org</span><span class="citation-popover-title">AARO&#x27;s Historical UAP Report</span><span class="citation-popover-snippet">AARO&#x27;s Historical UAP Report - Volume 1Mar 9, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program KONA BLUE...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/kb4ESjenLRo" title="What is Kona Blue? The proposed Las Vegas UFO technology program unveiled" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=kb4ESjenLRo" target="_blank" rel="noopener noreferrer">What is Kona Blue? The proposed Las Vegas UFO technology program unveiled</a></p><p class="youtube-embed-meta">Channel: 8 News Now — Las Vegas &middot; Views: 498.0K &middot; Uploaded: May 2024 &middot; Length: 6 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=kb4ESjenLRo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=kb4ESjenLRo">Open on YouTube</a></p></div></div></div>
 
 ## Why the debate remains contested
 
-Not everyone accepts AARO's interpretation. Some UAP advocates argue that the existence of the proposal itself is significant because it shows insiders were convinced enough to seek special-access authorities. Others contend that AARO relied too heavily on denials from agencies that would have strong incentives to protect sensitive programmes. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcaucus.com/aaro-briefing-april-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcaucus.com">[UAP Caucus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcaucus.com</span><span class="citation-popover-title">aaro briefing april 2024</span><span class="citation-popover-snippet">UAP CaucusProbing AARO&#x27;s UAP Investigation and Historical ReportApr 16, 2024 — KONA BLUE Proposal and CIA Denial: Why did AARO dismiss te...</span><span class="citation-popover-meta">Published: april 2024</span></span></span>
+Not everyone accepts AARO's interpretation. Some UAP advocates argue that the existence of the proposal itself is significant because it shows insiders were convinced enough to seek special-access authorities. Others contend that AARO relied too heavily on denials from agencies that would have strong incentives to protect sensitive programmes.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.uapcaucus.com/aaro-briefing-april-2024" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: uapcaucus.com">[UAP Caucus]</a><span class="citation-popover" role="note"><span class="citation-popover-source">uapcaucus.com</span><span class="citation-popover-title">aaro briefing april 2024</span><span class="citation-popover-snippet">UAP CaucusProbing AARO&#x27;s UAP Investigation and Historical ReportApr 16, 2024 — KONA BLUE Proposal and CIA Denial: Why did AARO dismiss te...</span><span class="citation-popover-meta">Published: april 2024</span></span></span>
 
-Sceptics counter that conviction is not evidence. They point to AARO's conclusion that claims of hidden reverse-engineering programmes often circulated within a relatively small network of recurring individuals who reinforced one another's assumptions without producing verifiable physical proof. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
+Sceptics counter that conviction is not evidence. They point to AARO's conclusion that claims of hidden reverse-engineering programmes often circulated within a relatively small network of recurring individuals who reinforced one another's assumptions without producing verifiable physical proof.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
 
 This disagreement is unlikely to disappear because the underlying question concerns absence of evidence. Believers can argue that secrecy explains missing proof. Critics can argue that decades of missing proof weaken the claim. Kona Blue sits directly in the middle of that dispute.
 
@@ -347,161 +347,161 @@ This disagreement is unlikely to disappear because the underlying question conce
 
 ## When a UAP programme proves less than it seems
 
-The main lesson of Kona Blue is not that UAP concerns are frivolous. Modern governments clearly treat unidentified aerial and anomalous reports as matters worth tracking and analysing. AARO itself exists because officials consider some reports important for intelligence, security and aviation-safety reasons. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
+The main lesson of Kona Blue is not that UAP concerns are frivolous. Modern governments clearly treat unidentified aerial and anomalous reports as matters worth tracking and analysing. AARO itself exists because officials consider some reports important for intelligence, security and aviation-safety reasons.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</span></span></span>
 
 The lesson is narrower. A programme proposal, classification label or reverse-engineering plan does not automatically establish that exotic hardware exists. Kona Blue demonstrates that government interest can grow from rumours, testimony, institutional suspicion or strongly held beliefs. It shows how official structures can be proposed around an assumption long before that assumption is verified.
 
-For readers evaluating Bob Lazar's credibility today, that distinction is central. Kona Blue confirms that some people within government-linked circles believed hidden UAP technology existed. It does not confirm that such technology was ever recovered, transferred, studied or successfully reverse-engineered. According to the public record released by AARO, the programme remained a proposal built around an expectation rather than evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information PapersFeb 13, 2026 —... KONA BLUE program from interviews conducted as part of its historical review. Multiple interviewees...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
+For readers evaluating Bob Lazar's credibility today, that distinction is central. Kona Blue confirms that some people within government-linked circles believed hidden UAP technology existed. It does not confirm that such technology was ever recovered, transferred, studied or successfully reverse-engineered. According to the public record released by AARO, the programme remained a proposal built around an expectation rather than evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[AARO]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-title">UAP Records</span><span class="citation-popover-snippet">/Information PapersFeb 13, 2026 —... KONA BLUE program from interviews conducted as part of its historical review. Multiple interviewees...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: en.wikisource.org">[Wikisource]</a><span class="citation-popover" role="note"><span class="citation-popover-source">en.wikisource.org</span><span class="citation-popover-title">KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more</span><span class="citation-popover-snippet">wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</span><span class="citation-popover-meta">Published: May 11, 2024</span></span></span>
 
 <img src="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-3-dark.svg" | relative_url }}" alt="Kona Blue illustration 3" data-theme-src-dark="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for When a UAP programme proves less than it seems, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for When a UAP programme proves less than it seems, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print"><img src="https://i.ebayimg.com/images/g/eYMAAeSwcVRpz249/s-l225.jpg" alt="Listing image for I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe UFO Poster Giclée Fine Art Heavyweight Print</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct"><img src="https://i.ebayimg.com/images/g/ijUAAeSw3w1p43f9/s-l225.jpg" alt="Listing image for I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Believe Alien UFO Poster A3 - Sci-Fi Space Wall Art - Extra-terrestrial Abduct</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO SHADO Watercolour A3 Episode Montage Poster Personalised"><img src="https://i.ebayimg.com/images/g/BPIAAeSws11qBfRy/s-l225.jpg" alt="Listing image for UFO SHADO Watercolour A3 Episode Montage Poster Personalised" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">UFO SHADO Watercolour A3 Episode Montage Poster Personalised</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available"><img src="https://i.ebayimg.com/images/g/T~MAAOSwT~Fj1sGs/s-l225.jpg" alt="Listing image for I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">I Want To Believe Ufo Television Series - Canvas - Framed or Poster Available</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-a-uap-programme-proves-less-than-it-seems-ufo-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster" data-ebay-reference="when-a-uap-programme-proves-less-than-it-seems-ufo-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -517,7 +517,7 @@ For readers evaluating Bob Lazar's credibility today, that distinction is centra
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -537,7 +537,7 @@ For readers evaluating Bob Lazar's credibility today, that distinction is centra
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -569,7 +569,7 @@ For readers evaluating Bob Lazar's credibility today, that distinction is centra
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -621,7 +621,7 @@ For readers evaluating Bob Lazar's credibility today, that distinction is centra
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -666,7 +666,7 @@ For readers evaluating Bob Lazar's credibility today, that distinction is centra
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -707,128 +707,128 @@ For readers evaluating Bob Lazar's credibility today, that distinction is centra
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>History and Origin of KONA BLUEApril 16, 2024 — KONA BLUE never received any materials or funding, and there is no information beyond...</p></details>
    Published: April 16, 2024  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: en.wikisource.org  
    Title: Nexus of Proponents of the USG UAP Reverse-Engineering Allegation.Read more  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/35</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/35May 6, 2024 — KONA BLUE&#x27;s advocates were convinced that the USG was hidi...</p></details>
    Published: May 6, 2024  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: metabunk.org  
    Title: AARO's Historical UAP Report  
-   Link: <a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 1Mar 9, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program KONA BLUE...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaros-historical-uap-report-volume-1.13375/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO&#x27;s Historical UAP Report - Volume 1Mar 9, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program KONA BLUE...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: aaro.mil  
    Title: DHS Kona Blue  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/AARO_DHS_Kona_Blue.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>5 Feb 2024 — KONA. BLUE was a DHS prospective special access program (PSAP) terminated on February 10, 2012. The following actions were t...</p></details>
    Published: February 10, 2012  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: en.wikisource.org  
    Title: Page:AARO Historical Record Report Volume 1 2024  
-   Link: <a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — AARO assesses that the inaccurate claim that the USG is rev...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Page%3AAARO_Historical_Record_Report_Volume_1_2024.pdf/9</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Page:AARO Historical Record Report Volume 1 2024.pdf/9May 4, 2024 — AARO assesses that the inaccurate claim that the USG is rev...</p></details>
    Published: May 4, 2024  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information PapersFeb 13, 2026 —... KONA BLUE program from interviews conducted as part of its historical review. Multiple interviewees...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information PapersFeb 13, 2026 —... KONA BLUE program from interviews conducted as part of its historical review. Multiple interviewees...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: en.wikisource.org  
    Title: KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program.Read more  
-   Link: <a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</p></details>
+   Link:<a href="https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://en.wikisource.org/wiki/Index%3AAARO_Historical_Record_Report_Volume_1_2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>wikisource.orgIndex:AARO Historical Record Report Volume 1 2024.pdfMay 11, 2024 — AARO Investigating Unresolved Historical Nuclear-Relate...</p></details>
    Published: May 11, 2024  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: uapcaucus.com  
    Title: aaro briefing april 2024  
-   Link: <a href="https://www.uapcaucus.com/aaro-briefing-april-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/aaro-briefing-april-2024</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>UAP CaucusProbing AARO&#x27;s UAP Investigation and Historical ReportApr 16, 2024 — KONA BLUE Proposal and CIA Denial: Why did AARO dismiss te...</p></details>
+   Link:<a href="https://www.uapcaucus.com/aaro-briefing-april-2024" target="_blank" rel="noopener noreferrer nofollow">https://www.uapcaucus.com/aaro-briefing-april-2024</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UAP CaucusProbing AARO&#x27;s UAP Investigation and Historical ReportApr 16, 2024 — KONA BLUE Proposal and CIA Denial: Why did AARO dismiss te...</p></details>
    Published: april 2024  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dhs.gov  
    Title: 25 0723 foia dhs st foia log fy2024  
-   Link: <a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE, would restart UAP investigations, paranormal research (including alleged &quot;human consciousness anomalies”)...Read more...</p></details>
+   Link:<a href="https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.dhs.gov/sites/default/files/2025-07/25_0723_foia_dhs-st-foia-log-fy2024.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE, would restart UAP investigations, paranormal research (including alleged &quot;human consciousness anomalies”)...Read more...</p></details>
 
 ### Additional References
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: facebook.com  
    Title: the latest aaro report on uaps which was released in late 2024 touched on hundre  
-   Link: <a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
+   Link:<a href="https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/nbc10/posts/the-latest-aaro-report-on-uaps-which-was-released-in-late-2024-touched-on-hundre/1403981808439501/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The latest AARO report on UAPs, which was released in...The latest AARO report on UAPs, which was released in late 2024, touched on hund...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report Volume 1Mar 8, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program... This program n...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Record Report Volume 1Mar 8, 2024 — KONA BLUE: A Proposed UAP Recovery and Reverse-Engineering Program... This program n...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: meritalk.com  
    Title: pentagon uap report says no evidence of alien tech  
-   Link: <a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 11, 2024 — AARO did discover a program that was proposed to the Department of Homeland Security (DHS) named Kona Blue, to reverse-eng...</p></details>
+   Link:<a href="https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/" target="_blank" rel="noopener noreferrer nofollow">https://www.meritalk.com/articles/pentagon-uap-report-says-no-evidence-of-alien-tech/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Mar 11, 2024 — AARO did discover a program that was proposed to the Department of Homeland Security (DHS) named Kona Blue, to reverse-eng...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: yahoo.com  
    Title: us once considered program reverse 154306276  
-   Link: <a href="https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US once considered a program to reverse-engineer alien...8 Mar 2024 — The proposed effort, Kona Blue, “would restart UAP investigations...</p></details>
+   Link:<a href="https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/us-once-considered-program-reverse-154306276.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US once considered a program to reverse-engineer alien...8 Mar 2024 — The proposed effort, Kona Blue, “would restart UAP investigations...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: nz.news.yahoo.com  
    Title: did us reverse engineer alien 230411929  
-   Link: <a href="https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html" target="_blank" rel="noopener noreferrer nofollow">https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>And other...8 Mar 2024 — The program, called “Kona Blue,” was pitched by supporters of the theory. It was never approved. The AARO said...</p></details>
+   Link:<a href="https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html" target="_blank" rel="noopener noreferrer nofollow">https://nz.news.yahoo.com/did-us-reverse-engineer-alien-230411929.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>And other...8 Mar 2024 — The program, called “Kona Blue,” was pitched by supporters of the theory. It was never approved. The AARO said...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: yahoo.com  
    Title: u eyed program mind reading 191525301  
-   Link: <a href="https://www.yahoo.com/news/u-eyed-program-mind-reading-191525301.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/u-eyed-program-mind-reading-191525301.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eyed Program on Mind Reading and Reverse-...Mar 8, 2024 — The proposal gained some momentum, and was considered a “Prospective Special A...</p></details>
+   Link:<a href="https://www.yahoo.com/news/u-eyed-program-mind-reading-191525301.html" target="_blank" rel="noopener noreferrer nofollow">https://www.yahoo.com/news/u-eyed-program-mind-reading-191525301.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eyed Program on Mind Reading and Reverse-...Mar 8, 2024 — The proposal gained some momentum, and was considered a “Prospective Special A...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE got disclosed. It certainly appears to indicate...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1c7eu0d/what_does_kona_blue_prove_help_me_explain_to/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>KONA BLUE got disclosed. It certainly appears to indicate...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: solveadvocacy.com  
    Title: the uap crash retrieval puzzle pieces  
-   Link: <a href="https://solveadvocacy.com/f/the-uap-crash-retrieval-puzzle-pieces" target="_blank" rel="noopener noreferrer nofollow">https://solveadvocacy.com/f/the-uap-crash-retrieval-puzzle-pieces</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>28 Apr 2024 — Two weeks ago, the DHS, through AARO, released a previously classified document known as KONA BLUE, which corroborates the...</p></details>
+   Link:<a href="https://solveadvocacy.com/f/the-uap-crash-retrieval-puzzle-pieces" target="_blank" rel="noopener noreferrer nofollow">https://solveadvocacy.com/f/the-uap-crash-retrieval-puzzle-pieces</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>28 Apr 2024 — Two weeks ago, the DHS, through AARO, released a previously classified document known as KONA BLUE, which corroborates the...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: Wikipedia  
    Title: All domain Anomaly Resolution Office  
-   Link: <a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical... AARO&#x27;s report similarly...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/All-domain_Anomaly_Resolution_Office</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>All-domain Anomaly Resolution OfficeIn March 2024, AARO released a report titled &quot;Report on the Historical... AARO&#x27;s report similarly...</p></details>
    Published: March 2024  
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: youtube.com  
    Title: Pentagon acknowledges secret UFO project, the Kona Blue program | Vargas Reports  
-   Link: <a href="https://www.youtube.com/watch?v=35iibl5W1OQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=35iibl5W1OQ</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=35iibl5W1OQ" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=35iibl5W1OQ</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Records reveal truth of prospective Kona Blue project to reverse engineer UFO tech | NewsNation Now...</p></details>

@@ -265,15 +265,15 @@ image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_unpublished_case
 One of the most controversial parts of Kit Green’s injury research is not any individual medical case. It is the claim that there are many more cases than the public can see.
 
 <img src="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_unpublished_cases_tr_c1d66d-Illustration-1-dark.svg" | relative_url }}" alt="Hidden cases illustration 1" data-theme-src-dark="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_unpublished_cases_tr_c1d66d-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_unpublished_cases_tr_c1d66d-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Green’s 2010 Defence Intelligence Agency-linked paper refers to a core set of documented medical files but also mentions a much larger body of reportedly similar incidents that were not publicly released. [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) argue that this hidden case pool suggests a long-running pattern of injuries associated with close encounters involving unidentified aerospace phenomena. Critics argue that unpublished records cannot be independently checked and therefore cannot carry the same evidential weight as open medical documentation. The dispute is less about whether unusual symptoms can occur and more about whether inaccessible case files can establish a credible UAP-related injury pattern at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+Green’s 2010 Defence Intelligence Agency-linked paper refers to a core set of documented medical files but also mentions a much larger body of reportedly similar incidents that were not publicly released. [Supporters]({{ 'supporters-c7fa00/' | relative_url }}) argue that this hidden case pool suggests a long-running pattern of injuries associated with close encounters involving unidentified aerospace phenomena. Critics argue that unpublished records cannot be independently checked and therefore cannot carry the same evidential weight as open medical documentation. The dispute is less about whether unusual symptoms can occur and more about whether inaccessible case files can establish a credible UAP-related injury pattern at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 For readers assessing Green’s credibility, this transparency problem is central. Large numbers sound impressive, but scientific and medical claims become harder to evaluate when the underlying records remain unavailable.
 
 ## The claimed scale of the unpublished case pool
 
-Green’s paper discusses a relatively small set of medically reviewed cases in detail. However, public discussion around the document quickly focused on references to a much larger collection of incidents. Media summaries and later commentary frequently highlighted claims that dozens of documented medical cases existed alongside roughly 300 additional unpublished reports of similar injuries. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Were people hurt in the effort to cover up UFOs?...The report added said it had 42 cases from medical files and 300 similar &quot;unp...</span></span></span>
+Green’s paper discusses a relatively small set of medically reviewed cases in detail. However, public discussion around the document quickly focused on references to a much larger collection of incidents. Media summaries and later commentary frequently highlighted claims that dozens of documented medical cases existed alongside roughly 300 additional unpublished reports of similar injuries.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[Facebook]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Were people hurt in the effort to cover up UFOs?...The report added said it had 42 cases from medical files and 300 similar &quot;unp...</span></span></span>
 
-The existence of a larger archive is not inherently implausible. Government programmes such as the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})) and contractor-run investigations collected large volumes of reports, databases and spreadsheets covering alleged anomalous encounters. Material released through Freedom of Information Act requests shows that investigators maintained extensive catalogues of reports and case-management records. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Skinwalkers At The Pentagon &amp; FOIA: r/UFOs</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — Kit Green, Wayne State Univ. School of Medicine, 11 March... BAASS...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span>
+The existence of a larger archive is not inherently implausible. Government programmes such as the Advanced Aerospace Weapon System Applications Program ([AAWSAP]({{ 'aawsap/' | relative_url }})) and contractor-run investigations collected large volumes of reports, databases and spreadsheets covering alleged anomalous encounters. Material released through Freedom of Information Act requests shows that investigators maintained extensive catalogues of reports and case-management records.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Skinwalkers At The Pentagon &amp; FOIA: r/UFOs</span><span class="citation-popover-snippet">Skinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — Kit Green, Wayne State Univ. School of Medicine, 11 March... BAASS...</span><span class="citation-popover-meta">Published: December 15, 2021</span></span></span>
 
 The problem is that quantity and accessibility are different things.
 
@@ -281,7 +281,7 @@ A hidden collection of hundreds of reports could theoretically contain:
 
 <div class="content-enhancement content-enhancement--insight-grid" markdown="1">
 
-* Strongly documented medical cases. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Were people hurt in the effort to cover up UFOs?...The report added said it had 42 cases from medical files and 300 similar &quot;unp...</span></span></span>
+* Strongly documented medical cases.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: facebook.com">[facebook.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">facebook.com</span><span class="citation-popover-snippet">Were people hurt in the effort to cover up UFOs?...The report added said it had 42 cases from medical files and 300 similar &quot;unp...</span></span></span>
 * Weak anecdotal reports.
 * Duplicate reports of the same incident.
 * Cases later explained by conventional causes.
@@ -298,7 +298,7 @@ This is a recurring issue in controversial medical and intelligence-related inve
 
 ## Why hidden records create a credibility problem
 
-Green's supporters often argue that privacy laws, classified programmes and medical confidentiality explain why many records remain inaccessible. That explanation is partly reasonable. Medical files cannot simply be released publicly, and some cases may involve military personnel or intelligence-related reporting channels. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+Green's supporters often argue that privacy laws, classified programmes and medical confidentiality explain why many records remain inaccessible. That explanation is partly reasonable. Medical files cannot simply be released publicly, and some cases may involve military personnel or intelligence-related reporting channels.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 Yet those same restrictions create a credibility challenge.
 
@@ -326,7 +326,7 @@ This does not mean the cases are false. It means outsiders cannot confidently me
 
 One of the strongest parts of Green’s work is his effort to compare alleged UAP injuries with known occupational and environmental exposures.
 
-The paper draws analogies with antenna engineers, radiofrequency exposure incidents, microwave effects and other recognised medical situations involving electromagnetic energy. The basic argument is that some reported symptoms resemble known injury patterns rather than fantasy or folklore. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+The paper draws analogies with antenna engineers, radiofrequency exposure incidents, microwave effects and other recognised medical situations involving electromagnetic energy. The basic argument is that some reported symptoms resemble known injury patterns rather than fantasy or folklore.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 That comparison is medically useful, but it has limits.
 
@@ -345,7 +345,7 @@ For example:
 
 Even if a patient genuinely suffered an electromagnetic or thermal injury, that alone would not establish that a UAP caused it.
 
-This distinction is frequently lost in public discussions. Green’s paper mainly argues that the reported injuries resemble known physiological effects. It does not demonstrate that an unidentified craft or non-human technology produced those effects. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
+This distinction is frequently lost in public discussions. Green’s paper mainly argues that the reported injuries resemble known physiological effects. It does not demonstrate that an unidentified craft or non-human technology produced those effects.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span>
 
 The hidden-case problem makes this distinction even more important. If the unpublished records only show symptom similarities, they cannot independently establish the source of the exposure.
 
@@ -366,7 +366,7 @@ The first can sometimes be answered through clinical evidence. The second is usu
 
 A patient may have documented burns, blood abnormalities or neurological symptoms. That does not automatically reveal whether the cause was environmental exposure, occupational contact, equipment malfunction, psychological stress, an ordinary accident or something genuinely anomalous.
 
-Green’s critics often focus on this gap. They argue that some cases may contain authentic medical findings while still lacking persuasive evidence linking those findings to unidentified aerospace phenomena. Supporters counter that repeated patterns across multiple cases make coincidence less likely. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">ufo report human biological injuries</span><span class="citation-popover-snippet">Live ScienceUFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled...</span></span></span>
+Green’s critics often focus on this gap. They argue that some cases may contain authentic medical findings while still lacking persuasive evidence linking those findings to unidentified aerospace phenomena. Supporters counter that repeated patterns across multiple cases make coincidence less likely.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: livescience.com">[Live Science]</a><span class="citation-popover" role="note"><span class="citation-popover-source">livescience.com</span><span class="citation-popover-title">ufo report human biological injuries</span><span class="citation-popover-snippet">Live ScienceUFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled...</span></span></span>
 
 Without access to the larger unpublished dataset, it is difficult to determine which interpretation fits best.
 
@@ -413,199 +413,199 @@ The result is an unusual evidential position. Green’s injury research is neith
 
 For many [sceptics]({{ 'sceptics-078368/' | relative_url }}), that makes the injury narrative too weak to justify strong conclusions about UAPs. For many supporters, it suggests that the public is seeing only a fraction of the available information. The transparency gap prevents either side from decisively proving its case.
 
-In practical terms, the hidden-case controversy illustrates the broader challenge surrounding Kit Green’s UAP-related work. The most striking claims often depend on evidence that remains partly inaccessible, leaving observers to judge not only the reported injuries themselves but also the reliability of the institutions and individuals describing them. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.” It seems...</span></span></span>
+In practical terms, the hidden-case controversy illustrates the broader challenge surrounding Kit Green’s UAP-related work. The most striking claims often depend on evidence that remains partly inaccessible, leaving observers to judge not only the reported injuries themselves but also the reliability of the institutions and individuals describing them.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-title">File Id</span><span class="citation-popover-snippet">Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.” It seems...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/tvUfdN2fyww" title="UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer">UFO &amp; Paranormal Connections + The AAWSAP Legacy : WEAPONIZED : EPISODE #12</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 102.9K &middot; Uploaded: April 2023 &middot; Length: 1 hour 32 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=tvUfdN2fyww" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=tvUfdN2fyww">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">Books and field guides related to What can hidden injury files really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
-    </div>
-    <div class="fr-books-grid">
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">Books and field guides related to What can hidden injury files really prove?. Use these as the next step if you want deeper reading beyond the article.</p>
+</div>
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
-        </h4>
-        <p class="fr-book-author">By Ben Goldacre</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Bad Science on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=wICuv0ePMYoC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Bad Science" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
+</h4>
+<p class="fr-book-author">By Ben Goldacre</p>
         
-        <p class="fr-book-desc">Addresses evidence quality, hidden data and how claims should be evaluated.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Addresses evidence quality, hidden data and how claims should be evaluated.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
-        </h4>
-        <p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Calling Bullshit on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Plu9DwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Calling Bullshit" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Calling Bullshit">Calling Bullshit</a>
+</h4>
+<p class="fr-book-author">By Carl T. Bergstrom, Jevin D. West</p>
         
-        <p class="fr-book-desc">Useful for understanding why unpublished cases have limited evidential value.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Useful for understanding why unpublished cases have limited evidential value.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Calling+Bullshit+by+Carl+T.+Bergstrom&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
-        </h4>
-        <p class="fr-book-author">By Leslie Kean</p>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Mzc6R2LH24kC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
+</h4>
+<p class="fr-book-author">By Leslie Kean</p>
         
-        <p class="fr-book-desc">Examines how official testimony is weighed against publicly available evidence.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Examines how official testimony is weighed against publicly available evidence.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-      <div class="fr-book-info">
-        <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
-        </h4>
-        <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
+<article class="fr-book-card">
+<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Skinwalkers at the Pentagon on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+<div class="fr-book-info">
+<h4 class="fr-book-title">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
+</h4>
+<p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
         
-        <p class="fr-book-desc">Frequently referenced when discussing hidden case archives and classified investigations.</p>
-        <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+<p class="fr-book-desc">Frequently referenced when discussing hidden case archives and classified investigations.</p>
+<div class="fr-book-actions">
+<a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-          </a>
-        </div>
-      </div>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Bad+Science&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Bad Science</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Calling+Bullshit&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Calling Bullshit</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs</a></div>
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spinal Anatomy Poster Human Anatomy Print Medical Spine Chart Educational"><img src="https://i.ebayimg.com/images/g/pNUAAeSwVUhqGE4d/s-l225.jpg" alt="Listing image for Spinal Anatomy Poster Human Anatomy Print Medical Spine Chart Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Spinal Anatomy Poster Human Anatomy Print Medical Spine Chart Educational</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Spinal Anatomy Poster Human Anatomy Print Medical Spine Chart Educational"><img src="https://i.ebayimg.com/images/g/pNUAAeSwVUhqGE4d/s-l225.jpg" alt="Listing image for Spinal Anatomy Poster Human Anatomy Print Medical Spine Chart Educational" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Spinal Anatomy Poster Human Anatomy Print Medical Spine Chart Educational</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="https://i.ebayimg.com/images/g/36kAAOSw~dNoK0VH/s-l225.jpg" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1"><img src="https://i.ebayimg.com/images/g/36kAAOSw~dNoK0VH/s-l225.jpg" alt="Listing image for Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Brain Anatomy Poster Medical Doctor Anatomical Educational Poster A5-A1</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="https://i.ebayimg.com/images/g/sX0AAOSwt5hYdWXl/s-l225.jpg" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster"><img src="https://i.ebayimg.com/images/g/sX0AAOSwt5hYdWXl/s-l225.jpg" alt="Listing image for Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Anatomy model body MAJOR ORGANS A2 laminated medical doctor biology poster</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="https://i.ebayimg.com/images/g/HbIAAeSwEFxoynA3/s-l225.jpg" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3"><img src="https://i.ebayimg.com/images/g/HbIAAeSwEFxoynA3/s-l225.jpg" alt="Listing image for Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">Human Skin Anatomy Medical Poster Doctor Educational Decor Poster A5 A4 A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for medical anatomy poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: medical anatomy poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=medical+anatomy+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=what-can-hidden-injury-files-really-prove-medical-anatomy-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="medical anatomy poster" data-ebay-reference="what-can-hidden-injury-files-really-prove-medical-anatomy-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -621,7 +621,7 @@ In practical terms, the hidden-case controversy illustrates the broader challeng
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -641,7 +641,7 @@ In practical terms, the hidden-case controversy illustrates the broader challeng
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -673,7 +673,7 @@ In practical terms, the hidden-case controversy illustrates the broader challeng
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -725,7 +725,7 @@ In practical terms, the hidden-case controversy illustrates the broader challeng
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -770,7 +770,7 @@ In practical terms, the hidden-case controversy illustrates the broader challeng
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -811,107 +811,107 @@ In practical terms, the hidden-case controversy illustrates the broader challeng
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Were people hurt in the effort to cover up UFOs?...The report added said it had 42 cases from medical files and 300 similar &quot;unp...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/posts/were-people-hurt-in-the-effort-to-cover-up-ufos-this-witness-says-so/302514772155547/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Were people hurt in the effort to cover up UFOs?...The report added said it had 42 cases from medical files and 300 similar &quot;unp...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/lawandcrime/posts/missing-ufo-general-911-call-raises-chilling-questions/1237049585259182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/posts/missing-ufo-general-911-call-raises-chilling-questions/1237049585259182/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Missing UFO General 911 Call Raises Chilling Questions... medical cases and 300 unpublished cases of injuries linked to UFO encou...</p></details>
+   Link:<a href="https://www.facebook.com/lawandcrime/posts/missing-ufo-general-911-call-raises-chilling-questions/1237049585259182/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/lawandcrime/posts/missing-ufo-general-911-call-raises-chilling-questions/1237049585259182/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Missing UFO General 911 Call Raises Chilling Questions... medical cases and 300 unpublished cases of injuries linked to UFO encou...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: reddit.com  
    Title: Skinwalkers At The Pentagon & FOIA: r/UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — Kit Green, Wayne State Univ. School of Medicine, 11 March... BAASS...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/rgm3oi/skinwalkers_at_the_pentagon_foia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Skinwalkers At The Pentagon &amp; FOIA: r/UFOsDecember 15, 2021 — Kit Green, Wayne State Univ. School of Medicine, 11 March... BAASS...</p></details>
    Published: December 15, 2021  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: archive.org  
-   Link: <a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Biological Tissues. Prepared by: (b\(3):10 USC 424. Defense Intelligence Agency. Author: (b)(...Read more...</p></details>
+   Link:<a href="https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/download/defence-intelligence-reference-documents_DIRDs/DIRD_26-DIRD_Anomalous_Acute_and_Subacute_Field_Effects_on_Human_Biological_Tissues_text.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Biological Tissues. Prepared by: (b\(3):10 USC 424. Defense Intelligence Agency. Author: (b)(...Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.” It seems...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/16ba24b/aawsap_document_obtained_via_foia_discussing_the/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AAWSAP Document obtained via FOIA discussing the...... Anomalous Acute and Subacute Field Effects on Human Biological Tissues.” It seems...</p></details>
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/18gca75/anomalous_acute_and_subacute_field_effects_on/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...SUMMARY This paper relates, summarizes, and analyzes evidence of unintended injury...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: facebook.com  
    Title: Calm testimony from Dr  
-   Link: <a href="https://www.facebook.com/HiddenFactsss/posts/calm-testimony-from-dr-kit-green-has-unsettled-many-who-follow-uap-research-he-r/1553205393472761/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/calm-testimony-from-dr-kit-green-has-unsettled-many-who-follow-uap-research-he-r/1553205393472761/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Kit Green has unsettled many who...9 Feb 2026 — Calm testimony from Dr. Kit Green has unsettled many who follow UAP research. He reviewe...</p></details>
+   Link:<a href="https://www.facebook.com/HiddenFactsss/posts/calm-testimony-from-dr-kit-green-has-unsettled-many-who-follow-uap-research-he-r/1553205393472761/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/HiddenFactsss/posts/calm-testimony-from-dr-kit-green-has-unsettled-many-who-follow-uap-research-he-r/1553205393472761/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kit Green has unsettled many who...9 Feb 2026 — Calm testimony from Dr. Kit Green has unsettled many who follow UAP research. He reviewe...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: dia.mil  
    Title: File Id  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170026/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyAnomalous Acute and Subacute Field Effects on Human...11 Mar 2010 — This review is meant to cover the clinica...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: livescience.com  
    Title: ufo report human biological injuries  
-   Link: <a href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-report-human-biological-injuries</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceUFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled...</p></details>
+   Link:<a href="https://www.livescience.com/ufo-report-human-biological-injuries" target="_blank" rel="noopener noreferrer nofollow">https://www.livescience.com/ufo-report-human-biological-injuries</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Live ScienceUFOs left &#x27;radiation burns&#x27; and &#x27;unaccounted for...5 Apr 2022 — One standout document from the collection is a report titled...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: dokumen.pub  
-   Link: <a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</p></details>
+   Link:<a href="https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html" target="_blank" rel="noopener noreferrer nofollow">https://dokumen.pub/download/skinwalkers-at-the-pentagon-an-insiders-account-of-the-secret-government-ufo-program.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An Insiders&#x27; Account of the Secret Government UFO ProgramAs this book describes for the first time, the scope of the AAWSAP investigation...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1</a>  
+   Link:<a href="https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40adrieneadams09/dont-get-burned-the-pentagon-s-darkest-ufo-admission-9055b85bbdb1</a>  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: metabunk.org  
-   Link: <a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is titled Ano...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/pentagon-releases-1500-pages-of-ufo-documents-including-other-paranormal-stuff.12370/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon Releases 1500 pages of UFO documents...7 Apr 2022 — Green&#x27;s paper, one of some 38 collected by BAASS at the time, is titled Ano...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: alienhub.com  
-   Link: <a href="https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute And Subacute Field Effects on Human...7 Apr 2022 — Newly released document from Pentagon DIA on research conducted into...</p></details>
+   Link:<a href="https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/" target="_blank" rel="noopener noreferrer nofollow">https://www.alienhub.com/files/anomalous-acute-and-subacute-field-effects-on-human-and-biological-tissues-ufos.63/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;Anomalous Acute And Subacute Field Effects on Human...7 Apr 2022 — Newly released document from Pentagon DIA on research conducted into...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: theblackvault.com  
    Title: the advanced aerospace weapon system applications program aawsap documentation  
-   Link: <a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Biological Tissues...</p></details>
+   Link:<a href="https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/" target="_blank" rel="noopener noreferrer nofollow">https://www.theblackvault.com/documentarchive/the-advanced-aerospace-weapon-system-applications-program-aawsap-documentation/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Advanced Aerospace Weapon System Applications...3 Sept 2023 — Anomalous Acute and Subacute Field Effects on Human Biological Tissues...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...These three persons were antennae engineers subjected to an anomalous. Anomalous A...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=sUkzQFtd1cw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=sUkzQFtd1cw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Anomalous Acute and Subacute Field Effects on Human...These three persons were antennae engineers subjected to an anomalous. Anomalous A...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: docs.house.gov  
    Title: HHRG 118 GO12 Wstate ShellenbergerM 20241113  
-   Link: <a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... Kit Green&#x27;s claims that he was briefed at a “very high level” about thre...</p></details>
+   Link:<a href="https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf" target="_blank" rel="noopener noreferrer nofollow">https://docs.house.gov/meetings/GO/GO12/20241113/117721/HHRG-118-GO12-Wstate-ShellenbergerM-20241113.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>United States Department Of Defense And The...13 Nov 2024 —... Kit Green&#x27;s claims that he was briefed at a “very high level” about thre...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: locationsunknown.org  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Lightcraft Nanosatellites (PDF - 77 Pages) · 28. Cockpits in...Read more...</p></details>
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Laser Lightcraft Nanosatellites (PDF - 77 Pages) · 28. Cockpits in...Read more...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: Wikipedia  
    Title: Advanced Aerospace Threat Identification Program  
-   Link: <a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification Program&quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissue...</p></details>
+   Link:<a href="https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Advanced_Aerospace_Threat_Identification_Program</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Threat Identification Program&quot;Clinical Medical Acute &amp; Subacute Field Effects on Human Dermal &amp; Neurological Tissue...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: static.mediapart.fr  
    Title: injurydiareportintroduction 20september2022  
-   Link: <a href="https://static.mediapart.fr/files/2022/09/20/injurydiareportintroduction-20september2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.mediapart.fr/files/2022/09/20/injurydiareportintroduction-20september2022.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>mediapart.frintelligence20 Sept 2022 — Anomalous Acute and. Subacute Field Effects on. Human Biological Tissues... Anomalous reports of...</p></details>
+   Link:<a href="https://static.mediapart.fr/files/2022/09/20/injurydiareportintroduction-20september2022.pdf" target="_blank" rel="noopener noreferrer nofollow">https://static.mediapart.fr/files/2022/09/20/injurydiareportintroduction-20september2022.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>mediapart.frintelligence20 Sept 2022 — Anomalous Acute and. Subacute Field Effects on. Human Biological Tissues... Anomalous reports of...</p></details>

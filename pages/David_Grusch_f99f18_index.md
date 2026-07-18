@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-index/
 description: Focused pages that expand on How Credible Is David Grusch?.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: David_Grusch_f99f18
 parent_title: How Credible Is David Grusch?
@@ -16,7 +16,7 @@ parent_permalink: /how-credible-is-david-grusch/
 
 # Explore Topics in How Credible Is David Grusch?
 
-The following pages expand on the main **[How Credible Is David Grusch?]({{ '/how-credible-is-david-grusch/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[How Credible Is David Grusch?]({{ '/how-credible-is-david-grusch/' | relative_url }})** page and cover its key branches in.
 
 - [AARO]({{ '/aaro/' | relative_url }})
 - [Hearing]({{ '/hearing/' | relative_url }})

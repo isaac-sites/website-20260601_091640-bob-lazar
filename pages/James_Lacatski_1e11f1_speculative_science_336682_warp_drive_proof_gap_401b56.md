@@ -259,13 +259,13 @@ image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_driv
 The short answer is no: the warp-drive papers associated with the Advanced Aerospace Weapon System Applications Program (AAWSAP) did not prove that warp propulsion exists, that faster-than-light travel is possible in practice, or that any government programme achieved spacetime engineering. What they do show is that James Lacatski's programme funded and collected serious theoretical work on some of the most speculative ideas in modern physics. That distinction is central to assessing Lacatski's credibility.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-1-dark.svg" | relative_url }}" alt="Warp Drive illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-Supporters often point to the existence of government-funded warp-drive studies as evidence that AAWSAP was examining genuinely advanced science rather than simply collecting UFO reports. Sceptics counter that commissioning a paper about a concept is not evidence that the concept works. The published record strongly supports the sceptics on that specific point: the papers explored mathematical possibilities and future scenarios, not demonstrated technologies. At the same time, the existence of the studies confirms that AAWSAP was willing to devote resources to questions far beyond mainstream aerospace engineering. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
+Supporters often point to the existence of government-funded warp-drive studies as evidence that AAWSAP was examining genuinely advanced science rather than simply collecting UFO reports. Sceptics counter that commissioning a paper about a concept is not evidence that the concept works. The published record strongly supports the sceptics on that specific point: the papers explored mathematical possibilities and future scenarios, not demonstrated technologies. At the same time, the existence of the studies confirms that AAWSAP was willing to devote resources to questions far beyond mainstream aerospace engineering.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
 
 ## What the warp-drive titles actually covered
 
-The best-known AAWSAP study in this area was the Defense Intelligence Reference Document (DIRD) titled *Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions*. It was prepared for the Defense Intelligence Agency as part of the broader set of advanced technology reports commissioned under the programme. The paper drew heavily on existing theoretical work in general relativity, especially the family of concepts descended from physicist Miguel Alcubierre's 1994 warp-drive metric. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
+The best-known AAWSAP study in this area was the Defense Intelligence Reference Document (DIRD) titled *Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions*. It was prepared for the Defense Intelligence Agency as part of the broader set of advanced technology reports commissioned under the programme. The paper drew heavily on existing theoretical work in general relativity, especially the family of concepts descended from physicist Miguel Alcubierre's 1994 warp-drive metric.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
 
-The core idea behind an Alcubierre-style warp drive is not that a spacecraft accelerates through space faster than light. Instead, space itself is distorted: compressed ahead of a vehicle and expanded behind it. In the mathematical model, the craft sits inside a "warp bubble" while spacetime moves around it. This allows apparent faster-than-light motion without directly violating Einstein's local speed limit. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/warp-drives-dark-energy-and-dimensions--3-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[2pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
+The core idea behind an Alcubierre-style warp drive is not that a spacecraft accelerates through space faster than light. Instead, space itself is distorted: compressed ahead of a vehicle and expanded behind it. In the mathematical model, the craft sits inside a "warp bubble" while spacetime moves around it. This allows apparent faster-than-light motion without directly violating Einstein's local speed limit.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/warp-drives-dark-energy-and-dimensions--3-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[2pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-snippet">Source details in endnotes.</span></span></span>
 
 The AAWSAP paper examined questions such as:
 
@@ -275,11 +275,11 @@ The AAWSAP paper examined questions such as:
 * The relationship between warp concepts and dark energy.
 * The possibility of manipulating extra dimensions proposed in some advanced physics models.
 * Theoretical energy requirements.
-* Obstacles to creating or controlling such spacetime distortions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
+* Obstacles to creating or controlling such spacetime distortions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
 
 </div>
 
-Crucially, the document was not a laboratory report. It did not describe a prototype, a successful experiment, recovered technology, or an operational propulsion system. It was a theoretical review that asked whether existing physics might contain pathways to phenomena resembling warp travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
+Crucially, the document was not a laboratory report. It did not describe a prototype, a successful experiment, recovered technology, or an operational propulsion system. It was a theoretical review that asked whether existing physics might contain pathways to phenomena resembling warp travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/Tab3igcWnuE" title="UFO Earthquake - Dr. Lacatski&#x27;s Bombshell &amp; AARO&#x27;s Shaky Ground : WEAPONIZED : EP #39" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=Tab3igcWnuE" target="_blank" rel="noopener noreferrer">UFO Earthquake - Dr. Lacatski&#x27;s Bombshell &amp; AARO&#x27;s Shaky Ground : WEAPONIZED : EP #39</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 131.6K &middot; Uploaded: October 2023 &middot; Length: 56 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=Tab3igcWnuE" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=Tab3igcWnuE">Open on YouTube</a></p></div></div></div>
 
@@ -291,9 +291,9 @@ A theoretical paper can demonstrate that a mathematical solution exists within a
 
 Warp-drive research illustrates this gap clearly.
 
-Alcubierre's original proposal showed that Einstein's equations allow a spacetime geometry resembling a warp bubble. However, the model required extraordinary quantities of exotic negative energy. No known technology can generate such conditions, and physicists have long debated whether the necessary matter can exist in usable quantities at all. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Alcubierre Warp Drive in Higher Dimensional SpacetimeThe canonical form of the Alcubierre warp drive metric is considered...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span>
+Alcubierre's original proposal showed that Einstein's equations allow a spacetime geometry resembling a warp bubble. However, the model required extraordinary quantities of exotic negative energy. No known technology can generate such conditions, and physicists have long debated whether the necessary matter can exist in usable quantities at all.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Alcubierre Warp Drive in Higher Dimensional SpacetimeThe canonical form of the Alcubierre warp drive metric is considered...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span>
 
-Over the following decades, researchers proposed refinements that reduced some of the theoretical energy requirements or altered the geometry. Even recent work that seeks "physical warp drives" remains largely concerned with mathematical consistency and theoretical constraints rather than practical engineering. Authors of those studies typically emphasise that such concepts remain far beyond current technological capability. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible</span><span class="citation-popover-snippet">Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</span></span></span>
+Over the following decades, researchers proposed refinements that reduced some of the theoretical energy requirements or altered the geometry. Even recent work that seeks "physical warp drives" remains largely concerned with mathematical consistency and theoretical constraints rather than practical engineering. Authors of those studies typically emphasise that such concepts remain far beyond current technological capability.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible</span><span class="citation-popover-snippet">Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</span></span></span>
 
 This is the [proof gap]({{ 'proof-gap-f29c4d/' | relative_url }}):
 
@@ -306,7 +306,7 @@ This is the [proof gap]({{ 'proof-gap-f29c4d/' | relative_url }}):
 
 </div>
 
-The AAWSAP warp-drive papers operate primarily in the first category and partially in the second. They provide little or no evidence for the third or fourth categories. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible</span><span class="citation-popover-snippet">Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[3Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
+The AAWSAP warp-drive papers operate primarily in the first category and partially in the second. They provide little or no evidence for the third or fourth categories.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible</span><span class="citation-popover-snippet">Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[3Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-2-dark.svg" | relative_url }}" alt="Warp Drive illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The concrete evidence that is missing
@@ -326,9 +326,9 @@ A convincing case for warp-drive progress would normally involve at least some o
 
 </div>
 
-None of those forms of evidence emerged from the publicly released AAWSAP warp-drive studies. The papers discuss possibilities, models and theoretical mechanisms, but do not present experimental demonstrations that a warp field was created or observed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
+None of those forms of evidence emerged from the publicly released AAWSAP warp-drive studies. The papers discuss possibilities, models and theoretical mechanisms, but do not present experimental demonstrations that a warp field was created or observed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
 
-This matters because some later UFO narratives blur the distinction between "government studied warp drives" and "government discovered warp drives". The released documents support the first statement but not the second. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</span></span></span>
+This matters because some later UFO narratives blur the distinction between "government studied warp drives" and "government discovered warp drives". The released documents support the first statement but not the second.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ow7FqiegixQ" title="Inside the DIAs Secretive UFO Investigation : WEAPONIZED : EP #38" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer">Inside the DIAs Secretive UFO Investigation : WEAPONIZED : EP #38</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 214.2K &middot; Uploaded: October 2023 &middot; Length: 1 hour 49 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ow7FqiegixQ" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ow7FqiegixQ">Open on YouTube</a></p></div></div></div>
 
@@ -340,17 +340,17 @@ The warp-drive documents have become a useful case study because supporters and 
 
 Supporters argue that the papers demonstrate AAWSAP's seriousness. Rather than treating unusual aerospace reports as folklore, the programme commissioned researchers with relevant scientific backgrounds to explore frontier concepts in propulsion and spacetime physics.
 
-From this perspective, the studies show that Lacatski's programme was willing to investigate unconventional ideas that mainstream institutions might ignore. The existence of detailed technical work is seen as evidence that the programme's ambitions extended beyond ordinary intelligence collection. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</span></span></span>
+From this perspective, the studies show that Lacatski's programme was willing to investigate unconventional ideas that mainstream institutions might ignore. The existence of detailed technical work is seen as evidence that the programme's ambitions extended beyond ordinary intelligence collection.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</span></span></span>
 
-Some supporters also suggest that publicly released papers may represent only a fraction of what was known internally. However, evidence for undisclosed breakthroughs remains speculative and has not been independently verified. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Deep Dive Into Dr</span><span class="citation-popover-snippet">Jim Lacatski&#x27;s AAWSAP UAP Disclosures...May 16, 2026 — James Lacatski, who ran the AAWSAP program, has explained that his multi-volume b...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
+Some supporters also suggest that publicly released papers may represent only a fraction of what was known internally. However, evidence for undisclosed breakthroughs remains speculative and has not been independently verified.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">Deep Dive Into Dr</span><span class="citation-popover-snippet">Jim Lacatski&#x27;s AAWSAP UAP Disclosures...May 16, 2026 — James Lacatski, who ran the AAWSAP program, has explained that his multi-volume b...</span><span class="citation-popover-meta">Published: May 16, 2026</span></span></span>
 
 ### The sceptical interpretation
 
 Sceptics generally view the same papers as examples of horizon-scanning research rather than evidence of technological achievement.
 
-From this perspective, the studies demonstrate that government money was spent examining highly speculative possibilities, but they do not demonstrate that those possibilities were realised. Critics note that theoretical discussions of warp drives, wormholes and exotic energy have existed in academic literature for decades without producing practical propulsion systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Alcubierre Warp Drive in Higher Dimensional SpacetimeThe canonical form of the Alcubierre warp drive metric is considered...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span>
+From this perspective, the studies demonstrate that government money was spent examining highly speculative possibilities, but they do not demonstrate that those possibilities were realised. Critics note that theoretical discussions of warp drives, wormholes and exotic energy have existed in academic literature for decades without producing practical propulsion systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: researchgate.net">[ResearchGate]</a><span class="citation-popover" role="note"><span class="citation-popover-source">researchgate.net</span><span class="citation-popover-snippet">The Alcubierre Warp Drive in Higher Dimensional SpacetimeThe canonical form of the Alcubierre warp drive metric is considered...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[2arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Introducing Physical Warp Drives</span><span class="citation-popover-snippet">arXiv Introducing Physical Warp Drives</span></span></span>
 
-Some sceptics go further and argue that the presence of such speculative topics raises questions about programme priorities. Their criticism is not that the physics papers are wrong, but that highly conjectural concepts may have been treated too optimistically within a programme connected to UAP investigations. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span></span></span>
+Some sceptics go further and argue that the presence of such speculative topics raises questions about programme priorities. Their criticism is not that the physics papers are wrong, but that highly conjectural concepts may have been treated too optimistically within a programme connected to UAP investigations.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: academia.edu">[Academia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">academia.edu</span><span class="citation-popover-title">On the AAWSAP AATIP Confusion</span><span class="citation-popover-snippet">Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-3-dark.svg" | relative_url }}" alt="Warp Drive illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the warp-drive papers mean for assessing Lacatski
@@ -362,161 +362,161 @@ They do confirm several narrower points:
 * AAWSAP funded real technical studies.
 * The programme examined advanced propulsion concepts.
 * Warp-drive research was part of the documented portfolio.
-* The work involved recognised theoretical physics rather than purely science-fiction speculation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</span></span></span>
+* The work involved recognised theoretical physics rather than purely science-fiction speculation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: documents2.theblackvault.com">[2documents2.theblackvault.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">documents2.theblackvault.com</span><span class="citation-popover-title">FOIA 00159 2018</span><span class="citation-popover-snippet">FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</span></span></span>
 
-However, the papers do not validate broader claims that extraordinary propulsion systems exist, that recovered craft use warp technology, or that spacetime engineering has been achieved in secret programmes. Those conclusions require evidence that the published studies do not provide. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible</span><span class="citation-popover-snippet">Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[3Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
+However, the papers do not validate broader claims that extraordinary propulsion systems exist, that recovered craft use warp technology, or that spacetime engineering has been achieved in secret programmes. Those conclusions require evidence that the published studies do not provide.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: popularmechanics.com">[Popular Mechanics]</a><span class="citation-popover" role="note"><span class="citation-popover-source">popularmechanics.com</span><span class="citation-popover-title">Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible</span><span class="citation-popover-snippet">Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[3Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
 
-The most balanced reading is therefore straightforward: the warp-drive papers show AAWSAP's willingness to explore the outer edge of theoretical physics. They are evidence of intellectual scope, not evidence of technological success. In the debate over Lacatski's credibility, they demonstrate what his programme investigated, but they do not prove that the extraordinary concepts under investigation were ever realised. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
+The most balanced reading is therefore straightforward: the warp-drive papers show AAWSAP's willingness to explore the outer edge of theoretical physics. They are evidence of intellectual scope, not evidence of technological success. In the debate over Lacatski's credibility, they demonstrate what his programme investigated, but they do not prove that the extraordinary concepts under investigation were ever realised.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[Defense Intelligence Agency]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/cggMuAjFJcI" title="The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer">The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes : Dr. James Lacatski (PART 2)</a></p><p class="youtube-embed-meta">Channel: Jeremy Corbell &middot; Views: 238.1K &middot; Uploaded: November 2025 &middot; Length: 1 hour 15 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=cggMuAjFJcI" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=cggMuAjFJcI">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Did the warp drive papers prove anything?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Did the warp drive papers prove anything?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall"><img src="https://i.ebayimg.com/images/g/MUAAAeSw8eJpxpbT/s-l225.jpg" alt="Listing image for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall"><img src="https://i.ebayimg.com/images/g/MUAAAeSw8eJpxpbT/s-l225.jpg" alt="Listing image for Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Parkway Drive Band Poster Atlas 2014 Vans Warped Tour 17&quot;x 11&quot; Winston McCall</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny"><img src="https://i.ebayimg.com/images/g/R3UAAOSwTRhmB6B~/s-l225.jpg" alt="Listing image for Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny"><img src="https://i.ebayimg.com/images/g/R3UAAOSwTRhmB6B~/s-l225.jpg" alt="Listing image for Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Vtg Warp Graphics Drive &#x27;85 Comic Promo Poster Myth Adventures Thunder Bunny</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice"><img src="https://i.ebayimg.com/images/g/Qw8AAOSwVANmPi53/s-l225.jpg" alt="Listing image for Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice"><img src="https://i.ebayimg.com/images/g/Qw8AAOSwVANmPi53/s-l225.jpg" alt="Listing image for Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">Original 1990s BRITISH Star Trek Next Generation Poster Magazine UK— Your Choice</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE"><img src="https://i.ebayimg.com/images/g/yCwAAOSwl69jbffu/s-l225.jpg" alt="Listing image for TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE"><img src="https://i.ebayimg.com/images/g/yCwAAOSwl69jbffu/s-l225.jpg" alt="Listing image for TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">TPGM45 ADVERT 5X8 VANS WARPED TOUR &#x27;13 : COHEED &amp; CAMBRIA. PARKWAY DRIVE</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for warp drive poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: warp drive poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=warp+drive+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=did-the-warp-drive-papers-prove-anything-warp-drive-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="warp drive poster" data-ebay-reference="did-the-warp-drive-papers-prove-anything-warp-drive-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -532,7 +532,7 @@ The most balanced reading is therefore straightforward: the warp-drive papers sh
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -552,7 +552,7 @@ The most balanced reading is therefore straightforward: the warp-drive papers sh
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -584,7 +584,7 @@ The most balanced reading is therefore straightforward: the warp-drive papers sh
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -636,7 +636,7 @@ The most balanced reading is therefore straightforward: the warp-drive papers sh
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -681,7 +681,7 @@ The most balanced reading is therefore straightforward: the warp-drive papers sh
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -722,117 +722,117 @@ The most balanced reading is therefore straightforward: the warp-drive papers sh
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: documents2.theblackvault.com  
    Title: FOIA 00159 2018  
-   Link: <a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</p></details>
+   Link:<a href="https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf" target="_blank" rel="noopener noreferrer nofollow">https://documents2.theblackvault.com/documents/dia/AAWSAP-DIRDs/FOIA%2000159-2018.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>FOIA-00159-201813 DIRD: Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions. 14 DIRD: The Role of Superconductors in Gravit...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: pdfcoffee.com  
-   Link: <a href="https://pdfcoffee.com/warp-drives-dark-energy-and-dimensions--3-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/warp-drives-dark-energy-and-dimensions--3-pdf-free.html</a>  
+   Link:<a href="https://pdfcoffee.com/warp-drives-dark-energy-and-dimensions--3-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/warp-drives-dark-energy-and-dimensions--3-pdf-free.html</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alcubierre Warp Drive in Higher Dimensional SpacetimeThe canonical form of the Alcubierre warp drive metric is considered...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/228624030_The_Alcubierre_Warp_Drive_in_Higher_Dimensional_Spacetime</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alcubierre Warp Drive in Higher Dimensional SpacetimeThe canonical form of the Alcubierre warp drive metric is considered...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: arxiv.org  
    Title: arXiv Introducing Physical Warp Drives  
-   Link: <a href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06824</a>  
+   Link:<a href="https://arxiv.org/abs/2102.06824" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2102.06824</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: reddit.com  
    Title: Deep Dive Into Dr  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Jim Lacatski&#x27;s AAWSAP UAP Disclosures...May 16, 2026 — James Lacatski, who ran the AAWSAP program, has explained that his multi-volume b...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1teeqk5/deep_dive_into_dr_jim_lacatskis_aawsap_uap/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Jim Lacatski&#x27;s AAWSAP UAP Disclosures...May 16, 2026 — James Lacatski, who ran the AAWSAP program, has explained that his multi-volume b...</p></details>
    Published: May 16, 2026  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: academia.edu  
    Title: On the AAWSAP AATIP Confusion  
-   Link: <a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
+   Link:<a href="https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion" target="_blank" rel="noopener noreferrer nofollow">https://www.academia.edu/121609473/On_the_AAWSAP_AATIP_Confusion</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Academia(PDF) On the AAWSAP/AATIP Confusion30 Jun 2024 — This 74-page paper has evolved into an examination of the distinction between AA...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1e6kh15/daniel_davis_discusses_uap_warpdrives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e6kh15/daniel_davis_discusses_uap_warpdrives/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>sics, and explores observational data suggesting UAP are...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1e6kh15/daniel_davis_discusses_uap_warpdrives/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1e6kh15/daniel_davis_discusses_uap_warpdrives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>sics, and explores observational data suggesting UAP are...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: info.publicintelligence.net  
-   Link: <a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</p></details>
+   Link:<a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense Intelligence AgencyWarp Drive, Dark Energy, and the Manipulation of Extra...Lobo and Visser (Reference 12) constructed an improv...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: popularmechanics.com  
    Title: Popular Mechanics A Physical Warp Drive Was Supposed to Be Impossible  
-   Link: <a href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</p></details>
+   Link:<a href="https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/science/a71362600/scientists-say-physical-warp-drive-possible/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Then These Scientists Found a Loophole.In 2021, scientists Alexey Bobrick and Gianni Martire proposed a groundbreaking model for a physic...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: popularmechanics.com  
-   Link: <a href="https://www.popularmechanics.com/space/a69677658/inside-the-quest-to-build-a-warp-drive/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/a69677658/inside-the-quest-to-build-a-warp-drive/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The idea took hold in 1992 when physicist Miguel Alcubierre, inspired by Star Trek, proposed a mathematical model using Einstein’s relati...</p></details>
+   Link:<a href="https://www.popularmechanics.com/space/a69677658/inside-the-quest-to-build-a-warp-drive/" target="_blank" rel="noopener noreferrer nofollow">https://www.popularmechanics.com/space/a69677658/inside-the-quest-to-build-a-warp-drive/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The idea took hold in 1992 when physicist Miguel Alcubierre, inspired by Star Trek, proposed a mathematical model using Einstein’s relati...</p></details>
 
 ### Additional References
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: globalplayer.com  
-   Link: <a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastBringing you up to date news, interviews and guests from around the world of UFOs, UAP &amp; connected phenomena Hosted by An...</p></details>
+   Link:<a href="https://www.globalplayer.com/podcasts/42L33D/" target="_blank" rel="noopener noreferrer nofollow">https://www.globalplayer.com/podcasts/42L33D/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>That UFO PodcastBringing you up to date news, interviews and guests from around the world of UFOs, UAP &amp; connected phenomena Hosted by An...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/IndiaToday/posts/as-the-us-authorities-work-to-solve-the-mystery-surrounding-the-disappearances-a/1558483959648480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/as-the-us-authorities-work-to-solve-the-mystery-surrounding-the-disappearances-a/1558483959648480/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US views mystery deaths of scientists as national security...James Lacatski, the former Director of the Advanced Aerospace Weapon System...</p></details>
+   Link:<a href="https://www.facebook.com/IndiaToday/posts/as-the-us-authorities-work-to-solve-the-mystery-surrounding-the-disappearances-a/1558483959648480/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/IndiaToday/posts/as-the-us-authorities-work-to-solve-the-mystery-surrounding-the-disappearances-a/1558483959648480/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US views mystery deaths of scientists as national security...James Lacatski, the former Director of the Advanced Aerospace Weapon System...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: locationsunknown.org  
    Title: Defense Intelligence Reference Documents (DRIDs)Also according to Dr  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, these papers that were submitted were about various topics, including (but not limited to) warp drives, propulsion systems, etc.Re...</p></details>
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, these papers that were submitted were about various topics, including (but not limited to) warp drives, propulsion systems, etc.Re...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: github.com  
-   Link: <a href="https://github.com/richgel999/uap_resources" target="_blank" rel="noopener noreferrer nofollow">https://github.com/richgel999/uap_resources</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;James T Lacatski, AAWSAP Program Manager?&quot; - Elizondo has mentioned him several times, including by name: [https://atmosphericlights.com/c...&quot;](https://atmosphericlights.com/c...&quot;)...</p></details>
+   Link:<a href="https://github.com/richgel999/uap_resources" target="_blank" rel="noopener noreferrer nofollow">https://github.com/richgel999/uap_resources</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>&quot;James T Lacatski, AAWSAP Program Manager?&quot; - Elizondo has mentioned him several times, including by name: [https://atmosphericlights.com/c...&quot;](https://atmosphericlights.com/c...&quot;)...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: facebook.com  
    Title: how much energy would it take to make a warp drive  
-   Link: <a href="https://www.facebook.com/StarTalk/posts/how-much-energy-would-it-take-to-make-a-warp-drive/1464158935343161/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/how-much-energy-would-it-take-to-make-a-warp-drive/1464158935343161/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>?A Universe Of Energy In 1994, physicist Miguel Alcubierre was widely credited to be the first to put some real physics into the warp dri...</p></details>
+   Link:<a href="https://www.facebook.com/StarTalk/posts/how-much-energy-would-it-take-to-make-a-warp-drive/1464158935343161/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/StarTalk/posts/how-much-energy-would-it-take-to-make-a-warp-drive/1464158935343161/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>?A Universe Of Energy In 1994, physicist Miguel Alcubierre was widely credited to be the first to put some real physics into the warp dri...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: altpropulsion.com  
-   Link: <a href="https://www.altpropulsion.com/post-alcubierre-warp-drives/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/post-alcubierre-warp-drives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Post-Alcubierre Warp Drives: 13 Modern Drive Concepts20 Jun 2025 — Daniel Davis explores 13 modern warp drives that overcome the limitati...</p></details>
+   Link:<a href="https://www.altpropulsion.com/post-alcubierre-warp-drives/" target="_blank" rel="noopener noreferrer nofollow">https://www.altpropulsion.com/post-alcubierre-warp-drives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Post-Alcubierre Warp Drives: 13 Modern Drive Concepts20 Jun 2025 — Daniel Davis explores 13 modern warp drives that overcome the limitati...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: youtube.com  
    Title: He Ran The Pentagon's Secret UFO Program  
-   Link: <a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes: Dr. James Lacatski (PART 2)...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=Qu8pudJk_-A" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=Qu8pudJk_-A</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Government UFO Boss - Monsters, Men in Black &amp; UFO Crashes: Dr. James Lacatski (PART 2)...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: semanticscholar.org  
-   Link: <a href="https://www.semanticscholar.org/paper/The-Alcubierre-Warp-Drive-in-Higher-Dimensional-White-Davis/7aee3759c05924520e15e69b722159cef20cd679" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Alcubierre-Warp-Drive-in-Higher-Dimensional-White-Davis/7aee3759c05924520e15e69b722159cef20cd679</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Alcubierre Warp Drive in Higher Dimensional Spacetime1 Feb 2006 — The canonical form of the Alcubierre warp drive metric is considere...</p></details>
+   Link:<a href="https://www.semanticscholar.org/paper/The-Alcubierre-Warp-Drive-in-Higher-Dimensional-White-Davis/7aee3759c05924520e15e69b722159cef20cd679" target="_blank" rel="noopener noreferrer nofollow">https://www.semanticscholar.org/paper/The-Alcubierre-Warp-Drive-in-Higher-Dimensional-White-Davis/7aee3759c05924520e15e69b722159cef20cd679</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Alcubierre Warp Drive in Higher Dimensional Spacetime1 Feb 2006 — The canonical form of the Alcubierre warp drive metric is considere...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: digitalhabitats.global  
    Title: post alcubierre warp drives daniel davis  
-   Link: <a href="https://digitalhabitats.global/blogs/starport-network/post-alcubierre-warp-drives-daniel-davis" target="_blank" rel="noopener noreferrer nofollow">https://digitalhabitats.global/blogs/starport-network/post-alcubierre-warp-drives-daniel-davis</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis reinterpreted the Alcubierre warp drive in the context of brain theory, proposing a theoretical framework for negative...Read...</p></details>
+   Link:<a href="https://digitalhabitats.global/blogs/starport-network/post-alcubierre-warp-drives-daniel-davis" target="_blank" rel="noopener noreferrer nofollow">https://digitalhabitats.global/blogs/starport-network/post-alcubierre-warp-drives-daniel-davis</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Eric Davis reinterpreted the Alcubierre warp drive in the context of brain theory, proposing a theoretical framework for negative...Read...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>warp drive. Okay, now there is no such thing, but as we get...</p></details>
+   Link:<a href="https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/alarabiya.english/posts/it-shows-the-vulnerability-of-the-us-defense-systemharvard-physicist-avi-loeb-ex/1430488779116138/?locale=es_LA</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>warp drive. Okay, now there is no such thing, but as we get...</p></details>

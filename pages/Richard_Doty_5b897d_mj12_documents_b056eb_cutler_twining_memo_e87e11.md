@@ -259,15 +259,15 @@ image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_m
 The so-called Cutler-to-Twining memorandum is often presented by defenders of the Majestic 12 story as the strongest archival support for MJ-12. Unlike the better-known Eisenhower briefing paper, this document was reportedly found in the US National Archives rather than arriving through anonymous film negatives. For [supporters]({{ 'supporters/' | relative_url }}), that discovery appeared to move MJ-12 from rumour into the historical record.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-dark.svg" | relative_url }}" alt="Cutler Memo illustration 1" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The problem is that the memo's archival setting, internal timing and documentary characteristics have generated some of the most serious authenticity concerns in the entire MJ-12 debate. Rather than confirming the broader MJ-12 papers, the Cutler memo became a case study in why archival discovery alone does not prove a document is genuine. The National Archives itself publicly highlighted multiple irregularities, and later researchers identified further conflicts involving Robert Cutler's whereabouts, filing practices and related government records. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+The problem is that the memo's archival setting, internal timing and documentary characteristics have generated some of the most serious authenticity concerns in the entire MJ-12 debate. Rather than confirming the broader MJ-12 papers, the Cutler memo became a case study in why archival discovery alone does not prove a document is genuine. The National Archives itself publicly highlighted multiple irregularities, and later researchers identified further conflicts involving Robert Cutler's whereabouts, filing practices and related government records.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 Within the wider question of Richard Doty's credibility and the circulation of MJ-12 narratives during the 1980s, the Cutler memo matters because it is frequently cited as the document that supposedly rescued MJ-12 from accusations of complete fabrication. Whether it succeeds on that point depends heavily on chain of custody and archival scrutiny.
 
 ## What the Cutler Memo Actually Says
 
-The document is a brief memorandum dated 14 July 1954 and attributed to Robert Cutler, then Special Assistant to President Dwight Eisenhower. It is addressed to General Nathan Twining and refers to a forthcoming briefing concerning an "NSC/MJ-12 Special Studies Project". The reference to "MJ-12" is what made the document so important to UFO researchers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+The document is a brief memorandum dated 14 July 1954 and attributed to Robert Cutler, then Special Assistant to President Dwight Eisenhower. It is addressed to General Nathan Twining and refers to a forthcoming briefing concerning an "NSC/MJ-12 Special Studies Project". The reference to "MJ-12" is what made the document so important to UFO researchers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
-Supporters argued that the memo differed from the anonymous MJ-12 briefing papers because it was reportedly located within government archival holdings. This allowed advocates to claim that at least one MJ-12-related document had emerged from official records rather than from unidentified sources. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
+Supporters argued that the memo differed from the anonymous MJ-12 briefing papers because it was reportedly located within government archival holdings. This allowed advocates to claim that at least one MJ-12-related document had emerged from official records rather than from unidentified sources.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: Wikipedia">[Wikipedia]</a><span class="citation-popover" role="note"><span class="citation-popover-source">Wikipedia</span><span class="citation-popover-title">Majestic 12</span><span class="citation-popover-snippet">Majestic 12</span></span></span>
 
 However, the memo is only a single page. It does not explain what MJ-12 supposedly was, does not discuss UFOs, recovered craft or extraterrestrials, and does not provide the broader narrative found in the more famous MJ-12 papers. Its evidential value therefore depends almost entirely on whether the document itself is authentic.
 
@@ -277,16 +277,16 @@ However, the memo is only a single page. It does not explain what MJ-12 supposed
 
 The National Archives' own review became one of the most damaging assessments of the memo.
 
-According to the Archives' reference report on MJ-12, the document was located in Record Group 341 but lacked characteristics expected for records in that series. The relevant collection was organised by Top Secret control numbers, yet the memo carried no such registration number. Archivists also noted that the folder containing the document held no other records relating to "NSC/MJ-12". Extensive searches across related military and government files reportedly failed to locate corroborating documentation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+According to the Archives' reference report on MJ-12, the document was located in Record Group 341 but lacked characteristics expected for records in that series. The relevant collection was organised by Top Secret control numbers, yet the memo carried no such registration number. Archivists also noted that the folder containing the document held no other records relating to "NSC/MJ-12". Extensive searches across related military and government files reportedly failed to locate corroborating documentation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 Several points raised by archivists continue to trouble document historians:
 
 * The memo appears isolated rather than embedded within a larger documentary trail.
 * No matching administrative paperwork has surfaced.
 * No supporting correspondence has been found in related collections.
-* Agencies that would normally have possessed records connected to such a project reportedly produced nothing comparable during archival searches. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+* Agencies that would normally have possessed records connected to such a project reportedly produced nothing comparable during archival searches.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
-These issues do not automatically prove forgery. Government files can be incomplete, misfiled or destroyed. However, historians generally expect sensitive national-security memoranda to leave secondary traces such as routing records, related correspondence, meeting references or registry entries. The Cutler memo appears unusually detached from the bureaucratic environment it supposedly came from. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+These issues do not automatically prove forgery. Government files can be incomplete, misfiled or destroyed. However, historians generally expect sensitive national-security memoranda to leave secondary traces such as routing records, related correspondence, meeting references or registry entries. The Cutler memo appears unusually detached from the bureaucratic environment it supposedly came from.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/ogJplVuElLs" title="A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer">A secret history: Inside shadow intelligence, the MJ-12 documents | Reality Check</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 247.8K &middot; Uploaded: April 2026 &middot; Length: 1 hour 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=ogJplVuElLs">Open on YouTube</a></p></div></div></div>
 
@@ -294,11 +294,11 @@ These issues do not automatically prove forgery. Government files can be incompl
 
 One of the most frequently cited objections concerns Robert Cutler's documented travel schedule.
 
-The memo is dated 14 July 1954. Yet National Archives researchers noted that Cutler was travelling overseas on official business during the relevant period. According to the Archives, Eisenhower administration records contain Cutler's own post-trip memorandum reporting visits to military installations in Europe and North Africa between 3 and 15 July 1954. That report was dated 20 July, after his return. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</span></span></span>
+The memo is dated 14 July 1954. Yet National Archives researchers noted that Cutler was travelling overseas on official business during the relevant period. According to the Archives, Eisenhower administration records contain Cutler's own post-trip memorandum reporting visits to military installations in Europe and North Africa between 3 and 15 July 1954. That report was dated 20 July, after his return.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</span></span></span>
 
 Critics argue that this creates a straightforward question: if Cutler was abroad on the date shown on the memo, how did he originate the document in Washington exactly as presented?
 
-Supporters have proposed several responses. Some suggest that Cutler could have authorised communications while travelling or that the date might reflect drafting rather than signing. Others argue that unusual procedures might have existed for highly classified matters. The difficulty is that these explanations remain speculative. No supporting record has emerged showing that this specific memorandum was generated through such an arrangement. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">S O-1 Classified Army UFO Manual</span><span class="citation-popover-snippet">SO-1 Classified Army UFO Manual - MAJESTIC-12Klass&#x27;s investigation of the MJ-12 documents found that Robert Cutler was actually out of th...</span></span></span>
+Supporters have proposed several responses. Some suggest that Cutler could have authorised communications while travelling or that the date might reflect drafting rather than signing. Others argue that unusual procedures might have existed for highly classified matters. The difficulty is that these explanations remain speculative. No supporting record has emerged showing that this specific memorandum was generated through such an arrangement.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-title">S O-1 Classified Army UFO Manual</span><span class="citation-popover-snippet">SO-1 Classified Army UFO Manual - MAJESTIC-12Klass&#x27;s investigation of the MJ-12 documents found that Robert Cutler was actually out of th...</span></span></span>
 
 As a result, the travel conflict remains one of the strongest factual challenges to the document's authenticity.
 
@@ -307,11 +307,11 @@ As a result, the travel conflict remains one of the strongest factual challenges
 
 The memo's wording implies activity involving the National Security Council. If authentic, researchers would normally expect at least some evidence of the meeting, project or administrative process elsewhere in NSC-related files.
 
-The National Archives reported that searches of records associated with the Secretary of Defense, Joint Chiefs of Staff, Air Force headquarters and related collections failed to uncover additional information about the alleged project. Inquiries to the Air Force, Joint Chiefs and National Security Council likewise produced no corroborating record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+The National Archives reported that searches of records associated with the Secretary of Defense, Joint Chiefs of Staff, Air Force headquarters and related collections failed to uncover additional information about the alleged project. Inquiries to the Air Force, Joint Chiefs and National Security Council likewise produced no corroborating record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 The issue is not merely that no MJ-12 file has surfaced. Secret programmes can remain classified or be compartmentalised. The deeper problem is that the memo appears to reference an administrative structure without leaving the usual documentary echoes of that structure.
 
-A genuine high-level national-security project would not necessarily produce public evidence of UFO recovery operations. It would, however, normally generate meeting schedules, registry references, distribution records, supporting memoranda or later references somewhere in the bureaucracy. Critics argue that the Cutler memo looks less like a surviving fragment of a larger paper trail and more like a document standing alone without institutional context. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+A genuine high-level national-security project would not necessarily produce public evidence of UFO recovery operations. It would, however, normally generate meeting schedules, registry references, distribution records, supporting memoranda or later references somewhere in the bureaucracy. Critics argue that the Cutler memo looks less like a surviving fragment of a larger paper trail and more like a document standing alone without institutional context.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 ## Discovery in the Archives Versus Authenticity
 
@@ -321,7 +321,7 @@ Those are not the same thing.
 
 Archives preserve and provide access to records that enter their holdings. The presence of a document in an archive establishes that the document exists and was located within a particular collection. It does not automatically establish that every statement inside the document is genuine or that the document entered the archive through an original government chain of custody.
 
-The National Archives' own reference report is often overlooked in discussions that cite the memo as proof of MJ-12. Rather than endorsing the document, archivists explicitly listed reasons for concern, including filing irregularities, the absence of expected control numbers and the failure to locate corroborating records elsewhere. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+The National Archives' own reference report is often overlooked in discussions that cite the memo as proof of MJ-12. Rather than endorsing the document, archivists explicitly listed reasons for concern, including filing irregularities, the absence of expected control numbers and the failure to locate corroborating records elsewhere.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 This distinction is crucial. A document can be physically present in government holdings while still being misfiled, inserted, copied from another source, incorrectly attributed or otherwise unauthenticated.
 
@@ -335,139 +335,139 @@ Supporters typically argue:
 
 * The memo was found within official archival holdings rather than arriving anonymously.
 * The reference to "MJ-12" appears specific rather than accidental.
-* The document may represent a surviving fragment of a larger classified programme whose records remain hidden or destroyed. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Mystery of Majestic 12</span><span class="citation-popover-snippet">Discovery UK14 May 2024 — The Cutler/Twining memo was sent by Special Assistant to President Eisenhower, Robert Cutler to the Chief of St...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
+* The document may represent a surviving fragment of a larger classified programme whose records remain hidden or destroyed.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: discoveryuk.com">[Discovery UK]</a><span class="citation-popover" role="note"><span class="citation-popover-source">discoveryuk.com</span><span class="citation-popover-title">Discovery UKThe Mystery of Majestic 12</span><span class="citation-popover-snippet">Discovery UK14 May 2024 — The Cutler/Twining memo was sent by Special Assistant to President Eisenhower, Robert Cutler to the Chief of St...</span><span class="citation-popover-meta">Published: May 2024</span></span></span>
 
 Critics counter that:
 
 * The National Archives itself identified significant procedural anomalies.
 * Cutler's documented travel schedule conflicts with the memo's date.
 * Searches failed to uncover the supporting records one would expect from such a project.
-* The memo emerged within the same broader environment that produced other disputed MJ-12 papers. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span> Reddit Even some researchers who remain open to UFO secrecy claims have treated the memo cautiously because its evidential strength depends on assum <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</span></span></span> ptions about missing records rather than on a verified documentary chain.
+* The memo emerged within the same broader environment that produced other disputed MJ-12 papers.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span> Reddit Even some researchers who remain open to UFO secrecy claims have treated the memo cautiously because its evidential strength depends on assum<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[reddit.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</span></span></span> ptions about missing records rather than on a verified documentary chain.
 
 <img src="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-3-dark.svg" | relative_url }}" alt="Cutler Memo illustration 3" data-theme-src-dark="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_cutler_twining_memo_e87e11-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## What the Cutler Memo Means for MJ-12 and the Doty Environment
 
 The Cutler memorandum occupies a unique place in MJ-12 history because it is often presented as the bridge between anonymous leaked papers and official archives. Yet the closer researchers examined that bridge, the more unstable it appeared.
 
-The central problem is not that the memo contains an impossible claim. It is that the document repeatedly fails standard archival tests. The filing context is unusual, corroborating records are absent, the date conflicts with Cutler's documented travel and the National Archives publicly warned researchers about these issues rather than validating the document. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+The central problem is not that the memo contains an impossible claim. It is that the document repeatedly fails standard archival tests. The filing context is unusual, corroborating records are absent, the date conflicts with Cutler's documented travel and the National Archives publicly warned researchers about these issues rather than validating the document.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
-For assessing narratives associated with Richard Doty and the wider MJ-12 controversy, the memo illustrates a recurring pattern. Documents acquire credibility through proximity to official institutions, but when investigators trace provenance and chain of custody, the apparent certainty weakens. The Cutler memo remains one of the most cited pieces of MJ-12 evidence, yet it is also one of the clearest examples of why archival location and documentary authenticity are not the same thing. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
+For assessing narratives associated with Richard Doty and the wider MJ-12 controversy, the memo illustrates a recurring pattern. Documents acquire credibility through proximity to official institutions, but when investigators trace provenance and chain of custody, the apparent certainty weakens. The Cutler memo remains one of the most cited pieces of MJ-12 evidence, yet it is also one of the clearest examples of why archival location and documentary authenticity are not the same thing.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: archives.gov">[National Archives]</a><span class="citation-popover" role="note"><span class="citation-popover-source">archives.gov</span><span class="citation-popover-title">National Archives Project BLUE BOOK</span><span class="citation-popover-snippet">MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</span><span class="citation-popover-meta">Published: July 14, 1954</span></span></span>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Why the Cutler to Twining Memo Fails Archival Scrutiny, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Why the Cutler to Twining Memo Fails Archival Scrutiny, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO investigation books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">scientific UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">scientific UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=scientific+UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP investigation books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP investigation books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+investigation+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ"><img src="https://i.ebayimg.com/images/g/WBcAAeSwNOtpx3sq/s-l225.jpg" alt="Listing image for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ"><img src="https://i.ebayimg.com/images/g/WBcAAeSwNOtpx3sq/s-l225.jpg" alt="Listing image for Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Movie Poster Michael Jackson The Story Of The King Of Pop MJ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ"><img src="https://i.ebayimg.com/images/g/~dgAAeSwzRxqCrca/s-l225.jpg" alt="Listing image for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ"><img src="https://i.ebayimg.com/images/g/~dgAAeSwzRxqCrca/s-l225.jpg" alt="Listing image for Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">Michael Jackson Multiple Era Poster, King of Pop Collage Wall Art, Iconic MJ</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for MJ12 poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: MJ12 poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=MJ12+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="MJ12 poster" data-ebay-reference="why-the-cutler-to-twining-memo-fails-archival-scrutiny-mj12-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -483,7 +483,7 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -503,7 +503,7 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -535,7 +535,7 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -587,7 +587,7 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -632,7 +632,7 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -673,110 +673,110 @@ For assessing narratives associated with Richard Doty and the wider MJ-12 contro
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: archives.gov  
    Title: National Archives Project BLUE BOOK  
-   Link: <a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</p></details>
+   Link:<a href="https://www.archives.gov/research/military/air-force/ufos" target="_blank" rel="noopener noreferrer nofollow">https://www.archives.gov/research/military/air-force/ufos</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MJ-12.&quot; Many of the inquiries concern a memorandum from Robert Cutler to Gen. Nathan Twining, dated July 14, 1954. This particular docume...</p></details>
    Published: July 14, 1954  
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1f8a4zc/extraordinary_top_secret_meeting_mentioned_cia/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Reddit&quot;Extraordinary top secret&quot; meeting mentioned CIA MJ-12...Many of the inquiries concern a memorandum from Robert Cutler to General...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: discoveryuk.com  
    Title: Discovery UKThe Mystery of Majestic 12  
-   Link: <a href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK14 May 2024 — The Cutler/Twining memo was sent by Special Assistant to President Eisenhower, Robert Cutler to the Chief of St...</p></details>
+   Link:<a href="https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/" target="_blank" rel="noopener noreferrer nofollow">https://www.discoveryuk.com/mysteries/the-mystery-of-majestic-12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Discovery UK14 May 2024 — The Cutler/Twining memo was sent by Special Assistant to President Eisenhower, Robert Cutler to the Chief of St...</p></details>
    Published: May 2024  
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: <a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
+   Link:<a href="https://en.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://en.wikipedia.org/wiki/Majestic_12</a>  
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: <a href="https://es.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Majestic_12</a>  
+   Link:<a href="https://es.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://es.wikipedia.org/wiki/Majestic_12</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: Wikipedia  
    Title: Majestic 12  
-   Link: <a href="https://it.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Majestic_12</a>  
+   Link:<a href="https://it.wikipedia.org/wiki/Majestic_12" target="_blank" rel="noopener noreferrer nofollow">https://it.wikipedia.org/wiki/Majestic_12</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: archive.org  
    Title: Full text of "Maji  
-   Link: <a href="https://archive.org/stream/majiall337/Maji%20all_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/Maji%20all_djvu.txt</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>MJ12 - MAJIC 12 - MAGIC 12 - MAJESTICThe Joint Chiefs memos corroborate the 1954 Cutler Twining memo involving a project called Majestic...</p></details>
+   Link:<a href="https://archive.org/stream/majiall337/Maji%20all_djvu.txt" target="_blank" rel="noopener noreferrer nofollow">https://archive.org/stream/majiall337/Maji%20all_djvu.txt</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MJ12 - MAJIC 12 - MAGIC 12 - MAJESTICThe Joint Chiefs memos corroborate the 1954 Cutler Twining memo involving a project called Majestic...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: reddit.com  
    Title: S O-1 Classified Army UFO Manual  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>SO-1 Classified Army UFO Manual - MAJESTIC-12Klass&#x27;s investigation of the MJ-12 documents found that Robert Cutler was actually out of th...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/14qz5j0/so1_classified_army_ufo_manual_majestic12/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>SO-1 Classified Army UFO Manual - MAJESTIC-12Klass&#x27;s investigation of the MJ-12 documents found that Robert Cutler was actually out of th...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: governmentattic.org  
    Title: FOIA Logs NARA ADDRES 2001 2009  
-   Link: <a href="https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA)...7 Nov 2006 — Address your appeal to the Deputy Archivist (ND), National Archives a...</p></details>
+   Link:<a href="https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.governmentattic.org/2docs/FOIA_Logs_NARA-ADDRES_2001-2009.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>National Archives and Records Administration (NARA)...7 Nov 2006 — Address your appeal to the Deputy Archivist (ND), National Archives a...</p></details>
 
 ### Additional References
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: pdacounterfraud.co.uk  
-   Link: <a href="https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook of Criminal InvestigationAccelerating the world&#x27;s research. Handbook of Criminal Investigation. Alf Beauman [PI]. Related papers...</p></details>
+   Link:<a href="https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf" target="_blank" rel="noopener noreferrer nofollow">https://pdacounterfraud.co.uk/wp-content/uploads/2023/07/Handbook-of-Criminal-Investigation-2007.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Handbook of Criminal InvestigationAccelerating the world&#x27;s research. Handbook of Criminal Investigation. Alf Beauman [PI]. Related papers...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 1954): A short note linking MJ-12 to an NSC meeting. This was later discovered in the National Archives but...Read more...</p></details>
+   Link:<a href="https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40kevin.bergin1958/majestic-12-ufo-files-that-shook-and-divided-the-world-of-disclosure-8bc3cdbe4ed5</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 14, 1954): A short note linking MJ-12 to an NSC meeting. This was later discovered in the National Archives but...Read more...</p></details>
    Published: July 14, 1954  
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: hangar1publishing.com  
-   Link: <a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic 12 Documents: Inside America&#x27;s Secret UFO...Down South Anomalies · Grasping Sasquatch · Mapping Bigfoot · Monsters on the Edge...</p></details>
+   Link:<a href="https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U" target="_blank" rel="noopener noreferrer nofollow">https://hangar1publishing.com/blogs/ufos-uaps-and-aliens/majestic-12-documents?srsltid=AfmBOopQ0LFHvbmyylDCtxDN6yalIkBMWPlYJNbVpM0ZJNIRjZQbxJ-U</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Majestic 12 Documents: Inside America&#x27;s Secret UFO...Down South Anomalies · Grasping Sasquatch · Mapping Bigfoot · Monsters on the Edge...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: bibliotecapleyades.net  
    Title: Is The Cutler-Twining Memo A Hoax?The memorandum is dated  
-   Link: <a href="https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>July 20, 1954 and refers to Cutler&#x27;s visits to installations in Europe and North Africa between July 3 and 15.Read more...</p></details>
+   Link:<a href="https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.bibliotecapleyades.net/ciencia/ciencia_reich09a.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>July 20, 1954 and refers to Cutler&#x27;s visits to installations in Europe and North Africa between July 3 and 15.Read more...</p></details>
    Published: July 20, 1954  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: taggedwiki.zubiaga.org  
-   Link: <a href="https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21" target="_blank" rel="noopener noreferrer nofollow">https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>12 - Wikipedia, the free encyclopedia3 Apr 2009 — &quot;Memorandum for General Twining, from Robert Cutler, Special Assistant to the President...</p></details>
+   Link:<a href="https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21" target="_blank" rel="noopener noreferrer nofollow">https://taggedwiki.zubiaga.org/new_content/94c0fada76119b3c9b390d9e68c24f21</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>12 - Wikipedia, the free encyclopedia3 Apr 2009 — &quot;Memorandum for General Twining, from Robert Cutler, Special Assistant to the President...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: youtube.com  
    Title: Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary  
-   Link: <a href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mxg-A0EKDIw</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=mxg-A0EKDIw" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=mxg-A0EKDIw</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ancient Aliens: Top Secret Documents for Majic Eyes Only (Season 12, Episode 9) | History...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: youtube.com  
-   Link: <a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ogJplVuElLs</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary...</p></details>
+   Link:<a href="https://www.youtube.com/watch?v=ogJplVuElLs" target="_blank" rel="noopener noreferrer nofollow">https://www.youtube.com/watch?v=ogJplVuElLs</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Alien Contact Covered Up? The Truth Behind Majestic 12 | Full Documentary...</p></details>
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: reaganlibrary.gov  
-   Link: <a href="https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR. MJ-12 UFO DOCUMENTS: BREAKTHROUGH DR CLEVER HOAX? Included in this issue of FOCUS are co1pletely clean, unex- purgated copies of t...</p></details>
+   Link:<a href="https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.reaganlibrary.gov/public/2021-06/40-654-209237723-046-002-2021.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>MAJOR. MJ-12 UFO DOCUMENTS: BREAKTHROUGH DR CLEVER HOAX? Included in this issue of FOCUS are co1pletely clean, unex- purgated copies of t...</p></details>
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: pmc.ncbi.nlm.nih.gov  
-   Link: <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneer Anomaly - PMCby SG Turyshev · 2010 · Cited by 196 — This massive archive contains all Pioneer 10 and 11 project documents discuss...</p></details>
+   Link:<a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/" target="_blank" rel="noopener noreferrer nofollow">https://pmc.ncbi.nlm.nih.gov/articles/PMC5255541/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pioneer Anomaly - PMCby SG Turyshev · 2010 · Cited by 196 — This massive archive contains all Pioneer 10 and 11 project documents discuss...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: research.fs.usda.gov  
-   Link: <a href="https://research.fs.usda.gov/download/treesearch/67800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/67800.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Kathleen Araújo, Boise State University, CAES Energy Policy Institute. Erica N. Asinas, University of Washington, Climate Impacts Group.R...</p></details>
+   Link:<a href="https://research.fs.usda.gov/download/treesearch/67800.pdf" target="_blank" rel="noopener noreferrer nofollow">https://research.fs.usda.gov/download/treesearch/67800.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Kathleen Araújo, Boise State University, CAES Energy Policy Institute. Erica N. Asinas, University of Washington, Climate Impacts Group.R...</p></details>

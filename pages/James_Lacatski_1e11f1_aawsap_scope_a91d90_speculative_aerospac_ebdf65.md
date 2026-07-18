@@ -265,7 +265,7 @@ image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_speculative_aero
 One of the most misunderstood aspects of James Lacatski’s association with the Advanced Aerospace Weapons System Applications Program (AAWSAP) is the role played by highly speculative aerospace studies. Critics often point to government-funded papers on [warp drives]({{ 'warp-drive/' | relative_url }}), wormholes, [cloaking]({{ 'cloaking/' | relative_url }}) technologies and exotic propulsion as evidence that AAWSAP had drifted into science fiction. Supporters, by contrast, argue that studying extreme possibilities is exactly what long-range defence forecasting is supposed to do.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_speculative_aerospac_ebdf65-Illustration-1-dark.svg" | relative_url }}" alt="Exotic Studies illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_speculative_aerospac_ebdf65-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_speculative_aerospac_ebdf65-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-The documentary record shows that AAWSAP did commission a series of technical studies on advanced concepts that sit far beyond current engineering capabilities. However, the existence of those studies does not demonstrate that alien technology was discovered, validated or even considered likely. The key credibility question for Lacatski is therefore not whether these reports existed—they did—but how they were interpreted, and whether their speculative content became intertwined with claims about UFOs in ways that exceeded the available evidence. U.S. Department of War <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</span></span></span>
+The documentary record shows that AAWSAP did commission a series of technical studies on advanced concepts that sit far beyond current engineering capabilities. However, the existence of those studies does not demonstrate that alien technology was discovered, validated or even considered likely. The key credibility question for Lacatski is therefore not whether these reports existed—they did—but how they were interpreted, and whether their speculative content became intertwined with claims about UFOs in ways that exceeded the available evidence. U.S. Department of War<span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</span></span></span>
 
 ## Why exotic technical report titles attracted attention
 
@@ -273,14 +273,14 @@ The most famous AAWSAP products were the Defence Intelligence Reference Document
 
 Examples included:
 
-* *Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions* <span class="citation-chip-wrap"><a class="citation-chip" href="https://asirpjournal.substack.com/p/the-pentagons-paper-trail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asirpjournal.substack.com">[asirpjournal.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asirpjournal.substack.com</span><span class="citation-popover-snippet">Pentagon&#x27;s Paper Trail - by Gene Sticco - ASIRP DispatchWarp Drive, Dark Energy, and the Manipulation of Extra Dimensions...</span></span></span> * *Traversable Wormholes, Stargates, and Negative Energy* <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative EnergyThere was originally one other criterion for defining a traversable wormhole, which...</span></span></span>
+* *Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions*<span class="citation-chip-wrap"><a class="citation-chip" href="https://asirpjournal.substack.com/p/the-pentagons-paper-trail" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: asirpjournal.substack.com">[asirpjournal.substack.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">asirpjournal.substack.com</span><span class="citation-popover-snippet">Pentagon&#x27;s Paper Trail - by Gene Sticco - ASIRP DispatchWarp Drive, Dark Energy, and the Manipulation of Extra Dimensions...</span></span></span> * *Traversable Wormholes, Stargates, and Negative Energy*<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Traversable Wormholes, Stargates, and Negative EnergyThere was originally one other criterion for defining a traversable wormhole, which...</span></span></span>
 * *Antigravity for Aerospace Applications*
 * Studies on invisibility or signature-reduction technologies
-* Research into quantum vacuum energy and other unconventional propulsion concepts. <span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">an analysis of that list of aawsapaatip</span><span class="citation-popover-snippet">An analysis of that list of AAWSAP/AATIP Defense...1 Aug 2018 — For example: DIRD 8 on the list, &#x27;Wormholes in SpaceTime&#x27; becomes &#x27;Trave...</span></span></span> <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>| 3dia.mil
+* Research into quantum vacuum energy and other unconventional propulsion concepts.<span class="citation-chip-wrap"><a class="citation-chip" href="https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: ufos-scientificresearch.blogspot.com">[ufos-scientificresearch.blogspot.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">ufos-scientificresearch.blogspot.com</span><span class="citation-popover-title">an analysis of that list of aawsapaatip</span><span class="citation-popover-snippet">An analysis of that list of AAWSAP/AATIP Defense...1 Aug 2018 — For example: DIRD 8 on the list, &#x27;Wormholes in SpaceTime&#x27; becomes &#x27;Trave...</span></span></span><span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>| 3dia.mil
 
-The titles alone encouraged a popular narrative that the US government was secretly investigating alien spacecraft. Media coverage frequently highlighted the contrast between the programme's official aerospace-threat mission and documents discussing wormholes or faster-than-light travel. <span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/the-dia-studied-warp-drives-wormholes-and-manipulating-space-time-for-some-reason/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-snippet">Task &amp; PurposeThe DIA Studied Warp Drives, Wormholes, And...May 15, 2018 — The Defense Intelligence Agency put together a 34-page intell...</span><span class="citation-popover-meta">Published: May 15, 2018</span></span></span>
+The titles alone encouraged a popular narrative that the US government was secretly investigating alien spacecraft. Media coverage frequently highlighted the contrast between the programme's official aerospace-threat mission and documents discussing wormholes or faster-than-light travel.<span class="citation-chip-wrap"><a class="citation-chip" href="https://taskandpurpose.com/news/the-dia-studied-warp-drives-wormholes-and-manipulating-space-time-for-some-reason/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: taskandpurpose.com">[Task &amp; Purpose]</a><span class="citation-popover" role="note"><span class="citation-popover-source">taskandpurpose.com</span><span class="citation-popover-snippet">Task &amp; PurposeThe DIA Studied Warp Drives, Wormholes, And...May 15, 2018 — The Defense Intelligence Agency put together a 34-page intell...</span><span class="citation-popover-meta">Published: May 15, 2018</span></span></span>
 
-Yet the reports themselves were generally framed as theoretical assessments. Their purpose was to examine whether known physics left any pathway—however remote—for revolutionary aerospace capabilities. That differs significantly from claiming such technologies exist or have been demonstrated. The reports explored possibilities, constraints and theoretical requirements rather than presenting operational systems. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
+Yet the reports themselves were generally framed as theoretical assessments. Their purpose was to examine whether known physics left any pathway—however remote—for revolutionary aerospace capabilities. That differs significantly from claiming such technologies exist or have been demonstrated. The reports explored possibilities, constraints and theoretical requirements rather than presenting operational systems.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/IV3yH3U51Bg" title="Hiding Something Big? ‘There Is an Issue with UAP They DON’T Want Us Talking About’" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=IV3yH3U51Bg" target="_blank" rel="noopener noreferrer">Hiding Something Big? ‘There Is an Issue with UAP They DON’T Want Us Talking About’</a></p><p class="youtube-embed-meta">Channel: IRONCLAD &middot; Views: 19.3K &middot; Uploaded: May 2026 &middot; Length: 57 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=IV3yH3U51Bg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=IV3yH3U51Bg">Open on YouTube</a></p></div></div></div>
 
@@ -288,11 +288,11 @@ Yet the reports themselves were generally framed as theoretical assessments. The
 
 A central mistake in many public discussions is treating speculative research as proof of extraordinary conclusions.
 
-Defence and intelligence organisations have long funded studies into technologies that may never become practical. The reasoning is straightforward: if even a small chance exists that a future adversary could achieve a breakthrough, understanding the science may have strategic value. AAWSAP's official documentation described its mission in terms of future aerospace threats and breakthrough technologies rather than extraterrestrial craft. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</span></span></span>
+Defence and intelligence organisations have long funded studies into technologies that may never become practical. The reasoning is straightforward: if even a small chance exists that a future adversary could achieve a breakthrough, understanding the science may have strategic value. AAWSAP's official documentation described its mission in terms of future aerospace threats and breakthrough technologies rather than extraterrestrial craft.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</span></span></span>
 
-The warp-drive report illustrates this distinction. The document discusses theoretical mechanisms derived from general relativity and examines whether spacetime manipulation could, in principle, permit faster-than-light travel. It does not present evidence that such a drive exists, nor that any observed UFO employed one. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Open source on dia.mil.</span></span></span>
+The warp-drive report illustrates this distinction. The document discusses theoretical mechanisms derived from general relativity and examines whether spacetime manipulation could, in principle, permit faster-than-light travel. It does not present evidence that such a drive exists, nor that any observed UFO employed one.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">Open source on dia.mil.</span></span></span>
 
-Likewise, the wormhole study explored mathematical models of traversable wormholes and the exotic forms of energy they would require. It was an investigation of theoretical physics rather than a confirmation that wormholes had been discovered or used by unidentified craft. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">ic way that allows for faster-than-light (FTL) travel.Read more...</span></span></span>
+Likewise, the wormhole study explored mathematical models of traversable wormholes and the exotic forms of energy they would require. It was an investigation of theoretical physics rather than a confirmation that wormholes had been discovered or used by unidentified craft.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: dia.mil">[dia.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">dia.mil</span><span class="citation-popover-snippet">ic way that allows for faster-than-light (FTL) travel.Read more...</span></span></span>
 
 This distinction is important when assessing Lacatski's credibility. Funding a paper on an idea is evidence that the idea was considered worthy of examination. It is not evidence that the idea was verified.
 
@@ -300,9 +300,9 @@ This distinction is important when assessing Lacatski's credibility. Funding a p
 
 Sceptics argue that the DIRD collection reveals a programme that often ventured beyond practical intelligence analysis.
 
-Several observers noted that many of the studies relied on highly speculative physics and concepts lacking experimental support. Critics questioned whether intelligence resources were being spent on topics with little realistic prospect of technological application. The Federation of American Scientists described several released titles as highly conjectural and far beyond accepted engineering practice. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</span></span></span>
+Several observers noted that many of the studies relied on highly speculative physics and concepts lacking experimental support. Critics questioned whether intelligence resources were being spent on topics with little realistic prospect of technological application. The Federation of American Scientists described several released titles as highly conjectural and far beyond accepted engineering practice.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</span></span></span>
 
-More recently, the Pentagon's All-domain Anomaly Resolution Office (AARO) noted that AAWSAP's scientific papers were not subjected to the kind of extensive peer review normally expected for major scientific claims. AARO's historical review also concluded that UFO investigation was not explicitly part of the original contract statement of work, even though programme activities later expanded in that direction. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</span></span></span>
+More recently, the Pentagon's All-domain Anomaly Resolution Office (AARO) noted that AAWSAP's scientific papers were not subjected to the kind of extensive peer review normally expected for major scientific claims. AARO's historical review also concluded that UFO investigation was not explicitly part of the original contract statement of work, even though programme activities later expanded in that direction.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</span></span></span>
 
 From this perspective, the exotic reports are not evidence of hidden breakthroughs. Instead, they are viewed as examples of exploratory studies whose speculative nature became exaggerated in later UFO narratives.
 
@@ -311,9 +311,9 @@ From this perspective, the exotic reports are not evidence of hidden breakthroug
 
 Supporters of Lacatski and related AAWSAP figures interpret the same documents differently.
 
-Their argument is not necessarily that warp drives or wormholes were proven. Rather, they contend that governments routinely dismiss unconventional ideas publicly while quietly studying them internally. From that viewpoint, the willingness of a defence agency to commission papers on advanced propulsion suggests officials considered some reported UFO performance characteristics worthy of investigation. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">defense intelligence reference document pdf free</span><span class="citation-popover-snippet">Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</span></span></span>
+Their argument is not necessarily that warp drives or wormholes were proven. Rather, they contend that governments routinely dismiss unconventional ideas publicly while quietly studying them internally. From that viewpoint, the willingness of a defence agency to commission papers on advanced propulsion suggests officials considered some reported UFO performance characteristics worthy of investigation.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">defense intelligence reference document pdf free</span><span class="citation-popover-snippet">Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</span></span></span>
 
-Supporters also note that several authors of the studies were credentialled scientists with backgrounds in aerospace engineering, physics or defence research. They argue that examining frontier concepts can be legitimate when attempting to understand reports describing extreme acceleration, unusual manoeuvrability or apparent violations of conventional flight characteristics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
+Supporters also note that several authors of the studies were credentialled scientists with backgrounds in aerospace engineering, physics or defence research. They argue that examining frontier concepts can be legitimate when attempting to understand reports describing extreme acceleration, unusual manoeuvrability or apparent violations of conventional flight characteristics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: info.publicintelligence.net">[Public Intelligence &#124;]</a><span class="citation-popover" role="note"><span class="citation-popover-source">info.publicintelligence.net</span><span class="citation-popover-snippet">orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</span></span></span>
 
 However, this argument has limits. Even if a reported UFO exhibited unusual behaviour, a study of warp drives does not establish that a [warp drive]({{ 'warp-drive/' | relative_url }}) was involved. The connection remains inferential rather than evidential.
 
@@ -322,16 +322,16 @@ However, this argument has limits. Even if a reported UFO exhibited unusual beha
 
 The DIRD programme became important to James Lacatski's public image because it reinforced a broader narrative that AAWSAP was looking beyond ordinary aerospace questions.
 
-Lacatski has consistently portrayed AAWSAP as a programme willing to investigate possibilities that mainstream institutions often ignored. The existence of government-funded studies on exotic propulsion helps support that image. It demonstrates that officials under his programme explored concepts lying at the extreme edge of theoretical physics. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">defense intelligence reference document pdf free</span><span class="citation-popover-snippet">Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</span></span></span>
+Lacatski has consistently portrayed AAWSAP as a programme willing to investigate possibilities that mainstream institutions often ignored. The existence of government-funded studies on exotic propulsion helps support that image. It demonstrates that officials under his programme explored concepts lying at the extreme edge of theoretical physics.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">defense intelligence reference document pdf free</span><span class="citation-popover-snippet">Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</span></span></span>
 
-At the same time, those studies have sometimes been used by audiences to imply more than they actually show. In public UFO discussions, the mere presence of government documents discussing warp drives, cloaking or wormholes is frequently treated as indirect confirmation of alien technology. The documents themselves do not make that claim. They explore what physics might permit under highly speculative assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</span></span></span>
+At the same time, those studies have sometimes been used by audiences to imply more than they actually show. In public UFO discussions, the mere presence of government documents discussing warp drives, cloaking or wormholes is frequently treated as indirect confirmation of alien technology. The documents themselves do not make that claim. They explore what physics might permit under highly speculative assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: fas.org">[Federation of American Scientists]</a><span class="citation-popover" role="note"><span class="citation-popover-source">fas.org</span><span class="citation-popover-title">Eric Davis, who has also written on “psychic</span><span class="citation-popover-snippet">Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</span></span></span>
 
 This creates an important credibility tension around Lacatski. A verified fact—that AAWSAP funded unusual technical studies—can be interpreted in two very different ways:
 
 * As evidence of responsible long-range technology assessment.
 * As evidence that officials believed UFO reports pointed towards revolutionary non-human technology.
 
-The first interpretation is directly supported by documentary evidence. The second remains an inference that depends on additional claims and assumptions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</span></span></span>
+The first interpretation is directly supported by documentary evidence. The second remains an inference that depends on additional claims and assumptions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/WpRWkuYu9V8" title="All the videos from Pentagon&#x27;s first batch of UFO files" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer">All the videos from Pentagon&#x27;s first batch of UFO files</a></p><p class="youtube-embed-meta">Channel: Face the Nation &middot; Views: 61.7K &middot; Uploaded: May 2026 &middot; Length: 41 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=WpRWkuYu9V8" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=WpRWkuYu9V8">Open on YouTube</a></p></div></div></div>
 
@@ -339,161 +339,161 @@ The first interpretation is directly supported by documentary evidence. The seco
 
 For assessing James Lacatski, the existence of AAWSAP's speculative aerospace studies neither proves nor disproves his broader UFO-related claims.
 
-The strongest conclusion supported by the record is relatively narrow. Under Lacatski's management, AAWSAP commissioned and collected research into highly unconventional aerospace concepts, including ideas far beyond current engineering capability. Those studies were real, officially funded and part of the programme's documented output. <span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">defense intelligence reference document pdf free</span><span class="citation-popover-snippet">Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</span></span></span> [2U.S.] Department of War
+The strongest conclusion supported by the record is relatively narrow. Under Lacatski's management, AAWSAP commissioned and collected research into highly unconventional aerospace concepts, including ideas far beyond current engineering capability. Those studies were real, officially funded and part of the programme's documented output.<span class="citation-chip-wrap"><a class="citation-chip" href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: pdfcoffee.com">[pdfcoffee.com]</a><span class="citation-popover" role="note"><span class="citation-popover-source">pdfcoffee.com</span><span class="citation-popover-title">defense intelligence reference document pdf free</span><span class="citation-popover-snippet">Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</span></span></span> [2U.S.] Department of War
 
-What the studies do not establish is equally important. They do not demonstrate that alien technology was recovered, that UFO reports were validated, that faster-than-light propulsion exists, or that wormholes and cloaking systems have been engineered. Most remained theoretical explorations of what physics might allow under conditions that have not been achieved experimentally. <span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generic warp drives violate the null energy condition</span><span class="citation-popover-snippet">arXiv Generic warp drives violate the null energy condition</span></span></span>
+What the studies do not establish is equally important. They do not demonstrate that alien technology was recovered, that UFO reports were validated, that faster-than-light propulsion exists, or that wormholes and cloaking systems have been engineered. Most remained theoretical explorations of what physics might allow under conditions that have not been achieved experimentally.<span class="citation-chip-wrap"><a class="citation-chip" href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: arxiv.org">[arXiv]</a><span class="citation-popover" role="note"><span class="citation-popover-source">arxiv.org</span><span class="citation-popover-title">arXiv Generic warp drives violate the null energy condition</span><span class="citation-popover-snippet">arXiv Generic warp drives violate the null energy condition</span></span></span>
 
 As a result, the exotic reports are best understood as evidence of AAWSAP's unusually broad intellectual scope rather than evidence for the extraordinary UFO conclusions that are sometimes attached to them. That distinction remains central when evaluating Lacatski's credibility as both a government programme manager and a prominent figure in modern UFO discourse.
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/oA16rcak_qA" title="Jump, Warp, Worm Hole Drives – AsteronX Podcast Ep13" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=oA16rcak_qA" target="_blank" rel="noopener noreferrer">Jump, Warp, Worm Hole Drives – AsteronX Podcast Ep13</a></p><p class="youtube-embed-meta">Channel: AsteronX &middot; Views: 13.3K &middot; Uploaded: December 2021 &middot; Length: 2 hours 17 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=oA16rcak_qA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=oA16rcak_qA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for When aerospace research sounds like UFO proof, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for When aerospace research sounds like UFO proof, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fairchild Space Co Topex / Poseidon Satellite Ocean Technology Poster NASA 1988"><img src="https://i.ebayimg.com/images/g/WIMAAOSw5-1l-0JC/s-l225.jpg" alt="Listing image for Fairchild Space Co Topex / Poseidon Satellite Ocean Technology Poster NASA 1988" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Fairchild Space Co Topex / Poseidon Satellite Ocean Technology Poster NASA 1988</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Fairchild Space Co Topex / Poseidon Satellite Ocean Technology Poster NASA 1988"><img src="https://i.ebayimg.com/images/g/WIMAAOSw5-1l-0JC/s-l225.jpg" alt="Listing image for Fairchild Space Co Topex / Poseidon Satellite Ocean Technology Poster NASA 1988" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Fairchild Space Co Topex / Poseidon Satellite Ocean Technology Poster NASA 1988</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Space Atomic Clock Poster Blue Space Technology Astronomy Wall Art"><img src="https://i.ebayimg.com/images/g/ZIYAAeSwjaZpvJCF/s-l225.jpg" alt="Listing image for Deep Space Atomic Clock Poster Blue Space Technology Astronomy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Deep Space Atomic Clock Poster Blue Space Technology Astronomy Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Space Atomic Clock Poster Blue Space Technology Astronomy Wall Art"><img src="https://i.ebayimg.com/images/g/ZIYAAeSwjaZpvJCF/s-l225.jpg" alt="Listing image for Deep Space Atomic Clock Poster Blue Space Technology Astronomy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Deep Space Atomic Clock Poster Blue Space Technology Astronomy Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Space Atomic Clock Poster Red Space Technology Astronomy Wall Art"><img src="https://i.ebayimg.com/images/g/NPQAAeSwdbxpvI~c/s-l225.jpg" alt="Listing image for Deep Space Atomic Clock Poster Red Space Technology Astronomy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Deep Space Atomic Clock Poster Red Space Technology Astronomy Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Deep Space Atomic Clock Poster Red Space Technology Astronomy Wall Art"><img src="https://i.ebayimg.com/images/g/NPQAAeSwdbxpvI~c/s-l225.jpg" alt="Listing image for Deep Space Atomic Clock Poster Red Space Technology Astronomy Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Deep Space Atomic Clock Poster Red Space Technology Astronomy Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kepler Nasa Space Planet Travel VINTAGE RETRO ART Print Poster Wall Picture A4 +"><img src="https://i.ebayimg.com/images/g/Z9EAAOSwjIxk-LP1/s-l225.jpg" alt="Listing image for Kepler Nasa Space Planet Travel VINTAGE RETRO ART Print Poster Wall Picture A4 +" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Kepler Nasa Space Planet Travel VINTAGE RETRO ART Print Poster Wall Picture A4 +</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Kepler Nasa Space Planet Travel VINTAGE RETRO ART Print Poster Wall Picture A4 +"><img src="https://i.ebayimg.com/images/g/Z9EAAOSwjIxk-LP1/s-l225.jpg" alt="Listing image for Kepler Nasa Space Planet Travel VINTAGE RETRO ART Print Poster Wall Picture A4 +" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">Kepler Nasa Space Planet Travel VINTAGE RETRO ART Print Poster Wall Picture A4 +</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for space technology poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: space technology poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=space+technology+poster&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=when-aerospace-research-sounds-like-ufo-proof-space-technology-poster&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="space technology poster" data-ebay-reference="when-aerospace-research-sounds-like-ufo-proof-space-technology-poster" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -509,7 +509,7 @@ As a result, the exotic reports are best understood as evidence of AAWSAP's unus
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -529,7 +529,7 @@ As a result, the exotic reports are best understood as evidence of AAWSAP's unus
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -561,7 +561,7 @@ As a result, the exotic reports are best understood as evidence of AAWSAP's unus
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -613,7 +613,7 @@ As a result, the exotic reports are best understood as evidence of AAWSAP's unus
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -658,7 +658,7 @@ As a result, the exotic reports are best understood as evidence of AAWSAP's unus
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -699,150 +699,150 @@ As a result, the exotic reports are best understood as evidence of AAWSAP's unus
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: pdfcoffee.com  
    Title: defense intelligence reference document pdf free  
-   Link: <a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</p></details>
+   Link:<a href="https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html" target="_blank" rel="noopener noreferrer nofollow">https://pdfcoffee.com/defense-intelligence-reference-document-pdf-free.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Defense: Intelligence Reference DocumentThis product is one in a series of advanced technology reports produced in FY 2009 under the Defe...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170048/</a>  
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: ufos-scientificresearch.blogspot.com  
    Title: an analysis of that list of aawsapaatip  
-   Link: <a href="https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>An analysis of that list of AAWSAP/AATIP Defense...1 Aug 2018 — For example: DIRD 8 on the list, &#x27;Wormholes in SpaceTime&#x27; becomes &#x27;Trave...</p></details>
+   Link:<a href="https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html" target="_blank" rel="noopener noreferrer nofollow">https://ufos-scientificresearch.blogspot.com/2018/08/an-analysis-of-that-list-of-aawsapaatip.html</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>An analysis of that list of AAWSAP/AATIP Defense...1 Aug 2018 — For example: DIRD 8 on the list, &#x27;Wormholes in SpaceTime&#x27; becomes &#x27;Trave...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: dia.mil  
-   Link: <a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>ic way that allows for faster-than-light (FTL) travel.Read more...</p></details>
+   Link:<a href="https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/" target="_blank" rel="noopener noreferrer nofollow">https://www.dia.mil/FOIA/FOIA-Electronic-Reading-Room/FileId/170050/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ic way that allows for faster-than-light (FTL) travel.Read more...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: arxiv.org  
    Title: arXiv Generic warp drives violate the null energy condition  
-   Link: <a href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.03079</a>  
+   Link:<a href="https://arxiv.org/abs/2105.03079" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2105.03079</a>  
 
-6. <a id="endnote-6"></a>
+6.<a id="endnote-6"></a>
    Source: arxiv.org  
-   Link: <a href="https://arxiv.org/abs/2406.02466" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.02466</a>  
+   Link:<a href="https://arxiv.org/abs/2406.02466" target="_blank" rel="noopener noreferrer nofollow">https://arxiv.org/abs/2406.02466</a>  
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Program (AAWSAP)/Advanced Aerospace Threat...Read more...</p></details>
+   Link:<a href="https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/Portals/136/PDFs/UAP_RECORDS_RESEARCH/History_and_Origin_of_KONA_BLUE_FINAL_508.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Program (AAWSAP)/Advanced Aerospace Threat...Read more...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: aaro.mil  
    Title: UAP Records  
-   Link: <a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
+   Link:<a href="https://www.aaro.mil/UAP-Records/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/UAP-Records/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>/Information Papers13 Feb 2026 — In August 2025, AARO sponsored a workshop on UAP Narrative Data, Infrastructures, and Analysis in partne...</p></details>
    Published: August 2025  
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>U.S. Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — Advanced Aerospace Weapons System Application Program (AAWSAP)...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: fas.org  
    Title: Eric Davis, who has also written on “psychic  
-   Link: <a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</p></details>
+   Link:<a href="https://fas.org/publication/aatip-list/" target="_blank" rel="noopener noreferrer nofollow">https://fas.org/publication/aatip-list/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Federation of American ScientistsMore Light on Black Program to Track UFOs17 Jan 2019 — One such title, “Traversable Wormholes, Stargates...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: info.publicintelligence.net  
-   Link: <a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</p></details>
+   Link:<a href="https://info.publicintelligence.net/DIA-WarpDrives.pdf" target="_blank" rel="noopener noreferrer nofollow">https://info.publicintelligence.net/DIA-WarpDrives.pdf</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>orts produced in FY 2009 under the Defense Intelligence Agency, Defense Warning Office&#x27;s Advanced...Read more...</p></details>
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: taskandpurpose.com  
-   Link: <a href="https://taskandpurpose.com/news/the-dia-studied-warp-drives-wormholes-and-manipulating-space-time-for-some-reason/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/the-dia-studied-warp-drives-wormholes-and-manipulating-space-time-for-some-reason/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; PurposeThe DIA Studied Warp Drives, Wormholes, And...May 15, 2018 — The Defense Intelligence Agency put together a 34-page intell...</p></details>
+   Link:<a href="https://taskandpurpose.com/news/the-dia-studied-warp-drives-wormholes-and-manipulating-space-time-for-some-reason/" target="_blank" rel="noopener noreferrer nofollow">https://taskandpurpose.com/news/the-dia-studied-warp-drives-wormholes-and-manipulating-space-time-for-some-reason/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Task &amp; PurposeThe DIA Studied Warp Drives, Wormholes, And...May 15, 2018 — The Defense Intelligence Agency put together a 34-page intell...</p></details>
    Published: May 15, 2018  
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: envisioning.com  
-   Link: <a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traversable wormh...</p></details>
+   Link:<a href="https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies" target="_blank" rel="noopener noreferrer nofollow">https://www.envisioning.com/research/xenotech/aatip-aawsap-dia-studies</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Aerospace Studies | XenotechPrograms produced 38 Defense Intelligence Reference Documents (DIRDs) covering warp drives, traversable wormh...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: asirpjournal.substack.com  
-   Link: <a href="https://asirpjournal.substack.com/p/the-pentagons-paper-trail" target="_blank" rel="noopener noreferrer nofollow">https://asirpjournal.substack.com/p/the-pentagons-paper-trail</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Paper Trail - by Gene Sticco - ASIRP DispatchWarp Drive, Dark Energy, and the Manipulation of Extra Dimensions...</p></details>
+   Link:<a href="https://asirpjournal.substack.com/p/the-pentagons-paper-trail" target="_blank" rel="noopener noreferrer nofollow">https://asirpjournal.substack.com/p/the-pentagons-paper-trail</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon&#x27;s Paper Trail - by Gene Sticco - ASIRP DispatchWarp Drive, Dark Energy, and the Manipulation of Extra Dimensions...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: publicintelligence.net  
    Title: Page Count: 34 pages. Date  
-   Link: <a href="https://publicintelligence.net/dia-warp-drives/" target="_blank" rel="noopener noreferrer nofollow">https://publicintelligence.net/dia-warp-drives/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(U//FOUO) DIA Study: Warp Drive, Dark Energy, and the...May 6, 2018 — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions...</p></details>
+   Link:<a href="https://publicintelligence.net/dia-warp-drives/" target="_blank" rel="noopener noreferrer nofollow">https://publicintelligence.net/dia-warp-drives/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(U//FOUO) DIA Study: Warp Drive, Dark Energy, and the...May 6, 2018 — Warp Drive, Dark Energy, and the Manipulation of Extra Dimensions...</p></details>
    Published: May 6, 2018  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: marcellocatalano.com  
-   Link: <a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello Catalano- The primary purpose of AAWSAP/AATIP was to investigate potential next generation...</p></details>
+   Link:<a href="https://www.marcellocatalano.com/aaro.htm" target="_blank" rel="noopener noreferrer nofollow">https://www.marcellocatalano.com/aaro.htm</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFOs - Excerpts from AARO&#x27;s reports - Marcello Catalano- The primary purpose of AAWSAP/AATIP was to investigate potential next generation...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1emfx0j/advanced_aerospace_weapon_system_application/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1emfx0j/advanced_aerospace_weapon_system_application/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Weapon System Application ProgramAAWSAP is program mandated by the Defense Intelligence Agency (DIA) and also the Depa...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1emfx0j/advanced_aerospace_weapon_system_application/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1emfx0j/advanced_aerospace_weapon_system_application/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Advanced Aerospace Weapon System Application ProgramAAWSAP is program mandated by the Defense Intelligence Agency (DIA) and also the Depa...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/ufoupdates/permalink/10156525424966790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/permalink/10156525424966790/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>DOD confirms that AATIP was a broader effort and...The Department of Defense funded research on wormholes, invisibility cloaking, and “t...</p></details>
+   Link:<a href="https://www.facebook.com/groups/ufoupdates/permalink/10156525424966790/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/ufoupdates/permalink/10156525424966790/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>DOD confirms that AATIP was a broader effort and...The Department of Defense funded research on wormholes, invisibility cloaking, and “t...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
+   Link:<a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/1151086725290012/posts/1627253451006668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1151086725290012/posts/1627253451006668/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>US government spent millions on experimental aerospace...The research included Warp Drive, Dark Energy, and the Manipulation of Extra Di...</p></details>
+   Link:<a href="https://www.facebook.com/groups/1151086725290012/posts/1627253451006668/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/1151086725290012/posts/1627253451006668/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>US government spent millions on experimental aerospace...The research included Warp Drive, Dark Energy, and the Manipulation of Extra Di...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/20797/the-pentagon-paid-for-these-reports-on-warp-drive-extra-dimensions-anti-gravity-and-more" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/20797/the-pentagon-paid-for-these-reports-on-warp-drive-extra-dimensions-anti-gravity-and-more</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>These Are Real Pentagon Reports On Warp Drive, Extra...14 May 2018 — The official Defense Intelligence Agency reports... Here is anothe...</p></details>
+   Link:<a href="https://www.twz.com/20797/the-pentagon-paid-for-these-reports-on-warp-drive-extra-dimensions-anti-gravity-and-more" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/20797/the-pentagon-paid-for-these-reports-on-warp-drive-extra-dimensions-anti-gravity-and-more</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>These Are Real Pentagon Reports On Warp Drive, Extra...14 May 2018 — The official Defense Intelligence Agency reports... Here is anothe...</p></details>
    Published: May 2018  
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: locationsunknown.org  
-   Link: <a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, these papers that were submitted were about various topics, including (but not limited to) warp drives, propulsion systems, etc.Re...</p></details>
+   Link:<a href="https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents" target="_blank" rel="noopener noreferrer nofollow">https://locationsunknown.org/foia-reading-room/the-deep-end/ufos-aliens/defense-intelligence-reference-documents</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Davis, these papers that were submitted were about various topics, including (but not limited to) warp drives, propulsion systems, etc.Re...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: facebook.com  
    Title: the defense intelligence agency spent more than 20 million on 18 areas of resear  
-   Link: <a href="https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense Intelligence Agency spent more than $20...11 Feb 2019 — The Defense Intelligence Agency spent more than $20 million on 18 ar...</p></details>
+   Link:<a href="https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/FedNewsNetwork/posts/the-defense-intelligence-agency-spent-more-than-20-million-on-18-areas-of-resear/10155887430581782/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Defense Intelligence Agency spent more than $20...11 Feb 2019 — The Defense Intelligence Agency spent more than $20 million on 18 ar...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: facebook.com  
    Title: two years ago today the tic tac ufo video became public in a blockbuster story t  
-   Link: <a href="https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>TWO YEARS AGO TODAY: The &#x27;Tic-Tac&#x27; UFO video...Where UAP Tech and Manmade Research Overlap AAWSAP DIRD Reports (2009... Eric Davis: “Tr...</p></details>
+   Link:<a href="https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/KRON4/posts/two-years-ago-today-the-tic-tac-ufo-video-became-public-in-a-blockbuster-story-t/10157291227907098/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>TWO YEARS AGO TODAY: The &#x27;Tic-Tac&#x27; UFO video...Where UAP Tech and Manmade Research Overlap AAWSAP DIRD Reports (2009... Eric Davis: “Tr...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: newspaceeconomy.ca  
    Title: the evolution of uap investigations from project sign to aaro  
-   Link: <a href="https://newspaceeconomy.ca/2025/08/01/the-evolution-of-uap-investigations-from-project-sign-to-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/08/01/the-evolution-of-uap-investigations-from-project-sign-to-aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of UAP Investigations: From Project Sign to AARO1 Aug 2025 — The Advanced Aerospace Threat Identification Program (AATIP) r...</p></details>
+   Link:<a href="https://newspaceeconomy.ca/2025/08/01/the-evolution-of-uap-investigations-from-project-sign-to-aaro/" target="_blank" rel="noopener noreferrer nofollow">https://newspaceeconomy.ca/2025/08/01/the-evolution-of-uap-investigations-from-project-sign-to-aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Evolution of UAP Investigations: From Project Sign to AARO1 Aug 2025 — The Advanced Aerospace Threat Identification Program (AATIP) r...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: reddit.com  
    Title: AAR O Report Codifies the New Skeptical Narrative: r/UFOs  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP was not specifically outlined in the contract&#x27;s statement of work... r/UFOs - AARO has stated on record they will not find evide...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bcedw3/aaro_report_codifies_the_new_skeptical_narrative/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>UFO/UAP was not specifically outlined in the contract&#x27;s statement of work... r/UFOs - AARO has stated on record they will not find evide...</p></details>

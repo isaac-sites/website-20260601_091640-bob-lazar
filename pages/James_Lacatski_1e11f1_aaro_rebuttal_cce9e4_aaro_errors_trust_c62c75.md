@@ -256,22 +256,22 @@ image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_tru
 
 ## Introduction
 
-The strength of AARO’s rebuttal to James Lacatski-adjacent claims depends heavily on trust. Much of AARO’s central conclusion—that there is no verified evidence of a government crash-retrieval or reverse-engineering programme involving non-human technology—rests on archive reviews, classified interviews, and access to records unavailable to the public. As a result, critics argue that even relatively small factual mistakes in AARO’s published work matter more than they would in an ordinary report. If readers cannot verify the classified portions themselves, confidence depends on the perceived accuracy and care of the material that is publicly visible. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any sighting of a UAP re...</span></span></span>
+The strength of AARO’s rebuttal to James Lacatski-adjacent claims depends heavily on trust. Much of AARO’s central conclusion—that there is no verified evidence of a government crash-retrieval or reverse-engineering programme involving non-human technology—rests on archive reviews, classified interviews, and access to records unavailable to the public. As a result, critics argue that even relatively small factual mistakes in AARO’s published work matter more than they would in an ordinary report. If readers cannot verify the classified portions themselves, confidence depends on the perceived accuracy and care of the material that is publicly visible.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: media.defense.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">media.defense.gov</span><span class="citation-popover-title">DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME</span><span class="citation-popover-snippet">Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any sighting of a UAP re...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-1-dark.svg" | relative_url }}" alt="Report errors illustration 1" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-1-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-1-light.svg" | relative_url }}" loading="eager" decoding="sync" fetchpriority="high">
-For supporters of AARO, this criticism is often overstated. They argue that a handful of errors does not invalidate a broad historical review involving multiple agencies and years of records. The dispute therefore is not simply about whether mistakes existed, but about what those mistakes imply for the credibility of AARO’s wider conclusions regarding AAWSAP, AATIP, and claims associated with figures such as James Lacatski. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">media engagement with acting aaro director tim phillips on the historical recor</span><span class="citation-popover-snippet">Department of WarMedia Engagement With Acting AARO Director Tim Phillips...Mar 6, 2024 — I want to emphasize that AARO&#x27;s historical work...</span></span></span>
+For supporters of AARO, this criticism is often overstated. They argue that a handful of errors does not invalidate a broad historical review involving multiple agencies and years of records. The dispute therefore is not simply about whether mistakes existed, but about what those mistakes imply for the credibility of AARO’s wider conclusions regarding AAWSAP, AATIP, and claims associated with figures such as James Lacatski.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">media engagement with acting aaro director tim phillips on the historical recor</span><span class="citation-popover-snippet">Department of WarMedia Engagement With Acting AARO Director Tim Phillips...Mar 6, 2024 — I want to emphasize that AARO&#x27;s historical work...</span></span></span>
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/hZSvlFO69wg" title="Christopher Mellon on Dangers of UAP in Our Sky!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=hZSvlFO69wg" target="_blank" rel="noopener noreferrer">Christopher Mellon on Dangers of UAP in Our Sky!</a></p><p class="youtube-embed-meta">Channel: THE HANNIBAL TV &middot; Views: 459 &middot; Uploaded: May 2025 &middot; Length: 31 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=hZSvlFO69wg" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=hZSvlFO69wg">Open on YouTube</a></p></div></div></div>
 
 ## The public errors critics identified
 
-Soon after the publication of AARO’s Historical Record Report Volume I in March 2024, critics highlighted a number of factual and editorial problems. These included disputed descriptions of historical events, citation issues, broken references, omissions, and what opponents considered selective use of evidence. Some researchers argued that the report contained mistakes that should have been caught during review, particularly given its importance as a congressionally mandated historical assessment. The Debrief <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">The Unidentified Critical Analysis of the AARO Report</span><span class="citation-popover-snippet">The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</span></span></span>
+Soon after the publication of AARO’s Historical Record Report Volume I in March 2024, critics highlighted a number of factual and editorial problems. These included disputed descriptions of historical events, citation issues, broken references, omissions, and what opponents considered selective use of evidence. Some researchers argued that the report contained mistakes that should have been caught during review, particularly given its importance as a congressionally mandated historical assessment. The Debrief<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">The Unidentified Critical Analysis of the AARO Report</span><span class="citation-popover-snippet">The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</span></span></span>
 
 The criticism generally fell into three categories:
 
-* **Factual inaccuracies and historical errors.** Independent researchers pointed to mistakes involving dates, descriptions of events, and contextual details in parts of the historical narrative. Critics argued that these errors suggested uneven fact-checking. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">The Unidentified Critical Analysis of the AARO Report</span><span class="citation-popover-snippet">The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</span></span></span>
-* **Omissions.** Some observers argued that significant government investigations and well-known UAP incidents received little or no discussion. Their complaint was not necessarily that the omitted cases proved extraterrestrial involvement, but that a report presented as a history of government involvement should have addressed them more thoroughly. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Robert Powell&#x27;s takedown analysis of the AARO report. He...Robert Powell&#x27;s takedown analysis of the AARO report. He highlights the...</span></span></span>
-* **Perceived confirmation bias.** Several critics contended that AARO devoted substantial attention to rebutting crash-retrieval allegations while spending less effort discussing cases that UFO researchers consider stronger evidence. They argued that the report appeared structured around disproving a specific narrative rather than neutrally documenting the historical record. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">aaros historical report a tale of factual errors and old mistakes repeated</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — “There is a tendency in the AARO paper to pull th...</span></span></span>
+* **Factual inaccuracies and historical errors.** Independent researchers pointed to mistakes involving dates, descriptions of events, and contextual details in parts of the historical narrative. Critics argued that these errors suggested uneven fact-checking.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">The Unidentified Critical Analysis of the AARO Report</span><span class="citation-popover-snippet">The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</span></span></span>
+* **Omissions.** Some observers argued that significant government investigations and well-known UAP incidents received little or no discussion. Their complaint was not necessarily that the omitted cases proved extraterrestrial involvement, but that a report presented as a history of government involvement should have addressed them more thoroughly.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: reddit.com">[Reddit]</a><span class="citation-popover" role="note"><span class="citation-popover-source">reddit.com</span><span class="citation-popover-snippet">Robert Powell&#x27;s takedown analysis of the AARO report. He...Robert Powell&#x27;s takedown analysis of the AARO report. He highlights the...</span></span></span>
+* **Perceived confirmation bias.** Several critics contended that AARO devoted substantial attention to rebutting crash-retrieval allegations while spending less effort discussing cases that UFO researchers consider stronger evidence. They argued that the report appeared structured around disproving a specific narrative rather than neutrally documenting the historical record.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">aaros historical report a tale of factual errors and old mistakes repeated</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — “There is a tendency in the AARO paper to pull th...</span></span></span>
 
 Importantly, these criticisms do not establish that AARO’s core findings are false. However, they became a recurring theme in debates over whether the office had earned the level of confidence it was asking the public to place in its conclusions.
 
@@ -281,22 +281,22 @@ Importantly, these criticisms do not establish that AARO’s core findings are f
 
 In ordinary historical writing, a handful of errors may have limited significance. AARO’s situation is different because many of its most consequential claims cannot be independently checked by outside readers.
 
-The office’s central position is that it reviewed classified programmes, interviewed relevant personnel, and found no evidence supporting claims of hidden extraterrestrial technology programmes. The public cannot directly examine most of those underlying records. Consequently, critics argue that the visible portions of the report function as a proxy test of reliability. If mistakes appear in publicly accessible sections, sceptics ask whether similar problems could exist in the classified analysis. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span>
+The office’s central position is that it reviewed classified programmes, interviewed relevant personnel, and found no evidence supporting claims of hidden extraterrestrial technology programmes. The public cannot directly examine most of those underlying records. Consequently, critics argue that the visible portions of the report function as a proxy test of reliability. If mistakes appear in publicly accessible sections, sceptics ask whether similar problems could exist in the classified analysis.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span>
 
-This trust problem becomes especially important when discussing AAWSAP and James Lacatski. AARO’s rebuttal does not merely challenge isolated claims. It proposes a broader explanation in which stories about recovered craft and reverse-engineering programmes emerged through misunderstandings, folklore, internal rumours, misidentified classified projects, and a relatively small network of interconnected advocates. That explanation requires readers to trust AARO’s reconstruction of events. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
+This trust problem becomes especially important when discussing AAWSAP and James Lacatski. AARO’s rebuttal does not merely challenge isolated claims. It proposes a broader explanation in which stories about recovered craft and reverse-engineering programmes emerged through misunderstandings, folklore, internal rumours, misidentified classified projects, and a relatively small network of interconnected advocates. That explanation requires readers to trust AARO’s reconstruction of events.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: theguardian.com">[The Guardian]</a><span class="citation-popover" role="note"><span class="citation-popover-source">theguardian.com</span><span class="citation-popover-title">The Guardian He quit heading the Pentagon&#x27;s UFO office</span><span class="citation-popover-snippet">Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</span><span class="citation-popover-meta">Published: March 22, 2024</span></span></span>
 
-Critics therefore argue that historical errors weaken confidence in the office’s ability to accurately reconstruct complex chains of events stretching back decades. Supporters respond that mistakes in peripheral details do not automatically undermine conclusions derived from classified records and interviews unavailable to outside commentators. <span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">aaros historical report a tale of factual errors and old mistakes repeated</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — “There is a tendency in the AARO paper to pull th...</span></span></span>
+Critics therefore argue that historical errors weaken confidence in the office’s ability to accurately reconstruct complex chains of events stretching back decades. Supporters respond that mistakes in peripheral details do not automatically undermine conclusions derived from classified records and interviews unavailable to outside commentators.<span class="citation-chip-wrap"><a class="citation-chip" href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: thedebrief.org">[The Debrief]</a><span class="citation-popover" role="note"><span class="citation-popover-source">thedebrief.org</span><span class="citation-popover-title">aaros historical report a tale of factual errors and old mistakes repeated</span><span class="citation-popover-snippet">The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — “There is a tendency in the AARO paper to pull th...</span></span></span>
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-2-dark.svg" | relative_url }}" alt="Report errors illustration 2" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-2-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-2-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 ## The deeper issue: transparency versus authority
 
 AARO faces a structural challenge that goes beyond individual mistakes. It was created partly to increase transparency around UAP investigations, yet many of the sources supporting its strongest conclusions remain classified or restricted.
 
-This creates an unusual situation. Believers in crash-retrieval allegations often argue that the public should distrust official assurances because the relevant evidence remains hidden. AARO, meanwhile, asks the public to trust that its investigators had access to records demonstrating that the allegations are unfounded. The debate therefore becomes partly a contest over institutional credibility rather than a straightforward review of publicly available evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span> <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
+This creates an unusual situation. Believers in crash-retrieval allegations often argue that the public should distrust official assurances because the relevant evidence remains hidden. AARO, meanwhile, asks the public to trust that its investigators had access to records demonstrating that the allegations are unfounded. The debate therefore becomes partly a contest over institutional credibility rather than a straightforward review of publicly available evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span><span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
 
-Some journalists and analysts noted that the report answered certain questions while leaving others unresolved. Even observers who accepted AARO’s rejection of extraterrestrial technology claims sometimes argued that greater transparency would strengthen public confidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
+Some journalists and analysts noted that the report answered certain questions while leaving others unresolved. Even observers who accepted AARO’s rejection of extraterrestrial technology claims sometimes argued that greater transparency would strengthen public confidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: wired.com">[WIRED]</a><span class="citation-popover" role="note"><span class="citation-popover-source">wired.com</span><span class="citation-popover-snippet">The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</span></span></span>
 
-The result is a persistent trust gap. Supporters see a congressionally mandated office applying a scientific and archival methodology. Critics see an institution asking for confidence while making visible mistakes and withholding much of the evidence behind its most important conclusions. <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span> [2U.S.] Department of War
+The result is a persistent trust gap. Supporters see a congressionally mandated office applying a scientific and archival methodology. Critics see an institution asking for confidence while making visible mistakes and withholding much of the evidence behind its most important conclusions.<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: aaro.mil">[aaro.mil]</a><span class="citation-popover" role="note"><span class="citation-popover-source">aaro.mil</span><span class="citation-popover-snippet">AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</span></span></span> [2U.S.] Department of War
 
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/I0JBZjl_5oo" title="Latest UFO files have at least 2 astonishing cases: Marik von Rennenkampff | NewsNation Prime" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=I0JBZjl_5oo" target="_blank" rel="noopener noreferrer">Latest UFO files have at least 2 astonishing cases: Marik von Rennenkampff | NewsNation Prime</a></p><p class="youtube-embed-meta">Channel: NewsNation &middot; Views: 183.0K &middot; Uploaded: May 2026 &middot; Length: 3 minutes 56 seconds</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=I0JBZjl_5oo" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=I0JBZjl_5oo">Open on YouTube</a></p></div></div></div>
 
@@ -304,163 +304,163 @@ The result is a persistent trust gap. Supporters see a congressionally mandated 
 
 For assessing James Lacatski’s credibility, it is important not to overstate either side of the argument.
 
-What AARO’s mistakes **do not prove** is that Lacatski’s claims are correct. Identifying errors in a government report is not evidence that recovered non-human technology exists, that AAWSAP discovered extraordinary phenomena, or that crash-retrieval allegations are true. Those claims still require independent evidence. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span>
+What AARO’s mistakes **do not prove** is that Lacatski’s claims are correct. Identifying errors in a government report is not evidence that recovered non-human technology exists, that AAWSAP discovered extraordinary phenomena, or that crash-retrieval allegations are true. Those claims still require independent evidence.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span>
 
-Likewise, AARO’s errors do not automatically invalidate its broader findings. Historical reports can contain inaccuracies while still being substantially correct on major conclusions. Demonstrating that a date, citation, or historical detail was wrong does not by itself overturn the office’s assessment of classified programmes. <span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span>
+Likewise, AARO’s errors do not automatically invalidate its broader findings. Historical reports can contain inaccuracies while still being substantially correct on major conclusions. Demonstrating that a date, citation, or historical detail was wrong does not by itself overturn the office’s assessment of classified programmes.<span class="citation-link-wrap"><a class="citation-inline-link" href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: war.gov">[U.S. Department of War]</a><span class="citation-popover" role="note"><span class="citation-popover-source">war.gov</span><span class="citation-popover-title">dr jon kosloski director aaro media roundtable on the fy24 consolidated annual</span><span class="citation-popover-snippet">Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</span></span></span>
 
-What the mistakes **do** affect is confidence. They give critics a reasonable basis to question how carefully the office conducted parts of its review and whether its interpretations deserve automatic deference. For readers evaluating Lacatski, the practical consequence is that AARO’s rebuttal remains significant but should not be treated as infallible. It is an important piece of evidence against the strongest AAWSAP-related crash-retrieval narratives, yet its authority is weakened when factual errors, omissions, or editorial problems appear in the public record. The Debrief <span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">The Unidentified Critical Analysis of the AARO Report</span><span class="citation-popover-snippet">The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</span></span></span>
+What the mistakes **do** affect is confidence. They give critics a reasonable basis to question how carefully the office conducted parts of its review and whether its interpretations deserve automatic deference. For readers evaluating Lacatski, the practical consequence is that AARO’s rebuttal remains significant but should not be treated as infallible. It is an important piece of evidence against the strongest AAWSAP-related crash-retrieval narratives, yet its authority is weakened when factual errors, omissions, or editorial problems appear in the public record. The Debrief<span class="citation-chip-wrap"><a class="citation-chip" href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow" aria-label="View source: the-unidentified.net">[The Unidentified]</a><span class="citation-popover" role="note"><span class="citation-popover-source">the-unidentified.net</span><span class="citation-popover-title">The Unidentified Critical Analysis of the AARO Report</span><span class="citation-popover-snippet">The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</span></span></span>
 
 The most balanced conclusion is therefore narrow: AARO’s historical mistakes raise legitimate questions about institutional reliability and public trust, but they do not, on their own, validate Lacatski’s claims. They make the official rebuttal more contestable, not necessarily wrong.
 
 <img src="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-3-dark.svg" | relative_url }}" alt="Report errors illustration 3" data-theme-src-dark="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-3-dark.svg" | relative_url }}" data-theme-src-light="{{ "/assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-3-light.svg" | relative_url }}" loading="lazy" decoding="async" fetchpriority="low">
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-  <div class="fr-section-shell fr-section-shell-fallback">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">Amazon book picks</p>
-        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-      </div>
-      <p class="fr-intro">No matched book cards were available for Do AARO&#x27;s mistakes weaken its rebuttal?, so this fallback keeps a direct Amazon reading path visible.</p>
-    </div>
-    <div class="fr-search-grid">
+<div class="fr-section-shell fr-section-shell-fallback">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">Amazon book picks</p>
+<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+</div>
+<p class="fr-intro">No matched book cards were available for Do AARO&#x27;s mistakes weaken its rebuttal?, so this fallback keeps a direct Amazon reading path visible.</p>
+</div>
+<div class="fr-search-grid">
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Topical books</p>
-      <h4 class="fr-search-title">UFO research books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Topical books</p>
+<h4 class="fr-search-title">UFO research books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+research+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UFO sightings books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UFO sightings books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UFO+sightings+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
+</a>
+</article>
 
-    <article class="fr-search-card">
-      <p class="fr-search-kicker">Related search</p>
-      <h4 class="fr-search-title">UAP books</h4>
-      <p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
-      <a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
+<article class="fr-search-card">
+<p class="fr-search-kicker">Related search</p>
+<h4 class="fr-search-title">UAP books</h4>
+<p class="fr-search-desc">Browse books, explainers and reference titles related to this topic.</p>
+<a class="fr-amazon-btn" href="https://www.amazon.com/s?k=UAP+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">
         Search Amazon
-      </a>
-    </article>
-    </div>
-    <div class="fr-section-footer">
-      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-    </div>
-  </div>
+</a>
+</article>
+</div>
+<div class="fr-section-footer">
+<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+</div>
+</div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
-  <div class="fr-section-shell">
-    <div class="fr-section-header">
-      <div class="fr-section-heading">
-        <p class="fr-section-kicker">eBay marketplace picks</p>
-        <h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
-      </div>
-      <p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
+<div class="fr-section-shell">
+<div class="fr-section-header">
+<div class="fr-section-heading">
+<p class="fr-section-kicker">eBay marketplace picks</p>
+<h3 class="fr-heading" id="merchant-block-title">Marketplace Samples</h3>
+</div>
+<p class="fr-intro">Example marketplace items related to this page. Use the search link to explore similar finds on eBay.</p>
 
-      <div class="fr-ebay-market-toolbar">
-        <label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
-        <div class="fr-ebay-market-picker">
-          <span class="fr-ebay-market-current">Using <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
-          <button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
-            <span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
-            <span data-ebay-trigger-market-label>USA</span>
-          </button>
-          <select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
-            <option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
-          </select>
-          <div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
-            <button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
-          </div>
-        </div>
-      </div>
-    </div>
+<div class="fr-ebay-market-toolbar">
+<label class="fr-ebay-market-label" for="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie">Shop location</label>
+<div class="fr-ebay-market-picker">
+<span class="fr-ebay-market-current">Using<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-selected-market-flag aria-hidden="true"></span><strong data-ebay-selected-market-label>USA</strong></span>
+<button type="button" class="fr-ebay-market-trigger" data-ebay-market-trigger aria-haspopup="listbox" aria-expanded="false">
+<span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" data-ebay-trigger-market-flag aria-hidden="true"></span>
+<span data-ebay-trigger-market-label>USA</span>
+</button>
+<select class="fr-ebay-market-select" id="ebay-market-select-ebay-us-ebay-gb-ebay-ca-ebay-au-ebay-ie" data-ebay-market-select aria-label="Choose eBay shop location">
+<option value="EBAY_US" selected>USA</option><option value="EBAY_GB">UK</option><option value="EBAY_CA">Canada</option><option value="EBAY_AU">Australia</option><option value="EBAY_IE">Ireland</option>
+</select>
+<div class="fr-ebay-market-menu" data-ebay-market-menu role="listbox" hidden>
+<button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_US" aria-selected="true"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-us" aria-hidden="true"></span><span>USA</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_GB" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-gb" aria-hidden="true"></span><span>UK</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_CA" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ca" aria-hidden="true"></span><span>Canada</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_AU" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-au" aria-hidden="true"></span><span>Australia</span></button><button type="button" class="fr-ebay-market-option" role="option" data-ebay-market-option="EBAY_IE" aria-selected="false"><span class="fr-ebay-market-flag fr-ebay-market-flag--ebay-ie" aria-hidden="true"></span><span>Ireland</span></button>
+</div>
+</div>
+</div>
+</div>
 
-    <div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
-      <div class="fr-books-grid">
+<div class="fr-ebay-market-panel" data-ebay-market-panel="EBAY_GB" data-ebay-market-default="1">
+<div class="fr-books-grid">
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3"><img src="https://i.ebayimg.com/images/g/MqgAAeSwRFppFyDh/s-l225.jpg" alt="Listing image for Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro Framed UFO Flying Saucers Art Print Poster Wall Art In Great Condition A3</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36"><img src="https://i.ebayimg.com/images/g/9rUAAOSwKplnzyE1/s-l225.jpg" alt="Listing image for Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Retro UFO Art Poster - Sci-Fi Desert Wall Art - 12X16/16X20/18X24/24X36</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for Large A3 UFO Poster (Brand New)"><img src="https://i.ebayimg.com/images/g/imkAAOSwIwBoL3ln/s-l225.jpg" alt="Listing image for Large A3 UFO Poster (Brand New)" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">Large A3 UFO Poster (Brand New)</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
 
-    <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
-      <div class="fr-book-info">
-        <p class="fr-book-kicker">Example eBay listing</p>
-        <h4 class="fr-book-title">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
-        </h4>
-        <a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search <span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
-        <div class="fr-book-actions">
-          <a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            Browse similar on <span data-ebay-domain-label>eBay.co.uk</span>
-          </a>
-        </div>
-      </div>
-    </article>
-      </div>
-      <div class="fr-section-footer">
-        <a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
-          Browse more on <span data-ebay-domain-label>eBay.co.uk</span>
-        </a>
-        <p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
-      </div>
-    </div>
-  </div>
-  <script type="text/javascript">
+<article class="fr-book-card">
+<a class="fr-book-cover" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Browse similar items on eBay for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art"><img src="https://i.ebayimg.com/images/g/VsoAAeSwWNRpCixu/s-l225.jpg" alt="Listing image for UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art" loading="lazy" decoding="async" fetchpriority="low"></a>
+<div class="fr-book-info">
+<p class="fr-book-kicker">Example eBay listing</p>
+<h4 class="fr-book-title">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">UFO Over Desert Highway Sci-Fi Abduction Poster Print Framed Canvas Wall Art</a>
+</h4>
+<a class="fr-book-fit" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer" aria-label="Search eBay for UFO poster">Search<span data-ebay-domain-label>eBay.co.uk</span>: UFO poster</a>
+<div class="fr-book-actions">
+<a href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            Browse similar on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+</div>
+</div>
+</article>
+</div>
+<div class="fr-section-footer">
+<a class="fr-browse-more" href="https://www.ebay.co.uk/sch/i.html?_nkw=UFO+poster+-series+-television&amp;mkevt=1&amp;mkcid=1&amp;mkrid=710-53481-19255-0&amp;campid=5339151051&amp;customid=do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television&amp;toolid=10001" data-ebay-localized-link="1" data-ebay-query="UFO poster -series -television" data-ebay-reference="do-aaro-s-mistakes-weaken-its-rebuttal-ufo-poster-series-television" target="_blank" rel="sponsored noopener noreferrer">
+          Browse more on<span data-ebay-domain-label>eBay.co.uk</span>
+</a>
+<p class="fr-disclosure">Example items shown for inspiration; availability and pricing can change. Branchoria may earn a commission if you purchase through outbound eBay links.</p>
+</div>
+</div>
+</div>
+<script type="text/javascript">
 (function () {
   if (window.PhoenixAffiliateLocation) return;
   var localeMarketMap = {"de": "EBAY_DE", "de-at": "EBAY_AT", "de-ch": "EBAY_CH", "de-de": "EBAY_DE", "en": "EBAY_US", "en-au": "EBAY_AU", "en-ca": "EBAY_CA", "en-gb": "EBAY_GB", "en-ie": "EBAY_IE", "en-nz": "EBAY_AU", "en-uk": "EBAY_GB", "en-us": "EBAY_US", "es": "EBAY_ES", "es-es": "EBAY_ES", "fr": "EBAY_FR", "fr-be": "EBAY_BE", "fr-ca": "EBAY_CA", "fr-fr": "EBAY_FR", "it": "EBAY_IT", "it-it": "EBAY_IT", "nl": "EBAY_NL", "nl-be": "EBAY_BE", "nl-nl": "EBAY_NL"};
@@ -476,7 +476,7 @@ The most balanced conclusion is therefore narrow: AARO’s historical mistakes r
       if (navigator.languages && navigator.languages.length) languages = Array.prototype.slice.call(navigator.languages);
       else if (navigator.language) languages = [navigator.language];
     } catch (err) {}
-    for (var i = 0; i < languages.length; i += 1) {
+    for (var i = 0; i< languages.length; i += 1) {
       var normalized = normalize(languages[i]);
       if (!normalized) continue;
       if (localeMarketMap[normalized]) {
@@ -496,7 +496,7 @@ The most balanced conclusion is therefore narrow: AARO’s historical mistakes r
     var tz = '';
     try { tz = String(Intl.DateTimeFormat().resolvedOptions().timeZone || ''); } catch (err) {}
     if (!tz) return '';
-    for (var i = 0; i < timezoneRules.length; i += 1) {
+    for (var i = 0; i< timezoneRules.length; i += 1) {
       var rule = timezoneRules[i] || {};
       try {
         if (new RegExp(rule.pattern).test(tz)) return rule.market;
@@ -528,7 +528,7 @@ The most balanced conclusion is therefore narrow: AARO’s historical mistakes r
   };
 })();
 </script>
-  <script type="text/javascript">
+<script type="text/javascript">
 (function () {
   var sections = document.querySelectorAll('[data-ebay-localized-links]');
   if (!sections.length) return;
@@ -580,7 +580,7 @@ The most balanced conclusion is therefore narrow: AARO’s historical mistakes r
   }
   function applyMarket(section, marketId, persist) {
     var available = availableMarkets(section);
-    if (available.indexOf(marketId) < 0) marketId = available[0] || defaultMarket;
+    if (available.indexOf(marketId)< 0) marketId = available[0] || defaultMarket;
     Array.prototype.slice.call(section.querySelectorAll('[data-ebay-localized-link]')).forEach(function (link) {
       var query = link.getAttribute('data-ebay-query') || '';
       var reference = link.getAttribute('data-ebay-reference') || '';
@@ -625,7 +625,7 @@ The most balanced conclusion is therefore narrow: AARO’s historical mistakes r
         storageKey: 'phoenix-ebay-market',
         defaultMarket: defaultMarket
       });
-    } else if (available.indexOf(defaultMarket) < 0) {
+    } else if (available.indexOf(defaultMarket)< 0) {
       marketId = available[0] || defaultMarket;
     }
     var select = section.querySelector('[data-ebay-market-select]');
@@ -666,144 +666,144 @@ The most balanced conclusion is therefore narrow: AARO’s historical mistakes r
 
 ## Endnotes
 
-1. <a id="endnote-1"></a>
+1.<a id="endnote-1"></a>
    Source: media.defense.gov  
    Title: DOPSR 2024 0263 AARO HISTORICAL RECORD REPORT VOLUME 1 2024  
-   Link: <a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any sighting of a UAP re...</p></details>
+   Link:<a href="https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF" target="_blank" rel="noopener noreferrer nofollow">https://media.defense.gov/2024/Mar/08/2003409233/-1/-1/0/DOPSR-2024-0263-AARO-HISTORICAL-RECORD-REPORT-VOLUME-1-2024.PDF</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarAARO Historical Record Report Volume 1Mar 8, 2024 — or official review panel has confirmed that any sighting of a UAP re...</p></details>
 
-2. <a id="endnote-2"></a>
+2.<a id="endnote-2"></a>
    Source: war.gov  
    Title: media engagement with acting aaro director tim phillips on the historical recor  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...Mar 6, 2024 — I want to emphasize that AARO&#x27;s historical work...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3702219/media-engagement-with-acting-aaro-director-tim-phillips-on-the-historical-recor/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarMedia Engagement With Acting AARO Director Tim Phillips...Mar 6, 2024 — I want to emphasize that AARO&#x27;s historical work...</p></details>
 
-3. <a id="endnote-3"></a>
+3.<a id="endnote-3"></a>
    Source: the-unidentified.net  
    Title: The Unidentified Critical Analysis of the AARO Report  
-   Link: <a href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</p></details>
+   Link:<a href="https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/" target="_blank" rel="noopener noreferrer nofollow">https://www.the-unidentified.net/critical-analysis-of-the-aaro-report-inadequate-unresponsive-misguided-and-deceitful/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The UnidentifiedCritical Analysis of the AARO Report - The Unidentified -10 Mar 2024 — Critical Errors: The UAP report has numerous factu...</p></details>
 
-4. <a id="endnote-4"></a>
+4.<a id="endnote-4"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Powell&#x27;s takedown analysis of the AARO report. He...Robert Powell&#x27;s takedown analysis of the AARO report. He highlights the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1batrqa/robert_powells_takedown_analysis_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Robert Powell&#x27;s takedown analysis of the AARO report. He...Robert Powell&#x27;s takedown analysis of the AARO report. He highlights the...</p></details>
 
-5. <a id="endnote-5"></a>
+5.<a id="endnote-5"></a>
    Source: wired.com  
-   Link: <a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
+   Link:<a href="https://www.wired.com/story/questions-pentagon-ufo-report" target="_blank" rel="noopener noreferrer nofollow">https://www.wired.com/story/questions-pentagon-ufo-report</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The study determined that most unidentified anomalous phenomena (UAP) sightings were misidentifications of ordinary objects or phenomena...</p></details>
 
-7. <a id="endnote-7"></a>
+7.<a id="endnote-7"></a>
    Source: aaro.mil  
-   Link: <a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
+   Link:<a href="https://www.aaro.mil/" target="_blank" rel="noopener noreferrer nofollow">https://www.aaro.mil/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO HomeWelcome to the website for the All-domain Anomaly Resolution Office (AARO). Our team of experts leads the U.S. government&#x27;s effo...</p></details>
 
-8. <a id="endnote-8"></a>
+8.<a id="endnote-8"></a>
    Source: war.gov  
    Title: dr jon kosloski director aaro media roundtable on the fy24 consolidated annual  
-   Link: <a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</p></details>
+   Link:<a href="https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/" target="_blank" rel="noopener noreferrer nofollow">https://www.war.gov/News/Transcripts/Transcript/Article/3965734/dr-jon-kosloski-director-aaro-media-roundtable-on-the-fy24-consolidated-annual/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Department of WarDr. Jon Kosloski, Director, AARO, Media Roundtable on the...AARO has taken meaningful steps to improve data collection...</p></details>
 
-9. <a id="endnote-9"></a>
+9.<a id="endnote-9"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1cdh5zb/6_months_ago_former_aawsapaatip_program_lead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cdh5zb/6_months_ago_former_aawsapaatip_program_lead/</a>  
-   <details class="endnote-snippet"><summary>Source snippet</summary><p>have just been destroyed) confirmed that The US is in...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1cdh5zb/6_months_ago_former_aawsapaatip_program_lead/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1cdh5zb/6_months_ago_former_aawsapaatip_program_lead/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>have just been destroyed) confirmed that The US is in...Read more...</p></details>
 
-10. <a id="endnote-10"></a>
+10.<a id="endnote-10"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/HighStrangeness/comments/1bc7jsa/assessing_obejectivity_and_biases_in_aaros_newly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1bc7jsa/assessing_obejectivity_and_biases_in_aaros_newly/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>ove that would draw additional attention and scrutiny to an...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/HighStrangeness/comments/1bc7jsa/assessing_obejectivity_and_biases_in_aaros_newly/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/HighStrangeness/comments/1bc7jsa/assessing_obejectivity_and_biases_in_aaros_newly/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>ove that would draw additional attention and scrutiny to an...Read more...</p></details>
 
-11. <a id="endnote-11"></a>
+11.<a id="endnote-11"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAARO interviewed and obtained a signed statement from the former CIA official who was speci...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1b9wlqy/calling_out_aaros_bullshit_in_detail/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Calling out AARO&#x27;s bullshit in detail: r/UFOsAARO interviewed and obtained a signed statement from the former CIA official who was speci...</p></details>
 
-12. <a id="endnote-12"></a>
+12.<a id="endnote-12"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1j86tbr/when_are_we_getting_volume_2_of_the_aaro/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>March 6, 2024. While many were disappointed that this report did not cover the...</p></details>
    Published: March 6, 2024  
 
-13. <a id="endnote-13"></a>
+13.<a id="endnote-13"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>n effectively now audit all of its historical programs going...Read more...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOs/comments/1bd7wza/breaking_points_segment_on_aaros_historical/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>n effectively now audit all of its historical programs going...Read more...</p></details>
 
-14. <a id="endnote-14"></a>
+14.<a id="endnote-14"></a>
    Source: reddit.com  
-   Link: <a href="https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Internal Report Analysis: Major Inconsistencies...This write-up highlights major inconsistencies between the alleged report&#x27;s conte...</p></details>
+   Link:<a href="https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/" target="_blank" rel="noopener noreferrer nofollow">https://www.reddit.com/r/UFOB/comments/1i6y9o8/aaro_internal_report_analysis_major/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Internal Report Analysis: Major Inconsistencies...This write-up highlights major inconsistencies between the alleged report&#x27;s conte...</p></details>
 
-15. <a id="endnote-15"></a>
+15.<a id="endnote-15"></a>
    Source: thedebrief.org  
    Title: aaros historical report a tale of factual errors and old mistakes repeated  
-   Link: <a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — “There is a tendency in the AARO paper to pull th...</p></details>
+   Link:<a href="https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/aaros-historical-report-a-tale-of-factual-errors-and-old-mistakes-repeated/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The DebriefAARO&#x27;s Historical Report: A Tale of Factual Errors and Old...Mar 14, 2024 — “There is a tendency in the AARO paper to pull th...</p></details>
 
-16. <a id="endnote-16"></a>
+16.<a id="endnote-16"></a>
    Source: theguardian.com  
    Title: The Guardian He quit heading the Pentagon's UFO office  
-   Link: <a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
+   Link:<a href="https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps" target="_blank" rel="noopener noreferrer nofollow">https://www.theguardian.com/us-news/2024/mar/22/ufologists-sean-kirkpatrick-pentagon-report-uaps</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Now a report of his has shaken up ufologyMarch 22, 2024 — Sean Kirkpatrick, who led the Pentagon&#x27;s All-Domain Anomaly Resolution Office (...</p></details>
    Published: March 22, 2024  
 
-17. <a id="endnote-17"></a>
+17.<a id="endnote-17"></a>
    Source: thedebrief.org  
-   Link: <a href="https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s New UAP Report is Seriously Flawed12 Apr 2024 — We all make mistakes, but this report is an outlier in terms of inaccuraci...</p></details>
+   Link:<a href="https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/" target="_blank" rel="noopener noreferrer nofollow">https://thedebrief.org/the-pentagons-new-uap-report-is-seriously-flawed/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>The Pentagon&#x27;s New UAP Report is Seriously Flawed12 Apr 2024 — We all make mistakes, but this report is an outlier in terms of inaccuraci...</p></details>
 
 ### Additional References
 
-18. <a id="endnote-18"></a>
+18.<a id="endnote-18"></a>
    Source: researchgate.net  
-   Link: <a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A History of Scientific Approaches to Unidentified...10 Apr 2024 — The topic of “Unidentified Anomalous Phenomena” (UAP) has histo...</p></details>
+   Link:<a href="https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously" target="_blank" rel="noopener noreferrer nofollow">https://www.researchgate.net/publication/379726085_A_history_of_scientific_approaches_to_Unidentified_Anomalous_Phenomena_Time_to_rethink_their_relegation_to_the_paranormal_and_engage_seriously</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>(PDF) A History of Scientific Approaches to Unidentified...10 Apr 2024 — The topic of “Unidentified Anomalous Phenomena” (UAP) has histo...</p></details>
 
-19. <a id="endnote-19"></a>
+19.<a id="endnote-19"></a>
    Source: reuters.com  
-   Link: <a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
+   Link:<a href="https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/" target="_blank" rel="noopener noreferrer nofollow">https://www.reuters.com/technology/space/pentagon-ufo-report-says-most-sightings-ordinary-objects-phenomena-2024-03-08/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Most sightings were identified as ordinary objects or phenomena. The All-domain Anomaly Resolution Office (AARO) released this conclusion...</p></details>
 
-20. <a id="endnote-20"></a>
+20.<a id="endnote-20"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/NewsNationNow/videos/reality-check-why-experts-think-the-pentagon-covers-up-uap-reports/460817516847888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/reality-check-why-experts-think-the-pentagon-covers-up-uap-reports/460817516847888/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart sits down with NewsNation correspondent...The Pentagon&#x27;s UFO investigation body has found no credible evidence thus far o...</p></details>
+   Link:<a href="https://www.facebook.com/NewsNationNow/videos/reality-check-why-experts-think-the-pentagon-covers-up-uap-reports/460817516847888/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/NewsNationNow/videos/reality-check-why-experts-think-the-pentagon-covers-up-uap-reports/460817516847888/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Ross Coulthart sits down with NewsNation correspondent...The Pentagon&#x27;s UFO investigation body has found no credible evidence thus far o...</p></details>
 
-21. <a id="endnote-21"></a>
+21.<a id="endnote-21"></a>
    Source: x.com  
-   Link: <a href="https://x.com/rosscoulthart/status/1766578361206226977" target="_blank" rel="noopener noreferrer nofollow">https://x.com/rosscoulthart/status/1766578361206226977</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>This is a superb, takedown analysis of the @DoD_AARO...Let&#x27;s begin with the many flaws and errors in this report. Some were... AARO&#x27;s f...</p></details>
+   Link:<a href="https://x.com/rosscoulthart/status/1766578361206226977" target="_blank" rel="noopener noreferrer nofollow">https://x.com/rosscoulthart/status/1766578361206226977</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>This is a superb, takedown analysis of the @DoD_AARO...Let&#x27;s begin with the many flaws and errors in this report. Some were... AARO&#x27;s f...</p></details>
 
-22. <a id="endnote-22"></a>
+22.<a id="endnote-22"></a>
    Source: medium.com  
-   Link: <a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodHeadlines have roundly declared “no extraterrestrials” as the chief takeaway from AARO&#x27;s 64...</p></details>
+   Link:<a href="https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd" target="_blank" rel="noopener noreferrer nofollow">https://medium.com/%40andrewkirkwood1293/what-aaro-hr1-doesnt-say-dc09492999fd</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>What AARO HR1 Doesn&#x27;t Say | by Andrew KirkwoodHeadlines have roundly declared “no extraterrestrials” as the chief takeaway from AARO&#x27;s 64...</p></details>
 
-23. <a id="endnote-23"></a>
+23.<a id="endnote-23"></a>
    Source: salon.com  
-   Link: <a href="https://www.salon.com/2024/03/14/pentagon-report-denies-ufos-are-aliens-experts-accuse-the-government-of-misrepresenting-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2024/03/14/pentagon-report-denies-ufos-are-aliens-experts-accuse-the-government-of-misrepresenting-the-truth/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon report denies UFOs are aliens. Experts accuse...14 Mar 2024 — UFO research, psychic and inter-dimensional operations were cramm...</p></details>
+   Link:<a href="https://www.salon.com/2024/03/14/pentagon-report-denies-ufos-are-aliens-experts-accuse-the-government-of-misrepresenting-the-truth/" target="_blank" rel="noopener noreferrer nofollow">https://www.salon.com/2024/03/14/pentagon-report-denies-ufos-are-aliens-experts-accuse-the-government-of-misrepresenting-the-truth/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Pentagon report denies UFOs are aliens. Experts accuse...14 Mar 2024 — UFO research, psychic and inter-dimensional operations were cramm...</p></details>
 
-24. <a id="endnote-24"></a>
+24.<a id="endnote-24"></a>
    Source: twz.com  
-   Link: <a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government has released 162 declassified videos, pictures, and documents regarding so-called unidentified aerial phenomena (UAP)...Read...</p></details>
+   Link:<a href="https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/news-features/the-newly-released-government-ufo-archives-will-leave-you-shrugging</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government has released 162 declassified videos, pictures, and documents regarding so-called unidentified aerial phenomena (UAP)...Read...</p></details>
 
-25. <a id="endnote-25"></a>
+25.<a id="endnote-25"></a>
    Source: metabunk.org  
    Title: aaro historical report vol 1 press conference with tim phillips.13381  
-   Link: <a href="https://www.metabunk.org/threads/aaro-historical-report-vol-1-press-conference-with-tim-phillips.13381/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-historical-report-vol-1-press-conference-with-tim-phillips.13381/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Report vol.1 press conference with Tim...Mar 11, 2024 — Media Engagement With Acting AARO Director Tim Phillips on the H...</p></details>
+   Link:<a href="https://www.metabunk.org/threads/aaro-historical-report-vol-1-press-conference-with-tim-phillips.13381/" target="_blank" rel="noopener noreferrer nofollow">https://www.metabunk.org/threads/aaro-historical-report-vol-1-press-conference-with-tim-phillips.13381/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>AARO Historical Report vol.1 press conference with Tim...Mar 11, 2024 — Media Engagement With Acting AARO Director Tim Phillips on the H...</p></details>
 
-26. <a id="endnote-26"></a>
+26.<a id="endnote-26"></a>
    Source: twz.com  
    Title: broken aaro pentagon uap offices role questioned following shootdowns  
-   Link: <a href="https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>Broken AARO? Pentagon UAP Office&#x27;s Role Questioned...Feb 15, 2023 — Concerns about odd aerial objects that might pose threats to the U.S...</p></details>
+   Link:<a href="https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns" target="_blank" rel="noopener noreferrer nofollow">https://www.twz.com/broken-aaro-pentagon-uap-offices-role-questioned-following-shootdowns</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>Broken AARO? Pentagon UAP Office&#x27;s Role Questioned...Feb 15, 2023 — Concerns about odd aerial objects that might pose threats to the U.S...</p></details>
 
-27. <a id="endnote-27"></a>
+27.<a id="endnote-27"></a>
    Source: facebook.com  
-   Link: <a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
-    <details class="endnote-snippet"><summary>Source snippet</summary><p>government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</p></details>
+   Link:<a href="https://www.facebook.com/groups/828178678983076/posts/1402115054922766/" target="_blank" rel="noopener noreferrer nofollow">https://www.facebook.com/groups/828178678983076/posts/1402115054922766/</a>  
+<details class="endnote-snippet"><summary>Source snippet</summary><p>government or private industry has ever had access to extraterrestrial technology. AARO has...Read more...</p></details>

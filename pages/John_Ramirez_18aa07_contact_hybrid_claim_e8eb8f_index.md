@@ -6,7 +6,7 @@ display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-contact-hybrid/
 description: Focused pages that expand on Contact Claims.
-date: '2026-06-11'
+date: '2026'
 layout: default
 parent_basename: John_Ramirez_18aa07_contact_hybrid_claim_e8eb8f
 parent_title: Contact Claims
@@ -16,7 +16,7 @@ parent_permalink: /contact-claims/
 
 # Explore Topics in Contact Claims
 
-The following pages expand on the main **[Contact Claims]({{ '/contact-claims/' | relative_url }})** page and cover its key branches in more detail.
+The following pages expand on the main **[Contact Claims]({{ '/contact-claims/' | relative_url }})** page and cover its key branches in.
 
 - [Alien ancestry]({{ '/alien-ancestry/' | relative_url }})
 - [CIA access]({{ '/cia-access/' | relative_url }})
