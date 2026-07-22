@@ -387,7 +387,7 @@ His critics argue that the same evidence supports only a narrower conclusion: so
 <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
 </h4>
 <p class="fr-book-author">By Patrick Gunn</p>
-        
+
 <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -404,7 +404,7 @@ His critics argue that the same evidence supports only a narrower conclusion: so
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
 </h4>
 <p class="fr-book-author">By Michèle Ruffat</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -421,7 +421,7 @@ His critics argue that the same evidence supports only a narrower conclusion: so
 <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
 </h4>
 <p class="fr-book-author">By Fernando de Sousa</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ His critics argue that the same evidence supports only a narrower conclusion: so
 <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
 </h4>
 <p class="fr-book-author">By Märta Honko</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

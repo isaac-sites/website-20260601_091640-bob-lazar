@@ -374,23 +374,23 @@ His publication history shows that he has a genuine background in advanced aeros
 <article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frontiers of Propulsion Science
 
-            
+
 
                 Progress in Astronautics and Aeronautics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7782322-M.jpg" alt="Cover for Frontiers of Propulsion Science
 
-            
+
 
                 Progress in Astronautics and Aeronautics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
 <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frontiers of Propulsion Science
 
-            
+
 
                 Progress in Astronautics and Aeronautics">Frontiers of Propulsion Science Progress in Astronautics and...</a>
 </h4>
 <p class="fr-book-author">By Marc G. Millis and Eric W. Davis</p>
-        
+
 <p class="fr-book-desc">Most relevant book for understanding his verified propulsion work.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ His publication history shows that he has a genuine background in advanced aeros
 <a href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Black Holes and Time Warps">Black Holes and Time Warps</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Provides scientific context for spacetime engineering concepts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Black+Holes+and+Time+Warps&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ His publication history shows that he has a genuine background in advanced aeros
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Covers speculative physics often referenced in advanced propulsion debates.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ His publication history shows that he has a genuine background in advanced aeros
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
 <p class="fr-book-desc">Separates real aerospace innovation from extraordinary extrapolation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

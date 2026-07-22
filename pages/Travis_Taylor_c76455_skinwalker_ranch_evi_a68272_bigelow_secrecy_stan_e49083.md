@@ -337,7 +337,7 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
 </h4>
 <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
 <p class="fr-book-desc">Directly covers the Bigelow-era investigations and the question of unpublished evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -354,7 +354,7 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Emphasizes documented cases, records and evidential standards.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -371,7 +371,7 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Experience">The UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek</p>
-        
+
 <p class="fr-book-desc">Explores scientific evaluation and repeatability issues in anomaly research.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Experience+by+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ For assessing Travis Taylor's credibility, that may be the most useful takeaway.
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Focuses on government-linked investigations and debates over evidence access.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

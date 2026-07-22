@@ -401,7 +401,7 @@ MJ-12 remains useful as a case study precisely because it is not just a question
 <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ MJ-12 remains useful as a case study precisely because it is not just a question
 <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Charles River Charles River Editors</p>
-        
+
 <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ MJ-12 remains useful as a case study precisely because it is not just a question
 <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
 </h4>
 <p class="fr-book-author">By BARTY. HARMER</p>
-        
+
 <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ MJ-12 remains useful as a case study precisely because it is not just a question
 <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Recent UFO Sightings">Recent UFO Sightings</a>
 </h4>
 <p class="fr-book-author">By Charles River</p>
-        
+
 <p class="fr-book-desc">When people think about unidentified flying objects (UFOs), they tend to think of flying discs piloted by gray beings with large heads an...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

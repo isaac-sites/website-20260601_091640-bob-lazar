@@ -435,7 +435,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Directly addresses the credibility of military, intelligence, and aviation witnesses similar to the debates surrounding Travis Taylor.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
 <p class="fr-book-desc">Examines how scientists, government insiders, and technologists engage with UFO claims and belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-        
+
 <p class="fr-book-desc">Covers many of the same military and intelligence-world figures that frame Taylor&#x27;s public reputation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ The best one-sentence assessment is this: Travis Taylor is a serious technical p
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Directly overlaps with the institutional and Skinwalker Ranch environment associated with Travis Taylor.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

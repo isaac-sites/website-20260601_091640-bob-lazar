@@ -402,7 +402,7 @@ For readers trying to judge Puthoff's role in the UAP world, that distinction is
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides the wider UAP context in which Puthoff&#x27;s propulsion claims are discussed.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ For readers trying to judge Puthoff's role in the UAP world, that distinction is
 <a href="https://www.amazon.com/s?k=Around+the+world+with+Auntie+Mame&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Around the world with Auntie Mame">Around the world with Auntie Mame</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Directly explores zero-point energy and breakthrough propulsion claims associated with figures like Puthoff.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Around+the+world+with+Auntie+Mame&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ For readers trying to judge Puthoff's role in the UAP world, that distinction is
 <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
 </h4>
 <p class="fr-book-author">By Nick Cook</p>
-        
+
 <p class="fr-book-desc">Directly explores zero-point energy and breakthrough propulsion claims associated with figures like Puthoff.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ For readers trying to judge Puthoff's role in the UAP world, that distinction is
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Explains how ideas like advanced propulsion and spacetime engineering sit between theory and engineering reality.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

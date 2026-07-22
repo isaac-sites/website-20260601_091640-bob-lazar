@@ -362,7 +362,7 @@ The result is that the argument has shifted. The public debate is no longer only
 <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
 </h4>
 <p class="fr-book-author">By Todd Davis</p>
-        
+
 <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

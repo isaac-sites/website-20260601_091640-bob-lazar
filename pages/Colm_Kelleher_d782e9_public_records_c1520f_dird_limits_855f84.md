@@ -375,7 +375,7 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
 <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
 </h4>
 <p class="fr-book-author">By Nick Cook</p>
-        
+
 <p class="fr-book-desc">Explores speculative propulsion claims similar to topics found in DIRD studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -392,7 +392,7 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Separates theoretical possibilities from demonstrated technologies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
 <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Future of Humanity">The Future of Humanity</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Discusses advanced aerospace concepts without claiming proof.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Future+of+Humanity+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ As evidence, the DIRDs are strongest when used to establish institutional realit
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Provides context for the program that commissioned DIRD studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

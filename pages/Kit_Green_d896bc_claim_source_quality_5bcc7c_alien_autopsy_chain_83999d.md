@@ -424,7 +424,7 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Contrasts stronger documentary cases with weaker folklore-based claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
 <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mirage Men">Mirage Men</a>
 </h4>
 <p class="fr-book-author">By Mark Pilkington</p>
-        
+
 <p class="fr-book-desc">Explores how stories grow through leaks, rumors and indirect sourcing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mirage+Men+by+Mark+Pilkington&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Helps readers assess extraordinary autopsy and retrieval claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ For readers trying to separate Green’s strongest evidence from his weakest, th
 <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Roswell Incident">The Roswell Incident</a>
 </h4>
 <p class="fr-book-author">By Charles Berlitz, William L. Moore</p>
-        
+
 <p class="fr-book-desc">Central to the broader crash-retrieval and body-recovery mythology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Roswell+Incident+by+Charles+Berlitz&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

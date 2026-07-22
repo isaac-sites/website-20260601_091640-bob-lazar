@@ -413,7 +413,7 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
 <p class="fr-book-desc">Directly addresses how media, technology, and culture amplify UFO narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Serves as a key source that influenced mainstream UAP discussions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
 <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Them">Them</a>
 </h4>
 <p class="fr-book-author">By Jon Ronson</p>
-        
+
 <p class="fr-book-desc">Explores how fringe claims gain visibility and social power.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Them+by+Jon+Ronson&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -464,7 +464,7 @@ Davis’s amplified reputation is therefore best treated as a signal of influenc
 <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Manufacturing Consent">Manufacturing Consent</a>
 </h4>
 <p class="fr-book-author">By Edward S Herman, Noam Chomsky</p>
-        
+
 <p class="fr-book-desc">Provides tools for understanding amplification, framing, and public perception.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Manufacturing+Consent+by+Edward+S+Herman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

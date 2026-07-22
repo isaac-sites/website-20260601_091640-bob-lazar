@@ -352,7 +352,7 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
 </h4>
 <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
 <p class="fr-book-desc">Shows how Kelleher presented evidence and investigative authority.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -369,7 +369,7 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight: an Investigation Into UFOs and Impossible Science">In Plain Sight: an Investigation Into UFOs and Impossible Sci...</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-        
+
 <p class="fr-book-desc">Explores credibility questions around insiders and government-linked figures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight%3A+an+Investigation+Into+UFOs+and+Impossible+Science+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -386,7 +386,7 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides context for evaluating claims from officials and contractors.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -403,7 +403,7 @@ The most evidence-based assessment is that Kelleher occupied a significant opera
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Directly reflects Kelleher&#x27;s role and perspective within AAWSAP.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -442,7 +442,7 @@ That gap explains why the argument continues. The issue is not simply whether ev
 <a href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="On This Day In UFO History...">On This Day In UFO History...</a>
 </h4>
 <p class="fr-book-author">By Dave Blevins</p>
-        
+
 <p class="fr-book-desc">First published 1999.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=On+This+Day+In+UFO+History...+Dave+Blevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -459,7 +459,7 @@ That gap explains why the argument continues. The issue is not simply whether ev
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Anthony F. Sanchez</p>
-        
+
 <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -476,7 +476,7 @@ That gap explains why the argument continues. The issue is not simply whether ev
 <a href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="THE NEW JERSEY ENIGMA">THE NEW JERSEY ENIGMA</a>
 </h4>
 <p class="fr-book-author">By Ignotus</p>
-        
+
 <p class="fr-book-desc">The New Jersey Enigma: Decoding the UFO Drone Phenomenon takes readers on a gripping journey into one of the most puzzling events of our...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=THE+NEW+JERSEY+ENIGMA+Ignotus&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -493,7 +493,7 @@ That gap explains why the argument continues. The issue is not simply whether ev
 <a href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2000 UFO, Alien and Extraterrestrial Government Files">2000 UFO, Alien and Extraterrestrial Government Files</a>
 </h4>
 <p class="fr-book-author">By United States</p>
-        
+
 <p class="fr-book-desc">First published 2000.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=2000+UFO%2C+Alien+and+Extraterrestrial+Government+Files+United+States&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

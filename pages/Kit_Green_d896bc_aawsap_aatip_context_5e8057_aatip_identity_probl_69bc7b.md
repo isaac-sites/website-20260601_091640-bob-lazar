@@ -343,7 +343,7 @@ For evaluating Kit Green, that means institutional association should be treated
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="In Plain Sight">In Plain Sight</a>
 </h4>
 <p class="fr-book-author">By Ross Coulthart</p>
-        
+
 <p class="fr-book-desc">Discusses how government UAP narratives evolved publicly.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=In+Plain+Sight+by+Ross+Coulthart&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ For evaluating Kit Green, that means institutional association should be treated
 <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Provides context for disputed government-linked programs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ For evaluating Kit Green, that means institutional association should be treated
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Addresses the identities and evolution of the programs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ For evaluating Kit Green, that means institutional association should be treated
 <a href="https://www.amazon.com/s?k=Burning+the+Big+House&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Burning the Big House">Burning the Big House</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Helps readers understand bureaucratic and institutional ambiguity.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Burning+the+Big+House&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

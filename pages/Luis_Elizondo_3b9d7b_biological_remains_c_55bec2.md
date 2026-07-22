@@ -385,89 +385,89 @@ Elizondo’s credibility is strongest when he speaks about stigma, reporting fai
 The most balanced judgement is therefore cautious but not dismissive. Elizondo has made claims that deserve clear institutional investigation if he has provided specifics in classified channels. But as a public matter, the non-human biological-remains claims have not been substantiated. They remain a credibility stress test: if future documents, samples and independent analyses emerge, they would transform the assessment. If they do not, these claims will continue to look like the point where Elizondo’s insider narrative outruns the evidence available to everyone else.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Why the Biological Claims Need Caution. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Why the Biological Claims Need Caution. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
-</h4>
-<p class="fr-book-author">By John Williams</p>
-        
-<p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Files and UAP Disclosure on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=H4rXEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Files and UAP Disclosure" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
+        </h4>
+        <p class="fr-book-author">By John Williams</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
-</h4>
-<p class="fr-book-author">By Patrick Gunn</p>
-        
-<p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-</h4>
-<p class="fr-book-author">By Michèle Ruffat</p>
-        
-<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
+        </h4>
+        <p class="fr-book-author">By Patrick Gunn</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UAP i Norden on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
-</h4>
-<p class="fr-book-author">By Märta Honko</p>
-        
-<p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Aliança UAP on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
+        </h4>
+        <p class="fr-book-author">By Fernando de Sousa</p>
+
+        <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
+        </h4>
+        <p class="fr-book-author">By Michèle Ruffat</p>
+
+        <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Files and UAP Disclosure</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Aliança UAP</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

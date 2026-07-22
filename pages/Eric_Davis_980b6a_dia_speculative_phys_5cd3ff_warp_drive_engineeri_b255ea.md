@@ -367,7 +367,7 @@ The central lesson of the warp-drive DIRDs is therefore not that a breakthrough 
 <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Physics of Star Trek">The Physics of Star Trek</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Shows how speculative propulsion ideas relate to actual physics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -384,7 +384,7 @@ The central lesson of the warp-drive DIRDs is therefore not that a breakthrough 
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Directly evaluates faster-than-light travel and warp-drive concepts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ The central lesson of the warp-drive DIRDs is therefore not that a breakthrough 
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Explains the theoretical foundations underlying warp-drive discussions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -418,7 +418,7 @@ The central lesson of the warp-drive DIRDs is therefore not that a breakthrough 
 <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Interstellar">The Science of Interstellar</a>
 </h4>
 <p class="fr-book-author">By Kip Thorne</p>
-        
+
 <p class="fr-book-desc">Addresses wormholes, relativity, and engineering limits relevant to warp-drive claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

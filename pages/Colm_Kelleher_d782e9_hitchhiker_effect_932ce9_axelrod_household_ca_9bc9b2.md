@@ -410,7 +410,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
 </h4>
 <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
 <p class="fr-book-desc">Introduces the investigative setting behind later household-effect reports.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+by+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
 <p class="fr-book-desc">Explores how extraordinary narratives are constructed and interpreted.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -444,7 +444,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
 <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mothman Prophecies">The Mothman Prophecies</a>
 </h4>
 <p class="fr-book-author">By John A. Keel</p>
-        
+
 <p class="fr-book-desc">First published 1975. Subjects: Unidentified flying objects, Curiosities and wonders, Human-alien encounters, Sightings and encounters, U...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mothman+Prophecies+John+A.+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -461,7 +461,7 @@ That tension explains why the Axelrod case continues to sit at the centre of deb
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Contains the broader framework for the alleged hitchhiker cases.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

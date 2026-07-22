@@ -412,7 +412,7 @@ The most defensible conclusion is narrow but important: Kit Green helped move on
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-        
+
 <p class="fr-book-desc">Places injury claims within the wider history of government investigation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The most defensible conclusion is narrow but important: Kit Green helped move on
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides context for serious witness reports and official attention.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -446,7 +446,7 @@ The most defensible conclusion is narrow but important: Kit Green helped move on
 <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
 </h4>
 <p class="fr-book-author">By Dr. Steven Novella</p>
-        
+
 <p class="fr-book-desc">Helps readers evaluate incomplete medical evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -463,7 +463,7 @@ The most defensible conclusion is narrow but important: Kit Green helped move on
 <a href="https://www.amazon.com/s?k=Havana+Syndrome+Robert+W.+Baloh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Havana Syndrome">Havana Syndrome</a>
 </h4>
 <p class="fr-book-author">By Robert W. Baloh, Robert E. Bartholomew</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: Social psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Havana+Syndrome+Robert+W.+Baloh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -418,7 +418,7 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Connects UFO encounters to folklore and non-traditional origin models.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
 <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
 </h4>
 <p class="fr-book-author">By John Keel</p>
-        
+
 <p class="fr-book-desc">Explicitly develops ultraterrestrial interpretations of UFO phenomena.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
 <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Provides context for researchers exploring unconventional explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ For readers assessing Hal Puthoff’s credibility, this subtopic cuts both ways.
 <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

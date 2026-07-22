@@ -353,89 +353,89 @@ At the same time, the process did not publicly establish that hidden non-human c
 That distinction remains one of the most important credibility limits in the entire Grusch debate. His use of whistleblower channels strengthened the seriousness of his case. It did not resolve the factual question that continues to divide supporters, sceptics and investigators: whether the underlying claims describe a real hidden programme or a chain of reports that has not yet been independently verified.
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did the whistleblower route make Grusch credible?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did the whistleblower route make Grusch credible?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs In US AirSpace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=171wwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs In US AirSpace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs In US AirSpace">UFOs In US AirSpace</a>
-</h4>
-<p class="fr-book-author">By John Scott Chace</p>
-        
-<p class="fr-book-desc">UFOs In US AIRSPACE, Edition 2 has 5 new chapters. Over 12,000 UFO cases were studied by Project Blue Book in the 1950s and 1960s. This u...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+IN+U.S.+AIRSPACE+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs IN U.S. AIRSPACE on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=5QFjzQEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs IN U.S. AIRSPACE" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+IN+U.S.+AIRSPACE+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs IN U.S. AIRSPACE">UFOs IN U.S. AIRSPACE</a>
+        </h4>
+        <p class="fr-book-author">By John Scott Chace</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
-</h4>
-<p class="fr-book-author">By Anthony F. Sanchez</p>
-        
-<p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">UFOs IN U.S. AIRSPACE - &quot;Edition 2 - Expanded&quot; - Updated February 2020 Over 12,000 UFO cases were studied by Project Blue Book in the 195...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+IN+U.S.+AIRSPACE+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: The Great Last Days Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WHBTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO&#x27;s: The Great Last Days Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: The Great Last Days Deception">UFO&#x27;s: The Great Last Days Deception</a>
-</h4>
-<p class="fr-book-author">By Billy Crone</p>
-        
-<p class="fr-book-desc">Mention the topic of UFO&#x27;s and Aliens and not only have most people already formed their opinions about them, but virtually everyone on t...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Modern UFO/UAP Researcher&#x27;s Handbook on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=56cVEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Modern UFO/UAP Researcher&#x27;s Handbook" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
+        </h4>
+        <p class="fr-book-author">By Anthony F. Sanchez</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open L&#x27; UAP et l&#x27;histoire de l&#x27;assurance on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
-</h4>
-<p class="fr-book-author">By Michèle Ruffat</p>
-        
-<p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs In US AirSpace</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO&#x27;s: The Great Last Days Deception</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: The Great Last Days Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WHBTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO&#x27;s: The Great Last Days Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: The Great Last Days Deception">UFO&#x27;s: The Great Last Days Deception</a>
+        </h4>
+        <p class="fr-book-author">By Billy Crone</p>
+
+        <p class="fr-book-desc">Mention the topic of UFO&#x27;s and Aliens and not only have most people already formed their opinions about them, but virtually everyone on t...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open 2023 UFO/UAP Calendar on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
+        </h4>
+        <p class="fr-book-author">By Todd Davis</p>
+
+        <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+IN+U.S.+AIRSPACE&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs IN U.S. AIRSPACE</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+books&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Modern UFO/UAP Researcher&#x27;s books</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO&#x27;s: The Great Last Days Deception</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -405,7 +405,7 @@ The enduring attraction of negative energy in UFO discourse comes from the fact 
 <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Physics of Star Trek">The Physics of Star Trek</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Explains negative energy, wormholes, and related concepts without UFO sensationalism.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Physics+of+Star+Trek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ The enduring attraction of negative energy in UFO discourse comes from the fact 
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Provides background on the spacetime theories often cited in UFO discussions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ The enduring attraction of negative energy in UFO discourse comes from the fact 
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Directly examines the feasibility limits of exotic propulsion ideas.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ The enduring attraction of negative energy in UFO discourse comes from the fact 
 <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Interstellar">The Science of Interstellar</a>
 </h4>
 <p class="fr-book-author">By Kip Thorne</p>
-        
+
 <p class="fr-book-desc">Clarifies the gulf between equations and engineering reality.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

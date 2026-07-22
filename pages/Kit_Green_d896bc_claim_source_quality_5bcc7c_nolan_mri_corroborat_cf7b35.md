@@ -363,7 +363,7 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
 <p class="fr-book-desc">Covers researcher networks and personalities connected to contemporary UAP claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -380,7 +380,7 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Highlights corroboration issues and limits of witness-based evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -397,7 +397,7 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Believing Brain">The Believing Brain</a>
 </h4>
 <p class="fr-book-author">By Michael Shermer</p>
-        
+
 <p class="fr-book-desc">Useful for understanding interpretation, pattern detection and inference from limited evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Believing+Brain+by+Michael+Shermer&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -414,7 +414,7 @@ In the broader debate over first-hand claims versus second-hand folklore, the No
 <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible College">The Invisible College</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Connects directly to the research culture often associated with Nolan and Green.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invisible+College+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -359,7 +359,7 @@ That unresolved state explains why closed briefings became such a significant pa
 <a href="https://www.amazon.com/s?k=The+Psychology+of+UFO+Encounters+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Psychology of UFO Encounters">The Psychology of UFO Encounters</a>
 </h4>
 <p class="fr-book-author">By Barrett Williams, ChatGPT</p>
-        
+
 <p class="fr-book-desc">Unlock the Mysteries of UFOs with &quot;The Psychology of UFO Encounters&quot; Explore the fascinating intersection of science and the supernatural...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Psychology+of+UFO+Encounters+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -376,7 +376,7 @@ That unresolved state explains why closed briefings became such a significant pa
 <a href="https://www.amazon.com/s?k=UFO+Hoaxes+and+Misidentifications+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hoaxes and Misidentifications">UFO Hoaxes and Misidentifications</a>
 </h4>
 <p class="fr-book-author">By Barrett Williams, ChatGPT</p>
-        
+
 <p class="fr-book-desc">Unlock the mysteries of the sky and explore the fascinating world of UFOs with &quot;UFO Hoaxes and Misidentifications.&quot; This thought-provokin...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Hoaxes+and+Misidentifications+Barrett+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ That unresolved state explains why closed briefings became such a significant pa
 <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Charles River Charles River Editors</p>
-        
+
 <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ That unresolved state explains why closed briefings became such a significant pa
 <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Recent UFO Sightings">Recent UFO Sightings</a>
 </h4>
 <p class="fr-book-author">By Charles River</p>
-        
+
 <p class="fr-book-desc">When people think about unidentified flying objects (UFOs), they tend to think of flying discs piloted by gray beings with large heads an...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Recent+UFO+Sightings+by+Charles+River&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

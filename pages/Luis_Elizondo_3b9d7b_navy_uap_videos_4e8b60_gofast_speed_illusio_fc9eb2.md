@@ -343,7 +343,7 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Anthony F. Sanchez</p>
-        
+
 <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -360,7 +360,7 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
 </h4>
 <p class="fr-book-author">By John Williams</p>
-        
+
 <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -377,7 +377,7 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
 </h4>
 <p class="fr-book-author">By Michèle Ruffat</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -394,7 +394,7 @@ GoFast therefore became a useful test case in the broader debate over the [Navy 
 <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UAP i Norden">UAP i Norden</a>
 </h4>
 <p class="fr-book-author">By Märta Honko</p>
-        
+
 <p class="fr-book-desc">First published 1982. Subjects: Cooperative acquisition of library materials, Interlibrary loans, Library cooperation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UAP+i+Norden+Ma%CC%88rta+Honko&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

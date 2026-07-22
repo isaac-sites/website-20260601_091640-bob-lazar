@@ -351,7 +351,7 @@ The documentary record supports the first conclusion far more strongly than the 
 <a href="https://www.amazon.com/s?k=The+Science+Fiction+Hall+of+Fame%2C+Volume+Two+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science Fiction Hall of Fame, Volume Two A">The Science Fiction Hall of Fame, Volume Two A</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Explains programme origins, personnel and institutional context.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+Fiction+Hall+of+Fame%2C+Volume+Two+A&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The documentary record supports the first conclusion far more strongly than the 
 <a href="https://www.amazon.com/s?k=Volk%27s+Game&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Volk&#x27;s Game">Volk&#x27;s Game</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Popular account of military interest in paranormal research.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Volk%27s+Game&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The documentary record supports the first conclusion far more strongly than the 
 <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
 </h4>
 <p class="fr-book-author">By Russell Targ, Harold E. Puthoff</p>
-        
+
 <p class="fr-book-desc">First published 2005. Subjects: Consciousness, Parapsychology, Case studies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mind-Reach+Russell+Targ&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

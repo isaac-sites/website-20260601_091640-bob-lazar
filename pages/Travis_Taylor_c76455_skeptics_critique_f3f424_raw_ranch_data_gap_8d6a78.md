@@ -462,7 +462,7 @@ Until more of the underlying sensor records, calibration information, metadata a
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Emphasises reproducibility, transparency and standards of proof.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ Until more of the underlying sensor records, calibration information, metadata a
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Bad Science">Bad Science</a>
 </h4>
 <p class="fr-book-author">By Ben Goldacre</p>
-        
+
 <p class="fr-book-desc">Explains why access to underlying evidence matters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Bad+Science+by+Ben+Goldacre&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ Until more of the underlying sensor records, calibration information, metadata a
 <a href="https://www.amazon.com/s?k=Merchants+of+Doubt+Naomi+Oreskes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Merchants of Doubt">Merchants of Doubt</a>
 </h4>
 <p class="fr-book-author">By Naomi Oreskes, Erik M. Conway</p>
-        
+
 <p class="fr-book-desc">First published 2010. Subjects: Moral and ethical aspects, Science news, Democracy and science, Scientists, Professional ethics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Merchants+of+Doubt+Naomi+Oreskes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -513,7 +513,7 @@ Until more of the underlying sensor records, calibration information, metadata a
 <a href="https://www.amazon.com/s?k=An+Encyclopedia+of+Claims%2C+Frauds%2C+and+Hoaxes+of+the+Occult+and+Supernatural+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="An Encyclopedia of Claims, Frauds, and Hoaxes of the Occult and Supernatural">An Encyclopedia of Claims, Frauds, and Hoaxes of the Occult a...</a>
 </h4>
 <p class="fr-book-author">By James Randi</p>
-        
+
 <p class="fr-book-desc">Catalogues cases where extraordinary claims lacked adequate supporting evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=An+Encyclopedia+of+Claims%2C+Frauds%2C+and+Hoaxes+of+the+Occult+and+Supernatural+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

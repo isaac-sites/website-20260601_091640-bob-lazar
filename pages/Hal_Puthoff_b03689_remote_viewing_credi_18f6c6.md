@@ -391,7 +391,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
 <a href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind-Reach">Mind-Reach</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Central primary-source book for understanding his remote-viewing reputation.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mind-Reach&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
 <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Examines the Stargate era and the institutional setting around Puthoff.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -425,7 +425,7 @@ Remote viewing did not simply destroy Puthoff’s credibility, because the histo
 <a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Lean Solutions">Lean Solutions</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Explores military interest in paranormal and remote-viewing programs.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Lean+Solutions&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

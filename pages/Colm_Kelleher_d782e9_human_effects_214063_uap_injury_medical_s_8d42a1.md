@@ -417,7 +417,7 @@ The available public record suggests that the standards for investigating such c
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides case-study context for evaluating unusual claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ The available public record suggests that the standards for investigating such c
 <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Premonition">The Premonition</a>
 </h4>
 <p class="fr-book-author">By Michael Lewis</p>
-        
+
 <p class="fr-book-desc">Illustrates how strong medical and investigative standards are built around uncertain events.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Premonition+by+Michael+Lewis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -451,7 +451,7 @@ The available public record suggests that the standards for investigating such c
 <a href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Rainbow">The Invisible Rainbow</a>
 </h4>
 <p class="fr-book-author">By Arthur Firstenberg</p>
-        
+
 <p class="fr-book-desc">Relevant to discussions of exposure hypotheses that must be ruled out.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invisible+Rainbow+by+Arthur+Firstenberg&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -468,7 +468,7 @@ The available public record suggests that the standards for investigating such c
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skinwalkers at the Pentagon">Skinwalkers at the Pentagon</a>
 </h4>
 <p class="fr-book-author">By James T Lacatski D.Eng., James T. Lacatski et al.</p>
-        
+
 <p class="fr-book-desc">Contains discussion of alleged biological and medical effects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skinwalkers+at+the+Pentagon+by+James+T+Lacatski+D.Eng.&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

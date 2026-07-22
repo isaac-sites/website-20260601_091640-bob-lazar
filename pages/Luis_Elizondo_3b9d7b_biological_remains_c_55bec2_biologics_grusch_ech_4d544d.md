@@ -428,7 +428,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
 </h4>
 <p class="fr-book-author">By John Williams</p>
-        
+
 <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
 <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Captured!: The Betty and Barney Hill UFO Experience">Captured!: The Betty and Barney Hill UFO Experience</a>
 </h4>
 <p class="fr-book-author">By Stanton T. Friedman, Kathleen Marden</p>
-        
+
 <p class="fr-book-desc">Today, 46 years after the UFO abduction of Betty and Barney Hill, more and more people are convinced that UFOs are real and their existen...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience+Stanton+T.+Friedman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
 <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
 </h4>
 <p class="fr-book-author">By Patrick Gunn</p>
-        
+
 <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ That is why the “Grusch echo” matters. It highlights a recurring feature of 
 <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufos">Ufos</a>
 </h4>
 <p class="fr-book-author">By A. R. Roberts</p>
-        
+
 <p class="fr-book-desc">UFOs: What Is the Government Really Covering Up? is not just another book about the 1947 Roswell crash. Ingeniously, Roberts takes a step...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ufos+by+A.+R.+Roberts&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -355,7 +355,7 @@ Within the broader question of Richard Doty’s changing public statements, that
 <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mysterious Skytracks">Mysterious Skytracks</a>
 </h4>
 <p class="fr-book-author">By Benjamin Henry Hughes</p>
-        
+
 <p class="fr-book-desc">Have you ever gazed at the sky and wondered if we are alone in this vast universe? &quot;Mysterious Skytracks: Analyzing UFO Patterns Across C...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mysterious+Skytracks+Benjamin+Henry+Hughes&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -372,7 +372,7 @@ Within the broader question of Richard Doty’s changing public statements, that
 <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Hotspots of the American Southeast">UFO Hotspots of the American Southeast</a>
 </h4>
 <p class="fr-book-author">By Von Axle</p>
-        
+
 <p class="fr-book-desc">UFO Hotspots of the American Southeast Night Watch Archives - by Von Axle From the mist-laced Appalachian ridges to the dark coastal wate...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Hotspots+of+the+American+Southeast+Von+Axle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -389,7 +389,7 @@ Within the broader question of Richard Doty’s changing public statements, that
 <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flying Saucers">Flying Saucers</a>
 </h4>
 <p class="fr-book-author">By Charles River Charles River Editors</p>
-        
+
 <p class="fr-book-desc">*Includes pictures *Includes accounts of purported UFO sightings and Roswell *Includes online resources and a bibliography for further re...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Flying+Saucers+by+Charles+River+Charles+River+Editors&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -406,7 +406,7 @@ Within the broader question of Richard Doty’s changing public statements, that
 <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
 </h4>
 <p class="fr-book-author">By BARTY. HARMER</p>
-        
+
 <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

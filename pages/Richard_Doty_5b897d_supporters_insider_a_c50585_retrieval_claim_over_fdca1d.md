@@ -344,7 +344,7 @@ For readers assessing Doty's credibility, the central lesson is that matching a 
 <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -361,7 +361,7 @@ For readers assessing Doty's credibility, the central lesson is that matching a 
 <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
 </h4>
 <p class="fr-book-author">By BARTY. HARMER</p>
-        
+
 <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -378,7 +378,7 @@ For readers assessing Doty's credibility, the central lesson is that matching a 
 <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
 </h4>
 <p class="fr-book-author">By Frank C. Salisbury</p>
-        
+
 <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ For readers assessing Doty's credibility, the central lesson is that matching a 
 <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
 </h4>
 <p class="fr-book-author">By James Paton</p>
-        
+
 <p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

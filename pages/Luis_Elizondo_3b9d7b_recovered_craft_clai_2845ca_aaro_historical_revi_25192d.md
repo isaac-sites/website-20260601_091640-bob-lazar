@@ -392,7 +392,7 @@ Until publicly verifiable material emerges, the gap between those two positions 
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Anthony F. Sanchez</p>
-        
+
 <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -409,7 +409,7 @@ Until publicly verifiable material emerges, the gap between those two positions 
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
 </h4>
 <p class="fr-book-author">By John Williams</p>
-        
+
 <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ Until publicly verifiable material emerges, the gap between those two positions 
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
 </h4>
 <p class="fr-book-author">By Michèle Ruffat</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ Until publicly verifiable material emerges, the gap between those two positions 
 <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Aliança UAP">Aliança UAP</a>
 </h4>
 <p class="fr-book-author">By Fernando de Sousa</p>
-        
+
 <p class="fr-book-desc">First published 1995. Subjects: Insurance companies, Aliança UAP (Firm), History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Alian%C3%A7a+UAP+Fernando+de+Sousa&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

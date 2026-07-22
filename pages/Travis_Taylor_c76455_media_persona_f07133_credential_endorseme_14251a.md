@@ -378,7 +378,7 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Teaches readers to separate authority, credentials and evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -395,7 +395,7 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Examines how official sources influence public perceptions of credibility.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -412,7 +412,7 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
 <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Constitution of Knowledge">The Constitution of Knowledge</a>
 </h4>
 <p class="fr-book-author">By Jonathan Rauch</p>
-        
+
 <p class="fr-book-desc">Addresses how societies determine what counts as reliable knowledge.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Constitution+of+Knowledge+by+Jonathan+Rauch&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -429,7 +429,7 @@ The most balanced assessment is therefore narrow rather than sweeping. Taylor's 
 <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs : Generals, Pilots, and Government Officials Go on the Record">UFOs : Generals, Pilots, and Government Officials Go on the R...</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean, Heather Henderson</p>
-        
+
 <p class="fr-book-desc">First published 2011.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+%3A+Generals%2C+Pilots%2C+and+Government+Officials+Go+on+the+Record+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

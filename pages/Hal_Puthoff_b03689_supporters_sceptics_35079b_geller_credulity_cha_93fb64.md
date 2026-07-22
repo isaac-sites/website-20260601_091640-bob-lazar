@@ -357,7 +357,7 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
 <a href="https://www.amazon.com/s?k=The+Truth+about+Uri+Geller+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Truth about Uri Geller">The Truth about Uri Geller</a>
 </h4>
 <p class="fr-book-author">By James Randi</p>
-        
+
 <p class="fr-book-desc">Directly addresses the controversy that affects assessments of Puthoff.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Truth+about+Uri+Geller+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -391,7 +391,7 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
 <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Phenomena">Phenomena</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Places Geller and SRI work within the larger intelligence-research story.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Phenomena+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -408,7 +408,7 @@ The [credibility split]({{ 'credibility-split/' | relative_url }}) around Hal Pu
 <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
 </h4>
 <p class="fr-book-author">By James Randi</p>
-        
+
 <p class="fr-book-desc">Explores magician-based critiques of paranormal claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

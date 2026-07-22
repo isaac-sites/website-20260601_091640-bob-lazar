@@ -383,7 +383,7 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
 <p class="fr-book-desc">Introduces advanced military sensing, surveillance and aerospace technologies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -400,7 +400,7 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
 <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Provides context for classified technology and sensor-development cultures.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -417,7 +417,7 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Introduction to Radar Systems">Introduction to Radar Systems</a>
 </h4>
 <p class="fr-book-author">By Merrill Ivan Skolnik</p>
-        
+
 <p class="fr-book-desc">Directly relevant to radar and sensor interpretation claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Introduction+to+Radar+Systems+by+Merrill+Ivan+Skolnik&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -434,7 +434,7 @@ The leap from that point to broader claims about extraterrestrials, hidden progr
 <a href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Spycraft">Spycraft</a>
 </h4>
 <p class="fr-book-author">By Robert Wallace</p>
-        
+
 <p class="fr-book-desc">Explains technical collection methods and intelligence tradecraft.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Spycraft+by+Robert+Wallace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -351,7 +351,7 @@ The limitation is equally important. Counterproliferation credentials may streng
 <a href="https://www.amazon.com/s?k=Terrorism%2C+war%2C+or+disease%3F+Thomas+Graham+Jr.+and+Keith+A.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Terrorism, war, or disease?">Terrorism, war, or disease?</a>
 </h4>
 <p class="fr-book-author">By Thomas Graham Jr. and Keith A. Hansen</p>
-        
+
 <p class="fr-book-desc">Directly connects intelligence analysis, warning systems and proliferation threats.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Terrorism%2C+war%2C+or+disease%3F+Thomas+Graham+Jr.+and+Keith+A.+Hansen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -368,7 +368,7 @@ The limitation is equally important. Counterproliferation credentials may streng
 <a href="https://www.amazon.com/s?k=The+life+and+legend+of+Leadbelly&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The life and legend of Leadbelly">The life and legend of Leadbelly</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Provides context for how intelligence professionals assess hidden threats and uncertainty.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+life+and+legend+of+Leadbelly&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -385,7 +385,7 @@ The limitation is equally important. Counterproliferation credentials may streng
 <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Craft of Intelligence">The Craft of Intelligence</a>
 </h4>
 <p class="fr-book-author">By Allen Dulles</p>
-        
+
 <p class="fr-book-desc">Provides context for how intelligence professionals assess hidden threats and uncertainty.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Craft+of+Intelligence+by+Allen+Dulles&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -402,7 +402,7 @@ The limitation is equally important. Counterproliferation credentials may streng
 <a href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ghost Wars">Ghost Wars</a>
 </h4>
 <p class="fr-book-author">By Steve Coll</p>
-        
+
 <p class="fr-book-desc">Illustrates how intelligence communities track emerging security threats and hidden networks.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ghost+Wars+by+Steve+Coll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

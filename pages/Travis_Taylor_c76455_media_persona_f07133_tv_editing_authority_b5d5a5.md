@@ -421,7 +421,7 @@ The most balanced reading is that television editing can amplify Taylor's percei
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Directly addresses how persuasive stories can be mistaken for strong evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -438,7 +438,7 @@ The most balanced reading is that television editing can amplify Taylor's percei
 <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="You are Not So Smart">You are Not So Smart</a>
 </h4>
 <p class="fr-book-author">By David McRaney</p>
-        
+
 <p class="fr-book-desc">Explains cognitive biases that influence audience interpretations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=You+are+Not+So+Smart+by+David+McRaney&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ The most balanced reading is that television editing can amplify Taylor's percei
 <a href="https://www.amazon.com/s?k=The+Science+of+Weird+Shit+by+Chris+French&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Weird Shit">The Science of Weird Shit</a>
 </h4>
 <p class="fr-book-author">By Chris French</p>
-        
+
 <p class="fr-book-desc">Addresses why unusual experiences can seem more convincing than they are.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+of+Weird+Shit+by+Chris+French&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ The most balanced reading is that television editing can amplify Taylor's percei
 <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
 </h4>
 <p class="fr-book-author">By James Randi</p>
-        
+
 <p class="fr-book-desc">Highlights how presentation and expectation affect belief.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

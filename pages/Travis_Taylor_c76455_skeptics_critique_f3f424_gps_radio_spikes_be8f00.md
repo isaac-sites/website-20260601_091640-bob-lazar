@@ -435,7 +435,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Provides a framework for evaluating anomalous sensor readings.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -452,7 +452,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
 <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="GPS for Land Surveyors">GPS for Land Surveyors</a>
 </h4>
 <p class="fr-book-author">By Jan Van Sickle</p>
-        
+
 <p class="fr-book-desc">Explains real-world causes of GPS inaccuracies and signal issues.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=GPS+for+Land+Surveyors+by+Jan+Van+Sickle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -469,7 +469,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Places technical anomaly claims within the broader UFO evidence debate.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -486,7 +486,7 @@ As a result, GPS offsets and radio spikes occupy an awkward middle ground in Tay
 <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Flim Flam!">Flim Flam!</a>
 </h4>
 <p class="fr-book-author">By James Randi</p>
-        
+
 <p class="fr-book-desc">Shows how apparently mysterious results can arise from ordinary causes.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Flim+Flam%21+by+James+Randi&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

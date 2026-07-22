@@ -390,7 +390,7 @@ That unresolved gap is why the incident remains a credibility question rather th
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hunt for the Skinwalker">Hunt for the Skinwalker</a>
 </h4>
 <p class="fr-book-author">By Colm A. Kelleher, George Knapp</p>
-        
+
 <p class="fr-book-desc">Covers many of the ranch claims that frame later discussions of unusual physical effects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hunt+for+the+Skinwalker+Colm+A.+Kelleher&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -407,7 +407,7 @@ That unresolved gap is why the incident remains a credibility question rather th
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Useful framework for assessing whether instrument readings justify extraordinary conclusions.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ That unresolved gap is why the incident remains a credibility question rather th
 <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation detection and measurement">Radiation detection and measurement</a>
 </h4>
 <p class="fr-book-author">By Glenn F. Knoll</p>
-        
+
 <p class="fr-book-desc">First published 1979. Subjects: Radiation, Nuclear counters, Measurement, Radiation, measurement, Radiation--measurement.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ That unresolved gap is why the incident remains a credibility question rather th
 <a href="https://www.amazon.com/s?k=Atomic+Accidents+%3A+A+History+of+Nuclear+Meltdowns+and+Disasters+James+Mahaffey&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Atomic Accidents : A History of Nuclear Meltdowns and Disasters">Atomic Accidents : A History of Nuclear Meltdowns and Disasters</a>
 </h4>
 <p class="fr-book-author">By James Mahaffey</p>
-        
+
 <p class="fr-book-desc">First published 2014. Subjects: Disasters, Nuclear reactor accidents.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Atomic+Accidents+%3A+A+History+of+Nuclear+Meltdowns+and+Disasters+James+Mahaffey&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

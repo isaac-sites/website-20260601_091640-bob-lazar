@@ -428,7 +428,7 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
 <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Legacy of Ashes">Legacy of Ashes</a>
 </h4>
 <p class="fr-book-author">By Tim Weiner</p>
-        
+
 <p class="fr-book-desc">Illustrates institutional limits and information silos.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Legacy+of+Ashes+by+Tim+Weiner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Thinking, Fast and Slow">Thinking, Fast and Slow</a>
 </h4>
 <p class="fr-book-author">By Daniel Kahneman</p>
-        
+
 <p class="fr-book-desc">Explains authority bias and how people over-trust perceived experts.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Thinking%2C+Fast+and+Slow+by+Daniel+Kahneman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
 <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Invisible Gorilla">The Invisible Gorilla</a>
 </h4>
 <p class="fr-book-author">By Christopher Chabris, Daniel Simons</p>
-        
+
 <p class="fr-book-desc">Helps readers understand perception and inference errors.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Invisible+Gorilla+by+Christopher+Chabris&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ That tension sits at the centre of the John Ramirez debate. His career credentia
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
 <p class="fr-book-desc">Explores why insider figures gain influence in modern mythmaking.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

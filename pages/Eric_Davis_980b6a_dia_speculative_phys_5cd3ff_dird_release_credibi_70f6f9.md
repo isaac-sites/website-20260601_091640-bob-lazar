@@ -388,7 +388,7 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Helps readers distinguish theoretical possibility from demonstrated technology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -405,7 +405,7 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Hyperspace">Hyperspace</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Relevant to understanding what DIRD-style research actually explores.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Hyperspace+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
 <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science of Interstellar">The Science of Interstellar</a>
 </h4>
 <p class="fr-book-author">By Kip Thorne</p>
-        
+
 <p class="fr-book-desc">Shows how speculative spacetime concepts are evaluated in serious physics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+of+Interstellar+by+Kip+Thorne&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ That distinction is the most important lesson of the DIRD record. The paperwork 
 <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
 </h4>
 <p class="fr-book-author">By Luis Elizondo</p>
-        
+
 <p class="fr-book-desc">Provides context for why DIRDs became central to modern disclosure debates.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imminent+by+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -396,7 +396,7 @@ Whether the resulting record trail ultimately strengthens his claims, narrows th
 <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Imminent">Imminent</a>
 </h4>
 <p class="fr-book-author">By Luis Elizondo</p>
-        
+
 <p class="fr-book-desc">First published 2024. Subjects: UFOs, UAP, Unexplained phenomena, Unidentified flying objects -- Government Policy, Unidentified flying o...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Imminent+Luis+Elizondo&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ Whether the resulting record trail ultimately strengthens his claims, narrows th
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Files and UAP Disclosure">UFO Files and UAP Disclosure</a>
 </h4>
 <p class="fr-book-author">By John Williams</p>
-        
+
 <p class="fr-book-desc">The truth is no longer hiding in the shadows. It is buried in declassified documents, locked in congressional hearing rooms, and streamin...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Files+and+UAP+Disclosure+John+Williams&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -430,7 +430,7 @@ Whether the resulting record trail ultimately strengthens his claims, narrows th
 <a href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Science">UFO Science</a>
 </h4>
 <p class="fr-book-author">By G. O. Turner</p>
-        
+
 <p class="fr-book-desc">What physics are driving UAP in our atmosphere?The truth might not be as hard to understand as you think.Are you ready to explore the lat...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -447,7 +447,7 @@ Whether the resulting record trail ultimately strengthens his claims, narrows th
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="L&#x27; UAP et l&#x27;histoire de l&#x27;assurance">L&#x27; UAP et l&#x27;histoire de l&#x27;assurance</a>
 </h4>
 <p class="fr-book-author">By Michèle Ruffat</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: Union des assurances de Paris, Histoire, Assurance, Insurance, History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=L%27+UAP+et+l%27histoire+de+l%27assurance+Mich%C3%A8le+Ruffat&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -445,7 +445,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
 <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides context for evaluating extraordinary claims and evidence standards.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Highlights the need for corroborating evidence before accepting extraordinary explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
 <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Being Mortal">Being Mortal</a>
 </h4>
 <p class="fr-book-author">By Atul Gawande</p>
-        
+
 <p class="fr-book-desc">Demonstrates how medical conclusions rely on documentation and clinical evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Being+Mortal+by+Atul+Gawande&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -496,7 +496,7 @@ Public reporting around the Skinwalker Ranch incident has focused primarily on t
 <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Radiation detection and measurement">Radiation detection and measurement</a>
 </h4>
 <p class="fr-book-author">By Glenn F. Knoll</p>
-        
+
 <p class="fr-book-desc">First published 1979. Subjects: Radiation, Nuclear counters, Measurement, Radiation, measurement, Radiation--measurement.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Radiation+detection+and+measurement+Glenn+F.+Knoll&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

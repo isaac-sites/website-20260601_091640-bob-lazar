@@ -392,7 +392,7 @@ The strongest version of Green’s credibility is careful and limited: he was a 
 <a href="https://www.amazon.com/s?k=The+Science+Fiction+Hall+of+Fame%2C+Volume+Two+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science Fiction Hall of Fame, Volume Two A">The Science Fiction Hall of Fame, Volume Two A</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Directly covers the remote-viewing environment linked to Green.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+Fiction+Hall+of+Fame%2C+Volume+Two+A&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -426,7 +426,7 @@ The strongest version of Green’s credibility is careful and limited: he was a 
 <a href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Mind trek">Mind trek</a>
 </h4>
 <p class="fr-book-author">By Joseph McMoneagle, Joe McMoneagle et al.</p>
-        
+
 <p class="fr-book-desc">First published 1993. Subjects: Astral projection, Parapsychology, Remote viewing (Parapsychology), Research, Parapsychology, psychic pow...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Mind+trek+Joseph+McMoneagle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -443,7 +443,7 @@ The strongest version of Green’s credibility is careful and limited: he was a 
 <a href="https://www.amazon.com/s?k=Psychic+Warrior+David+Morehouse&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic Warrior">Psychic Warrior</a>
 </h4>
 <p class="fr-book-author">By David Morehouse</p>
-        
+
 <p class="fr-book-desc">Illustrates both the appeal and credibility problems of remote viewing.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Psychic+Warrior+David+Morehouse&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

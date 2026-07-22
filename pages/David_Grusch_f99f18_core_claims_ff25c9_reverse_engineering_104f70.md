@@ -428,7 +428,7 @@ The answer does not require proving extraterrestrial life. It requires demonstra
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Anthony F. Sanchez</p>
-        
+
 <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -445,7 +445,7 @@ The answer does not require proving extraterrestrial life. It requires demonstra
 <a href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A Compelling Historical Compendium, Volume 2,">Unidentified Anomalous Phenomena &amp; Non-Human Intelligence: A...</a>
 </h4>
 <p class="fr-book-author">By James L. Ryave</p>
-        
+
 <p class="fr-book-desc">﻿This nonfiction book contains the most important information available about the current body of knowledge regarding Unidentified Anomal...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Unidentified+Anomalous+Phenomena+%26+Non-Human+Intelligence%3A+A+Compelling+Historical+Compendium%2C+Volume+2%2C+1980+-+2025+James+L.+Ryave&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -462,7 +462,7 @@ The answer does not require proving extraterrestrial life. It requires demonstra
 <a href="https://www.amazon.com/s?k=UFO+Directory+International+by+David+Blevins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Directory International">UFO Directory International</a>
 </h4>
 <p class="fr-book-author">By David Blevins</p>
-        
+
 <p class="fr-book-desc">Unidentified Flying Objects are said to have been photographed and filmed in every country in the world, and witnessed by people from man...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Directory+International+by+David+Blevins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -479,7 +479,7 @@ The answer does not require proving extraterrestrial life. It requires demonstra
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Enigma">The UFO Enigma</a>
 </h4>
 <p class="fr-book-author">By Donald Howard Menzel, Ernest Henry Taves</p>
-        
+
 <p class="fr-book-desc">Drawing on government sources as well as on other reports of UFO sightings, this illustrated book provides accurate and documented inform...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Enigma+by+Donald+Howard+Menzel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

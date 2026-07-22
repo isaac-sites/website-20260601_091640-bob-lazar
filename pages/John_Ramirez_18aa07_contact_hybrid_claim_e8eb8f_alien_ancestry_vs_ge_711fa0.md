@@ -405,7 +405,7 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
 <a href="https://www.amazon.com/s?k=Sapiens%3A+A+Brief+History+of+Humankind+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Sapiens: A Brief History of Humankind">Sapiens: A Brief History of Humankind</a>
 </h4>
 <p class="fr-book-author">By Yuval Noah Harari</p>
-        
+
 <p class="fr-book-desc">Provides mainstream explanations of human origins that contrast with alien-ancestry claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Sapiens%3A+A+Brief+History+of+Humankind+Yuval+Noah+Harari&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -422,7 +422,7 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
 <a href="https://www.amazon.com/s?k=Who+We+Are+and+How+We+Got+Here&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Who We Are and How We Got Here">Who We Are and How We Got Here</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Directly addresses ancestry, admixture and ancient human populations using modern genetics.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Who+We+Are+and+How+We+Got+Here&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -439,7 +439,7 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Explains how evidence should be assessed when confronting paranormal or extraterrestrial narratives.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -456,7 +456,7 @@ For assessments of Ramirez's credibility, this distinction is important. His dis
 <a href="https://www.amazon.com/s?k=The+Ancestor%27s+Tale+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Ancestor&#x27;s Tale">The Ancestor&#x27;s Tale</a>
 </h4>
 <p class="fr-book-author">By Richard Dawkins</p>
-        
+
 <p class="fr-book-desc">First published 2004. Subjects: Human evolution, evolution, evolutie, Evolution (Biology), History.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Ancestor%27s+Tale+Richard+Dawkins&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

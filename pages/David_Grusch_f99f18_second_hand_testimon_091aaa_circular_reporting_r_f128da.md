@@ -362,7 +362,7 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
 <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book: Top Secret UFO Files: The Untold Truth">Project Blue Book: Top Secret UFO Files: The Untold Truth</a>
 </h4>
 <p class="fr-book-author">By John Scott Chace</p>
-        
+
 <p class="fr-book-desc">Project Blue Book was just one of many UFO reporting channels for the U.S. Government. Blue Book does not contain all UFO record sighting...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -379,7 +379,7 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
 <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
 </h4>
 <p class="fr-book-author">By David Clarke</p>
-        
+
 <p class="fr-book-desc">&#x27;What does all this stuff about flying saucers amount to? What can it mean? What is the truth?&#x27; Winston Churchill, prime minister&#x27;s perso...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -396,7 +396,7 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
 <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Could UFO&#x27;s be real?">Could UFO&#x27;s be real?</a>
 </h4>
 <p class="fr-book-author">By Larry Koss</p>
-        
+
 <p class="fr-book-desc">First published 1991. Subjects: Unidentified flying objects, Juvenile literature, Sightings and encounters, Unidentified flying objects,...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -413,7 +413,7 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
 <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almanac of Alien Encounters">Almanac of Alien Encounters</a>
 </h4>
 <p class="fr-book-author">By Eric Elfman</p>
-        
+
 <p class="fr-book-desc">A historical overview of alien encounters, from Archbishop Agobard of Lyons&#x27;s ninth-century encounter with the occupants of a &quot;cloudship&quot;...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

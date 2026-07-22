@@ -384,7 +384,7 @@ For Green's credibility assessment, the strongest conclusion is also the most li
 <a href="https://www.amazon.com/s?k=The+Science+Fiction+Hall+of+Fame%2C+Volume+Two+A&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Science Fiction Hall of Fame, Volume Two A">The Science Fiction Hall of Fame, Volume Two A</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Directly addresses programme goals, results and controversies.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Science+Fiction+Hall+of+Fame%2C+Volume+Two+A&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -401,7 +401,7 @@ For Green's credibility assessment, the strongest conclusion is also the most li
 <a href="https://www.amazon.com/s?k=Psychic+warrior&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Psychic warrior">Psychic warrior</a>
 </h4>
 <p class="fr-book-author">By Unknown author</p>
-        
+
 <p class="fr-book-desc">Represents the pro-remote-viewing perspective from inside the programme.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Psychic+warrior&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -435,7 +435,7 @@ For Green's credibility assessment, the strongest conclusion is also the most li
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Offers a framework for evaluating disputed scientific claims and evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

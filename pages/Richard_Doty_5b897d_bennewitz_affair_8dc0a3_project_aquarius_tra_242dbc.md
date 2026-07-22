@@ -305,89 +305,89 @@ In sum, while the **idea of a “Project Aquarius”** has become part of UFO su
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2cD5WETr_DA" title="Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer">Part Two: How The U.S. Government Used Aliens To Destroy a Man&#x27;s Mind</a></p><p class="youtube-embed-meta">Channel: Behind the Bastards &middot; Views: 96 &middot; Uploaded: February 2026 &middot; Length: 1 hour 16 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2cD5WETr_DA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2cD5WETr_DA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Did Project Aquarius make the hoax feel official?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Did Project Aquarius make the hoax feel official?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
-</h4>
-<p class="fr-book-author">By BARTY. HARMER</p>
-        
-<p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs in the UK on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=vtkt0QEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs in the UK" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs in the UK">UFOs in the UK</a>
+        </h4>
+        <p class="fr-book-author">By BARTY. HARMER</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
-</h4>
-<p class="fr-book-author">By Frank C. Salisbury</p>
-        
-<p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Great for both UFO enthusiasts and skeptics, providing a detailed look into this mysterious topic. Explore the mysterious skies of Britai...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+in+the+UK+BARTY.+HARMER&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Book of Ghosts, UFO&#x27;s and the Unexplained on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JNfHBAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Book of Ghosts, UFO&#x27;s and the Unexplained" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Book of Ghosts, UFO&#x27;s and the Unexplained">The Book of Ghosts, UFO&#x27;s and the Unexplained</a>
-</h4>
-<p class="fr-book-author">By James Paton</p>
-        
-<p class="fr-book-desc">A list of well documented true encounters&#x27; of a paranormal nature, ranging from Ghosts&#x27;, UFO sightings, close encounters and the general...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained+by+James+Paton&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UWarEAAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin">The Utah UFO Display: A Scientist Brings Reason and Logic to...</a>
+        </h4>
+        <p class="fr-book-author">By Frank C. Salisbury</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
-</h4>
-<p class="fr-book-author">By Ron Halliday</p>
-        
-<p class="fr-book-desc">First published 1998. Subjects: Sightings and encounters, Unidentified flying objects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Do UFOs really exist? Noted scientist Frank B. Salisbury, in collaboration with Joseph Junior Hicks, tries to answer this question by exa...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin+Frank+C.+Salisbury&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Book+of+Ghosts%2C+UFO%27s+and+the+Unexplained&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Book of Ghosts, UFO&#x27;s and the Unexplained</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Scotland on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=JkbyAwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO Scotland" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Scotland">UFO Scotland</a>
+        </h4>
+        <p class="fr-book-author">By Ron Halliday</p>
+
+        <p class="fr-book-desc">First published 1998. Subjects: Sightings and encounters, Unidentified flying objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+Scotland+Ron+Halliday&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Phenomenon+Robert+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Phenomenon on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dM0REQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Phenomenon" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Phenomenon+Robert+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Phenomenon">The UFO Phenomenon</a>
+        </h4>
+        <p class="fr-book-author">By Robert Davis</p>
+
+        <p class="fr-book-desc">Selected from a Google Books query related to the page scope.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Phenomenon+Robert+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+in+the+UK&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs in the UK</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Utah+UFO+Display%3A+A+Scientist+Brings+Reason+and+Logic+to+over+400+Sightings+in+Utah%27s+Uintah+Basin&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Utah UFO Display: A Scientist Brings Reason and Logic to over 400 Sightings in Utah&#x27;s Uintah Basin</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Scotland&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Scotland</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

@@ -407,7 +407,7 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
 <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Hunt for Zero Point">The Hunt for Zero Point</a>
 </h4>
 <p class="fr-book-author">By Nick Cook</p>
-        
+
 <p class="fr-book-desc">Directly mirrors the debate over whether intriguing concepts equal working technology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Hunt+for+Zero+Point+by+Nick+Cook&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -424,7 +424,7 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Physics of the Impossible">Physics of the Impossible</a>
 </h4>
 <p class="fr-book-author">By Michio Kaku</p>
-        
+
 <p class="fr-book-desc">Explains why theoretical discussion is not proof of engineering success.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Physics+of+the+Impossible+by+Michio+Kaku&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Useful for separating evidence claims from institutional interest.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ The DIA-linked paper list demonstrates genuine official interest in exotic aeros
 <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Inside the U.S. Government Covert UFO Program">Inside the U.S. Government Covert UFO Program</a>
 </h4>
 <p class="fr-book-author">By James T. Lacatski, Colm A. Kelleher et al.</p>
-        
+
 <p class="fr-book-desc">Provides background on the programme that commissioned the papers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Inside+the+U.S.+Government+Covert+UFO+Program+by+James+T.+Lacatski&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

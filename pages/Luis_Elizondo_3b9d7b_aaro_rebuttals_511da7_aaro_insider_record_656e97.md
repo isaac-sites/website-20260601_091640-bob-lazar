@@ -371,7 +371,7 @@ The unresolved tension is that insider testimony remains one of the main reasons
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Modern UFO/UAP Researcher&#x27;s Handbook">The Modern UFO/UAP Researcher&#x27;s Handbook</a>
 </h4>
 <p class="fr-book-author">By Anthony F. Sanchez</p>
-        
+
 <p class="fr-book-desc">Get ready to dive headfirst into the captivating realm of UFO and UAP research with &#x27;The Modern UFO/UAP Researcher&#x27;s Handbook.&#x27; This comp...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Modern+UFO%2FUAP+Researcher%27s+Handbook+Anthony+F.+Sanchez&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -388,7 +388,7 @@ The unresolved tension is that insider testimony remains one of the main reasons
 <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="2023 UFO/UAP Calendar">2023 UFO/UAP Calendar</a>
 </h4>
 <p class="fr-book-author">By Todd Davis</p>
-        
+
 <p class="fr-book-desc">First published 2022. Subjects: Science, Curiosities and wonders.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=2023+UFO%2FUAP+Calendar+Todd+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

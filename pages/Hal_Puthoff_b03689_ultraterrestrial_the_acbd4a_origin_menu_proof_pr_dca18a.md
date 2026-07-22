@@ -438,7 +438,7 @@ That is where the proof problem becomes most important. The broader Puthoff's or
 <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Dimensions">Dimensions</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">First published 2008. Subjects: Unidentified flying objects, Alien abduction, Human-alien encounters, Sightings and encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Dimensions+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -455,7 +455,7 @@ That is where the proof problem becomes most important. The broader Puthoff's or
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Passport to Magonia">Passport to Magonia</a>
 </h4>
 <p class="fr-book-author">By Jacques Vallee</p>
-        
+
 <p class="fr-book-desc">Challenges simple extraterrestrial explanations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Passport+to+Magonia+by+Jacques+Vallee&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -472,7 +472,7 @@ That is where the proof problem becomes most important. The broader Puthoff's or
 <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Operation Trojan Horse">Operation Trojan Horse</a>
 </h4>
 <p class="fr-book-author">By John Keel</p>
-        
+
 <p class="fr-book-desc">Illustrates how expansive explanatory frameworks develop.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Operation+Trojan+Horse+by+John+Keel&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -489,7 +489,7 @@ That is where the proof problem becomes most important. The broader Puthoff's or
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="American Cosmic">American Cosmic</a>
 </h4>
 <p class="fr-book-author">By Diana Walsh Pasulka</p>
-        
+
 <p class="fr-book-desc">Useful for understanding why flexible theories attract followers.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=American+Cosmic+by+Diana+Walsh+Pasulka&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

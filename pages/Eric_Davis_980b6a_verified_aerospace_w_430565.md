@@ -408,23 +408,23 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
 <article class="fr-book-card">
 <a class="fr-book-cover" href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Frontiers of Propulsion Science
 
-            
+
 
                 Progress in Astronautics and Aeronautics on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/7782322-M.jpg" alt="Cover for Frontiers of Propulsion Science
 
-            
+
 
                 Progress in Astronautics and Aeronautics" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
 <div class="fr-book-info">
 <h4 class="fr-book-title">
 <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Frontiers of Propulsion Science
 
-            
+
 
                 Progress in Astronautics and Aeronautics">Frontiers of Propulsion Science Progress in Astronautics and...</a>
 </h4>
 <p class="fr-book-author">By Marc G. Millis and Eric W. Davis</p>
-        
+
 <p class="fr-book-desc">Most relevant published work connected to Davis&#x27;s verified aerospace background.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Frontiers+of+Propulsion+Science%0D%0A++++++++++++%0D%0A++++++++++++++++Progress+in+Astronautics+and+Aeronautics+Marc+G.+Millis+and+Eric+W.+Davis&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -441,7 +441,7 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Skunk Works">Skunk Works</a>
 </h4>
 <p class="fr-book-author">By Ben R. Rich, Leo Janos</p>
-        
+
 <p class="fr-book-desc">Offers context for real aerospace innovation versus extraordinary claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Skunk+Works+by+Ben+R.+Rich&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -458,7 +458,7 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
 <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Pentagon&#x27;s Brain">The Pentagon&#x27;s Brain</a>
 </h4>
 <p class="fr-book-author">By Annie Jacobsen</p>
-        
+
 <p class="fr-book-desc">Relevant to government-sponsored advanced research environments.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Pentagon%27s+Brain+by+Annie+Jacobsen&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -475,7 +475,7 @@ The practical takeaway is simple: Davis’s credibility is strongest when the cl
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs">UFOs</a>
 </h4>
 <p class="fr-book-author">By Leslie Kean</p>
-        
+
 <p class="fr-book-desc">Provides context for how Davis became associated with broader UFO debates.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFOs+by+Leslie+Kean&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -376,7 +376,7 @@ However, the comparison does not establish that UAP encounters caused the report
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Garrett M. Graff</p>
-        
+
 <p class="fr-book-desc">Covers modern UAP debates including government investigations.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+by+Garrett+M.+Graff&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -393,7 +393,7 @@ However, the comparison does not establish that UAP encounters caused the report
 <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Skeptics&#x27; Guide to the Universe">The Skeptics&#x27; Guide to the Universe</a>
 </h4>
 <p class="fr-book-author">By Dr. Steven Novella</p>
-        
+
 <p class="fr-book-desc">Useful framework for evaluating extraordinary medical claims.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Skeptics%27+Guide+to+the+Universe+by+Dr.+Steven+Novella&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -410,7 +410,7 @@ However, the comparison does not establish that UAP encounters caused the report
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Demon-Haunted World">The Demon-Haunted World</a>
 </h4>
 <p class="fr-book-author">By Carl Sagan</p>
-        
+
 <p class="fr-book-desc">Supports rigorous assessment of unusual claims and evidence.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=The+Demon-Haunted+World+by+Carl+Sagan&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -427,7 +427,7 @@ However, the comparison does not establish that UAP encounters caused the report
 <a href="https://www.amazon.com/s?k=Havana+Syndrome+Robert+W.+Baloh&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Havana Syndrome">Havana Syndrome</a>
 </h4>
 <p class="fr-book-author">By Robert W. Baloh, Robert E. Bartholomew</p>
-        
+
 <p class="fr-book-desc">First published 2020. Subjects: Social psychology.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Havana+Syndrome+Robert+W.+Baloh&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

@@ -402,7 +402,7 @@ That creates a measurable standard for future credibility. Either records, witne
 <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
 </h4>
 <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
-        
+
 <p class="fr-book-desc">In 1983, a few miles north of New York City, hundreds of people were startled to see a UFO - a series of flashing lights that formed a V...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -419,7 +419,7 @@ That creates a measurable standard for future credibility. Either records, witne
 <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
 </h4>
 <p class="fr-book-author">By Kevin D. Randle</p>
-        
+
 <p class="fr-book-desc">The true story of the crash of an alien spacecraft--with a crew of five--near Roswell, New Mexico, and the great lengths federal agencies...</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -436,7 +436,7 @@ That creates a measurable standard for future credibility. Either records, witne
 <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
 </h4>
 <p class="fr-book-author">By Jerome Clark</p>
-        
+
 <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
@@ -453,7 +453,7 @@ That creates a measurable standard for future credibility. Either records, witne
 <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
 </h4>
 <p class="fr-book-author">By Roberto Pinotti</p>
-        
+
 <p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
 <div class="fr-book-actions">
 <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">

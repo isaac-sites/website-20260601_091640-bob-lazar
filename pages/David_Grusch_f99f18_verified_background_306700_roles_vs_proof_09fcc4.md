@@ -360,89 +360,89 @@ That leaves Grusch in an unusual credibility category. His career helps establis
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/SpzJnrwob1A" title="LIVE | Congress holds UFO hearing with retired Maj. David Grusch" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer">LIVE | Congress holds UFO hearing with retired Maj. David Grusch</a></p><p class="youtube-embed-meta">Channel: Associated Press &middot; Views: 1.0M &middot; Uploaded: July 2023 &middot; Length: 2 hours 21 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=SpzJnrwob1A" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=SpzJnrwob1A">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What Grusch&#x27;s credentials actually prove. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What Grusch&#x27;s credentials actually prove. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs In US AirSpace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=171wwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs In US AirSpace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs In US AirSpace">UFOs In US AirSpace</a>
-</h4>
-<p class="fr-book-author">By John Scott Chace</p>
-        
-<p class="fr-book-desc">UFOs In US AIRSPACE, Edition 2 has 5 new chapters. Over 12,000 UFO cases were studied by Project Blue Book in the 1950s and 1960s. This u...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFOs In US AirSpace on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=171wwAEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for UFOs In US AirSpace" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFOs In US AirSpace">UFOs In US AirSpace</a>
+        </h4>
+        <p class="fr-book-author">By John Scott Chace</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: The Great Last Days Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WHBTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO&#x27;s: The Great Last Days Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: The Great Last Days Deception">UFO&#x27;s: The Great Last Days Deception</a>
-</h4>
-<p class="fr-book-author">By Billy Crone</p>
-        
-<p class="fr-book-desc">Mention the topic of UFO&#x27;s and Aliens and not only have most people already formed their opinions about them, but virtually everyone on t...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">UFOs In US AIRSPACE, Edition 2 has 5 new chapters. Over 12,000 UFO cases were studied by Project Blue Book in the 1950s and 1960s. This u...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Briefing Book on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Briefing Book">UFO Briefing Book</a>
-</h4>
-<p class="fr-book-author">By James Lough</p>
-        
-<p class="fr-book-desc">First published 2021. Subjects: Political science, Military art and science.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO+Briefing+Book+James+Lough&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
-            See on Amazon
-</a>
-</div>
-</div>
-</article>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open How UFOs Conquered the World on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=rYX6sgEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for How UFOs Conquered the World" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="How UFOs Conquered the World">How UFOs Conquered the World</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO Science on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO Science">UFO Science</a>
-</h4>
-<p class="fr-book-author">By G. O. Turner, Kaz Morran</p>
-        
-<p class="fr-book-desc">First published 2023. Subjects: Physics, Spirituality.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO+Science+G.+O.+Turner&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Now available in paperback! A history of the various manifestations and shifting meaning of the Twentieth Century&#x27;s single great contribu...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs In US AirSpace</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO&#x27;s: The Great Last Days Deception</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO+Briefing+Book&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO Briefing Book</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO&#x27;s: The Great Last Days Deception on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=WHBTDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO&#x27;s: The Great Last Days Deception" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO&#x27;s: The Great Last Days Deception">UFO&#x27;s: The Great Last Days Deception</a>
+        </h4>
+        <p class="fr-book-author">By Billy Crone</p>
+
+        <p class="fr-book-desc">Mention the topic of UFO&#x27;s and Aliens and not only have most people already formed their opinions about them, but virtually everyone on t...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception+Billy+Crone&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Secret Life on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=UqAQHo3jAbkC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Secret Life" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Secret Life">Secret Life</a>
+        </h4>
+        <p class="fr-book-author">By David M. Jacobs</p>
+
+        <p class="fr-book-desc">Revealing and unsettling interviews with over sixty real-life individuals who claim they were abducted by aliens from the author of The U...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Secret+Life+David+M.+Jacobs&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+            See on Amazon
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFOs+In+US+AirSpace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFOs In US AirSpace</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=How+UFOs+Conquered+the+World&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">How UFOs Conquered the World</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO%27s%3A+The+Great+Last+Days+Deception&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO&#x27;s: The Great Last Days Deception</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
