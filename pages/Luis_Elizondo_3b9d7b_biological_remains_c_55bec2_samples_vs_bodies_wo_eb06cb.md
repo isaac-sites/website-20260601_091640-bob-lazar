@@ -402,16 +402,16 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
 
     <article class="fr-book-card">
-      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The Mantell UFO Incident (1948) on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Ao1eEQAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The Mantell UFO Incident (1948)" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
       <div class="fr-book-info">
         <h4 class="fr-book-title">
-          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The Mantell UFO Incident (1948)">The Mantell UFO Incident (1948)</a>
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
         </h4>
-        <p class="fr-book-author">By Patrick Gunn</p>
+        <p class="fr-book-author">By Roberto Pinotti</p>
 
-        <p class="fr-book-desc">Book Available Here : US : https://www.amazon.com/dp/B0F92KXSRK UK : https://www.amazon.co.uk/dp/B0F92KXSRK UAP/UFO Books &amp; More Below US...</p>
+        <p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
         <div class="fr-book-actions">
-          <a href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29+Patrick+Gunn&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
           </a>
         </div>
@@ -453,7 +453,7 @@ The credibility question therefore turns on precision. Elizondo's strongest biol
     </article>
     </div>
     <div class="fr-section-footer">
-      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+Mantell+UFO+Incident+%281948%29&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The Mantell UFO Incident (1948)</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Captured!: The Betty and Barney Hill UFO Experience</a></div>
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Captured%21%3A+The+Betty+and+Barney+Hill+UFO+Experience&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Captured!: The Betty and Barney Hill UFO Experience</a></div>
       <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
     </div>
   </div>

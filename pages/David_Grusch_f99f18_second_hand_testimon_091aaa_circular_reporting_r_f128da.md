@@ -345,89 +345,89 @@ For the public, this remains one of the largest unresolved gaps in the Grusch st
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/8O47sJ91gTA" title="David Grusch Highlights From Congressional UAP UFO Hearing 7.26.23" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=8O47sJ91gTA" target="_blank" rel="noopener noreferrer">David Grusch Highlights From Congressional UAP UFO Hearing 7.26.23</a></p><p class="youtube-embed-meta">Channel: Lee Morris &middot; Views: 101.7K &middot; Uploaded: July 2023 &middot; Length: 20 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=8O47sJ91gTA" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=8O47sJ91gTA">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to Could Grusch&#x27;s Sources Be Echoing Each Other?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to Could Grusch&#x27;s Sources Be Echoing Each Other?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book: Top Secret UFO Files: The Untold Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xz6vuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book: Top Secret UFO Files: The Untold Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book: Top Secret UFO Files: The Untold Truth">Project Blue Book: Top Secret UFO Files: The Untold Truth</a>
-</h4>
-<p class="fr-book-author">By John Scott Chace</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Project Blue Book: Top Secret UFO Files: The Untold Truth on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=Xz6vuwEACAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Project Blue Book: Top Secret UFO Files: The Untold Truth" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Project Blue Book: Top Secret UFO Files: The Untold Truth">Project Blue Book: Top Secret UFO Files: The Untold Truth</a>
+        </h4>
+        <p class="fr-book-author">By John Scott Chace</p>
 
-<p class="fr-book-desc">Project Blue Book was just one of many UFO reporting channels for the U.S. Government. Blue Book does not contain all UFO record sighting...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Project Blue Book was just one of many UFO reporting channels for the U.S. Government. Blue Book does not contain all UFO record sighting...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth+John+Scott+Chace&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
-</h4>
-<p class="fr-book-author">By David Clarke</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open The UFO Files on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=PC_6or5kQ9EC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for The UFO Files" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="The UFO Files">The UFO Files</a>
+        </h4>
+        <p class="fr-book-author">By David Clarke</p>
 
-<p class="fr-book-desc">&#x27;What does all this stuff about flying saucers amount to? What can it mean? What is the truth?&#x27; Winston Churchill, prime minister&#x27;s perso...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">&#x27;What does all this stuff about flying saucers amount to? What can it mean? What is the truth?&#x27; Winston Churchill, prime minister&#x27;s perso...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=The+UFO+Files+David+Clarke&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Could UFO&#x27;s be real? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3966518-M.jpg" alt="Cover for Could UFO&#x27;s be real?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Could UFO&#x27;s be real?">Could UFO&#x27;s be real?</a>
-</h4>
-<p class="fr-book-author">By Larry Koss</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+        </h4>
+        <p class="fr-book-author">By Roberto Pinotti</p>
 
-<p class="fr-book-desc">First published 1991. Subjects: Unidentified flying objects, Juvenile literature, Sightings and encounters, Unidentified flying objects,...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">Behind each cosmic force, each spectrum or oneiric manifestation of the unconscious exists, the form of a rarefied statement that the see...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Almanac of Alien Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=RXX5BGt7QjAC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Almanac of Alien Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Almanac of Alien Encounters">Almanac of Alien Encounters</a>
-</h4>
-<p class="fr-book-author">By Eric Elfman</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Could UFO&#x27;s be real? on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/3966518-M.jpg" alt="Cover for Could UFO&#x27;s be real?" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Could UFO&#x27;s be real?">Could UFO&#x27;s be real?</a>
+        </h4>
+        <p class="fr-book-author">By Larry Koss</p>
 
-<p class="fr-book-desc">A historical overview of alien encounters, from Archbishop Agobard of Lyons&#x27;s ninth-century encounter with the occupants of a &quot;cloudship&quot;...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Almanac+of+Alien+Encounters+Eric+Elfman&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1991. Subjects: Unidentified flying objects, Juvenile literature, Sightings and encounters, Unidentified flying objects,...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F+Larry+Koss&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book: Top Secret UFO Files: The Untold Truth</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Could+UFO%27s+be+real%3F&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Could UFO&#x27;s be real?</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Project+Blue+Book%3A+Top+Secret+UFO+Files%3A+The+Untold+Truth&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Project Blue Book: Top Secret UFO Files: The Untold Truth</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=The+UFO+Files&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">The UFO Files</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=UFO&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">UFO</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">

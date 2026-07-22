@@ -385,89 +385,89 @@ That creates a measurable standard for future credibility. Either records, witne
 <div class="youtube-embed-container youtube-embed-fallback"><div class="youtube-embed-card"><div class="youtube-embed-frame"><iframe src="https://www.youtube.com/embed/2dXyU-Efzcs" title="UFO hearing: US conducted secret crash retrievals for alien aircrafts, former DoD official says" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div><div class="youtube-embed-footer"><p class="youtube-embed-title"><a href="https://www.youtube.com/watch?v=2dXyU-Efzcs" target="_blank" rel="noopener noreferrer">UFO hearing: US conducted secret crash retrievals for alien aircrafts, former DoD official says</a></p><p class="youtube-embed-meta">Channel: Global News &middot; Views: 232.8K &middot; Uploaded: November 2024 &middot; Length: 2 hours 7 minutes</p><p class="youtube-embed-actions"><a class="youtube-embed-watch-link" href="https://www.youtube.com/watch?v=2dXyU-Efzcs" target="_blank" rel="noopener noreferrer" title="https://www.youtube.com/watch?v=2dXyU-Efzcs">Open on YouTube</a></p></div></div></div>
 
 <section class="further-reading-section" data-page-toc-exclude aria-labelledby="further-reading-title">
-<div class="fr-section-shell">
-<div class="fr-section-header">
-<div class="fr-section-heading">
-<p class="fr-section-kicker">Amazon book picks</p>
-<h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
-</div>
-<p class="fr-intro">Books and field guides related to What did Elizondo actually say about crash retrievals?. Use these as the next step if you want deeper reading beyond the article.</p>
-</div>
-<div class="fr-books-grid">
+  <div class="fr-section-shell">
+    <div class="fr-section-header">
+      <div class="fr-section-heading">
+        <p class="fr-section-kicker">Amazon book picks</p>
+        <h3 class="fr-heading" id="further-reading-title">Further Reading</h3>
+      </div>
+      <p class="fr-intro">Books and field guides related to What did Elizondo actually say about crash retrievals?. Use these as the next step if you want deeper reading beyond the article.</p>
+    </div>
+    <div class="fr-books-grid">
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
-</h4>
-<p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Night Siege on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=atWOL2IHoHsC&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for Night Siege" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Night Siege">Night Siege</a>
+        </h4>
+        <p class="fr-book-author">By Joseph Allen Hynek, Philip J. Imbrogno et al.</p>
 
-<p class="fr-book-desc">In 1983, a few miles north of New York City, hundreds of people were startled to see a UFO - a series of flashing lights that formed a V...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">In 1983, a few miles north of New York City, hundreds of people were startled to see a UFO - a series of flashing lights that formed a V...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Night+Siege+Joseph+Allen+Hynek&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
-</h4>
-<p class="fr-book-author">By Kevin D. Randle</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Truth About the Ufo Crash at Roswell on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=OphZAAAAYAAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;source=gbs_api" alt="Cover for Truth About the Ufo Crash at Roswell" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Truth About the Ufo Crash at Roswell">Truth About the Ufo Crash at Roswell</a>
+        </h4>
+        <p class="fr-book-author">By Kevin D. Randle</p>
 
-<p class="fr-book-desc">The true story of the crash of an alien spacecraft--with a crew of five--near Roswell, New Mexico, and the great lengths federal agencies...</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">The true story of the crash of an alien spacecraft--with a crew of five--near Roswell, New Mexico, and the great lengths federal agencies...</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell+Kevin+D.+Randle&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
-</h4>
-<p class="fr-book-author">By Jerome Clark</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open Ufo Encounters on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://covers.openlibrary.org/b/id/8211540-M.jpg" alt="Cover for Ufo Encounters" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="Ufo Encounters">Ufo Encounters</a>
+        </h4>
+        <p class="fr-book-author">By Jerome Clark</p>
 
-<p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1992. Subjects: Unidentified flying objects, History, Unidentified flying objects, sightings and encounters.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=Ufo+Encounters+Jerome+Clark&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
+          </a>
+        </div>
+      </div>
+    </article>
 
-<article class="fr-book-card">
-<a class="fr-book-cover fr-book-cover-placeholder" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span></a>
-<div class="fr-book-info">
-<h4 class="fr-book-title">
-<a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
-</h4>
-<p class="fr-book-author">By Roberto Pinotti</p>
+    <article class="fr-book-card">
+      <a class="fr-book-cover" href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" aria-label="Open UFO on Amazon"><span class="fr-book-cover-fallback">Book</span><img class="fr-book-cover-thumb" src="https://books.google.com/books/content?id=dr-tDwAAQBAJ&amp;printsec=frontcover&amp;img=1&amp;zoom=1&amp;edge=curl&amp;source=gbs_api" alt="Cover for UFO" loading="lazy" decoding="async" fetchpriority="low" referrerpolicy="no-referrer" onerror="this.hidden=true;this.closest('.fr-book-cover').classList.add('fr-book-cover-placeholder');"></a>
+      <div class="fr-book-info">
+        <h4 class="fr-book-title">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer" title="UFO">UFO</a>
+        </h4>
+        <p class="fr-book-author">By Roberto Pinotti</p>
 
-<p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
-<div class="fr-book-actions">
-<a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
+        <p class="fr-book-desc">First published 1990. Subjects: History, Sightings and encounters, Unidentified flying objects.</p>
+        <div class="fr-book-actions">
+          <a href="https://www.amazon.com/s?k=UFO+Roberto+Pinotti&amp;i=stripbooks&amp;tag=searcht-20" class="fr-amazon-btn" target="_blank" rel="sponsored noopener noreferrer">
             See on Amazon
-</a>
-</div>
-</div>
-</article>
-</div>
-<div class="fr-section-footer">
-<div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span><a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a><a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a></div>
-<p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
-</div>
-</div>
+          </a>
+        </div>
+      </div>
+    </article>
+    </div>
+    <div class="fr-section-footer">
+      <div class="fr-browse-links" aria-label="Browse more on Amazon"><span class="fr-browse-links-label">Browse more on Amazon:</span> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Night+Siege&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Night Siege</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Truth+About+the+Ufo+Crash+at+Roswell&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Truth About the Ufo Crash at Roswell</a> <a class="fr-browse-more" href="https://www.amazon.com/s?k=Ufo+Encounters&amp;i=stripbooks&amp;tag=searcht-20" target="_blank" rel="sponsored noopener noreferrer">Ufo Encounters</a></div>
+      <p class="fr-disclosure">As an Amazon Associate I earn from qualifying purchases.</p>
+    </div>
+  </div>
 </section>
 
 <section class="further-reading-section" data-page-toc-exclude data-ebay-localized-links data-ebay-visual-market="EBAY_GB" aria-labelledby="merchant-block-title">
