@@ -4,7 +4,7 @@ title_full: AARO Report Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /sean-kirkpatrick-e3c175-aaro/
+permalink: /sean-kirkpatrick-e3c175-aaro-aaro-report-8d3982/
 description: Focused pages that expand on AARO Report.
 date: '2026'
 layout: default

@@ -4,7 +4,7 @@ title_full: AARO Role Sub-Topic Index
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
-permalink: /sean-kirkpatrick-e3c175-aaro/
+permalink: /sean-kirkpatrick-e3c175-aaro-aaro-role/
 description: Focused pages that expand on AARO Role.
 date: '2026'
 layout: default
