@@ -248,6 +248,7 @@ prev_link:
   short_title: Doty Influence
   heading_title: How Richard Doty Shaped MJ 12 Beliefs Among Researchers
 date: '2026-06-11 21:02:51 '
+last_modified_at: '2026-06-11 21:02:51 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb_eisenhower_briefing_a2fee5-Illustration-1.webp

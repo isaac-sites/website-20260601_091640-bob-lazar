@@ -248,6 +248,7 @@ prev_link:
   short_title: Cloaking
   heading_title: When cloaking science becomes UFO overreach
 date: '2026-06-11 21:03:47 '
+last_modified_at: '2026-06-11 21:03:47 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_warp_drive_proof_gap_401b56-Illustration-1.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: Source Type
   heading_title: Was Davis A Witness Or A Messenger?
 date: '2026-06-11 21:06:59 '
+last_modified_at: '2026-06-11 21:06:59 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043-overview.webp

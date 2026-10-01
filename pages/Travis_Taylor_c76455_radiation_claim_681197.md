@@ -290,6 +290,7 @@ next_link:
   short_title: Sceptics
   heading_title: Why Are Sceptics Unconvinced by Taylor?
 date: '2026-06-11 21:08:20 '
+last_modified_at: '2026-06-11 21:08:20 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197-overview.webp

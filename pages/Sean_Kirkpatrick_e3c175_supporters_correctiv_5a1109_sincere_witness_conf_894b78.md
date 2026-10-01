@@ -254,6 +254,7 @@ next_link:
   short_title: Rumour Loop
   heading_title: When UAP claims echo back as proof
 date: '2026-06-11 21:04:40 '
+last_modified_at: '2026-06-11 21:04:40 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_sincere_witness_conf_894b78-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_sincere_witness_conf_894b78-Illustration-1.webp

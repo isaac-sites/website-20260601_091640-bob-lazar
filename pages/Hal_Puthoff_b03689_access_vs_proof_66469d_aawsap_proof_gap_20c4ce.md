@@ -248,6 +248,7 @@ next_link:
   short_title: Hearsay Risk
   heading_title: What happens when insiders say they were told?
 date: '2026-06-11 21:06:19 '
+last_modified_at: '2026-06-11 21:06:19 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_aawsap_proof_gap_20c4ce-Illustration-1.webp

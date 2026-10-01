@@ -254,6 +254,7 @@ next_link:
   short_title: BAASS network
   heading_title: When proximity becomes an echo chamber
 date: '2026-06-11 21:07:10 '
+last_modified_at: '2026-06-11 21:07:10 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_aawsap_aatip_links_3b2366_aatip_name_confusion_d324d7-Illustration-1.webp

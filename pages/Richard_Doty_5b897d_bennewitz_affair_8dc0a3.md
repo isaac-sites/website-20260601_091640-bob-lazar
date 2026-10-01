@@ -290,6 +290,7 @@ next_link:
   short_title: Media Legacy
   heading_title: How Did Media Turn Doty Into UFO Mythology?
 date: '2026-06-11 21:02:42 '
+last_modified_at: '2026-06-11 21:02:42 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3-overview.webp

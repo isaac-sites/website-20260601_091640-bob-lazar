@@ -290,6 +290,7 @@ next_link:
   short_title: Supporters
   heading_title: Why Do Some Ufologists Still Trust Doty?
 date: '2026-06-11 21:02:43 '
+last_modified_at: '2026-06-11 21:02:43 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1-overview.webp

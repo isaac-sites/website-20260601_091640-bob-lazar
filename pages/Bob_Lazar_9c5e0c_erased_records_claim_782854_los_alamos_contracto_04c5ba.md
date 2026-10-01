@@ -254,6 +254,7 @@ next_link:
   short_title: United Nuclear
   heading_title: Was the United Nuclear raid retaliation?
 date: '2026-06-11 21:01:08 '
+last_modified_at: '2026-06-11 21:01:08 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_los_alamos_contracto_04c5ba-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_los_alamos_contracto_04c5ba-Illustration-1.webp

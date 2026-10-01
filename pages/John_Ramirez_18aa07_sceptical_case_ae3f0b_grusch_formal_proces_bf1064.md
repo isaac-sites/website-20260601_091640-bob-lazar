@@ -254,6 +254,7 @@ next_link:
   short_title: Read Into
   heading_title: What does 'read into' really prove?
 date: '2026-06-11 21:05:02 '
+last_modified_at: '2026-06-11 21:05:02 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_grusch_formal_proces_bf1064-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_sceptical_case_ae3f0b_grusch_formal_proces_bf1064-Illustration-1.webp

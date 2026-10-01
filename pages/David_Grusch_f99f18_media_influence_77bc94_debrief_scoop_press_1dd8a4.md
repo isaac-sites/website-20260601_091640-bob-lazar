@@ -248,6 +248,7 @@ next_link:
   short_title: House Hearing
   heading_title: Did the hearing change anything real?
 date: '2026-06-11 21:01:34 '
+last_modified_at: '2026-06-11 21:01:34 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_media_influence_77bc94_debrief_scoop_press_1dd8a4-Illustration-1.webp

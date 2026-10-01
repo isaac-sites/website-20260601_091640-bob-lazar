@@ -284,6 +284,7 @@ next_link:
   short_title: AARO Role
   heading_title: How Much Authority Did AARO Give Him?
 date: '2026-06-11 21:04:07 '
+last_modified_at: '2026-06-11 21:04:07 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7-overview.webp

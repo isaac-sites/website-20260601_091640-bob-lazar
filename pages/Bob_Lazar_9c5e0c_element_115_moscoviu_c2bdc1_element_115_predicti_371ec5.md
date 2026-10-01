@@ -254,6 +254,7 @@ next_link:
   short_title: Stable fuel
   heading_title: Could Element 115 ever be stable fuel?
 date: '2026-06-11 21:01:05 '
+last_modified_at: '2026-06-11 21:01:05 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1_element_115_predicti_371ec5-Illustration-1.webp

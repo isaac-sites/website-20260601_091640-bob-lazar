@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-supporters-case/
 description: Focused pages that expand on Supporters.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Travis_Taylor_c76455_supporters_case_1d71d0
 parent_title: Supporters

@@ -290,6 +290,7 @@ next_link:
   short_title: Los Alamos
   heading_title: What Does Los Alamos Really Prove?
 date: '2026-06-11 21:00:41 '
+last_modified_at: '2026-06-11 21:00:41 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854-overview.webp

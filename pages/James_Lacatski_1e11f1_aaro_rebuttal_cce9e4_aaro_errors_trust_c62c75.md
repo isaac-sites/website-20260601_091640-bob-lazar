@@ -248,6 +248,7 @@ prev_link:
   short_title: KONA BLUE
   heading_title: Was KONA BLUE evidence or anticipation?
 date: '2026-06-11 21:03:30 '
+last_modified_at: '2026-06-11 21:03:30 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_aaro_errors_trust_c62c75-Illustration-1.webp

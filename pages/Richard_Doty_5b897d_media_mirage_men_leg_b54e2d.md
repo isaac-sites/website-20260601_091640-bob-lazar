@@ -290,6 +290,7 @@ next_link:
   short_title: MJ 12
   heading_title: Why Are the MJ 12 Documents So Disputed?
 date: '2026-06-11 21:02:45 '
+last_modified_at: '2026-06-11 21:02:45 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d-overview.webp

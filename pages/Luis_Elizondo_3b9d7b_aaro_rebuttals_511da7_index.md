@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-aaro-rebuttals/
 description: Focused pages that expand on AARO.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7
 parent_title: AARO

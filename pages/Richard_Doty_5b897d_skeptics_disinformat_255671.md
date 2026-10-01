@@ -290,6 +290,7 @@ next_link:
   short_title: Serpo
   heading_title: What Does Project Serpo Reveal About Doty's Claims?
 date: '2026-06-11 21:02:47 '
+last_modified_at: '2026-06-11 21:02:47 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671-overview.webp

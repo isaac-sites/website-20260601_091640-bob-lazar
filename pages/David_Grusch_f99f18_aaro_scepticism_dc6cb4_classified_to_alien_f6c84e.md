@@ -254,6 +254,7 @@ next_link:
   short_title: Trust Gap
   heading_title: Can an official denial settle this?
 date: '2026-06-11 21:01:32 '
+last_modified_at: '2026-06-11 21:01:32 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_aaro_scepticism_dc6cb4_classified_to_alien_f6c84e-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_aaro_scepticism_dc6cb4_classified_to_alien_f6c84e-Illustration-1.webp

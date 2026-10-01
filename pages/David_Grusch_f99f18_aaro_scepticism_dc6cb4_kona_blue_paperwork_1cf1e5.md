@@ -248,6 +248,7 @@ next_link:
   short_title: Secrecy Gap
   heading_title: When does classified become alien?
 date: '2026-06-11 21:01:33 '
+last_modified_at: '2026-06-11 21:01:33 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_aaro_scepticism_dc6cb4_kona_blue_paperwork_1cf1e5-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_aaro_scepticism_dc6cb4_kona_blue_paperwork_1cf1e5-Illustration-1.webp

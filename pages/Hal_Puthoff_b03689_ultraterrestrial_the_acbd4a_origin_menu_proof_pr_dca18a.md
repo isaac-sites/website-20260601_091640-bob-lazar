@@ -254,6 +254,7 @@ next_link:
   short_title: Sensor Tests
   heading_title: The Test That Could Make UAP Claims Stronger
 date: '2026-06-11 21:06:50 '
+last_modified_at: '2026-06-11 21:06:50 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_origin_menu_proof_pr_dca18a-Illustration-1.webp

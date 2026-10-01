@@ -248,6 +248,7 @@ next_link:
   short_title: Medical role
   heading_title: Why Green's medical credentials matter
 date: '2026-06-11 21:05:37 '
+last_modified_at: '2026-06-11 21:05:37 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_verified_career_a33fda_cia_science_roles_bdc9f1-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_verified_career_a33fda_cia_science_roles_bdc9f1-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-first-hand-vs-second/
 description: Focused pages that expand on Source Type.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_first_hand_vs_second_c63842
 parent_title: Source Type

@@ -254,6 +254,7 @@ next_link:
   short_title: Threat work
   heading_title: Why counterproliferation matters to supporters
 date: '2026-06-11 21:05:21 '
+last_modified_at: '2026-06-11 21:05:21 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_document_media_credi_c126a9-Illustration-1.webp

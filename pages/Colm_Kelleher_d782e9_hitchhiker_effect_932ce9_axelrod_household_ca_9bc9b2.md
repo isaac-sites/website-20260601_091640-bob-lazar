@@ -248,6 +248,7 @@ next_link:
   short_title: Contagion model
   heading_title: Is the hitchhiker effect really contagious?
 date: '2026-06-11 21:08:02 '
+last_modified_at: '2026-06-11 21:08:02 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_axelrod_household_ca_9bc9b2-Illustration-1.webp

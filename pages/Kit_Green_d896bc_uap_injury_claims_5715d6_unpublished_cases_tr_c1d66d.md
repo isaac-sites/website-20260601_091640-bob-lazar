@@ -254,6 +254,7 @@ next_link:
   short_title: Microwaves
   heading_title: Could microwaves explain close encounter injuries?
 date: '2026-06-11 21:05:57 '
+last_modified_at: '2026-06-11 21:05:57 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_unpublished_cases_tr_c1d66d-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_unpublished_cases_tr_c1d66d-Illustration-1.webp

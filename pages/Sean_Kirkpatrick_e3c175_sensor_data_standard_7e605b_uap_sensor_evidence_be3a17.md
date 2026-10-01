@@ -254,6 +254,7 @@ next_link:
   short_title: Western Case
   heading_title: How Data Reconstruction Changed a UAP Case
 date: '2026-06-11 21:04:30 '
+last_modified_at: '2026-06-11 21:04:30 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_sensor_evidence_be3a17-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_uap_sensor_evidence_be3a17-Illustration-1.webp

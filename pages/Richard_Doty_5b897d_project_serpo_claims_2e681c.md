@@ -290,6 +290,7 @@ next_link:
   short_title: Statements
   heading_title: How Consistent Are Doty's Public Stories?
 date: '2026-06-11 21:02:46 '
+last_modified_at: '2026-06-11 21:02:46 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c-overview.webp

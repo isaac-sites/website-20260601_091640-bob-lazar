@@ -290,6 +290,7 @@ next_link:
   short_title: Transparency
   heading_title: Can The Public Trust A Classified Review?
 date: '2026-06-11 21:04:09 '
+last_modified_at: '2026-06-11 21:04:09 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109-overview.webp

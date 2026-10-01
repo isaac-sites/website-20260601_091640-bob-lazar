@@ -290,6 +290,7 @@ next_link:
   short_title: Skinwalker
   heading_title: Why Skinwalker Ranch Defines Kelleher's Reputation
 date: '2026-06-11 21:07:36 '
+last_modified_at: '2026-06-11 21:07:36 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063-overview.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: Debate
   heading_title: Why Supporters And Sceptics Disagree On Kelleher
 date: '2026-06-11 21:07:41 '
+last_modified_at: '2026-06-11 21:07:41 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010-overview.webp

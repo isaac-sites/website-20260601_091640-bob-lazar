@@ -254,6 +254,7 @@ next_link:
   short_title: Ranch sighting
   heading_title: How strong is Lacatski's ranch sighting?
 date: '2026-06-11 21:03:58 '
+last_modified_at: '2026-06-11 21:03:58 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_hitchhiker_effect_te_5af590-Illustration-1.webp

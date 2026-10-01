@@ -254,6 +254,7 @@ next_link:
   short_title: Nature paper
   heading_title: Did the Nature paper prove anything?
 date: '2026-06-11 21:06:44 '
+last_modified_at: '2026-06-11 21:06:44 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_sri_controls_leakage_ed0ef6-Illustration-1.webp

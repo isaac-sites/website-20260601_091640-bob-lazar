@@ -254,6 +254,7 @@ next_link:
   short_title: Retrieval overlaps
   heading_title: Do Doty's claims match modern whistleblowers?
 date: '2026-06-11 21:03:19 '
+last_modified_at: '2026-06-11 21:03:19 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_disinfo_methods_valu_922a73-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_disinfo_methods_valu_922a73-Illustration-1.webp

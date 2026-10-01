@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-human-effects/
 description: Focused pages that expand on Human Effects.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Colm_Kelleher_d782e9_human_effects_214063
 parent_title: Human Effects

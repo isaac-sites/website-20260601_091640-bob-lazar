@@ -254,6 +254,7 @@ next_link:
   short_title: Warp Drive
   heading_title: Did the warp drive papers prove anything?
 date: '2026-06-11 21:03:45 '
+last_modified_at: '2026-06-11 21:03:45 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_cloaking_uap_overrea_490570-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682_cloaking_uap_overrea_490570-Illustration-1.webp

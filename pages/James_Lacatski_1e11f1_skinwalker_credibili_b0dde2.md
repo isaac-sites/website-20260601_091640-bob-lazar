@@ -290,6 +290,7 @@ next_link:
   short_title: Speculative Papers
   heading_title: Do The Technical Papers Prove Anything?
 date: '2026-06-11 21:03:28 '
+last_modified_at: '2026-06-11 21:03:28 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2-overview.webp

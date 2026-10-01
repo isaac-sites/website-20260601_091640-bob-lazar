@@ -254,6 +254,7 @@ next_link:
   short_title: Witness chain
   heading_title: How strong is Grusch's witness chain?
 date: '2026-06-11 21:01:26 '
+last_modified_at: '2026-06-11 21:01:26 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_reverse_engineering_104f70-Illustration-1.webp

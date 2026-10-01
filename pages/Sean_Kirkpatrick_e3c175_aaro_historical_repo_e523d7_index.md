@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-aaro-aaro-report-8d3982/
 description: Focused pages that expand on AARO Report.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7
 parent_title: AARO Report

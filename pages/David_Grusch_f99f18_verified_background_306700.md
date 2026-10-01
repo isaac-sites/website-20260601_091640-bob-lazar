@@ -290,6 +290,7 @@ next_link:
   short_title: Core Claims
   heading_title: What Did David Grusch Actually Claim?
 date: '2026-06-11 21:01:22 '
+last_modified_at: '2026-06-11 21:01:22 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_verified_background_306700-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_verified_background_306700-overview.webp

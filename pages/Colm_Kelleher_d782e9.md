@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-david-grusch/
   short_title: Grusch
 date: '2026-06-11 21:07:35 '
+last_modified_at: '2026-06-11 21:07:35 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9-overview.webp

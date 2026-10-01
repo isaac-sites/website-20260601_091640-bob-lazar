@@ -254,6 +254,7 @@ next_link:
   short_title: Files vs Books
   heading_title: What the files prove and leave out
 date: '2026-06-11 21:03:55 '
+last_modified_at: '2026-06-11 21:03:55 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_clearance_false_vali_ab90ec-Illustration-1.webp

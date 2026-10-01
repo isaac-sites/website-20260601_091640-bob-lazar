@@ -254,6 +254,7 @@ next_link:
   short_title: Unresolved UAP
   heading_title: When unidentified does not mean alien
 date: '2026-06-11 21:02:09 '
+last_modified_at: '2026-06-11 21:02:09 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7_nasa_odni_official_s_c2f06c-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7_nasa_odni_official_s_c2f06c-Illustration-1.webp

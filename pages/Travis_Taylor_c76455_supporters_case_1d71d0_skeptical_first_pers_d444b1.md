@@ -254,6 +254,7 @@ next_link:
   short_title: Sensor literacy
   heading_title: Why Taylor's technical background matters to believers
 date: '2026-06-11 21:08:42 '
+last_modified_at: '2026-06-11 21:08:42 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_skeptical_first_pers_d444b1-Illustration-1.webp

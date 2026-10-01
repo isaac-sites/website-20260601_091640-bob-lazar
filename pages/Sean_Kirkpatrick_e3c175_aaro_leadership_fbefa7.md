@@ -290,6 +290,7 @@ next_link:
   short_title: Core Claims
   heading_title: What Did Kirkpatrick Actually Claim?
 date: '2026-06-11 21:04:04 '
+last_modified_at: '2026-06-11 21:04:04 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7-overview.webp

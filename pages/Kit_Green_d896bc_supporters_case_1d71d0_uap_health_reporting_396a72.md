@@ -254,6 +254,7 @@ next_link:
   short_title: Known causes
   heading_title: Could ordinary physics explain the injuries?
 date: '2026-06-11 21:05:48 '
+last_modified_at: '2026-06-11 21:05:48 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_uap_health_reporting_396a72-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_uap_health_reporting_396a72-Illustration-1.webp

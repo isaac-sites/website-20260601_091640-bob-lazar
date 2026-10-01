@@ -290,6 +290,7 @@ next_link:
   short_title: Remote Viewing
   heading_title: Did Remote Viewing Help or Hurt His Credibility?
 date: '2026-06-11 21:06:15 '
+last_modified_at: '2026-06-11 21:06:15 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69-overview.webp

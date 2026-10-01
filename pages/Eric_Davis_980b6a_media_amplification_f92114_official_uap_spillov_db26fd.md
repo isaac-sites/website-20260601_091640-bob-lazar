@@ -254,6 +254,7 @@ next_link:
   short_title: Quote spread
   heading_title: How one quote reshaped Davis's reputation
 date: '2026-06-11 21:07:20 '
+last_modified_at: '2026-06-11 21:07:20 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_official_uap_spillov_db26fd-Illustration-1.webp

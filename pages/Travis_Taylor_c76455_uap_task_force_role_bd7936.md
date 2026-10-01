@@ -284,6 +284,7 @@ prev_link:
   short_title: Supporters
   heading_title: Why Do Supporters Trust Taylor's UAP Work?
 date: '2026-06-11 21:08:24 '
+last_modified_at: '2026-06-11 21:08:24 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936-overview.webp

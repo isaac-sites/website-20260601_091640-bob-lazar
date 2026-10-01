@@ -248,6 +248,7 @@ next_link:
   short_title: Havana Analogy
   heading_title: What Havana Syndrome caution means for UAP injuries
 date: '2026-06-11 21:05:40 '
+last_modified_at: '2026-06-11 21:05:40 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_credibility_shortcut_b5e05c-Illustration-1.webp

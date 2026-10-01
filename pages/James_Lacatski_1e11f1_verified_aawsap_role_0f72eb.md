@@ -290,6 +290,7 @@ next_link:
   short_title: Skinwalker
   heading_title: Does Skinwalker Ranch Help Or Hurt Him?
 date: '2026-06-11 21:03:29 '
+last_modified_at: '2026-06-11 21:03:29 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb-overview.webp

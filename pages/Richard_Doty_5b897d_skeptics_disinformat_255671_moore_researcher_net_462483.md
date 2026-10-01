@@ -248,6 +248,7 @@ prev_link:
   short_title: Human programmes
   heading_title: Were alien stories useful because they were unbelievable?
 date: '2026-06-11 21:03:16 '
+last_modified_at: '2026-06-11 21:03:16 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_moore_researcher_net_462483-Illustration-1.webp

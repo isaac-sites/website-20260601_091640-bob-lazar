@@ -248,6 +248,7 @@ prev_link:
   short_title: Claim Labels
   heading_title: How to label Green claims without overreaching
 date: '2026-06-11 21:06:06 '
+last_modified_at: '2026-06-11 21:06:06 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c_nolan_mri_corroborat_cf7b35-Illustration-1.webp

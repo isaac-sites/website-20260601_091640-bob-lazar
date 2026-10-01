@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-hal-puthoff/
   short_title: Puthoff
 date: '2026-06-11 21:06:52 '
+last_modified_at: '2026-06-11 21:06:52 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a-overview.webp

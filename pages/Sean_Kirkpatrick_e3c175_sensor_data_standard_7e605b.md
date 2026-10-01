@@ -290,6 +290,7 @@ next_link:
   short_title: Supporters
   heading_title: Why Sceptics Think Kirkpatrick Was Needed
 date: '2026-06-11 21:04:08 '
+last_modified_at: '2026-06-11 21:04:08 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b-overview.webp

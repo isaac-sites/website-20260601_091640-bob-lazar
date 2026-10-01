@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-dia-speculative-phys/
 description: Focused pages that expand on DIA Papers.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_dia_speculative_phys_5cd3ff
 parent_title: DIA Papers

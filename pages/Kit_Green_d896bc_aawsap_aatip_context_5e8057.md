@@ -284,6 +284,7 @@ next_link:
   short_title: Career Record
   heading_title: What Can Be Verified About Kit Green?
 date: '2026-06-11 21:05:34 '
+last_modified_at: '2026-06-11 21:05:34 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057-overview.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: DIA Papers
   heading_title: What Do The DIA Papers Really Show?
 date: '2026-06-11 21:06:56 '
+last_modified_at: '2026-06-11 21:06:56 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b-overview.webp

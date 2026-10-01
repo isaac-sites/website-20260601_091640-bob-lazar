@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-biological/
 description: Focused pages that expand on Biological Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Luis_Elizondo_3b9d7b_biological_remains_c_55bec2
 parent_title: Biological Claims

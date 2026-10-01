@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-index/
 description: Focused pages that expand on Was Richard Doty an Insider or Disinformer?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Richard_Doty_5b897d
 parent_title: Was Richard Doty an Insider or Disinformer?

@@ -248,6 +248,7 @@ prev_link:
   short_title: Date Shift
   heading_title: Did Ramirez's 2027 Claim Change Over Time?
 date: '2026-06-11 21:05:01 '
+last_modified_at: '2026-06-11 21:05:01 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_unnamed_source_2027_3c4af7-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_unnamed_source_2027_3c4af7-Illustration-1.webp

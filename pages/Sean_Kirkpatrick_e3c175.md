@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-colm-kelleher/
   short_title: Kelleher
 date: '2026-06-11 21:04:03 '
+last_modified_at: '2026-06-11 21:04:03 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175-overview.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Official Reviews
   heading_title: Do official UAP reviews support Green overclaims?
 date: '2026-06-11 21:05:41 '
+last_modified_at: '2026-06-11 21:05:41 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7_havana_uap_injury_ca_025cf9-Illustration-1.webp

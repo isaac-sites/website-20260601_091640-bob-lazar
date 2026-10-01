@@ -290,6 +290,7 @@ next_link:
   short_title: Verified Work
   heading_title: What Can Actually Be Verified?
 date: '2026-06-11 21:06:58 '
+last_modified_at: '2026-06-11 21:06:58 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842-overview.webp

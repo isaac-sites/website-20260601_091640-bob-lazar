@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-uap-injury-claims/
 description: Focused pages that expand on Injury Claims.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kit_Green_d896bc_uap_injury_claims_5715d6
 parent_title: Injury Claims

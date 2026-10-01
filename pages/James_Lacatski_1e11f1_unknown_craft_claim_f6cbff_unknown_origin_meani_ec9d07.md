@@ -248,6 +248,7 @@ prev_link:
   short_title: Chain of Custody
   heading_title: Can the alleged craft be traced and verified?
 date: '2026-06-11 21:03:51 '
+last_modified_at: '2026-06-11 21:03:51 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_unknown_origin_meani_ec9d07-Illustration-1.webp
