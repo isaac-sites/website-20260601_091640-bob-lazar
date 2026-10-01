@@ -254,6 +254,7 @@ next_link:
   short_title: TV Editing
   heading_title: Does the edit make Taylor look more certain?
 date: '2026-06-11 21:08:29 '
+last_modified_at: '2026-06-11 21:08:29 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_science_entertainmen_245d8e-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Sensor cases
   heading_title: Do multiple sensors make UAP alien?
 date: '2026-06-11 21:05:18 '
+last_modified_at: '2026-06-11 21:05:18 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_nasa_data_vs_countdo_0483bd-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: The Confusion Between AAWSAP And AATIP
   heading_title: Did the AATIP label inflate Puthoff's role?
 date: '2026-06-11 21:06:33 '
+last_modified_at: '2026-06-11 21:06:33 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_skinwalker_mission_d_5bc4b3-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_skinwalker_mission_d_5bc4b3-Illustration-1.webp

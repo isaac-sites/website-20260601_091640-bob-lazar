@@ -248,6 +248,7 @@ prev_link:
   short_title: Guarded comments
   heading_title: Does Davis's silence help or hurt him?
 date: '2026-06-11 21:07:02 '
+last_modified_at: '2026-06-11 21:07:02 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_insider_circles_fd04fe-Illustration-1.webp

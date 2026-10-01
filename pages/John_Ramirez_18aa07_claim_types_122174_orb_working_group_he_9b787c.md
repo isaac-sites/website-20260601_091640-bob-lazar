@@ -254,6 +254,7 @@ next_link:
   short_title: Radar claims
   heading_title: How strong are Ramirez's radar anomaly claims?
 date: '2026-06-11 21:04:57 '
+last_modified_at: '2026-06-11 21:04:57 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_claim_types_122174_orb_working_group_he_9b787c-Illustration-1.webp

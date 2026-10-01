@@ -254,6 +254,7 @@ next_link:
   short_title: Sworn testimony
   heading_title: Did oath taking make Grusch more credible?
 date: '2026-06-11 21:01:42 '
+last_modified_at: '2026-06-11 21:01:42 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_pilot_context_grusch_db11fd-Illustration-1.webp

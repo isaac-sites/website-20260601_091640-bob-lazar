@@ -248,6 +248,7 @@ prev_link:
   short_title: FOIA media
   heading_title: When UFO media makes an insider sound serious
 date: '2026-06-11 21:05:20 '
+last_modified_at: '2026-06-11 21:05:20 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_counterproliferation_974d04-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636_counterproliferation_974d04-Illustration-1.webp

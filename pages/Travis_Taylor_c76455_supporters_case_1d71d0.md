@@ -290,6 +290,7 @@ next_link:
   short_title: Task Force
   heading_title: What Did Taylor Actually Do for the UAP Task Force?
 date: '2026-06-11 21:08:21 '
+last_modified_at: '2026-06-11 21:08:21 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0-overview.webp

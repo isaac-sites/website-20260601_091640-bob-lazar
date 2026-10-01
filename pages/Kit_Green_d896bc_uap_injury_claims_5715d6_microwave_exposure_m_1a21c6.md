@@ -248,6 +248,7 @@ prev_link:
   short_title: Hidden cases
   heading_title: What can hidden injury files really prove?
 date: '2026-06-11 21:05:56 '
+last_modified_at: '2026-06-11 21:05:56 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_microwave_exposure_m_1a21c6-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6_microwave_exposure_m_1a21c6-Illustration-1.webp

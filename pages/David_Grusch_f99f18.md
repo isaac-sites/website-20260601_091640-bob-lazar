@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-eric-davis/
   short_title: Davis
 date: '2026-06-11 21:01:17 '
+last_modified_at: '2026-06-11 21:01:17 '
 header:
   og_image: /assets/images/David_Grusch_f99f18-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18-overview.webp

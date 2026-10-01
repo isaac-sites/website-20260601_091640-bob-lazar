@@ -248,6 +248,7 @@ prev_link:
   short_title: Official context
   heading_title: Why official caution keeps repeating
 date: '2026-06-11 21:02:11 '
+last_modified_at: '2026-06-11 21:02:11 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7_unresolved_uap_alien_2ed7d0-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7_unresolved_uap_alien_2ed7d0-Illustration-1.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: Senate Hearing
   heading_title: Why Did 650 UAP Cases Matter?
 date: '2026-06-11 21:04:06 '
+last_modified_at: '2026-06-11 21:04:06 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58-overview.webp

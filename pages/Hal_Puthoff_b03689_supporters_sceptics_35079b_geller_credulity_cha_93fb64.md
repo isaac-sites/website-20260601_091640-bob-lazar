@@ -254,6 +254,7 @@ next_link:
   short_title: Testable claims
   heading_title: Can failed proof still help credibility?
 date: '2026-06-11 21:06:26 '
+last_modified_at: '2026-06-11 21:06:26 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_geller_credulity_cha_93fb64-Illustration-1.webp

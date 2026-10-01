@@ -284,6 +284,7 @@ prev_link:
   short_title: Statements
   heading_title: How Consistent Are Doty's Public Stories?
 date: '2026-06-11 21:02:48 '
+last_modified_at: '2026-06-11 21:02:48 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585-overview.webp

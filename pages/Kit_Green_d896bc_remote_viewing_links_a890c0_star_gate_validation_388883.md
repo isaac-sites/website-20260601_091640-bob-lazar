@@ -248,6 +248,7 @@ prev_link:
   short_title: SRI Origins
   heading_title: What Green's SRI Link Really Proves
 date: '2026-06-11 21:06:09 '
+last_modified_at: '2026-06-11 21:06:09 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_star_gate_validation_388883-Illustration-1.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: Influence
   heading_title: How Grusch Shifted UAP Debate
 date: '2026-06-11 21:01:24 '
+last_modified_at: '2026-06-11 21:01:24 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_second_hand_testimon_091aaa-overview.webp

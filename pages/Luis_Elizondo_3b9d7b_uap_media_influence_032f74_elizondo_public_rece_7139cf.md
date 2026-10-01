@@ -248,6 +248,7 @@ prev_link:
   short_title: Media Strategy
   heading_title: How Luis Elizondo's Media Presence Shaped UAP Discourse
 date: '2026-06-11 21:02:25 '
+last_modified_at: '2026-06-11 21:02:25 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_public_rece_7139cf-Illustration-1.webp

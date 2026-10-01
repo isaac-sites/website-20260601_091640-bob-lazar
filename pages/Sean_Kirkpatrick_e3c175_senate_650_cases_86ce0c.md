@@ -290,6 +290,7 @@ next_link:
   short_title: Sensor Data
   heading_title: Why Better Sensors Change UAP Claims
 date: '2026-06-11 21:04:06 '
+last_modified_at: '2026-06-11 21:04:06 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c-overview.webp

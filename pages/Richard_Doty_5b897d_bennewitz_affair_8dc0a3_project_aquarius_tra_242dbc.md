@@ -248,6 +248,7 @@ next_link:
   short_title: Cover story
   heading_title: Was the UFO story a shield for secrets?
 date: '2026-06-11 21:02:56 '
+last_modified_at: '2026-06-11 21:02:56 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_project_aquarius_tra_242dbc-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_project_aquarius_tra_242dbc-Illustration-1.webp

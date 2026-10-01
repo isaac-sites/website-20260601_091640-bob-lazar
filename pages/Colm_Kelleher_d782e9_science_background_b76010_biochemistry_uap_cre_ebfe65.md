@@ -254,6 +254,7 @@ next_link:
   short_title: Skinwalker Limits
   heading_title: Can Skinwalker Ranch Claims Be Scientifically Tested?
 date: '2026-06-11 21:08:09 '
+last_modified_at: '2026-06-11 21:08:09 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_biochemistry_uap_cre_ebfe65-Illustration-1.webp

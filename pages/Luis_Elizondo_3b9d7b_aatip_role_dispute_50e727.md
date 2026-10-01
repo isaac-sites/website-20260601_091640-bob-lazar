@@ -290,6 +290,7 @@ next_link:
   short_title: Biological Claims
   heading_title: Why the Biological Claims Need Caution
 date: '2026-06-11 21:02:02 '
+last_modified_at: '2026-06-11 21:02:02 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_aatip_role_dispute_50e727-overview.webp

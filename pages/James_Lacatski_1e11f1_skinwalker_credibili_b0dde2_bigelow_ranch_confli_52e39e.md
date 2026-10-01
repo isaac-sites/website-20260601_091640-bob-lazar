@@ -248,6 +248,7 @@ next_link:
   short_title: Hitchhiker effect
   heading_title: Does the hitchhiker effect help or hurt?
 date: '2026-06-11 21:03:56 '
+last_modified_at: '2026-06-11 21:03:56 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_skinwalker_credibili_b0dde2_bigelow_ranch_confli_52e39e-Illustration-1.webp

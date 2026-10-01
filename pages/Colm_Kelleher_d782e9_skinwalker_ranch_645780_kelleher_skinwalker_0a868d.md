@@ -254,6 +254,7 @@ next_link:
   short_title: Private Files
   heading_title: Why Skinwalker Evidence Remains Hard to Check
 date: '2026-06-11 21:07:54 '
+last_modified_at: '2026-06-11 21:07:54 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_kelleher_skinwalker_0a868d-Illustration-1.webp

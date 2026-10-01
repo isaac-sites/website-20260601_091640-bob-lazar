@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-aawsap-aatip/
 description: Focused pages that expand on AAWSAP AATIP.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce
 parent_title: AAWSAP AATIP

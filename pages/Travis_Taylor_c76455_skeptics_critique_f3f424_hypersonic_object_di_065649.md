@@ -248,6 +248,7 @@ next_link:
   short_title: Raw Data Gap
   heading_title: Where is the raw data behind the claims?
 date: '2026-06-11 21:08:47 '
+last_modified_at: '2026-06-11 21:08:47 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_hypersonic_object_di_065649-Illustration-1.webp

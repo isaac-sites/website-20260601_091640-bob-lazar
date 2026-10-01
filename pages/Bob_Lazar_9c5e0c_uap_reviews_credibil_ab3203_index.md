@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-uap-reviews-credibil/
 description: Focused pages that expand on UAP Reviews.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203
 parent_title: UAP Reviews

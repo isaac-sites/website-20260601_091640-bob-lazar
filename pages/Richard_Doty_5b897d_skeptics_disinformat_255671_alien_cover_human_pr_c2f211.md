@@ -254,6 +254,7 @@ next_link:
   short_title: Moore network
   heading_title: How did false claims travel through UFO researchers?
 date: '2026-06-11 21:03:13 '
+last_modified_at: '2026-06-11 21:03:13 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_skeptics_disinformat_255671_alien_cover_human_pr_c2f211-Illustration-1.webp

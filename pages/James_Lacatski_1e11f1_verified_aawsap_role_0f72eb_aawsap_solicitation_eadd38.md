@@ -248,6 +248,7 @@ prev_link:
   short_title: BAASS reports
   heading_title: How much did the BAASS contract really show?
 date: '2026-06-11 21:03:52 '
+last_modified_at: '2026-06-11 21:03:52 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_aawsap_solicitation_eadd38-Illustration-1.webp

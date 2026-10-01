@@ -254,6 +254,7 @@ next_link:
   short_title: Wider Casework
   heading_title: Was AAWSAP bigger than Skinwalker?
 date: '2026-06-11 21:08:14 '
+last_modified_at: '2026-06-11 21:08:14 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_greenwood_review_cha_cdf3ba-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_greenwood_review_cha_cdf3ba-Illustration-1.webp

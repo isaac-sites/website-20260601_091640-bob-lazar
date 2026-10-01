@@ -248,6 +248,7 @@ next_link:
   short_title: Ranch sightings
   heading_title: What Did Taylor Actually See at the Ranch?
 date: '2026-06-11 21:08:43 '
+last_modified_at: '2026-06-11 21:08:43 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102_official_cases_ampli_d4a9f4-Illustration-1.webp

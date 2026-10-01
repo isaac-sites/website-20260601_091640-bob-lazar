@@ -248,6 +248,7 @@ prev_link:
   short_title: DIA paper list
   heading_title: Did Pentagon papers prove exotic propulsion?
 date: '2026-06-11 21:06:40 '
+last_modified_at: '2026-06-11 21:06:40 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_vacuum_propulsion_ga_7e4dc5-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_vacuum_propulsion_ga_7e4dc5-Illustration-1.webp

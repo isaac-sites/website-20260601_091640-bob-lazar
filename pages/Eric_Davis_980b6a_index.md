@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-index/
 description: Focused pages that expand on How Credible Is Eric Davis?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a
 parent_title: How Credible Is Eric Davis?

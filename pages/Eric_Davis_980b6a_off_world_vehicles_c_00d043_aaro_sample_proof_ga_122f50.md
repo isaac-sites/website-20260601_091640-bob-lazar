@@ -248,6 +248,7 @@ next_link:
   short_title: Briefing Trail
   heading_title: Who actually heard the off world claim?
 date: '2026-06-11 21:07:28 '
+last_modified_at: '2026-06-11 21:07:28 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_aaro_sample_proof_ga_122f50-Illustration-1.webp

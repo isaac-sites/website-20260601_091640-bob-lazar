@@ -248,6 +248,7 @@ prev_link:
   short_title: Health reports
   heading_title: Did officials later take UAP injuries seriously?
 date: '2026-06-11 21:05:46 '
+last_modified_at: '2026-06-11 21:05:46 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_supporters_case_1d71d0_known_injury_mechani_ea9c89-Illustration-1.webp

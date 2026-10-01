@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-sensor-data/
 description: Focused pages that expand on Sensor Data.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b
 parent_title: Sensor Data

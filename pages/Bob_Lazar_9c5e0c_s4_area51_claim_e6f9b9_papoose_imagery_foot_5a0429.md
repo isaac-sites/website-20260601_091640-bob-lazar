@@ -254,6 +254,7 @@ next_link:
   short_title: Records gap
   heading_title: What Area 51 Records Do Not Prove
 date: '2026-06-11 21:00:49 '
+last_modified_at: '2026-06-11 21:00:49 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_papoose_imagery_foot_5a0429-Illustration-1.webp

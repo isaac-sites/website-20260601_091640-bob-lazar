@@ -290,6 +290,7 @@ next_link:
   short_title: Background
   heading_title: Does Kelleher's Science Career Help His Case?
 date: '2026-06-11 21:07:39 '
+last_modified_at: '2026-06-11 21:07:39 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840-overview.webp

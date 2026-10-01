@@ -290,6 +290,7 @@ next_link:
   short_title: TTSA Materials
   heading_title: Did The Materials Claims Deliver?
 date: '2026-06-11 21:06:16 '
+last_modified_at: '2026-06-11 21:06:16 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6-overview.webp

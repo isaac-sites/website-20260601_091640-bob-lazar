@@ -254,6 +254,7 @@ next_link:
   short_title: Kirtland files
   heading_title: What the Kirtland Files Really Prove
 date: '2026-06-11 21:03:04 '
+last_modified_at: '2026-06-11 21:03:04 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_bennewitz_afosi_limi_1da5d9-Illustration-1.webp

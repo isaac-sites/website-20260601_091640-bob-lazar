@@ -290,6 +290,7 @@ next_link:
   short_title: Hearing
   heading_title: Why the 2023 Hearing Changed the Story
 date: '2026-06-11 21:01:18 '
+last_modified_at: '2026-06-11 21:01:18 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9-overview.webp

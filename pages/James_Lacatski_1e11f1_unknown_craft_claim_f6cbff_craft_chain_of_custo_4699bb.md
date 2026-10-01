@@ -254,6 +254,7 @@ next_link:
   short_title: Unknown Origin
   heading_title: Does 'unknown origin' mean alien technology?
 date: '2026-06-11 21:03:50 '
+last_modified_at: '2026-06-11 21:03:50 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_craft_chain_of_custo_4699bb-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_unknown_craft_claim_f6cbff_craft_chain_of_custo_4699bb-Illustration-1.webp

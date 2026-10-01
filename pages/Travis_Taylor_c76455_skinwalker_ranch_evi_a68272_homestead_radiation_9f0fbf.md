@@ -254,6 +254,7 @@ next_link:
   short_title: TV vs science
   heading_title: When does ranch TV become science?
 date: '2026-06-11 21:08:49 '
+last_modified_at: '2026-06-11 21:08:49 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_homestead_radiation_9f0fbf-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_homestead_radiation_9f0fbf-Illustration-1.webp

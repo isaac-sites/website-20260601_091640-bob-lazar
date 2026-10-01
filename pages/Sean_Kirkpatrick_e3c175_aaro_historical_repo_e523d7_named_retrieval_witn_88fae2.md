@@ -248,6 +248,7 @@ prev_link:
   short_title: Material Sample
   heading_title: Was the alleged alien material just an alloy?
 date: '2026-06-11 21:04:34 '
+last_modified_at: '2026-06-11 21:04:34 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_historical_repo_e523d7_named_retrieval_witn_88fae2-Illustration-1.webp

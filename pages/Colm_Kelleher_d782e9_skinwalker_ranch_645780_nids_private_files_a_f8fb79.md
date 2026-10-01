@@ -248,6 +248,7 @@ prev_link:
   short_title: Own Sighting
   heading_title: What Did Kelleher Actually See at Skinwalker?
 date: '2026-06-11 21:07:55 '
+last_modified_at: '2026-06-11 21:07:55 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_skinwalker_ranch_645780_nids_private_files_a_f8fb79-Illustration-1.webp

@@ -248,6 +248,7 @@ prev_link:
   short_title: Proof Standard
   heading_title: When Does a UAP Sighting Become Strong Evidence?
 date: '2026-06-11 21:04:37 '
+last_modified_at: '2026-06-11 21:04:37 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_sensor_data_standard_7e605b_western_us_objects_c_b6ae00-Illustration-1.webp

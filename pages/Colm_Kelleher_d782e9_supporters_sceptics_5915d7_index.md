@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-supporters/
 description: Focused pages that expand on Debate.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Colm_Kelleher_d782e9_supporters_sceptics_5915d7
 parent_title: Debate

@@ -248,6 +248,7 @@ prev_link:
   short_title: Howe Meeting
   heading_title: The Manila Folder That Proved Too Little
 date: '2026-06-11 21:03:12 '
+last_modified_at: '2026-06-11 21:03:12 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_serpo_media_afterlif_c77909-Illustration-1.webp

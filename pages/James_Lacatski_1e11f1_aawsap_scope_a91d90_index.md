@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-aawsap-scope/
 description: Focused pages that expand on AAWSAP Scope.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: James_Lacatski_1e11f1_aawsap_scope_a91d90
 parent_title: AAWSAP Scope

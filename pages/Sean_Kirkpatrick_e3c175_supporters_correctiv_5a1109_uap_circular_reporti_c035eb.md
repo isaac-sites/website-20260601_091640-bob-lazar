@@ -248,6 +248,7 @@ prev_link:
   short_title: Honest Mistakes
   heading_title: Can credible UAP witnesses still be wrong?
 date: '2026-06-11 21:04:41 '
+last_modified_at: '2026-06-11 21:04:41 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_uap_circular_reporti_c035eb-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_supporters_correctiv_5a1109_uap_circular_reporti_c035eb-Illustration-1.webp

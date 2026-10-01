@@ -254,6 +254,7 @@ next_link:
   short_title: Source hierarchy
   heading_title: Which Kelleher sources deserve the most weight?
 date: '2026-06-11 21:07:51 '
+last_modified_at: '2026-06-11 21:07:51 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_public_records_c1520f_missing_baass_record_b1964c-Illustration-1.webp

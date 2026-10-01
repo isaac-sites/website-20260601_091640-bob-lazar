@@ -254,6 +254,7 @@ next_link:
   short_title: Public Debate
   heading_title: 'Supporters vs Sceptics: Public Reactions to Elizondo''s UAP Claims'
 date: '2026-06-11 21:02:24 '
+last_modified_at: '2026-06-11 21:02:24 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_media_influ_5b5eb3-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_uap_media_influence_032f74_elizondo_media_influ_5b5eb3-Illustration-1.webp

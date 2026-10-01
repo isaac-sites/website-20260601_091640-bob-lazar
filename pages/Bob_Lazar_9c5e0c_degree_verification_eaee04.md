@@ -284,6 +284,7 @@ next_link:
   short_title: Element 115
   heading_title: Did Element 115 Vindicate Lazar?
 date: '2026-06-11 21:00:39 '
+last_modified_at: '2026-06-11 21:00:39 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04-overview.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Media Afterlife
   heading_title: How Serpo Survived Without Stronger Proof
 date: '2026-06-11 21:03:09 '
+last_modified_at: '2026-06-11 21:03:09 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_howe_doty_insider_th_1f242f-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_project_serpo_claims_2e681c_howe_doty_insider_th_1f242f-Illustration-1.webp

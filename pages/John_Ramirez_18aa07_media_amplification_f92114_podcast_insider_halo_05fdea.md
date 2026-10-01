@@ -248,6 +248,7 @@ prev_link:
   short_title: Gaia Framing
   heading_title: Does polished streaming make claims stronger?
 date: '2026-06-11 21:05:14 '
+last_modified_at: '2026-06-11 21:05:14 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_podcast_insider_halo_05fdea-Illustration-1.webp

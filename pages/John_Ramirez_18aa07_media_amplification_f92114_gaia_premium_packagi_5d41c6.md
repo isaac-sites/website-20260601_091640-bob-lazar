@@ -254,6 +254,7 @@ next_link:
   short_title: Podcast Halo
   heading_title: How podcasts turn credentials into credibility
 date: '2026-06-11 21:05:12 '
+last_modified_at: '2026-06-11 21:05:12 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_media_amplification_f92114_gaia_premium_packagi_5d41c6-Illustration-1.webp
