@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-luis-elizondo/
   short_title: Elizondo
 date: '2026-06-11 21:05:28 '
+last_modified_at: '2026-06-11 21:05:28 '
 header:
   og_image: /assets/images/Kit_Green_d896bc-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc-overview.webp

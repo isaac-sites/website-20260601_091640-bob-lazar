@@ -248,6 +248,7 @@ prev_link:
   short_title: Sceptical first
   heading_title: Does Taylor really start as a sceptic?
 date: '2026-06-11 21:08:40 '
+last_modified_at: '2026-06-11 21:08:40 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_supporters_case_1d71d0_sensor_literacy_cred_07d27d-Illustration-1.webp

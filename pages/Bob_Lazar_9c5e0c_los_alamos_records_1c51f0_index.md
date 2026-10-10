@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-los-alamos-records/
 description: Focused pages that expand on Los Alamos.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_los_alamos_records_1c51f0
 parent_title: Los Alamos

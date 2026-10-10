@@ -248,6 +248,7 @@ next_link:
   short_title: Pilot context
   heading_title: Why the pilots changed Grusch's hearing
 date: '2026-06-11 21:01:40 '
+last_modified_at: '2026-06-11 21:01:40 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_congress_hearing_c6e933_oversight_evidence_g_7babe8-Illustration-1.webp

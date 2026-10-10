@@ -248,6 +248,7 @@ next_link:
   short_title: Official spillover
   heading_title: Did official UAP news validate Davis?
 date: '2026-06-11 21:07:13 '
+last_modified_at: '2026-06-11 21:07:13 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114_credential_stacking_96b043-Illustration-1.webp

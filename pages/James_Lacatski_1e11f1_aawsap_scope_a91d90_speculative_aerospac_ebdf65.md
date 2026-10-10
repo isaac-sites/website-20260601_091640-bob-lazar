@@ -254,6 +254,7 @@ next_link:
   short_title: Skinwalker
   heading_title: Why Skinwalker Ranch complicates AAWSAP
 date: '2026-06-11 21:03:35 '
+last_modified_at: '2026-06-11 21:03:35 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_speculative_aerospac_ebdf65-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_speculative_aerospac_ebdf65-Illustration-1.webp

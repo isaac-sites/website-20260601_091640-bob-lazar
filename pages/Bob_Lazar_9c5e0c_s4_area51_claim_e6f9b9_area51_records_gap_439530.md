@@ -248,6 +248,7 @@ prev_link:
   short_title: Papoose imagery
   heading_title: Should S 4 Have Shown Up on Maps?
 date: '2026-06-11 21:00:44 '
+last_modified_at: '2026-06-11 21:00:44 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9_area51_records_gap_439530-Illustration-1.webp

@@ -248,6 +248,7 @@ next_link:
   short_title: Negative energy
   heading_title: Why negative energy is not alien fuel
 date: '2026-06-11 21:07:23 '
+last_modified_at: '2026-06-11 21:07:23 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_dird_release_credibi_70f6f9-Illustration-1.webp

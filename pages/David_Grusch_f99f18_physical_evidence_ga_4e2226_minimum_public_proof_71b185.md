@@ -248,6 +248,7 @@ prev_link:
   short_title: Photo Proof
   heading_title: Would a UFO photo actually prove Grusch right?
 date: '2026-06-11 21:01:47 '
+last_modified_at: '2026-06-11 21:01:47 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_physical_evidence_ga_4e2226_minimum_public_proof_71b185-Illustration-1.webp

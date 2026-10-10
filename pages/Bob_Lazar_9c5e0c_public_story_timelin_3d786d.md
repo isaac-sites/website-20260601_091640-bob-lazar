@@ -290,6 +290,7 @@ next_link:
   short_title: UAP Reviews
   heading_title: Where Modern UAP Reviews Leave Lazar
 date: '2026-06-11 21:00:42 '
+last_modified_at: '2026-06-11 21:00:42 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d-overview.webp

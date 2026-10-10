@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-speculative/
 description: Focused pages that expand on Speculative Papers.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: James_Lacatski_1e11f1_speculative_science_336682
 parent_title: Speculative Papers

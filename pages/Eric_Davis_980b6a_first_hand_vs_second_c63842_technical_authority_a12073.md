@@ -248,6 +248,7 @@ next_link:
   short_title: Layered memo
   heading_title: What did the Wilson Davis memo really show?
 date: '2026-06-11 21:07:17 '
+last_modified_at: '2026-06-11 21:07:17 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_technical_authority_a12073-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_first_hand_vs_second_c63842_technical_authority_a12073-Illustration-1.webp

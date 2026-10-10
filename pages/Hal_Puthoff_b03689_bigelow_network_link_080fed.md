@@ -290,6 +290,7 @@ next_link:
   short_title: Credibility Split
   heading_title: Why People Disagree About Puthoff
 date: '2026-06-11 21:06:14 '
+last_modified_at: '2026-06-11 21:06:14 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed-overview.webp

@@ -307,6 +307,7 @@ next_link:
   permalink: /was-richard-doty-an-insider-or/
   short_title: Doty
 date: '2026-06-11 21:08:18 '
+last_modified_at: '2026-06-11 21:08:18 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455-overview.webp

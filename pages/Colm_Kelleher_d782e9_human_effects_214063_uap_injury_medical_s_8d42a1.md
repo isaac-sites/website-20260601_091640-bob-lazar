@@ -254,6 +254,7 @@ next_link:
   short_title: Nolan MRI cases
   heading_title: Can the Nolan brain scans carry the claim?
 date: '2026-06-11 21:07:48 '
+last_modified_at: '2026-06-11 21:07:48 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_human_effects_214063_uap_injury_medical_s_8d42a1-Illustration-1.webp

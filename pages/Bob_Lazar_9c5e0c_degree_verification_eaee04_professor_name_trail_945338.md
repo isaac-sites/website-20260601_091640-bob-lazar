@@ -248,6 +248,7 @@ prev_link:
   short_title: MIT records
   heading_title: Why the missing MIT record matters
 date: '2026-06-11 21:00:57 '
+last_modified_at: '2026-06-11 21:00:57 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_professor_name_trail_945338-Illustration-1.webp

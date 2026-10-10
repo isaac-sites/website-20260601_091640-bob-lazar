@@ -248,6 +248,7 @@ prev_link:
   short_title: Safety Risks
   heading_title: Why UAP Still Matter Without Aliens
 date: '2026-06-11 21:04:23 '
+last_modified_at: '2026-06-11 21:04:23 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_unresolved_not_alien_f8453e-Illustration-1.webp

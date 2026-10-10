@@ -254,6 +254,7 @@ next_link:
   short_title: Scope Drift
   heading_title: Did AAWSAP Drift Beyond Its Contract?
 date: '2026-06-11 21:06:05 '
+last_modified_at: '2026-06-11 21:06:05 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057_baass_ten_month_repo_6f897f-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_aawsap_aatip_context_5e8057_baass_ten_month_repo_6f897f-Illustration-1.webp

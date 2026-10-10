@@ -254,6 +254,7 @@ next_link:
   short_title: Solicitation
   heading_title: What did Lacatski's AAWSAP title actually prove?
 date: '2026-06-11 21:04:00 '
+last_modified_at: '2026-06-11 21:04:00 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_verified_aawsap_role_0f72eb_baass_deliverables_a_e9dcda-Illustration-1.webp

@@ -284,6 +284,7 @@ prev_link:
   short_title: Sceptics
   heading_title: Where The Sceptical Case Is Strongest
 date: '2026-06-11 21:04:52 '
+last_modified_at: '2026-06-11 21:04:52 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636-overview-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_supporter_arguments_2e8636-overview.webp

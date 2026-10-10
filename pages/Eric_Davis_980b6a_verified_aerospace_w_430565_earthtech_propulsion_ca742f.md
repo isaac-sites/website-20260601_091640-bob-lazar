@@ -248,6 +248,7 @@ prev_link:
   short_title: Off world claim
   heading_title: Why the off world vehicle claim remains unresolved
 date: '2026-06-11 21:07:33 '
+last_modified_at: '2026-06-11 21:07:33 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_earthtech_propulsion_ca742f-Illustration-1.webp

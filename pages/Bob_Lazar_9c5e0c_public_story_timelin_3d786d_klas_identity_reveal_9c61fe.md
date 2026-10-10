@@ -254,6 +254,7 @@ next_link:
   short_title: Proof gap
   heading_title: What the first Lazar story still could not prove
 date: '2026-06-11 21:01:13 '
+last_modified_at: '2026-06-11 21:01:13 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_klas_identity_reveal_9c61fe-Illustration-1.webp

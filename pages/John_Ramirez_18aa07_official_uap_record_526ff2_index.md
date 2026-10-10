@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-official-uap/
 description: Focused pages that expand on Official Record.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: John_Ramirez_18aa07_official_uap_record_526ff2
 parent_title: Official Record

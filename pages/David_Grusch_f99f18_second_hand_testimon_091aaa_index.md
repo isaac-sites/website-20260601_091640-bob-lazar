@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-second-hand/
 description: Focused pages that expand on Hearsay.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: David_Grusch_f99f18_second_hand_testimon_091aaa
 parent_title: Hearsay

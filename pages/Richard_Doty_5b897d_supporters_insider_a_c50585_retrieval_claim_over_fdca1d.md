@@ -248,6 +248,7 @@ prev_link:
   short_title: Disinfo methods
   heading_title: Can a disinformation source still be useful?
 date: '2026-06-11 21:03:20 '
+last_modified_at: '2026-06-11 21:03:20 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_supporters_insider_a_c50585_retrieval_claim_over_fdca1d-Illustration-1.webp

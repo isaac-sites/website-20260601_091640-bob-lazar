@@ -284,6 +284,7 @@ next_link:
   short_title: AATIP Role
   heading_title: Did Elizondo Really Run AATIP?
 date: '2026-06-11 21:02:00 '
+last_modified_at: '2026-06-11 21:02:00 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_aaro_rebuttals_511da7-overview.webp

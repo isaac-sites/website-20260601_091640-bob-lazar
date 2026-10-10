@@ -254,6 +254,7 @@ next_link:
   short_title: Proof gap
   heading_title: What would prove recovered craft?
 date: '2026-06-11 21:02:38 '
+last_modified_at: '2026-06-11 21:02:38 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_kona_blue_evidence_d_9f2b5d-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Sensor Spikes
   heading_title: Do ranch sensor spikes prove anything?
 date: '2026-06-11 21:08:38 '
+last_modified_at: '2026-06-11 21:08:38 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424_raw_ranch_data_gap_8d6a78-Illustration-1.webp

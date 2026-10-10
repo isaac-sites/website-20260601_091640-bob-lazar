@@ -248,6 +248,7 @@ next_link:
   short_title: Retaliation
   heading_title: Would retaliation make Grusch's claims true?
 date: '2026-06-11 21:01:55 '
+last_modified_at: '2026-06-11 21:01:55 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_closed_briefings_gap_f7de07-Illustration-1.webp

@@ -248,6 +248,7 @@ prev_link:
   short_title: Media Shift
   heading_title: From garage rockets to ranch mysteries
 date: '2026-06-11 21:08:30 '
+last_modified_at: '2026-06-11 21:08:30 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_tv_editing_authority_b5d5a5-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133_tv_editing_authority_b5d5a5-Illustration-1.webp

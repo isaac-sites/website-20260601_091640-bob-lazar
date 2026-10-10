@@ -254,6 +254,7 @@ next_link:
   short_title: Warp drive
   heading_title: Did the warp drive paper prove anything real?
 date: '2026-06-11 21:07:16 '
+last_modified_at: '2026-06-11 21:07:16 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff_negative_energy_ufo_d7fc0e-Illustration-1.webp

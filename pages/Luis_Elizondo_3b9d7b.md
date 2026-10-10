@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-travis-taylor-on-uaps/
   short_title: Taylor
 date: '2026-06-11 21:01:59 '
+last_modified_at: '2026-06-11 21:01:59 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b-overview.webp

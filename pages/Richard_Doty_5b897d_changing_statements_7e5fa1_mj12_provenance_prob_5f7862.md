@@ -248,6 +248,7 @@ prev_link:
   short_title: Claim boundaries
   heading_title: Where Does Doty's Story Change Shape?
 date: '2026-06-11 21:03:01 '
+last_modified_at: '2026-06-11 21:03:01 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_mj12_provenance_prob_5f7862-Illustration-1.webp

@@ -248,6 +248,7 @@ next_link:
   short_title: Mirage Men
   heading_title: Did Mirage Men clarify Doty or deepen the fog?
 date: '2026-06-11 21:03:07 '
+last_modified_at: '2026-06-11 21:03:07 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_media_mirage_men_leg_b54e2d_authority_transfer_d_b8d028-Illustration-1.webp

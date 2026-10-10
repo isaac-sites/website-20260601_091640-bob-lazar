@@ -254,6 +254,7 @@ next_link:
   short_title: LAMPF Roles
   heading_title: Could LAMPF Experience Explain Lazar's Technical Persona?
 date: '2026-06-11 21:00:52 '
+last_modified_at: '2026-06-11 21:00:52 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_jet_car_article_phys_8adad7-Illustration-1.webp

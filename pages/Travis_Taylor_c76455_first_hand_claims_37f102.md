@@ -284,6 +284,7 @@ next_link:
   short_title: Credentials
   heading_title: Do Taylor's Credentials Prove His UAP Claims?
 date: '2026-06-11 21:08:22 '
+last_modified_at: '2026-06-11 21:08:22 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_first_hand_claims_37f102-overview.webp

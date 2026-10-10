@@ -248,6 +248,7 @@ next_link:
   short_title: Geller test
   heading_title: Did Uri Geller damage Puthoff's credibility?
 date: '2026-06-11 21:06:28 '
+last_modified_at: '2026-06-11 21:06:28 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b_insider_access_proof_c7c552-Illustration-1.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: Human Effects
   heading_title: Should UAP Research Include Human Effects?
 date: '2026-06-11 21:07:40 '
+last_modified_at: '2026-06-11 21:07:40 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-overview-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9-overview.webp

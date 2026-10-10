@@ -290,6 +290,7 @@ next_link:
   short_title: Wilson Memo
   heading_title: Why The Wilson Davis Memo Still Divides Readers
 date: '2026-06-11 21:07:00 '
+last_modified_at: '2026-06-11 21:07:00 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565-overview.webp

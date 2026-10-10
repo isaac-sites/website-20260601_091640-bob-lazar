@@ -254,6 +254,7 @@ next_link:
   short_title: Remote viewing
   heading_title: Did fringe research help or hurt credibility?
 date: '2026-06-11 21:05:49 '
+last_modified_at: '2026-06-11 21:05:49 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_verified_career_a33fda_medical_injury_asses_fa34d7-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_verified_career_a33fda_medical_injury_asses_fa34d7-Illustration-1.webp

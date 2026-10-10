@@ -290,6 +290,7 @@ next_link:
   short_title: Bigelow Links
   heading_title: Why the Bigelow Network Matters
 date: '2026-06-11 21:06:11 '
+last_modified_at: '2026-06-11 21:06:11 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d-overview.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Reid Wording
   heading_title: How cautious wording became a stronger story
 date: '2026-06-11 21:07:30 '
+last_modified_at: '2026-06-11 21:07:30 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_off_world_vehicles_c_00d043_davis_briefing_hears_1aafc0-Illustration-1.webp

@@ -248,6 +248,7 @@ next_link:
   short_title: Jet Car Story
   heading_title: Did a Local Newspaper Accidentally Boost Lazar's Credibility?
 date: '2026-06-11 21:00:54 '
+last_modified_at: '2026-06-11 21:00:54 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_los_alamos_records_1c51f0_los_alamos_directory_80643f-Illustration-1.webp

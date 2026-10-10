@@ -254,6 +254,7 @@ next_link:
   short_title: Materials Test
   heading_title: When testing UFO material proves less
 date: '2026-06-11 21:06:21 '
+last_modified_at: '2026-06-11 21:06:21 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_access_vs_proof_66469d_second_hand_recovery_0e4f3c-Illustration-1.webp

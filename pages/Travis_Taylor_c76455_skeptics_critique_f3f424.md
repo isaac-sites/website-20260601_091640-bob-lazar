@@ -290,6 +290,7 @@ next_link:
   short_title: Skinwalker
   heading_title: Does Skinwalker Ranch Strengthen or Weaken Taylor?
 date: '2026-06-11 21:08:23 '
+last_modified_at: '2026-06-11 21:08:23 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skeptics_critique_f3f424-overview.webp

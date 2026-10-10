@@ -248,6 +248,7 @@ prev_link:
   short_title: Paper Claims
   heading_title: Did the Paper Prove UAP Injuries?
 date: '2026-06-11 21:05:53 '
+last_modified_at: '2026-06-11 21:05:53 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143_green_aawsap_boundar_7c24d1-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Urgent concern
   heading_title: What did Grusch's urgent concern really prove?
 date: '2026-06-11 21:01:56 '
+last_modified_at: '2026-06-11 21:01:56 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_retaliation_claims_l_387baa-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_whistleblower_proces_df5c38_retaliation_claims_l_387baa-Illustration-1.webp

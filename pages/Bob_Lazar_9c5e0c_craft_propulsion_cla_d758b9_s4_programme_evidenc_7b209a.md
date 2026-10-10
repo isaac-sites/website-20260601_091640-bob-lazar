@@ -254,6 +254,7 @@ next_link:
   short_title: Sport Model
   heading_title: How Much of the Sport Model Can Be Checked?
 date: '2026-06-11 21:01:02 '
+last_modified_at: '2026-06-11 21:01:02 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9_s4_programme_evidenc_7b209a-Illustration-1.webp

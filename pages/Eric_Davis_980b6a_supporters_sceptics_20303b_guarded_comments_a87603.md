@@ -254,6 +254,7 @@ next_link:
   short_title: Insider circles
   heading_title: When does a source network become an echo chamber?
 date: '2026-06-11 21:07:03 '
+last_modified_at: '2026-06-11 21:07:03 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_supporters_sceptics_20303b_guarded_comments_a87603-Illustration-1.webp

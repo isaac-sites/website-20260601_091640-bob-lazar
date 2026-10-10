@@ -284,6 +284,7 @@ next_link:
   short_title: Access vs Proof
   heading_title: Does Insider Access Prove His UFO Claims?
 date: '2026-06-11 21:06:13 '
+last_modified_at: '2026-06-11 21:06:13 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce-overview.webp

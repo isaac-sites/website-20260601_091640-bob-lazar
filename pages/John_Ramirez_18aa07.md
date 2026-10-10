@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-kit-greens-uap-story/
   short_title: Green
 date: '2026-06-11 21:04:45 '
+last_modified_at: '2026-06-11 21:04:45 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07-overview-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07-overview.webp

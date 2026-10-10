@@ -248,6 +248,7 @@ prev_link:
   short_title: Hearings gap
   heading_title: Why hearings do not vindicate Lazar
 date: '2026-06-11 21:01:15 '
+last_modified_at: '2026-06-11 21:01:15 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_kona_blue_assumption_e4eb7e-Illustration-1.webp

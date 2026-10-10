@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-claim-types-122174/
 description: Focused pages that expand on Claim Types.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: John_Ramirez_18aa07_claim_types_122174
 parent_title: Claim Types

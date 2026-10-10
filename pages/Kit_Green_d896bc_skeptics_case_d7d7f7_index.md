@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-skeptics-case-d7d7f7/
 description: Focused pages that expand on Sceptics.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kit_Green_d896bc_skeptics_case_d7d7f7
 parent_title: Sceptics

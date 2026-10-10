@@ -290,6 +290,7 @@ next_link:
   short_title: Supporters
   heading_title: Why Do Some Researchers Trust Green?
 date: '2026-06-11 21:05:29 '
+last_modified_at: '2026-06-11 21:05:29 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_skeptics_case_d7d7f7-overview.webp

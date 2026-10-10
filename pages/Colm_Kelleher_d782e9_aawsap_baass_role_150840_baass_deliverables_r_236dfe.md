@@ -254,6 +254,7 @@ next_link:
   short_title: Scope Drift
   heading_title: Was AAWSAP aerospace research or UFO work?
 date: '2026-06-11 21:07:58 '
+last_modified_at: '2026-06-11 21:07:58 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_baass_deliverables_r_236dfe-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_baass_deliverables_r_236dfe-Illustration-1.webp

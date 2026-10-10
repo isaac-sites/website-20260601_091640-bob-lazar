@@ -284,6 +284,7 @@ prev_link:
   short_title: Navy Videos
   heading_title: What Did the Navy Videos Actually Show?
 date: '2026-06-11 21:02:06 '
+last_modified_at: '2026-06-11 21:02:06 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_firsthand_secondhand_41e61b-overview.webp

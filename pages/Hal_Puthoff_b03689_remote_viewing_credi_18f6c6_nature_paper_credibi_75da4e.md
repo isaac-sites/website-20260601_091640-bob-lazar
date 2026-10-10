@@ -248,6 +248,7 @@ prev_link:
   short_title: Control flaws
   heading_title: Could ordinary clues explain the results?
 date: '2026-06-11 21:06:43 '
+last_modified_at: '2026-06-11 21:06:43 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_remote_viewing_credi_18f6c6_nature_paper_credibi_75da4e-Illustration-1.webp

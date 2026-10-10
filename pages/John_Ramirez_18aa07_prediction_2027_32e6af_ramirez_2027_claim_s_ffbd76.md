@@ -254,6 +254,7 @@ next_link:
   short_title: Source Gap
   heading_title: Can An Unnamed Source Support 2027?
 date: '2026-06-11 21:05:07 '
+last_modified_at: '2026-06-11 21:05:07 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_prediction_2027_32e6af_ramirez_2027_claim_s_ffbd76-Illustration-1.webp

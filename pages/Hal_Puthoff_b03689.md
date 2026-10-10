@@ -305,6 +305,7 @@ next_link:
   permalink: /how-credible-is-james-lacatski/
   short_title: Lacatski
 date: '2026-06-11 21:06:10 '
+last_modified_at: '2026-06-11 21:06:10 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689-overview.webp

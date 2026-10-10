@@ -284,6 +284,7 @@ prev_link:
   short_title: TTSA Materials
   heading_title: Did The Materials Claims Deliver?
 date: '2026-06-11 21:06:18 '
+last_modified_at: '2026-06-11 21:06:18 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a-overview.webp

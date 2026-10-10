@@ -284,6 +284,7 @@ next_link:
   short_title: Bennewitz
   heading_title: Did the Bennewitz Affair Define Doty's Legacy?
 date: '2026-06-11 21:02:44 '
+last_modified_at: '2026-06-11 21:02:44 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd-overview.webp

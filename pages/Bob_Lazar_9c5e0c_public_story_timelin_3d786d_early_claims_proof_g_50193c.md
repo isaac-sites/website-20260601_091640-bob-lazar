@@ -248,6 +248,7 @@ prev_link:
   short_title: KLAS reveal
   heading_title: When Dennis became Bob Lazar on TV
 date: '2026-06-11 21:01:12 '
+last_modified_at: '2026-06-11 21:01:12 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_public_story_timelin_3d786d_early_claims_proof_g_50193c-Illustration-1.webp

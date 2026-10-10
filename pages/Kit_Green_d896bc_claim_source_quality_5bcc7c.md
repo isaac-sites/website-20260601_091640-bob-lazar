@@ -290,6 +290,7 @@ next_link:
   short_title: DIA Paper
   heading_title: What Does Green's DIA Paper Actually Prove?
 date: '2026-06-11 21:05:35 '
+last_modified_at: '2026-06-11 21:05:35 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_claim_source_quality_5bcc7c-overview.webp

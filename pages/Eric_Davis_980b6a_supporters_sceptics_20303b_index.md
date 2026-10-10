@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-supporters-sceptics/
 description: Focused pages that expand on Debate.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_supporters_sceptics_20303b
 parent_title: Debate

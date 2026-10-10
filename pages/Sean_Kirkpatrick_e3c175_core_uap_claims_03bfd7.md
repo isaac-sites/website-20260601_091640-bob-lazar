@@ -290,6 +290,7 @@ next_link:
   short_title: Grusch Clash
   heading_title: Grusch Claims Versus Kirkpatrick's Denial
 date: '2026-06-11 21:04:05 '
+last_modified_at: '2026-06-11 21:04:05 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7-overview-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7-overview.webp

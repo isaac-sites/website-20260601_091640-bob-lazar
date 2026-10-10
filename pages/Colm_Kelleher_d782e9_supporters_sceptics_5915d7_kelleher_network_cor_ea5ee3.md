@@ -248,6 +248,7 @@ next_link:
   short_title: Greenwood Review
   heading_title: Why one sceptical review still matters
 date: '2026-06-11 21:08:15 '
+last_modified_at: '2026-06-11 21:08:15 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_supporters_sceptics_5915d7_kelleher_network_cor_ea5ee3-Illustration-1.webp

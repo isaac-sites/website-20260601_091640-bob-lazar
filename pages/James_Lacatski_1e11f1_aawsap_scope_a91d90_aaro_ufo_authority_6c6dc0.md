@@ -248,6 +248,7 @@ next_link:
   short_title: Exotic Studies
   heading_title: When aerospace research sounds like UFO proof
 date: '2026-06-11 21:03:32 '
+last_modified_at: '2026-06-11 21:03:32 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_aaro_ufo_authority_6c6dc0-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90_aaro_ufo_authority_6c6dc0-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Ethical harm
   heading_title: When does misdirection become personal harm?
 date: '2026-06-11 21:02:53 '
+last_modified_at: '2026-06-11 21:02:53 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_aerospace_cover_stor_fb22e0-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_bennewitz_affair_8dc0a3_aerospace_cover_stor_fb22e0-Illustration-1.webp

@@ -248,6 +248,7 @@ next_link:
   short_title: Hot particles
   heading_title: Could one tiny particle explain the injury?
 date: '2026-06-11 21:08:32 '
+last_modified_at: '2026-06-11 21:08:32 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_radiation_claim_681197_dosimeter_burn_gap_7bb92f-Illustration-1.webp

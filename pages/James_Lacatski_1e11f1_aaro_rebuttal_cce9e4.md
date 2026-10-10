@@ -284,6 +284,7 @@ next_link:
   short_title: AAWSAP Scope
   heading_title: Was AAWSAP Really A UFO Programme?
 date: '2026-06-11 21:03:23 '
+last_modified_at: '2026-06-11 21:03:23 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4-overview.webp

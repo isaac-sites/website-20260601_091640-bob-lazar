@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /bob-lazar-9c5e0c-degree-verification/
 description: Focused pages that expand on Degrees.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Bob_Lazar_9c5e0c_degree_verification_eaee04
 parent_title: Degrees

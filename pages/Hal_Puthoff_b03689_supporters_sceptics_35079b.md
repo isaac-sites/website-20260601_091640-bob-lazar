@@ -290,6 +290,7 @@ next_link:
   short_title: Exotic Physics
   heading_title: Where Physics Ends and Speculation Begins
 date: '2026-06-11 21:06:12 '
+last_modified_at: '2026-06-11 21:06:12 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_supporters_sceptics_35079b-overview.webp

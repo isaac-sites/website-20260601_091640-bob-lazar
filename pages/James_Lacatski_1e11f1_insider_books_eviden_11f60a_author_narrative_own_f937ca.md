@@ -248,6 +248,7 @@ next_link:
   short_title: Clearance Risk
   heading_title: Does clearance make Lacatski's claims stronger?
 date: '2026-06-11 21:03:54 '
+last_modified_at: '2026-06-11 21:03:54 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a_author_narrative_own_f937ca-Illustration-1.webp

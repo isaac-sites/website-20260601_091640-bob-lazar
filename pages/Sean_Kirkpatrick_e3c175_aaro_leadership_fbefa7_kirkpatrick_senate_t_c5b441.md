@@ -254,6 +254,7 @@ next_link:
   short_title: Trust gap
   heading_title: Can AARO's classified checks be trusted?
 date: '2026-06-11 21:04:20 '
+last_modified_at: '2026-06-11 21:04:20 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_kirkpatrick_senate_t_c5b441-Illustration-1.webp

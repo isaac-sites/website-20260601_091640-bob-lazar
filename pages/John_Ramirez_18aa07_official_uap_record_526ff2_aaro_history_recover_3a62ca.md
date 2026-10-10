@@ -248,6 +248,7 @@ next_link:
   short_title: NASA data
   heading_title: Better data or a disclosure countdown?
 date: '2026-06-11 21:05:15 '
+last_modified_at: '2026-06-11 21:05:15 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2_aaro_history_recover_3a62ca-Illustration-1.webp

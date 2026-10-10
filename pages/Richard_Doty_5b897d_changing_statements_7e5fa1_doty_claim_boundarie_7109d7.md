@@ -254,6 +254,7 @@ next_link:
   short_title: MJ 12 papers
   heading_title: Why MJ 12 Is Doty's Document Problem
 date: '2026-06-11 21:03:00 '
+last_modified_at: '2026-06-11 21:03:00 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_changing_statements_7e5fa1_doty_claim_boundarie_7109d7-Illustration-1.webp

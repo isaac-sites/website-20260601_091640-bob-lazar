@@ -248,6 +248,7 @@ next_link:
   short_title: Science Record
   heading_title: How Much Does Kelleher's Science Record Prove?
 date: '2026-06-11 21:08:06 '
+last_modified_at: '2026-06-11 21:08:06 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_science_background_b76010_aawsap_documents_pro_14dcc5-Illustration-1.webp

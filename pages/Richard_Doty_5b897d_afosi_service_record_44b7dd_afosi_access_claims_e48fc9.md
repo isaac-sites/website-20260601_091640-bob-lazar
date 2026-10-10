@@ -248,6 +248,7 @@ next_link:
   short_title: Bennewitz file
   heading_title: Did AFOSI Confirm Paul Bennewitz?
 date: '2026-06-11 21:02:57 '
+last_modified_at: '2026-06-11 21:02:57 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_afosi_service_record_44b7dd_afosi_access_claims_e48fc9-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-ttsa-material/
 description: Focused pages that expand on TTSA Materials.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d
 parent_title: TTSA Materials

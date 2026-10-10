@@ -254,6 +254,7 @@ next_link:
   short_title: Roles vs Proof
   heading_title: What Grusch's credentials actually prove
 date: '2026-06-11 21:01:46 '
+last_modified_at: '2026-06-11 21:01:46 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_verified_background_306700_icig_complaint_stake_588eeb-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_verified_background_306700_icig_complaint_stake_588eeb-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Independence
   heading_title: Could AARO investigate its own system?
 date: '2026-06-11 21:04:31 '
+last_modified_at: '2026-06-11 21:04:31 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_disclosure_model_vs_f526c2-Illustration-1.webp

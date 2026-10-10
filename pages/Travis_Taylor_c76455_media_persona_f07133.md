@@ -290,6 +290,7 @@ next_link:
   short_title: Radiation
   heading_title: What Should Readers Make of the Radiation Claim?
 date: '2026-06-11 21:08:19 '
+last_modified_at: '2026-06-11 21:08:19 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133-overview-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_media_persona_f07133-overview.webp

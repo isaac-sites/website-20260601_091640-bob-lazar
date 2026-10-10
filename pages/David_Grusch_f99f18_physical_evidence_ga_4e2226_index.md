@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-physical-evidence/
 description: Focused pages that expand on Proof Gap.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: David_Grusch_f99f18_physical_evidence_ga_4e2226
 parent_title: Proof Gap

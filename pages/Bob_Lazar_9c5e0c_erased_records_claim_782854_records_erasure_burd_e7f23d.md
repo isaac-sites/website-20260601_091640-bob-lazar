@@ -248,6 +248,7 @@ next_link:
   short_title: Los Alamos
   heading_title: What the Los Alamos listing really proves
 date: '2026-06-11 21:01:09 '
+last_modified_at: '2026-06-11 21:01:09 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_erased_records_claim_782854_records_erasure_burd_e7f23d-Illustration-1.webp

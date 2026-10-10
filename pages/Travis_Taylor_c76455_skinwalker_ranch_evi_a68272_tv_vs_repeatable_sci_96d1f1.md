@@ -248,6 +248,7 @@ prev_link:
   short_title: The Homestead 2 Radiation Incident
   heading_title: Did the radiation scare prove anything?
 date: '2026-06-11 21:08:56 '
+last_modified_at: '2026-06-11 21:08:56 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_tv_vs_repeatable_sci_96d1f1-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_skinwalker_ranch_evi_a68272_tv_vs_repeatable_sci_96d1f1-Illustration-1.webp

@@ -248,6 +248,7 @@ prev_link:
   short_title: Paper trail
   heading_title: Where would the reverse engineering trail be?
 date: '2026-06-11 21:01:28 '
+last_modified_at: '2026-06-11 21:01:28 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_grusch_witness_chain_c38f9f-Illustration-1-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_core_claims_ff25c9_grusch_witness_chain_c38f9f-Illustration-1.webp

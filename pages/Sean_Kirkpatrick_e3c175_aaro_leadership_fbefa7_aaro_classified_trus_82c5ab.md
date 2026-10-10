@@ -248,6 +248,7 @@ prev_link:
   short_title: Senate test
   heading_title: What the Senate hearing proved and did not
 date: '2026-06-11 21:04:17 '
+last_modified_at: '2026-06-11 21:04:17 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_aaro_classified_trus_82c5ab-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_aaro_leadership_fbefa7_aaro_classified_trus_82c5ab-Illustration-1.webp

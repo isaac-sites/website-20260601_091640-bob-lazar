@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-index/
 description: Focused pages that expand on How Credible Is James Lacatski?.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: James_Lacatski_1e11f1
 parent_title: How Credible Is James Lacatski?

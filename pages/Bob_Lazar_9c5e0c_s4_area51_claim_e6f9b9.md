@@ -290,6 +290,7 @@ next_link:
   short_title: Timeline
   heading_title: How Lazar Became The Area 51 Whistleblower
 date: '2026-06-11 21:00:36 '
+last_modified_at: '2026-06-11 21:00:36 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_s4_area51_claim_e6f9b9-overview.webp

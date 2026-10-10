@@ -290,6 +290,7 @@ next_link:
   short_title: Media Role
   heading_title: How Media Coverage Changed Davis's Reputation
 date: '2026-06-11 21:06:57 '
+last_modified_at: '2026-06-11 21:06:57 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_dia_speculative_phys_5cd3ff-overview.webp

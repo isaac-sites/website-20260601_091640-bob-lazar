@@ -248,6 +248,7 @@ prev_link:
   short_title: Gatekeeping
   heading_title: Could contractors really block oversight?
 date: '2026-06-11 21:07:07 '
+last_modified_at: '2026-06-11 21:07:07 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_wilson_las_vegas_den_acae67-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_wilson_las_vegas_den_acae67-Illustration-1.webp

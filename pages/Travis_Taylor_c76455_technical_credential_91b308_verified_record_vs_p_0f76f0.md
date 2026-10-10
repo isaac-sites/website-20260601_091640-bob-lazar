@@ -248,6 +248,7 @@ prev_link:
   short_title: Task Force role
   heading_title: How Far Did Taylor's Government Role Go?
 date: '2026-06-11 21:09:00 '
+last_modified_at: '2026-06-11 21:09:00 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_verified_record_vs_p_0f76f0-Illustration-1.webp

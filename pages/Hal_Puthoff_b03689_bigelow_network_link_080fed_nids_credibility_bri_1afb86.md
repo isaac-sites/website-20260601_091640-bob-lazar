@@ -254,6 +254,7 @@ next_link:
   short_title: Patronage risk
   heading_title: When funding helps and hurts credibility
 date: '2026-06-11 21:06:37 '
+last_modified_at: '2026-06-11 21:06:37 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_nids_credibility_bri_1afb86-Illustration-1.webp

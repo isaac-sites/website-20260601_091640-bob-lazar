@@ -290,6 +290,7 @@ next_link:
   short_title: Sceptics
   heading_title: Where Does The Green Case Fall Short?
 date: '2026-06-11 21:05:35 '
+last_modified_at: '2026-06-11 21:05:35 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0-overview.webp

@@ -248,6 +248,7 @@ prev_link:
   short_title: Chief title
   heading_title: Was Taylor really the UAP chief scientist?
 date: '2026-06-11 21:08:51 '
+last_modified_at: '2026-06-11 21:08:51 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_uap_task_force_role_bd7936_technical_advice_not_a8c9da-Illustration-1.webp

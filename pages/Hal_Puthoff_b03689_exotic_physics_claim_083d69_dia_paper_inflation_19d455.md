@@ -254,6 +254,7 @@ next_link:
   short_title: Vacuum propulsion
   heading_title: Can vacuum physics really explain UAP propulsion?
 date: '2026-06-11 21:06:25 '
+last_modified_at: '2026-06-11 21:06:25 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_exotic_physics_claim_083d69_dia_paper_inflation_19d455-Illustration-1.webp

@@ -300,6 +300,7 @@ prev_link:
   permalink: /how-credible-is-travis-taylor-on-uaps/
   short_title: Taylor
 date: '2026-06-11 21:02:40 '
+last_modified_at: '2026-06-11 21:02:40 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d-overview.webp

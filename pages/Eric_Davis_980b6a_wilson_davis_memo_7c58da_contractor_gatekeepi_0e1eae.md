@@ -254,6 +254,7 @@ next_link:
   short_title: Wilson denial
   heading_title: Did the Las Vegas meeting happen?
 date: '2026-06-11 21:07:04 '
+last_modified_at: '2026-06-11 21:07:04 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_wilson_davis_memo_7c58da_contractor_gatekeepi_0e1eae-Illustration-1.webp

@@ -254,6 +254,7 @@ next_link:
   short_title: Kona Blue
   heading_title: When a UAP programme proves less than it seems
 date: '2026-06-11 21:01:16 '
+last_modified_at: '2026-06-11 21:01:16 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_uap_hearings_lazar_g_a76825-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_uap_reviews_credibil_ab3203_uap_hearings_lazar_g_a76825-Illustration-1.webp

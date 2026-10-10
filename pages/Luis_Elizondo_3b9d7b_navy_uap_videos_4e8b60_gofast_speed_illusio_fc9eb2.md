@@ -248,6 +248,7 @@ prev_link:
   short_title: Gimbal FLIR
   heading_title: Why Gimbal and FLIR Still Divide Viewers
 date: '2026-06-11 21:02:15 '
+last_modified_at: '2026-06-11 21:02:15 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60_gofast_speed_illusio_fc9eb2-Illustration-1.webp

@@ -248,6 +248,7 @@ next_link:
   short_title: Mission drift
   heading_title: Did paranormal research weaken the AAWSAP story?
 date: '2026-06-11 21:06:32 '
+last_modified_at: '2026-06-11 21:06:32 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_aawsap_aatip_scrutin_ea70ce_dird_speculation_lim_e64673-Illustration-1.webp

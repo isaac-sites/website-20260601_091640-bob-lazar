@@ -290,6 +290,7 @@ next_link:
   short_title: Influence
   heading_title: How Elizondo Changed the UAP Debate
 date: '2026-06-11 21:02:07 '
+last_modified_at: '2026-06-11 21:02:07 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca-overview.webp

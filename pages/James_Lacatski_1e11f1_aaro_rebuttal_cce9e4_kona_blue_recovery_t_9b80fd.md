@@ -254,6 +254,7 @@ next_link:
   short_title: Report errors
   heading_title: Do AARO's mistakes weaken its rebuttal?
 date: '2026-06-11 21:03:37 '
+last_modified_at: '2026-06-11 21:03:37 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_kona_blue_recovery_t_9b80fd-Illustration-1-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aaro_rebuttal_cce9e4_kona_blue_recovery_t_9b80fd-Illustration-1.webp

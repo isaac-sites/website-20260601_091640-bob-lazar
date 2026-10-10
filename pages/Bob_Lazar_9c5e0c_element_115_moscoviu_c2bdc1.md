@@ -290,6 +290,7 @@ next_link:
   short_title: Erased Records
   heading_title: Could Lazar's Records Have Been Erased?
 date: '2026-06-11 21:00:40 '
+last_modified_at: '2026-06-11 21:00:40 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_element_115_moscoviu_c2bdc1-overview.webp

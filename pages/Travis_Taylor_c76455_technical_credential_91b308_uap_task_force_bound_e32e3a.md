@@ -254,6 +254,7 @@ next_link:
   short_title: Verified record
   heading_title: What Taylor's Credentials Really Prove
 date: '2026-06-11 21:08:58 '
+last_modified_at: '2026-06-11 21:08:58 '
 header:
   og_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1-social.jpg
   preview_image: /assets/images/Travis_Taylor_c76455_technical_credential_91b308_uap_task_force_bound_e32e3a-Illustration-1.webp

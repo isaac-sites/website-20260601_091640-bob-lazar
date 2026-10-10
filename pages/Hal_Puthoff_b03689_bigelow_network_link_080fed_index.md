@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /hal-puthoff-b03689-bigelow-network/
 description: Focused pages that expand on Bigelow Links.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Hal_Puthoff_b03689_bigelow_network_link_080fed
 parent_title: Bigelow Links

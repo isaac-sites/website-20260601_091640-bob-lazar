@@ -254,6 +254,7 @@ next_link:
   short_title: Metamaterials
   heading_title: When technical language outruns the evidence
 date: '2026-06-11 21:06:47 '
+last_modified_at: '2026-06-11 21:06:47 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_magnesium_bismuth_fa_0b2849-Illustration-1.webp

@@ -248,6 +248,7 @@ prev_link:
   short_title: MQ 9 Videos
   heading_title: Why Two Drone Videos Changed The Hearing
 date: '2026-06-11 21:04:14 '
+last_modified_at: '2026-06-11 21:04:14 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_senate_650_cases_86ce0c_aaro_case_triage_99c16c-Illustration-1.webp

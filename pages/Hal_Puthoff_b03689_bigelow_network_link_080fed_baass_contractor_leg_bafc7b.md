@@ -248,6 +248,7 @@ next_link:
   short_title: NIDS bridge
   heading_title: Did NIDS make Puthoff more credible?
 date: '2026-06-11 21:06:35 '
+last_modified_at: '2026-06-11 21:06:35 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_bigelow_network_link_080fed_baass_contractor_leg_bafc7b-Illustration-1.webp

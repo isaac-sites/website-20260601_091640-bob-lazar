@@ -290,6 +290,7 @@ next_link:
   short_title: Off World Claim
   heading_title: What About The Off World Vehicles Claim?
 date: '2026-06-11 21:06:55 '
+last_modified_at: '2026-06-11 21:06:55 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114-overview-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_media_amplification_f92114-overview.webp

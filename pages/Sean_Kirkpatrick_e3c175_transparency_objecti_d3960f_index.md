@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-transparency/
 description: Focused pages that expand on Transparency.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f
 parent_title: Transparency

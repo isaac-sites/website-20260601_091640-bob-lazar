@@ -248,6 +248,7 @@ next_link:
   short_title: Disclosure model
   heading_title: The transparency process critics wanted instead
 date: '2026-06-11 21:04:44 '
+last_modified_at: '2026-06-11 21:04:44 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_transparency_objecti_d3960f_special_access_audit_ed960a-Illustration-1.webp

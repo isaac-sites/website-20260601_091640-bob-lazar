@@ -254,6 +254,7 @@ next_link:
   short_title: Professor trail
   heading_title: The professor names that raised doubts
 date: '2026-06-11 21:00:51 '
+last_modified_at: '2026-06-11 21:00:51 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-1-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_degree_verification_eaee04_missing_mit_records_c6ee62-Illustration-1.webp

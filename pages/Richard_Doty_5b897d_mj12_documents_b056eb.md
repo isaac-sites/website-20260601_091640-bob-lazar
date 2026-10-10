@@ -290,6 +290,7 @@ next_link:
   short_title: Sceptics
   heading_title: Why Do Critics Call Doty a Disinformation Agent?
 date: '2026-06-11 21:02:41 '
+last_modified_at: '2026-06-11 21:02:41 '
 header:
   og_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb-overview-social.jpg
   preview_image: /assets/images/Richard_Doty_5b897d_mj12_documents_b056eb-overview.webp

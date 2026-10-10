@@ -248,6 +248,7 @@ next_link:
   short_title: Deliverables
   heading_title: What did BAASS actually deliver to DIA?
 date: '2026-06-11 21:07:59 '
+last_modified_at: '2026-06-11 21:07:59 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_aawsap_baass_role_150840_kelleher_baass_autho_19ae56-Illustration-1.webp

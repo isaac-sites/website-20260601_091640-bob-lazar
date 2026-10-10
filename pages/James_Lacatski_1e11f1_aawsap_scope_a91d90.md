@@ -290,6 +290,7 @@ next_link:
   short_title: Craft Claim
   heading_title: Did The US Possess An Unknown Craft?
 date: '2026-06-11 21:03:22 '
+last_modified_at: '2026-06-11 21:03:22 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_aawsap_scope_a91d90-overview.webp

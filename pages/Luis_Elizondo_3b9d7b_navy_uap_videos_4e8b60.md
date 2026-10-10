@@ -290,6 +290,7 @@ next_link:
   short_title: Source Trail
   heading_title: What Did Elizondo Know First Hand?
 date: '2026-06-11 21:02:01 '
+last_modified_at: '2026-06-11 21:02:01 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60-overview-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_navy_uap_videos_4e8b60-overview.webp

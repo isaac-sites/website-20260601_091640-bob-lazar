@@ -284,6 +284,7 @@ prev_link:
   short_title: Skinwalker
   heading_title: Does Skinwalker Ranch Help Or Hurt Him?
 date: '2026-06-11 21:03:25 '
+last_modified_at: '2026-06-11 21:03:25 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_speculative_science_336682-overview.webp

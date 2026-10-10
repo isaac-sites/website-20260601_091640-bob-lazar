@@ -254,6 +254,7 @@ next_link:
   short_title: Star Gate
   heading_title: Did Star Gate Validate Remote Viewing?
 date: '2026-06-11 21:05:44 '
+last_modified_at: '2026-06-11 21:05:44 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_remote_viewing_links_a890c0_sri_origin_role_193752-Illustration-1.webp

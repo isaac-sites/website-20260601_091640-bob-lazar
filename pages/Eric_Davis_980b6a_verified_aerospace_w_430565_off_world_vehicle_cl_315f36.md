@@ -254,6 +254,7 @@ next_link:
   short_title: Propulsion work
   heading_title: Does speculative propulsion make UFO claims stronger?
 date: '2026-06-11 21:07:34 '
+last_modified_at: '2026-06-11 21:07:34 '
 header:
   og_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1-social.jpg
   preview_image: /assets/images/Eric_Davis_980b6a_verified_aerospace_w_430565_off_world_vehicle_cl_315f36-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-skinwalker-ranch/
 description: Focused pages that expand on Skinwalker.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Travis_Taylor_c76455_skinwalker_ranch_evi_a68272
 parent_title: Skinwalker

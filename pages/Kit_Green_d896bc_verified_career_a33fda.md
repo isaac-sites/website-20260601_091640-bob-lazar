@@ -290,6 +290,7 @@ next_link:
   short_title: Claim Sources
   heading_title: Which Green Stories Are First Hand?
 date: '2026-06-11 21:05:31 '
+last_modified_at: '2026-06-11 21:05:31 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_verified_career_a33fda-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_verified_career_a33fda-overview.webp

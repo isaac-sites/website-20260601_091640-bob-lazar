@@ -248,6 +248,7 @@ next_link:
   short_title: Origin Menu
   heading_title: Does a Wider UAP Theory Help or Hurt?
 date: '2026-06-11 21:06:29 '
+last_modified_at: '2026-06-11 21:06:29 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_official_reports_vs_7c52b5-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ultraterrestrial_the_acbd4a_official_reports_vs_7c52b5-Illustration-1.webp

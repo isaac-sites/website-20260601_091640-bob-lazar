@@ -248,6 +248,7 @@ next_link:
   short_title: Metal sample
   heading_title: The metal sample that did not deliver
 date: '2026-06-11 21:06:46 '
+last_modified_at: '2026-06-11 21:06:46 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d_army_testing_validat_78b22b-Illustration-1.webp

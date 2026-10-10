@@ -300,6 +300,7 @@ next_link:
   permalink: /did-sean-kirkpatrick-debunk-ufo/
   short_title: Kirkpatrick
 date: '2026-06-11 21:00:35 '
+last_modified_at: '2026-06-11 21:00:35 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c-overview.webp

@@ -284,6 +284,7 @@ next_link:
   short_title: Background
   heading_title: Do Grusch's Credentials Prove His Story?
 date: '2026-06-11 21:01:19 '
+last_modified_at: '2026-06-11 21:01:19 '
 header:
   og_image: /assets/images/David_Grusch_f99f18_aaro_scepticism_dc6cb4-overview-social.jpg
   preview_image: /assets/images/David_Grusch_f99f18_aaro_scepticism_dc6cb4-overview.webp

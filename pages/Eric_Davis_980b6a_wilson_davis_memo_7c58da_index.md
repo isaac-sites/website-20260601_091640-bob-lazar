@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-wilson-davis-memo/
 description: Focused pages that expand on Wilson Memo.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Eric_Davis_980b6a_wilson_davis_memo_7c58da
 parent_title: Wilson Memo

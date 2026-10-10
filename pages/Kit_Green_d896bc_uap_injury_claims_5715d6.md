@@ -290,6 +290,7 @@ next_link:
   short_title: Remote Viewing
   heading_title: Did Remote Viewing Help Or Hurt Green's Credibility?
 date: '2026-06-11 21:05:33 '
+last_modified_at: '2026-06-11 21:05:33 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_uap_injury_claims_5715d6-overview.webp

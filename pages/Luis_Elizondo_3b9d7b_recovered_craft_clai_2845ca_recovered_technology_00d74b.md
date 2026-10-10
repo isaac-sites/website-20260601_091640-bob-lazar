@@ -248,6 +248,7 @@ prev_link:
   short_title: KONA BLUE
   heading_title: Did KONA BLUE prove anything?
 date: '2026-06-11 21:02:40 '
+last_modified_at: '2026-06-11 21:02:40 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_recovered_craft_clai_2845ca_recovered_technology_00d74b-Illustration-1.webp

@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-dia-paper-limits/
 description: Focused pages that expand on DIA Paper.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Kit_Green_d896bc_dia_paper_limits_6be143
 parent_title: DIA Paper

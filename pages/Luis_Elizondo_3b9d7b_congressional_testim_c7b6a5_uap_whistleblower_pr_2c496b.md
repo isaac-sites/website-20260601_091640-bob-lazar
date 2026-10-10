@@ -248,6 +248,7 @@ prev_link:
   short_title: Records test
   heading_title: Can the UAP records trail test Elizondo's claims?
 date: '2026-06-11 21:02:34 '
+last_modified_at: '2026-06-11 21:02:34 '
 header:
   og_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1-social.jpg
   preview_image: /assets/images/Luis_Elizondo_3b9d7b_congressional_testim_c7b6a5_uap_whistleblower_pr_2c496b-Illustration-1.webp

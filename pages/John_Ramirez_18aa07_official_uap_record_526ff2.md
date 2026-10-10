@@ -290,6 +290,7 @@ next_link:
   short_title: Sceptics
   heading_title: Where The Sceptical Case Is Strongest
 date: '2026-06-11 21:04:51 '
+last_modified_at: '2026-06-11 21:04:51 '
 header:
   og_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2-overview-social.jpg
   preview_image: /assets/images/John_Ramirez_18aa07_official_uap_record_526ff2-overview.webp

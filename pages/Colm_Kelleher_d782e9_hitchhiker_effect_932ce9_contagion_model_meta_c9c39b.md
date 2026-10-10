@@ -254,6 +254,7 @@ next_link:
   short_title: Health claims
   heading_title: Did hitchhiker reports point to real illness?
 date: '2026-06-11 21:08:03 '
+last_modified_at: '2026-06-11 21:08:03 '
 header:
   og_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1-social.jpg
   preview_image: /assets/images/Colm_Kelleher_d782e9_hitchhiker_effect_932ce9_contagion_model_meta_c9c39b-Illustration-1.webp

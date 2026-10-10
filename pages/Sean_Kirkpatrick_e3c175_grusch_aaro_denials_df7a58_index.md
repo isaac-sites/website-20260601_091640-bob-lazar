@@ -7,6 +7,7 @@ nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-grusch-aaro/
 description: Focused pages that expand on Grusch Clash.
 date: '2026'
+last_modified_at: '2026'
 layout: default
 parent_basename: Sean_Kirkpatrick_e3c175_grusch_aaro_denials_df7a58
 parent_title: Grusch Clash

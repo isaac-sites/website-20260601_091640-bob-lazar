@@ -290,6 +290,7 @@ next_link:
   short_title: Injury Claims
   heading_title: Did UAP Encounters Really Injure People?
 date: '2026-06-11 21:05:32 '
+last_modified_at: '2026-06-11 21:05:32 '
 header:
   og_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-overview-social.jpg
   preview_image: /assets/images/Kit_Green_d896bc_dia_paper_limits_6be143-overview.webp

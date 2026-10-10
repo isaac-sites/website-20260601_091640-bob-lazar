@@ -254,6 +254,7 @@ next_link:
   short_title: Unresolved UAP
   heading_title: When Unidentified Does Not Mean Alien
 date: '2026-06-11 21:04:12 '
+last_modified_at: '2026-06-11 21:04:12 '
 header:
   og_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_uap_safety_risks_1e55a1-Illustration-1-social.jpg
   preview_image: /assets/images/Sean_Kirkpatrick_e3c175_core_uap_claims_03bfd7_uap_safety_risks_1e55a1-Illustration-1.webp

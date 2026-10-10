@@ -290,6 +290,7 @@ next_link:
   short_title: KONA BLUE
   heading_title: What Did KONA BLUE Actually Show?
 date: '2026-06-11 21:03:27 '
+last_modified_at: '2026-06-11 21:03:27 '
 header:
   og_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-overview-social.jpg
   preview_image: /assets/images/James_Lacatski_1e11f1_insider_books_eviden_11f60a-overview.webp

@@ -290,6 +290,7 @@ next_link:
   short_title: Ultraterrestrials
   heading_title: What Is Puthoff Really Claiming?
 date: '2026-06-11 21:06:17 '
+last_modified_at: '2026-06-11 21:06:17 '
 header:
   og_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d-overview-social.jpg
   preview_image: /assets/images/Hal_Puthoff_b03689_ttsa_material_claims_bd6d9d-overview.webp

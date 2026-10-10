@@ -290,6 +290,7 @@ next_link:
   short_title: S 4 Claim
   heading_title: Was S 4 More Than A Story?
 date: '2026-06-11 21:00:40 '
+last_modified_at: '2026-06-11 21:00:40 '
 header:
   og_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-overview-social.jpg
   preview_image: /assets/images/Bob_Lazar_9c5e0c_craft_propulsion_cla_d758b9-overview.webp
