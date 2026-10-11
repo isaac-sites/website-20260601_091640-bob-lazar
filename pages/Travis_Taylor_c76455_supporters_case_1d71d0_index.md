@@ -1,11 +1,11 @@
 ---
-title: Supporters Sub-Topic Index
-title_full: Supporters Sub-Topic Index
+title: "Travis Taylor Supporters Sub-Topic Index"
+title_full: "Travis Taylor Supporters Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-supporters-case/
-description: Focused pages that expand on Supporters.
+description: "Focused pages that expand on Supporters - Travis Taylor."
 date: '2026'
 last_modified_at: '2026'
 layout: default

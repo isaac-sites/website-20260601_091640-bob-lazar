@@ -1,11 +1,11 @@
 ---
-title: Debate Sub-Topic Index
-title_full: Debate Sub-Topic Index
+title: "Colm Kelleher Debate Sub-Topic Index"
+title_full: "Colm Kelleher Debate Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-supporters/
-description: Focused pages that expand on Debate.
+description: "Focused pages that expand on Debate - Colm Kelleher."
 date: '2026'
 last_modified_at: '2026'
 layout: default

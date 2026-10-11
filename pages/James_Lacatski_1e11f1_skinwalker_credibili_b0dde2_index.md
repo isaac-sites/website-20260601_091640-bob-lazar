@@ -1,11 +1,11 @@
 ---
-title: Skinwalker Sub-Topic Index
-title_full: Skinwalker Sub-Topic Index
+title: "James Lacatski Skinwalker Sub-Topic Index"
+title_full: "James Lacatski Skinwalker Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /james-lacatski-1e11f1-skinwalker/
-description: Focused pages that expand on Skinwalker.
+description: "Focused pages that expand on Skinwalker - James Lacatski."
 date: '2026'
 last_modified_at: '2026'
 layout: default

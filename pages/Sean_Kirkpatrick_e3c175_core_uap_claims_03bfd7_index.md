@@ -1,11 +1,11 @@
 ---
-title: Core Claims Sub-Topic Index
-title_full: Core Claims Sub-Topic Index
+title: "Sean Kirkpatrick Core Claims Sub-Topic Index"
+title_full: "Sean Kirkpatrick Core Claims Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-core-uap/
-description: Focused pages that expand on Core Claims.
+description: "Focused pages that expand on Core Claims - Sean Kirkpatrick."
 date: '2026'
 last_modified_at: '2026'
 layout: default

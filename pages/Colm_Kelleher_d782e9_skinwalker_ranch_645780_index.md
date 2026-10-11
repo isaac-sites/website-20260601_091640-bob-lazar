@@ -1,11 +1,11 @@
 ---
-title: Skinwalker Sub-Topic Index
-title_full: Skinwalker Sub-Topic Index
+title: "Colm Kelleher Skinwalker Sub-Topic Index"
+title_full: "Colm Kelleher Skinwalker Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-skinwalker-ranch/
-description: Focused pages that expand on Skinwalker.
+description: "Focused pages that expand on Skinwalker - Colm Kelleher."
 date: '2026'
 last_modified_at: '2026'
 layout: default

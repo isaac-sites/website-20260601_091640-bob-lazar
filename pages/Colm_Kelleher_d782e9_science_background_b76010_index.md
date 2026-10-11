@@ -1,11 +1,11 @@
 ---
-title: Background Sub-Topic Index
-title_full: Background Sub-Topic Index
+title: "Colm Kelleher Background Sub-Topic Index"
+title_full: "Colm Kelleher Background Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /colm-kelleher-d782e9-science/
-description: Focused pages that expand on Background.
+description: "Focused pages that expand on Background - Colm Kelleher."
 date: '2026'
 last_modified_at: '2026'
 layout: default

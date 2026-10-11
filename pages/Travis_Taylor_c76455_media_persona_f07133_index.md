@@ -1,11 +1,11 @@
 ---
-title: Media Role Sub-Topic Index
-title_full: Media Role Sub-Topic Index
+title: "Travis Taylor Media Role Sub-Topic Index"
+title_full: "Travis Taylor Media Role Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-media-persona/
-description: Focused pages that expand on Media Role.
+description: "Focused pages that expand on Media Role - Travis Taylor."
 date: '2026'
 last_modified_at: '2026'
 layout: default

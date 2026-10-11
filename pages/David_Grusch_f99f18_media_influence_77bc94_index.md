@@ -1,11 +1,11 @@
 ---
-title: Influence Sub-Topic Index
-title_full: Influence Sub-Topic Index
+title: "David Grusch Influence Sub-Topic Index"
+title_full: "David Grusch Influence Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-media-influence/
-description: Focused pages that expand on Influence.
+description: "Focused pages that expand on Influence - David Grusch."
 date: '2026'
 last_modified_at: '2026'
 layout: default

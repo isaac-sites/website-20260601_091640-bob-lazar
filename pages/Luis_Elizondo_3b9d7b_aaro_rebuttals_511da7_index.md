@@ -1,11 +1,11 @@
 ---
-title: AARO Sub-Topic Index
-title_full: AARO Sub-Topic Index
+title: "Luis Elizondo AARO Sub-Topic Index"
+title_full: "Luis Elizondo AARO Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-aaro-rebuttals/
-description: Focused pages that expand on AARO.
+description: "Focused pages that expand on AARO - Luis Elizondo."
 date: '2026'
 last_modified_at: '2026'
 layout: default
