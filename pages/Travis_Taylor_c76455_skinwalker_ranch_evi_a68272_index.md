@@ -1,11 +1,11 @@
 ---
-title: Skinwalker Sub-Topic Index
-title_full: Skinwalker Sub-Topic Index
+title: "Travis Taylor Skinwalker Sub-Topic Index"
+title_full: "Travis Taylor Skinwalker Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /travis-taylor-c76455-skinwalker-ranch/
-description: Focused pages that expand on Skinwalker.
+description: "Focused pages that expand on Skinwalker - Travis Taylor."
 date: '2026'
 last_modified_at: '2026'
 layout: default

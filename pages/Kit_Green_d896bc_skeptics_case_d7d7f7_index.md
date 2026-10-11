@@ -1,11 +1,11 @@
 ---
-title: Sceptics Sub-Topic Index
-title_full: Sceptics Sub-Topic Index
+title: "Kit Green Sceptics Sub-Topic Index"
+title_full: "Kit Green Sceptics Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /kit-green-d896bc-skeptics-case-d7d7f7/
-description: Focused pages that expand on Sceptics.
+description: "Focused pages that expand on Sceptics - Kit Green."
 date: '2026'
 last_modified_at: '2026'
 layout: default

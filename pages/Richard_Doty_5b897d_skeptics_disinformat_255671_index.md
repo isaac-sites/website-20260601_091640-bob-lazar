@@ -1,11 +1,11 @@
 ---
-title: Sceptics Sub-Topic Index
-title_full: Sceptics Sub-Topic Index
+title: "Richard Doty Sceptics Sub-Topic Index"
+title_full: "Richard Doty Sceptics Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /richard-doty-5b897d-skeptics/
-description: Focused pages that expand on Sceptics.
+description: "Focused pages that expand on Sceptics - Richard Doty."
 date: '2026'
 last_modified_at: '2026'
 layout: default

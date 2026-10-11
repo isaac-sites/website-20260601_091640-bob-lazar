@@ -1,11 +1,11 @@
 ---
-title: Background Sub-Topic Index
-title_full: Background Sub-Topic Index
+title: "David Grusch Background Sub-Topic Index"
+title_full: "David Grusch Background Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-verified/
-description: Focused pages that expand on Background.
+description: "Focused pages that expand on Background - David Grusch."
 date: '2026'
 last_modified_at: '2026'
 layout: default

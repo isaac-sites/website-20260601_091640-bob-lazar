@@ -1,11 +1,11 @@
 ---
-title: Core Claims Sub-Topic Index
-title_full: Core Claims Sub-Topic Index
+title: "David Grusch Core Claims Sub-Topic Index"
+title_full: "David Grusch Core Claims Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /david-grusch-f99f18-core-claims-ff25c9/
-description: Focused pages that expand on Core Claims.
+description: "Focused pages that expand on Core Claims - David Grusch."
 date: '2026'
 last_modified_at: '2026'
 layout: default

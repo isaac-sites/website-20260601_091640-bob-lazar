@@ -1,11 +1,11 @@
 ---
-title: Supporters Sub-Topic Index
-title_full: Supporters Sub-Topic Index
+title: "Sean Kirkpatrick Supporters Sub-Topic Index"
+title_full: "Sean Kirkpatrick Supporters Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /sean-kirkpatrick-e3c175-supporters/
-description: Focused pages that expand on Supporters.
+description: "Focused pages that expand on Supporters - Sean Kirkpatrick."
 date: '2026'
 last_modified_at: '2026'
 layout: default

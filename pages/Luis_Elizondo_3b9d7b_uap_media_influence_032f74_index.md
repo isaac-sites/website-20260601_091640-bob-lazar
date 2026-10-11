@@ -1,11 +1,11 @@
 ---
-title: Influence Sub-Topic Index
-title_full: Influence Sub-Topic Index
+title: "Luis Elizondo Influence Sub-Topic Index"
+title_full: "Luis Elizondo Influence Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /luis-elizondo-3b9d7b-uap-media/
-description: Focused pages that expand on Influence.
+description: "Focused pages that expand on Influence - Luis Elizondo."
 date: '2026'
 last_modified_at: '2026'
 layout: default

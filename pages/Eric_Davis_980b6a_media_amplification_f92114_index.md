@@ -1,11 +1,11 @@
 ---
-title: Media Role Sub-Topic Index
-title_full: Media Role Sub-Topic Index
+title: "Eric Davis Media Role Sub-Topic Index"
+title_full: "Eric Davis Media Role Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /eric-davis-980b6a-media-amplification/
-description: Focused pages that expand on Media Role.
+description: "Focused pages that expand on Media Role - Eric Davis."
 date: '2026'
 last_modified_at: '2026'
 layout: default

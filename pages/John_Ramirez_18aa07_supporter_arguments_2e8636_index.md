@@ -1,11 +1,11 @@
 ---
-title: Supporters Sub-Topic Index
-title_full: Supporters Sub-Topic Index
+title: "John Ramirez Supporters Sub-Topic Index"
+title_full: "John Ramirez Supporters Sub-Topic Index"
 display_title: Sub-Topic Index
 display_title_short: Sub-Topic Index
 nav_short_title: Sub-Topic Index
 permalink: /john-ramirez-18aa07-supporter/
-description: Focused pages that expand on Supporters.
+description: "Focused pages that expand on Supporters - John Ramirez."
 date: '2026'
 last_modified_at: '2026'
 layout: default
